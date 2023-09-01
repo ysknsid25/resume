@@ -1,6 +1,7 @@
 
 import { Icons } from '../components/Icons'
 import { Profile } from '../components/Profile'
+import { Skills } from '../components/Skills'
 import { Frame } from '../components/Frame'
 
 export const Top = () => {
@@ -9,6 +10,9 @@ export const Top = () => {
             <Frame>
                 <Profile></Profile>
                 <Icons></Icons>
+            </Frame>
+            <Frame>
+                <Skills></Skills>
             </Frame>
         </div>
     )

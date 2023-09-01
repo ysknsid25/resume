@@ -6,6 +6,7 @@ import { Community } from '../components/Community'
 import { Certifications } from '../components/Certifications'
 import { Career } from "../components/Career"
 import { Articles } from '../components/Articles'
+import { Conference } from '../components/Conference'
 import { LT } from '../components/LT'
 import { Frame } from '../components/Frame'
 
@@ -33,6 +34,9 @@ export const Top = () => {
             </Frame>
             <Frame>
                 <Articles></Articles>
+            </Frame>
+            <Frame>
+                <Conference></Conference>
             </Frame>
         </div>
     )

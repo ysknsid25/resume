@@ -5,6 +5,7 @@ type TreeContent = {
     title: string,
     year: string,
     img: string,
+    url: string,
     content: string
 }
 
@@ -17,14 +18,15 @@ export const Tree = ({ contents }: TreeProps) => {
             <ol className="relative border-l border-gray-200 ml-4">
                 {contents.map((item, index) =>
                     <li key={index} className="mb-10 ml-6 relative">
-                        <span className="flex absolute -left-11 justify-center items-center w-10 h-10 rounded-full bg-gray-200 text-lg border-gray-200 border-2">
+                        <span className="flex absolute -left-11 justify-center items-center w-10 h-10 rounded-full bg-gray-100 text-lg border-gray-200 border-2">
                             {item.treeType}
                         </span>
                         <div className="ml-2">
                             <div className="p-2 sm:p-4 rounded-lg border shadow-sm border-gray-200 text-gray-600">
                                 <div className="justify-between mb-3 sm:flex items-baseline gap-2">
                                     <div className="text-sm font-normal flex justify-start underline">
-                                        {item.title}
+                                        {item.url ? <a href={item.url} target="_blank" rel="noopener noreferrer">
+                                            {item.title}</a> : item.title}
                                     </div>
                                     <div className="flex justify-end">
                                         <time className="mb-1 text-xs font-normal sm:order-last sm:mb-0 block  text-gray-400">

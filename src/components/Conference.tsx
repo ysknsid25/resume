@@ -7,7 +7,7 @@ const contents = [
         year: "2023",
         img: "kiri",
         url: "https://codezine.connpass.com/event/285100/",
-        content: "翔泳社・CodeZine編集部様主催のイベントに登壇しました。『自作Webサービスのソースコードを公開してみたら色んな刺激を受けた件』という内容で発表を行いました。",
+        content: "翔泳社・CodeZine編集部様主催のイベントにゲスト登壇しました。『自作Webサービスのソースコードを公開してみたら色んな刺激を受けた件』という内容で発表を行いました。",
     },
 ]
 

@@ -29,7 +29,7 @@ export const Certifications = () => {
             <div className="grid md:grid-cols-2 grid-cols-1 items-center justify-center gap-4">
                 {certifications.map((certification, index) =>
                     <div key={index} className="py-2 flex justify-canter items-center rounded-xl bg-white border-solid border-2 border-gray-200">
-                        <div className="grid grid-cols-1 justify-center items-center ml-8 mr-4 gap-2">
+                        <div className="grid grid-cols-1 justify-center items-center lg:ml-10 md:ml-2 ml-16 mr-4 gap-2">
                             <div>
                                 <img className="inline-block h-12 w-12" src={certification.icon} alt="icon" />
                             </div>
@@ -37,7 +37,7 @@ export const Certifications = () => {
                                 {certification.year}
                             </div>
                         </div>
-                        <div className="grid grid-cols-1 justify-start items-center">
+                        <div className="grid grid-cols-1 md:justify-start items-center">
                             <div className="text-sm text-gray-600 md:w-32 w-24 whitespace-normal">
                                 {certification.name}
                             </div>

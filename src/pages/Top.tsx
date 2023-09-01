@@ -4,6 +4,7 @@ import { Profile } from '../components/Profile'
 import { Skills } from '../components/Skills'
 import { Community } from '../components/Community'
 import { Certifications } from '../components/Certifications'
+import { Career } from "../components/Career"
 import { Frame } from '../components/Frame'
 
 export const Top = () => {
@@ -21,6 +22,9 @@ export const Top = () => {
             </Frame>
             <Frame>
                 <Certifications></Certifications>
+            </Frame>
+            <Frame>
+                <Career></Career>
             </Frame>
         </div>
     )

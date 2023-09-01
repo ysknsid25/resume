@@ -20,6 +20,7 @@ import takurami from "../../assets/maid/takurami.png"
 import ummmmm from "../../assets/maid/ummmmm.png"
 import wai from "../../assets/maid/wai.png"
 import work from "../../assets/maid/work.png"
+import zenn from "../../assets/program/logo-only.svg"
 
 const treeImgMap = new Map<string, string>
 treeImgMap.set("atu", atu)
@@ -44,5 +45,6 @@ treeImgMap.set("takurami", takurami)
 treeImgMap.set("ummmmm", ummmmm)
 treeImgMap.set("wai", wai)
 treeImgMap.set("work", work)
+treeImgMap.set("zenn", zenn)
 
 export default treeImgMap

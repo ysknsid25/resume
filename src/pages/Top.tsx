@@ -5,6 +5,7 @@ import { Skills } from '../components/Skills'
 import { Community } from '../components/Community'
 import { Certifications } from '../components/Certifications'
 import { Career } from "../components/Career"
+import { Articles } from '../components/Articles'
 import { LT } from '../components/LT'
 import { Frame } from '../components/Frame'
 
@@ -29,6 +30,9 @@ export const Top = () => {
             </Frame>
             <Frame>
                 <LT></LT>
+            </Frame>
+            <Frame>
+                <Articles></Articles>
             </Frame>
         </div>
     )

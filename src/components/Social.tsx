@@ -15,14 +15,14 @@ type SNS = {
 }
 
 const snsList: SNS[] = [
+    { url: "https://zenn.dev/yskn_sid25", icon: zenn },
+    { url: "https://github.com/ysknsid25", icon: github },
+    { url: "https://bsky.app/profile/blessingsoftware.bsky.social", icon: bluesky },
     { url: "https://twitter.com/samurai_se", icon: twitter },
     { url: "https://www.instagram.com/samurai_se99/", icon: insta },
-    { url: "https://bsky.app/profile/blessingsoftware.bsky.social", icon: bluesky },
     { url: "https://www.threads.net/@samurai_se99", icon: threads },
-    { url: "https://github.com/ysknsid25", icon: github },
     { url: "https://www.amazon.co.jp/hz/wishlist/ls/3FRHPBCKN1Z1L?ref_=wl_share", icon: amazon },
     { url: "https://note.com/samurai_se/", icon: note },
-    { url: "https://zenn.dev/yskn_sid25", icon: zenn },
 ]
 
 export const Social = () => {

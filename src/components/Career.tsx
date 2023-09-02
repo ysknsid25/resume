@@ -23,7 +23,7 @@ const contents = [
         year: "2019 - 2021",
         img: "nomos",
         url: "",
-        content: "ECサイトでの販売管理システムとアパレル企業向け生産管理システム開発のリーダーとして要件定義→運用保守まで開発の全サイクルを経験。技術スタックはPHP(5,一部8&Laravel), JavaScript(一部Vue),Python,Docker,GCP,Apache,Linux,MySQLなどです。",
+        content: "ECサイトでの販売管理システムとアパレル企業向け生産管理システム開発のリーダーとして要件定義から運用保守まで開発の全サイクルを経験。技術スタックはPHP(5一部8/Laravel), JavaScript(一部Vue), Python, Docker, GCP, Apache, Linux, MySQLなどです。",
     },
     {
         treeType: "🏢",
@@ -31,7 +31,7 @@ const contents = [
         year: "2018 - 2019",
         img: "nomos",
         url: "",
-        content: "独自フレームワークで構築されていた専門学校のパッケージシステム改修を担当。客先常駐を1年ほどしていました。\n業務内容としては、常駐先の情シスの方と要件定義、設計、開発、テストまで。技術スタックは、Java(1.3), Oracle(PLSQL), SVN, Apache, Linuxでした。",
+        content: "独自フレームワークで構築されていた専門学校のパッケージシステム改修を担当。客先常駐を1年ほどしていました。業務内容としては、常駐先の情シスの方と要件定義、設計、開発、テストまで。技術スタックは、Java(1.3), Oracle(PLSQL), SVN, Apache, Linuxでした。",
     },
     {
         treeType: "🏫",

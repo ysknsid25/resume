@@ -23,11 +23,11 @@ const works = "Works"
 const menuList = [
     social,
     skills,
-    certifications,
     career,
+    certifications,
     lt,
-    articles,
     conference,
+    articles,
     works,
 ]
 

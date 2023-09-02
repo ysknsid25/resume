@@ -21,6 +21,9 @@ import ummmmm from "../../assets/maid/ummmmm.png"
 import wai from "../../assets/maid/wai.png"
 import work from "../../assets/maid/work.png"
 import zenn from "../../assets/program/logo-only.svg"
+import tora from "../../assets/community/tora.png"
+import nomos from "../../assets/community/nomos.png"
+import fm from "../../assets/community/fm.png"
 
 const treeImgMap = new Map<string, string>
 treeImgMap.set("atu", atu)
@@ -46,5 +49,8 @@ treeImgMap.set("ummmmm", ummmmm)
 treeImgMap.set("wai", wai)
 treeImgMap.set("work", work)
 treeImgMap.set("zenn", zenn)
+treeImgMap.set("tora", tora)
+treeImgMap.set("nomos", nomos)
+treeImgMap.set("fm", fm)
 
 export default treeImgMap

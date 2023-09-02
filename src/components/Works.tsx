@@ -7,7 +7,7 @@ const contents = [
         year: "2023",
         img: "here",
         url: "https://github.com/ysknsid25/booby",
-        content: "good first issue,つまり最初に取り組みやすいissueを用意してくれていて、なおかつstar数が100以上のリポジトリを対象に各言語のOSSプロジェクトを表示してくれます。検索条件によって、スター数が多い順もしくはフォーク数が多い順に表示してくれます。",
+        content: "good first issueを用意してくれていて、なおかつstar数が100以上のリポジトリを対象に各言語のOSSプロジェクトを表示してくれます。",
     },
     {
         treeType: "✏️",

@@ -95,7 +95,7 @@ export const Top = () => {
             <div className="flex items-center justify-end mt-2 mr-4">
                 <Menu selectMenu={selectedFrame} menuList={menuList} onClickMenuHandler={onClickMenuHandler}></Menu>
             </div>
-            <div className="grid grid-cols-1 gap-4 w-full mt-4 mb-16">
+            <div className="grid grid-cols-1 gap-4 w-full mt-4 mb-8">
                 <Frame>
                     <Profile></Profile>
                 </Frame>

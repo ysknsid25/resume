@@ -41,6 +41,22 @@ const contents = [
         url: "https://github.com/ysknsid25/otaku-tool",
         content: "超A＆Gの番組情報をメール通知できるアプリです。",
     },
+    {
+        treeType: "🤖",
+        title: "推しアニ！",
+        year: "2022",
+        img: "ehhen",
+        url: "https://github.com/ysknsid25/oshiani",
+        content: "今期のアニメ情報や、みんながどんなアニメを見ているのかやレビュー内容を共有できるアプリです。",
+    },
+    {
+        treeType: "🤖",
+        title: "Mahjonager",
+        year: "2021",
+        img: "pointed",
+        url: "https://github.com/ysknsid25/mahjong-app",
+        content: "麻雀の得点計算が可能です。対局結果の管理にも使うことができます。",
+    },
 ]
 
 export const Works = () => {

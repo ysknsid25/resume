@@ -23,7 +23,7 @@ import work from "../../assets/maid/work.png"
 import zenn from "../../assets/program/logo-only.svg"
 import tora from "../../assets/community/tora.png"
 import nomos from "../../assets/community/nomos.png"
-import fm from "../../assets/community/fm.png"
+import fm from "../../assets/maid/cantsee.png"
 
 const treeImgMap = new Map<string, string>
 treeImgMap.set("atu", atu)

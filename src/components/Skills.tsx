@@ -17,6 +17,7 @@ import ts from '../assets/program/ts.png'
 import nginx from '../assets/program/nginx.png'
 import git from '../assets/program/git.png'
 import github from '../assets/sns/github.png'
+import aws from '../assets/program/aws.png'
 
 type Skill = {
     name: string,
@@ -43,6 +44,7 @@ const skills: Skill[] = [
     { name: "GitHub", level: 2, icon: github },
     { name: "Linux", level: 2, icon: linux },
     { name: "GCP", level: 2, icon: gcp },
+    { name: "AWS", level: 1, icon: aws },
 ]
 
 const getLevelCssClass = (level: number) => {

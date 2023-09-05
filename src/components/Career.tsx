@@ -11,7 +11,7 @@ const contents = [
     },
     {
         treeType: "🏢",
-        title: "fmn株式会社",
+        title: "某FMN社",
         year: "2021 - 2022",
         img: "fm",
         url: "",
@@ -66,6 +66,35 @@ export const Career = () => {
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Career</h1>
             </div>
             <Tree contents={contents}></Tree>
+            <div className="grid grid-cols-1 md:grid-cols-2 justify-start items-start gap-4 mb-4">
+                <div>
+                    <div>
+                        <h2 className="text-xl font-extrabold text-gray-600">現在のキャリア方針</h2>
+                    </div>
+                    <div className="px-8 mt-4">
+                        <ul className="list-disc text-sm font-normal text-gray-400">
+                            <li>アニメ、マンガ、ラノベといったオタク文化の発展に少しでも貢献する</li>
+                            <li>(ソフトウェア分野に限らず)文章を書いて収入を得る</li>
+                            <li>テックリードを経験する</li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <h2 className="text-xl font-extrabold text-gray-600">ソフトウェア分野での興味・関心</h2>
+                    </div>
+                    <div className="px-8 mt-4">
+                        <ul className="list-disc text-sm font-normal text-gray-400">
+                            <li>Laravelを使ったアプリケーション開発</li>
+                            <li>React(Next.js)を使ったアプリケーション開発</li>
+                            <li>Ktorを使ったアプリケーション開発</li>
+                            <li>セキュリティタスクの遂行能力の向上</li>
+                            <li>Cloud Runを使ったアプリケーション構築</li>
+                            <li>CI/CDパイプラインの作成</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }

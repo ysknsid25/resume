@@ -81,7 +81,7 @@ export const Career = () => {
                 </div>
                 <div>
                     <div>
-                        <h2 className="text-xl font-extrabold text-gray-600">ソフトウェア分野での興味・関心</h2>
+                        <h2 className="text-xl font-extrabold text-gray-600">興味・関心</h2>
                     </div>
                     <div className="px-8 mt-4">
                         <ul className="list-disc text-sm font-normal text-gray-400">
@@ -92,6 +92,16 @@ export const Career = () => {
                             <li>Cloud Runを使ったアプリケーション構築</li>
                             <li>CI/CDパイプラインの作成</li>
                         </ul>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <h2 className="text-xl font-extrabold text-gray-600">転職意思</h2>
+                    </div>
+                    <div className="px-8 mt-4">
+                        <p className="text-sm font-normal text-gray-400">
+                            現在転職意思はありませんが、テックリードやマネージャーといった役割ありきでのお誘いであれば、お話しだけでもさせていただけますと嬉しいです。
+                        </p>
                     </div>
                 </div>
             </div>

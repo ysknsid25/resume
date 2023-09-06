@@ -29,16 +29,6 @@ export const SideJob = () => {
                 </div>
                 <div>
                     <div>
-                        <h2 className="text-xl font-extrabold text-gray-600">転職意思</h2>
-                    </div>
-                    <div className="px-8 mt-4">
-                        <p className="text-sm font-normal text-gray-400">
-                            現在転職意思はありませんが、テックリードやマネージャーといった役割ありきでのお誘いであれば、お話しだけでもさせていただけますと嬉しいです。
-                        </p>
-                    </div>
-                </div>
-                <div>
-                    <div>
                         <h2 className="text-xl font-extrabold text-gray-600">お食事のお誘い</h2>
                     </div>
                     <div className="px-8 mt-4">

@@ -87,6 +87,7 @@ export const Career = () => {
                         <ul className="list-disc text-sm font-normal text-gray-400">
                             <li>Laravelを使ったアプリケーション開発</li>
                             <li>React(Next.js)を使ったアプリケーション開発</li>
+                            <li>React Nativeを使ったアプリケーション開発</li>
                             <li>Ktorを使ったアプリケーション開発</li>
                             <li>セキュリティタスクの遂行能力の向上</li>
                             <li>Cloud Runを使ったアプリケーション構築</li>

@@ -24,6 +24,7 @@ import zenn from "../../assets/program/logo-only.svg"
 import tora from "../../assets/community/tora.png"
 import nomos from "../../assets/community/nomos.png"
 import fm from "../../assets/community/fm.png"
+import techbookfest from "../../assets/sns/techbookfest.webp"
 
 const treeImgMap = new Map<string, string>
 treeImgMap.set("atu", atu)
@@ -52,5 +53,6 @@ treeImgMap.set("zenn", zenn)
 treeImgMap.set("tora", tora)
 treeImgMap.set("nomos", nomos)
 treeImgMap.set("fm", fm)
+treeImgMap.set("techbookfest", techbookfest)
 
 export default treeImgMap

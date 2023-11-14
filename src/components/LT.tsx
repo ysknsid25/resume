@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "⚡️",
+        title: "技術書典15 に初出展する本のご紹介",
+        year: "2023",
+        img: "here",
+        url: "https://speakerdeck.com/ysknsid25/ji-shu-shu-dian-15-nichu-chu-zhan-suruben-nogoshao-jie",
+        content: "YUMEMI.grow / 技術同人誌を紹介LT会",
+    },
+    {
+        treeType: "⚡️",
         title: "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
         year: "2023",
         img: "paperplane",

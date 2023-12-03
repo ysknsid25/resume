@@ -10,14 +10,6 @@ const contents = [
         content: "good first issueを用意してくれていて、なおかつstar数が100以上のリポジトリを対象に各言語のOSSプロジェクトを表示してくれます。",
     },
     {
-        treeType: "✏️",
-        title: "ゆめみ様とのコラボイベント『勉強法の勉強会』を企画・主催",
-        year: "2023",
-        img: "wai",
-        url: "https://yumemi.connpass.com/event/281721/",
-        content: "Twitterでのつぶやきから発展し、イベントを共同開催するにあたって企画・配信作業の主担当として関わりました。",
-    },
-    {
         treeType: "🤖",
         title: "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter bot",
         year: "2023",

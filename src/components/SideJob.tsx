@@ -19,11 +19,17 @@ export const SideJob = () => {
                 </div>
                 <div>
                     <div>
-                        <h2 className="text-xl font-extrabold text-gray-600">記事執筆・登壇依頼</h2>
+                        <h2 className="text-xl font-extrabold text-gray-600">興味・関心</h2>
                     </div>
                     <div className="px-8 mt-4">
                         <ul className="list-disc text-sm font-normal text-gray-400">
-                            <li>¥10,000~(応相談)</li>
+                            <li>CI/CDパイプラインの作成</li>
+                            <li>インフラ面(クラウド)の構築(特にサーバーレスアーキテクチャの構築)</li>
+                            <li>Laravelを使ったアプリケーション開発</li>
+                            <li>React(Next.js)を使ったアプリケーション開発</li>
+                            <li>Ktorを使ったアプリケーション開発</li>
+                            <li>セキュリティタスクの遂行能力の向上</li>
+                            <li>ドメイン駆動での新規プロジェクト開発</li>
                         </ul>
                     </div>
                 </div>

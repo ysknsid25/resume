@@ -34,7 +34,7 @@ const menuList = [
     devrel,
     articles,
     works,
-    //sideJob,
+    sideJob,
 ]
 
 interface DynamicContentsProps {

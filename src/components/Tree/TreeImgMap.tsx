@@ -25,6 +25,7 @@ import tora from "../../assets/community/tora.png"
 import nomos from "../../assets/community/nomos.png"
 import fm from "../../assets/community/fm.png"
 import techbookfest from "../../assets/sns/techbookfest.webp"
+import hitocolor from "../../assets/community/hitocolor.png"
 
 const treeImgMap = new Map<string, string>
 treeImgMap.set("atu", atu)
@@ -54,5 +55,6 @@ treeImgMap.set("tora", tora)
 treeImgMap.set("nomos", nomos)
 treeImgMap.set("fm", fm)
 treeImgMap.set("techbookfest", techbookfest)
+treeImgMap.set("hitocolor", hitocolor)
 
 export default treeImgMap

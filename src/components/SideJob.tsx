@@ -1,20 +1,38 @@
+import { Tree } from "./Tree/Tree"
+
+const contents = [
+    {
+        treeType: "🏗",
+        title: "株式会社hitocolor様でe-ラーニングシステムの開発",
+        year: "2024",
+        img: "hitocolor",
+        url: "https://www.hitocolor.co.jp/",
+        content: "Next.js+Laravelでのアプリ開発。で、DX改善や非機能要件の実装などをしています。",
+    },
+]
+
 export const SideJob = () => {
     return (
         <div className="grid grid-cols-1 items-center justify-center gap-4">
             <div className="flex justify-center items-center gap-4 mb-4">
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Side Job</h1>
             </div>
+            <Tree contents={contents}></Tree>
             <div className="grid grid-cols-1 md:grid-cols-2 justify-start items-start gap-4 mb-4">
                 <div>
                     <div>
                         <h2 className="text-xl font-extrabold text-gray-600">Webシステム開発</h2>
                     </div>
                     <div className="px-8 mt-4">
+                        {/*
                         <ul className="list-disc text-sm font-normal text-gray-400">
                             <li>週1,2程度(平日夜間 + 土日どちらか)</li>
                             <li>PHP(Laravel) or React(Next.js)案件</li>
                             <li>単金 ¥5000~</li>
                         </ul>
+                    */
+                        }
+                        <p className="text-sm font-normal text-gray-400">現在は募集しておりません。</p>
                     </div>
                 </div>
                 <div>

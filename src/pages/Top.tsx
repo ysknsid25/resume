@@ -12,6 +12,7 @@ import { LT } from '../components/LT'
 import { SideJob } from '../components/SideJob'
 import { DevRel } from '../components/DevRel'
 import { Frame } from '../components/Frame'
+import { Otakatu } from '../components/Otakatu'
 
 const social = "Social"
 const skills = "Skills"
@@ -23,6 +24,7 @@ const conference = "Conference"
 const devrel = "DevRel"
 const works = "Works"
 const sideJob = "Side Job"
+const otakatu = "Otakatu"
 
 const menuList = [
     social,
@@ -35,6 +37,7 @@ const menuList = [
     articles,
     works,
     sideJob,
+    otakatu,
 ]
 
 interface DynamicContentsProps {
@@ -97,6 +100,12 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
                 selectedFrame === devrel &&
                 <Frame>
                     <DevRel></DevRel>
+                </Frame>
+            }
+            {
+                selectedFrame === otakatu &&
+                <Frame>
+                    <Otakatu></Otakatu>
                 </Frame>
             }
         </>

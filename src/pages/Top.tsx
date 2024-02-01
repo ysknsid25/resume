@@ -31,12 +31,12 @@ const menuList = [
     skills,
     career,
     certifications,
-    lt,
     conference,
+    sideJob,
     devrel,
+    lt,
     articles,
     works,
-    sideJob,
     otakatu,
 ]
 

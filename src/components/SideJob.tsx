@@ -4,50 +4,46 @@ const contents = [
     {
         treeType: "🏗",
         title: "株式会社hitocolor様でe-ラーニングシステムの開発",
-        year: "2024",
+        year: "2024 - 現在",
         img: "hitocolor",
         url: "https://www.hitocolor.co.jp/",
-        content: "Next.js+Laravelでのアプリ開発。で、DX改善や非機能要件の実装などをしています。",
+        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。",
     },
 ]
 
 export const SideJob = () => {
     return (
         <div className="grid grid-cols-1 items-center justify-center gap-4">
-            <div className="flex justify-center items-center gap-4 mb-4">
-                <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Side Job</h1>
+            <div className="flex justify-center items-center gap-4 mb-2">
+                <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Blessing software</h1>
+            </div>
+            <div className="mb-4 text-center">
+                <p className="text-sm font-normal text-gray-400">
+                    <b>Blessing software</b>(ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanon(@samurai_se)の個人事業主としての屋号です。
+                    <br />
+                    <br />
+                    現在、新規の案件は募集しておりません。
+                </p>
+                {/*
+                        <ul className="list-disc text-sm font-normal text-gray-400">
+                            <li>週1,2程度(平日夜間 + 土日どちらか)</li>
+                            <li>Kotlin(Ktor) or PHP(Laravel) or React(Next.js)案件</li>
+                            <li>単金 ¥7000~</li>
+                        </ul>
+                    */
+                }
             </div>
             <Tree contents={contents}></Tree>
             <div className="grid grid-cols-1 md:grid-cols-2 justify-start items-start gap-4 mb-4">
                 <div>
-                    <div>
-                        <h2 className="text-xl font-extrabold text-gray-600">Webシステム開発</h2>
-                    </div>
-                    <div className="px-8 mt-4">
-                        {/*
-                        <ul className="list-disc text-sm font-normal text-gray-400">
-                            <li>週1,2程度(平日夜間 + 土日どちらか)</li>
-                            <li>PHP(Laravel) or React(Next.js)案件</li>
-                            <li>単金 ¥5000~</li>
-                        </ul>
-                    */
-                        }
-                        <p className="text-sm font-normal text-gray-400">現在は募集しておりません。</p>
-                    </div>
-                </div>
-                <div>
-                    <div>
-                        <h2 className="text-xl font-extrabold text-gray-600">興味・関心</h2>
+                    <div className="mb-4">
+                        <h2 className="text-xl font-extrabold text-gray-600 mb-2">事業内容</h2>
                     </div>
                     <div className="px-8 mt-4">
                         <ul className="list-disc text-sm font-normal text-gray-400">
-                            <li>CI/CDパイプラインの作成</li>
-                            <li>インフラ面(クラウド)の構築(特にサーバーレスアーキテクチャの構築)</li>
-                            <li>Laravelを使ったアプリケーション開発</li>
-                            <li>React(Next.js)を使ったアプリケーション開発</li>
-                            <li>Ktorを使ったアプリケーション開発</li>
-                            <li>セキュリティタスクの遂行能力の向上</li>
-                            <li>ドメイン駆動での新規プロジェクト開発</li>
+                            <li>Webシステム開発。特にPHP(Laravel) or Kotlin(Ktor) or React(Next.js)案件</li>
+                            <li>ソフトウェアエンジニア同士の交流のためのコミュニティ運営</li>
+                            <li>技術・キャリア・マネジメントなどソフトウェア開発全般に関する記事執筆</li>
                         </ul>
                     </div>
                 </div>

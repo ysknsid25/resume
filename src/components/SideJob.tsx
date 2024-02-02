@@ -19,7 +19,7 @@ export const SideJob = () => {
             </div>
             <div className="mb-4 text-center">
                 <p className="text-sm font-normal text-gray-400">
-                    <b>Blessing software</b>(ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanon(@samurai_se)の個人事業主としての屋号です。
+                    <b>blessing software</b>(ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanon(@samurai_se)の個人事業主としての屋号です。
                     <br />
                     <br />
                     現在、新規の案件は募集しておりません。

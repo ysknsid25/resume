@@ -28,11 +28,11 @@ const otakatu = "Otakatu"
 
 const menuList = [
     social,
-    skills,
     career,
+    sideJob,
+    skills,
     certifications,
     conference,
-    sideJob,
     devrel,
     lt,
     articles,

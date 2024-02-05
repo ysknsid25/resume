@@ -7,7 +7,7 @@ const contents = [
         year: "2024 - 現在",
         img: "hitocolor",
         url: "https://www.hitocolor.co.jp/",
-        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。",
+        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。機能開発や既存テストコードのカバレッジ改善、非機能面での改善提案もしています。",
     },
 ]
 
@@ -22,7 +22,7 @@ export const SideJob = () => {
                     <b>blessing software</b>(ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanon(@samurai_se)の個人事業主としての屋号です。
                     <br />
                     <br />
-                    現在、新規の案件は募集しておりません。
+                    現在、週4時間程度でしたらお仕事をお受けできる状況です。週4時間以上の場合でも、条件によってはお手伝いできるかもしれませんので、XのDMなどからお声がけください。
                 </p>
                 {/*
                         <ul className="list-disc text-sm font-normal text-gray-400">

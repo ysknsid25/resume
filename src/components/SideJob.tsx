@@ -7,7 +7,7 @@ const contents = [
         year: "2024 - 現在",
         img: "hitocolor",
         url: "https://www.hitocolor.co.jp/",
-        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。機能開発や既存テストコードのカバレッジ改善、非機能面での改善提案もしています。",
+        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。機能開発だけでなく既存テストコードのカバレッジ改善、DXや脆弱性など非機能面での改善のお手伝いもしています。",
     },
 ]
 

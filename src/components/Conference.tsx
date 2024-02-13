@@ -3,11 +3,11 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "🎤",
-        title: "PHPカンファレンス関西",
+        title: "PHPカンファレンス関西2024",
         year: "2024",
         img: "wai",
         url: "https://speakerdeck.com/ysknsid25/phpkanhuarensuguan-xi-2024",
-        content: "15分枠で登壇しました。",
+        content: "『Mutation Testingとはなにか？』というテーマで15分枠で登壇しました。",
     },
     {
         treeType: "🎤",

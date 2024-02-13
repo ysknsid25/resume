@@ -7,7 +7,7 @@ export const Profile = () => {
             </div>
             <div>
                 <h1 className="text-center text-3xl font-extrabold text-gray-600">Kanon</h1>
-                <p className="mt-2 text-center text-xs text-gray-400">Otaku Developer Advocate</p>
+                <p className="mt-2 text-center text-xs text-gray-400">blessing software</p>
                 <p className="mt-4 text-center text-sm text-gray-600">今日を昨日よりもいい一日にする</p>
             </div>
         </div>

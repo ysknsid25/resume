@@ -74,9 +74,8 @@ export const Career = () => {
                     <div className="px-8 mt-4">
                         <ul className="list-disc text-sm font-normal text-gray-400">
                             <li>アニメ、マンガ、ラノベといったオタク文化の発展に少しでも貢献する</li>
-                            <li>(ソフトウェア分野に限らず)文章を書いて収入を得る</li>
-                            <li>テックリードを経験する</li>
-                            <li>Side Fireを視野に入れているため、週休日数を調整しやすい環境で働く</li>
+                            <li>DX改善・脆弱性・ランタイム構築などの非機能要件領域でこなせる仕事を増やす</li>
+                            <li>SIDE FIREを視野に入れているため、週休日数を調整しやすい環境で働く</li>
                         </ul>
                     </div>
                 </div>
@@ -88,10 +87,9 @@ export const Career = () => {
                         <ul className="list-disc text-sm font-normal text-gray-400">
                             <li>Laravelを使ったアプリケーション開発</li>
                             <li>React(Next.js)を使ったアプリケーション開発</li>
-                            <li>React Nativeを使ったアプリケーション開発</li>
                             <li>Ktorを使ったアプリケーション開発</li>
                             <li>セキュリティタスクの遂行能力の向上</li>
-                            <li>Cloud Runを使ったアプリケーション構築</li>
+                            <li>GCPを使ったアプリケーション構築</li>
                             <li>CI/CDパイプラインの作成</li>
                         </ul>
                     </div>
@@ -102,7 +100,7 @@ export const Career = () => {
                     </div>
                     <div className="px-8 mt-4">
                         <p className="text-sm font-normal text-gray-400">
-                            現在転職意思はありませんが、テックリードやマネージャーといった役割ありきでのお誘いであれば、お話しだけでもさせていただけますと嬉しいです。
+                            現在転職意思はありませんが、テックリードやマネージャーといった役割ありきでのお誘いもしくは週休日数を調整できる環境であれば、お話しだけでもさせていただけますと嬉しいです。
                         </p>
                     </div>
                 </div>

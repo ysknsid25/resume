@@ -49,12 +49,14 @@ export const SideJob = () => {
                 </div>
                 <div>
                     <div>
-                        <h2 className="text-xl font-extrabold text-gray-600">お食事のお誘い</h2>
+                        <h2 className="text-xl font-extrabold text-gray-600">苦手なこと</h2>
                     </div>
                     <div className="px-8 mt-4">
-                        <p className="text-sm font-normal text-gray-400">
-                            いつでも待ってます。
-                        </p>
+                        <ul className="list-disc text-sm font-normal text-gray-400">
+                            <li>マルチタスク</li>
+                            <li>人にお願いすること、命令すること</li>
+                            <li>ネットワーク関係の構築、チューニング</li>
+                        </ul>
                     </div>
                 </div>
             </div>

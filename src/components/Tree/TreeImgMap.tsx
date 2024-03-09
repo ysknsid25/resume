@@ -1,5 +1,6 @@
 import atu from "../../assets/maid/atu.png"
 import buy from "../../assets/maid/buy.png"
+import cantsee from "../../assets/maid/cantsee.png"
 import cry from "../../assets/maid/cry.png"
 import crycry from "../../assets/maid/crycry.png"
 import devil from "../../assets/maid/devil.png"
@@ -32,6 +33,7 @@ treeImgMap.set("atu", atu)
 treeImgMap.set("buy", buy)
 treeImgMap.set("cry", cry)
 treeImgMap.set("crycry", crycry)
+treeImgMap.set("cantsee", cantsee)
 treeImgMap.set("devil", devil)
 treeImgMap.set("ehhen", ehhen)
 treeImgMap.set("engel", engel)

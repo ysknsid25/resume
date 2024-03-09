@@ -21,20 +21,25 @@ export const SideJob = () => {
                 <p className="text-sm font-normal text-gray-400">
                     <b>blessing software</b>(ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanon(@samurai_se)の個人事業主としての屋号です。
                     <br />
-                    <br />
-                    現在、週4時間程度でしたらお仕事をお受けできる状況です。週4時間以上の場合でも、条件によってはお手伝いできるかもしれませんので、XのDMなどからお声がけください。
                 </p>
-                {/*
-                        <ul className="list-disc text-sm font-normal text-gray-400">
-                            <li>週1,2程度(平日夜間 + 土日どちらか)</li>
-                            <li>Kotlin(Ktor) or PHP(Laravel) or React(Next.js)案件</li>
-                            <li>単金 ¥7000~</li>
-                        </ul>
-                    */
-                }
             </div>
             <Tree contents={contents}></Tree>
             <div className="grid grid-cols-1 md:grid-cols-2 justify-start items-start gap-4 mb-4">
+            <div>
+                    <div className="mb-4">
+                        <h2 className="text-xl font-extrabold text-gray-600 mb-2">条件</h2>
+                    </div>
+                    <div className="px-8 mt-4">
+                    <ul className="list-disc text-sm font-normal text-gray-400">
+                            <li>週20時間程度</li>
+                            <li>Kotlin(Ktor) or PHP(Laravel) or React(Next.js)案件</li>
+                            <li>本業の業務領域に関連しない事業内容であること(アニメ・漫画などに関する商業商品販売・同人誌販売に関係しない事業内容)</li>
+                            <li>単金 ¥7500~</li>
+                            <li>フルリモート勤務</li>
+                            <li>基本的に平日9:30~18:30にMTGが発生しないこと</li>
+                        </ul>
+                    </div>
+                </div>
                 <div>
                     <div className="mb-4">
                         <h2 className="text-xl font-extrabold text-gray-600 mb-2">事業内容</h2>

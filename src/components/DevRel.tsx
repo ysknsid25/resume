@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "🤝",
+        title: "Cake.jp様・Cybozu様とのコラボイベント『社内勉強会のノウハウ、公開しちゃいますLT会』を企画・主催",
+        year: "2024",
+        img: "inscreen",
+        url: "https://yumenosora.connpass.com/event/314082/",
+        content: "麻雀友達と前々職の同窓会繋がりから発展し、イベントを共同開催するにあたって企画・配信作業の主担当として関わりました。",
+    },
+    {
+        treeType: "🤝",
         title: "ゆめみ様・はてな様・Chatwork様とのコラボイベント『社内勉強会のノウハウ、公開しちゃいますLT会』を企画・主催",
         year: "2023",
         img: "kiri",

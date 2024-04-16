@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "📕",
+        title: "技術書典16",
+        year: "2024",
+        img: "techbookfest",
+        url: "",
+        content: "coming soon...",
+    },
+    {
+        treeType: "📕",
         title: "技術書典15",
         year: "2023",
         img: "techbookfest",

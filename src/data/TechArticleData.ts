@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 248,
+      "zenn": 249,
       "qiita": 0,
       "qiita_stock": 0,
       "hatena_bookmark": 0
@@ -328,7 +328,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2270
+      "favorites": 2271
     },
     {
       "year": "2024",

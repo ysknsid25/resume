@@ -1,3 +1,4 @@
 vite.config.ts
 vitest.config.ts
 .eslintrc.cjs
+make-tech-article-data.js

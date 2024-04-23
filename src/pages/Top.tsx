@@ -5,6 +5,7 @@ import { Social } from '../components/Social'
 import { Menu } from '../components/Menu'
 import { Certifications } from '../components/Certifications'
 import { Career } from "../components/Career"
+import { Books } from '../components/Books'
 import { Articles } from '../components/Articles'
 import { Conference } from '../components/Conference'
 import { Works } from '../components/Works'
@@ -20,21 +21,23 @@ const career = "Career"
 const lt = "LT"
 const articles = "Articles"
 const conference = "Conference"
+const books = "Books"
 const devrel = "DevRel"
 const works = "Works"
 const sideJob = "Side Job"
 
 const menuList = [
     social,
-    career,
-    sideJob,
     skills,
     certifications,
-    conference,
-    devrel,
-    lt,
     articles,
+    conference,
+    lt,
+    books,
+    career,
+    sideJob,
     works,
+    devrel,
 ]
 
 interface DynamicContentsProps {
@@ -71,14 +74,20 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
             }
             {
                 selectedFrame === articles &&
-                <Frame>
-                    <Articles></Articles>
-                </Frame>
+                    <Frame>
+                        <Articles></Articles>
+                    </Frame>
             }
             {
                 selectedFrame === conference &&
                 <Frame>
                     <Conference></Conference>
+                </Frame>
+            }
+                        {
+                selectedFrame === books &&
+                <Frame>
+                    <Books></Books>
                 </Frame>
             }
             {

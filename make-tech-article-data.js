@@ -33,9 +33,19 @@ const main = async () => {
     console.log('#### Make Chart Data ####');
     const chartData = {
       articlesCounts: [],
-      favoritesCounts: []
+      yearArticleCounts: [],
+      favoritesCounts: [],
+      yearFavoritesCounts: [],
     }
     for (let year = BEGIN_YEAR; year <= END_YEAR; year++) {
+      const yearArticleCount = {
+        year: year.toString(),
+        articles: 0,
+      }
+      const yearFavoritesCount = {
+        year: year.toString(),
+        favorites: 0,
+      }
       for (let month = 0; month < 12; month++) {
         const key = getFormattedDate(year, month + 1)
         const articlesCount = {
@@ -45,6 +55,8 @@ const main = async () => {
           hatena: hatenaData[key] ? hatenaData[key].articlesCount : 0,
         }
         chartData.articlesCounts.push(articlesCount)
+
+        yearArticleCount.articles += articlesCount.zenn + articlesCount.qiita + articlesCount.hatena
   
         const favoritesCount = {
           yearMonth: key,
@@ -54,7 +66,11 @@ const main = async () => {
           hatena_bookmark: hatenaData[key] ? hatenaData[key].bookmarkCount : 0,
         }
         chartData.favoritesCounts.push(favoritesCount)
+
+        yearFavoritesCount.favorites += favoritesCount.zenn + favoritesCount.qiita + favoritesCount.qiita_stock + favoritesCount.hatena_bookmark
       }
+      chartData.yearArticleCounts.push(yearArticleCount)
+      chartData.yearFavoritesCounts.push(yearFavoritesCount)
     }
     console.log(chartData);
 
@@ -84,6 +100,7 @@ const getZennArticles = async () => {
     return response.json();
   })
   .then(data => {
+    console.log(data[0])
     return data;
   })
   .catch(error => {
@@ -103,6 +120,7 @@ const getQiitaArticles = async () => {
     return response.json();
   })
   .then(data => {
+    console.log(data[0])
     return data;
   })
   .catch(error => {

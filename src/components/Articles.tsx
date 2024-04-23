@@ -7,10 +7,27 @@ export const Articles = () => {
           <div className="flex justify-center items-center gap-4">
               <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Article Posts</h1>
           </div>
-          <div className="text-center">
-              <p className="text-sm font-normal text-gray-400">
-                  直近2年分を表示しています。
-              </p>
+          <div className="flex justify-center items-center gap-4 mb-4">
+            <ResponsiveContainer width="100%" height={300}>
+              <BarChart
+                width={500}
+                height={300}
+                data={TechArticleData.yearArticleCounts}
+                margin={{
+                  top: 20,
+                  right: 30,
+                  left: 20,
+                  bottom: 5,
+                }}
+              >
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis dataKey="year" />
+                <YAxis />
+                <Tooltip />
+                <Legend />
+                <Bar dataKey="articles" stackId="a" fill="#FBBC05" />
+              </BarChart>
+            </ResponsiveContainer>
           </div>
           <div className="flex justify-center items-center gap-4 mb-12">
             <ResponsiveContainer width="100%" height={300}>
@@ -39,10 +56,27 @@ export const Articles = () => {
           <div className="flex justify-center items-center gap-4 mb-4">
               <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Favorites to Article</h1>
           </div>
-          <div className="text-center">
-              <p className="text-sm font-normal text-gray-400">
-                  同じく直近2年分を表示しています。
-              </p>
+          <div className="flex justify-center items-center gap-4 mb-4">
+            <ResponsiveContainer width="100%" height={300}>
+              <BarChart
+                width={500}
+                height={300}
+                data={TechArticleData.yearFavoritesCounts}
+                margin={{
+                  top: 20,
+                  right: 30,
+                  left: 20,
+                  bottom: 5,
+                }}
+              >
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis dataKey="year" />
+                <YAxis />
+                <Tooltip />
+                <Legend />
+                <Bar dataKey="favorites" stackId="a" fill="#FE2C55" />
+              </BarChart>
+            </ResponsiveContainer>
           </div>
           <div className="flex justify-center items-center gap-4 mb-4">
             <ResponsiveContainer width="100%" height={300}>

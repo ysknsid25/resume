@@ -145,6 +145,16 @@ export const TechArticleData = {
       "hatena": 0
     }
   ],
+  "yearArticleCounts": [
+    {
+      "year": "2023",
+      "articles": 54
+    },
+    {
+      "year": "2024",
+      "articles": 18
+    }
+  ],
   "favoritesCounts": [
     {
       "yearMonth": "2023/01",
@@ -169,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/04",
-      "zenn": 314,
+      "zenn": 315,
       "qiita": 0,
       "qiita_stock": 0,
       "hatena_bookmark": 0
@@ -253,9 +263,9 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 98,
-      "qiita": 145,
-      "qiita_stock": 151,
+      "zenn": 99,
+      "qiita": 155,
+      "qiita_stock": 160,
       "hatena_bookmark": 9
     },
     {
@@ -313,6 +323,16 @@ export const TechArticleData = {
       "qiita": 0,
       "qiita_stock": 0,
       "hatena_bookmark": 0
+    }
+  ],
+  "yearFavoritesCounts": [
+    {
+      "year": "2023",
+      "favorites": 2270
+    },
+    {
+      "year": "2024",
+      "favorites": 608
     }
   ]
 };

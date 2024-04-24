@@ -8,12 +8,15 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      FIREBASE_DEPLOY_TOKEN: ${{ secrets.FIREBASE_DEPLOY_TOKEN }}
+      QIITA_API_KEY: ${{ secrets.QIITA_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20.10.0'
-      - name: Check env
+      - name: Check 
         run: env
       - uses: actions/cache@v4 # https://github.com/cypress-io/github-action/tree/v4.2.2#install-cypress-only
         id: node_modules_cache_id

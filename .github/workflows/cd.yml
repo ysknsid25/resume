@@ -8,9 +8,6 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    env:
-      FIREBASE_DEPLOY_TOKEN: ${{ secrets.FIREBASE_DEPLOY_TOKEN }}
-      QIITA_API_KEY: ${{ secrets.QIITA_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

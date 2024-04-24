@@ -12,9 +12,9 @@ const main = async () => {
   console.log('#### Begin make article data ####');
 
   console.log('#### Lading Config... ####');
-  dotenv.config()
-  console.log(dotenv.config())
-  console.log(process.env.QIITA_API_KEY)
+  const env = dotenv.config()
+  console.log(env)
+  console.log(env.parsed.QIITA_API_KEY)
 
   try {
     console.log('#### Fetch Zenn Info####');
@@ -24,7 +24,7 @@ const main = async () => {
     console.log(zennArticleList);
   
     console.log('#### Fetch Qiita Info####');
-    const originalQiitaData = await getQiitaArticles()
+    const originalQiitaData = await getQiitaArticles(env)
     const qiitaData = getQiitaData(originalQiitaData)
     const qiitaArticleList = getQiitaArticleList(originalQiitaData)
     console.log(qiitaArticleList);
@@ -122,11 +122,11 @@ const getZennArticles = async () => {
   });
 }
 
-const getQiitaArticles = async () => {
+const getQiitaArticles = async (env) => {
   const url = 'https://qiita.com/api/v2/items?per_page=100&query=user:ysknsid25'
   return await fetch(url, {
     headers: {
-      'Authorization': `Bearer ${process.env.QIITA_API_KEY}`,
+      'Authorization': `Bearer ${env.parsed.QIITA_API_KEY}`,
     },
   })
   .then(response => {

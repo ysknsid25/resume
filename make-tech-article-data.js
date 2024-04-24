@@ -13,6 +13,7 @@ const main = async () => {
 
   console.log('#### Lading Config... ####');
   dotenv.config()
+  console.log(dotenv.config())
   console.log(process.env.QIITA_API_KEY)
 
   try {

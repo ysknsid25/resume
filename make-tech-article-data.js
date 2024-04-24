@@ -1,7 +1,6 @@
 import fetch from 'node-fetch';
 import dotenv from 'dotenv';
 import fs from 'fs';
-import { getHatenaArticles } from './hatena-articles.js';
 
 const BEGIN_YEAR = 2023
 const END_YEAR = 2024
@@ -25,10 +24,6 @@ const main = async () => {
     const originalQiitaData = await getQiitaArticles()
     const qiitaData = getQiitaData(originalQiitaData)
     console.log(qiitaData);
-
-    console.log('#### Fetch Hatena Info####');
-    const hatenaData = getHatenaArticles();
-    console.log(hatenaData);
   
     console.log('#### Make Chart Data ####');
     const chartData = {
@@ -52,22 +47,18 @@ const main = async () => {
           yearMonth: key,
           zenn: zennData[key] ? zennData[key].articlesCount : 0,
           qiita: qiitaData[key] ? qiitaData[key].articlesCount : 0,
-          hatena: hatenaData[key] ? hatenaData[key].articlesCount : 0,
         }
         chartData.articlesCounts.push(articlesCount)
-
-        yearArticleCount.articles += articlesCount.zenn + articlesCount.qiita + articlesCount.hatena
+        yearArticleCount.articles += articlesCount.zenn + articlesCount.qiita
   
         const favoritesCount = {
           yearMonth: key,
           zenn: zennData[key] ? zennData[key].likeCount : 0,
           qiita: qiitaData[key] ? qiitaData[key].likeCount : 0,
           qiita_stock: qiitaData[key] ? qiitaData[key].stocksCount : 0,
-          hatena_bookmark: hatenaData[key] ? hatenaData[key].bookmarkCount : 0,
         }
         chartData.favoritesCounts.push(favoritesCount)
-
-        yearFavoritesCount.favorites += favoritesCount.zenn + favoritesCount.qiita + favoritesCount.qiita_stock + favoritesCount.hatena_bookmark
+        yearFavoritesCount.favorites += favoritesCount.zenn + favoritesCount.qiita + favoritesCount.qiita_stock
       }
       chartData.yearArticleCounts.push(yearArticleCount)
       chartData.yearFavoritesCounts.push(yearFavoritesCount)

@@ -49,7 +49,6 @@ export const Articles = () => {
                 <Legend />
                 <Bar dataKey="zenn" stackId="a" fill="#3EA8FF" />
                 <Bar dataKey="qiita" stackId="a" fill="#55C500" />
-                <Bar dataKey="hatena" stackId="a" fill="#676969" />
               </BarChart>
               </ResponsiveContainer>
           </div>
@@ -99,7 +98,6 @@ export const Articles = () => {
                 <Line type="monotone" dataKey="zenn" stroke="#3EA8FF" strokeWidth={2} />
                 <Line type="monotone" dataKey="qiita" stroke="#55C500" strokeWidth={2} />
                 <Line type="monotone" dataKey="qiita_stock" stroke="#676969" strokeWidth={2} />
-                <Line type="monotone" dataKey="hatena_bookmark" stroke="#5279E7" strokeWidth={2} />
               </LineChart>
             </ResponsiveContainer>
           </div>

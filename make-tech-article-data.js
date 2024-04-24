@@ -19,12 +19,21 @@ const main = async () => {
     console.log('#### Fetch Zenn Info####');
     const originalZennData = await getZennArticles()
     const zennData = getZennData(originalZennData.articles)
-    console.log(zennData);
+    const zennArticleList = getZennArticleList(originalZennData.articles)
+    console.log(zennArticleList);
   
     console.log('#### Fetch Qiita Info####');
     const originalQiitaData = await getQiitaArticles()
     const qiitaData = getQiitaData(originalQiitaData)
-    console.log(qiitaData);
+    const qiitaArticleList = getQiitaArticleList(originalQiitaData)
+    console.log(qiitaArticleList);
+
+    // データをソートする
+    console.log('#### Make Sort And Paging Articles List ####');
+    const maegedAndSortedArticleList = [...zennArticleList, ...qiitaArticleList].sort(comparePublishDate);
+    console.log(`Length is ${maegedAndSortedArticleList.length}`);
+    const pagingArticles = getPagingArticles(maegedAndSortedArticleList);
+    console.log(`Page Size is ${pagingArticles.length}`);
   
     console.log('#### Make Chart Data ####');
     const date = new Date();
@@ -78,7 +87,8 @@ const main = async () => {
 
     console.log('#### Print Data TS file ####');
     const chartDataJson = JSON.stringify(chartData, null, 2);
-    const jsonContent = `export const TechArticleData = ${chartDataJson};`
+    const articleListJson = JSON.stringify(pagingArticles, null, 2);
+    const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};`
     fs.writeFile(FILE_PATH, jsonContent, 'utf8', (err) => {
       if (err) {
         throw err;
@@ -165,15 +175,72 @@ const getQiitaData = (articles) => {
   return qiitaData;
 }
 
-const getKey = (publishDateAt) => {
+const getZennArticleList = (articles) => {
+  return articles.map(article => {
+    const {year, month, day} = getDate(article.published_at);
+    const formattedFullDate = getFormattedFullDate(year, month, day);
+    return {
+      treeType: "🖋",
+      img: "zenn",
+      year: formattedFullDate,
+      title: article.title,
+      url: `https://zenn.dev${article.path}`,
+      content: `❤️ ${article.liked_count}`,
+    }
+  })
+}
+
+const getQiitaArticleList = (articles) => {
+  return articles.map(article => {
+    const {year, month, day} = getDate(article.created_at);
+    const formattedFullDate = getFormattedFullDate(year, month, day);
+    return {
+      treeType: "🖋",
+      img: "qiita",
+      year: formattedFullDate,
+      title: article.title,
+      url: article.url,
+      content: `❤️ ${article.likes_count}`,
+    }
+  })
+}
+
+const getDate = (publishDateAt) => {
   const date = new Date(publishDateAt);
   const year = date.getFullYear();
   const month = date.getMonth() + 1;
+  const day = date.getDate();
+  return {year, month, day}
+}
+
+const getKey = (publishDateAt) => {
+  const {year, month} = getDate(publishDateAt);
   return getFormattedDate(year, month);
 } 
 
 const getFormattedDate = (year, month) => {
   return year + "/" + (month < 10 ? '0' : '') + month;
+}
+
+const getFormattedFullDate = (year, month, day) => {
+  const formattedYearMonth = getFormattedDate(year, month);
+  return formattedYearMonth + "/" + (day < 10 ? '0' : '') + day;
+}
+
+const comparePublishDate = (a, b) => {
+  const dateA = new Date(a.year);
+  const dateB = new Date(b.year);
+  return dateB - dateA;
+}
+
+const getPagingArticles = (articleList) => {
+  const pagingArticles = []
+  const perPage = 5
+  const pageCount = Math.ceil(articleList.length / perPage)
+  for (let i = 0; i < pageCount; i++) {
+    pagingArticles.push(articleList.slice(i * perPage, (i + 1) * perPage))
+  }
+  return pagingArticles
 }
 
 await main();

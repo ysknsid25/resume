@@ -30,13 +30,13 @@ const sideJob = "Side Job"
 
 const menuList = [
     top,
-    skills,
-    certifications,
     articles,
     conference,
     lt,
-    books,
     career,
+    skills,
+    certifications,
+    books,
     sideJob,
     works,
     devrel,

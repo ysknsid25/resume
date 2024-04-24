@@ -1,105 +1,55 @@
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, BarChart, Bar } from 'recharts';
-import { TechArticleData } from '../data/TechArticleData';
+import {Tree} from "./Tree/Tree"
+import { TechArticleList } from '../data/TechArticleData';
+import {useState} from 'react';
+
+const BEGIN_PAGE = 0
+const END_PAGE = TechArticleList.length - 1
+
+const scrollToTop = () => {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth' // スムーズなスクロールを行う
+  });
+}
 
 export const Articles = () => {
+  const [nowPage, setNowPage] = useState(0)
+  const onClickPrevPage = () => {
+    if(nowPage > BEGIN_PAGE) {
+      setNowPage(nowPage - 1)
+      scrollToTop()
+    }
+  }
+  const onClickNextPage = () => {
+    if(nowPage < END_PAGE) {
+      setNowPage(nowPage + 1)
+      scrollToTop()
+    }
+  }
   return (
       <div className="grid grid-cols-1 items-center justify-center gap-4">
-          <div className="flex justify-center items-center gap-4">
-              <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Article Posts</h1>
-          </div>
           <div className="flex justify-center items-center gap-4 mb-4">
-            <ResponsiveContainer width="100%" height={300}>
-              <BarChart
-                width={500}
-                height={300}
-                data={TechArticleData.yearArticleCounts}
-                margin={{
-                  top: 20,
-                  right: 30,
-                  left: 20,
-                  bottom: 5,
-                }}
-              >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="year" />
-                <YAxis />
-                <Tooltip />
-                <Legend />
-                <Bar dataKey="articles" stackId="a" fill="#FBBC05" />
-              </BarChart>
-            </ResponsiveContainer>
+              <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Articles</h1>
           </div>
-          <div className="flex justify-center items-center gap-4 mb-12">
-            <ResponsiveContainer width="100%" height={300}>
-              <BarChart
-                width={500}
-                height={300}
-                data={TechArticleData.articlesCounts}
-                margin={{
-                  top: 20,
-                  right: 30,
-                  left: 20,
-                  bottom: 5,
-                }}
-              >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="yearMonth" />
-                <YAxis />
-                <Tooltip />
-                <Legend />
-                <Bar dataKey="zenn" stackId="a" fill="#3EA8FF" />
-                <Bar dataKey="qiita" stackId="a" fill="#55C500" />
-              </BarChart>
-              </ResponsiveContainer>
-          </div>
+          <Tree contents={TechArticleList[nowPage]}></Tree>
           <div className="flex justify-center items-center gap-4 mb-4">
-              <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">Favorites to Article</h1>
-          </div>
-          <div className="flex justify-center items-center gap-4 mb-4">
-            <ResponsiveContainer width="100%" height={300}>
-              <BarChart
-                width={500}
-                height={300}
-                data={TechArticleData.yearFavoritesCounts}
-                margin={{
-                  top: 20,
-                  right: 30,
-                  left: 20,
-                  bottom: 5,
-                }}
-              >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="year" />
-                <YAxis />
-                <Tooltip />
-                <Legend />
-                <Bar dataKey="favorites" stackId="a" fill="#FE2C55" />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
-          <div className="flex justify-center items-center gap-4 mb-4">
-            <ResponsiveContainer width="100%" height={300}>
-              <LineChart
-                  width={500}
-                  height={300}
-                  data={TechArticleData.favoritesCounts}
-                  margin={{
-                    top: 5,
-                    right: 30,
-                    left: 20,
-                    bottom: 5,
-                  }}
-                >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="yearMonth" />
-                <YAxis />
-                <Tooltip />
-                <Legend />
-                <Line type="monotone" dataKey="zenn" stroke="#3EA8FF" strokeWidth={2} />
-                <Line type="monotone" dataKey="qiita" stroke="#55C500" strokeWidth={2} />
-                <Line type="monotone" dataKey="qiita_stock" stroke="#676969" strokeWidth={2} />
-              </LineChart>
-            </ResponsiveContainer>
+            {
+              BEGIN_PAGE !== nowPage && 
+              <button className="flex items-center space-x-2 px-4 py-2 bg-gray-500 text-white rounded-md" onClick={onClickPrevPage}>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-6 h-6">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18" />
+                </svg>
+              </button>
+            }
+            <span>{nowPage + 1} / {END_PAGE + 1}</span>
+            {
+              END_PAGE !== nowPage &&
+              <button className="flex items-center space-x-2 px-4 py-2 bg-gray-500 text-white rounded-md"  onClick={onClickNextPage}>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-6 h-6">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                </svg>
+              </button>
+            }
           </div>
       </div>
   )

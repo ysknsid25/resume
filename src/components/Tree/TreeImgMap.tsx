@@ -27,6 +27,7 @@ import nomos from "../../assets/community/nomos.png"
 import fm from "../../assets/community/fm.png"
 import techbookfest from "../../assets/sns/techbookfest.webp"
 import hitocolor from "../../assets/community/hitocolor.png"
+import qiita from "../../assets/sns/qiita.png"
 
 const treeImgMap = new Map<string, string>
 treeImgMap.set("atu", atu)
@@ -53,6 +54,7 @@ treeImgMap.set("ummmmm", ummmmm)
 treeImgMap.set("wai", wai)
 treeImgMap.set("work", work)
 treeImgMap.set("zenn", zenn)
+treeImgMap.set("qiita", qiita)
 treeImgMap.set("tora", tora)
 treeImgMap.set("nomos", nomos)
 treeImgMap.set("fm", fm)

@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - master
+env:
+  TZ: Asia/Tokyo
 jobs:
   deploy:
     runs-on: ubuntu-latest

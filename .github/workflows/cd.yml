@@ -25,7 +25,7 @@ jobs:
         name: Install dependencies
         run: npm ci
       - name: Make Article Data
-        run: npm run make:article
+        run: npm run make:data
       - name: Build
         run: npm run build
       - name: Install Firebase CLI

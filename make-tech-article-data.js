@@ -113,7 +113,6 @@ const getZennArticles = async () => {
     return response.json();
   })
   .then(data => {
-    console.log(data[0])
     return data;
   })
   .catch(error => {

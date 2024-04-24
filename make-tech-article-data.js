@@ -4,6 +4,7 @@ import fs from 'fs';
 
 const BEGIN_YEAR = 2023
 const END_YEAR = 2024
+const BEGIN_MONTH = 4
 const FILE_PATH = './src/data/TechArticleData.ts';
 
 //TODO: 取得するのは2年分
@@ -45,7 +46,11 @@ const main = async () => {
         favorites: 0,
       }
       for (let month = 0; month < 12; month++) {
-        //未来になったら抜ける
+        //! 記事投稿を始めた時期より前はスキップ
+        if(year===BEGIN_YEAR && month+1 < BEGIN_MONTH){
+          continue;
+        }
+        //! 未来になったら抜ける
         if(currentYear===year && currentMonth < month+1){
           break;
         }

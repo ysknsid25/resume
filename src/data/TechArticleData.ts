@@ -1,21 +1,6 @@
 export const TechArticleData = {
   "articlesCounts": [
     {
-      "yearMonth": "2023/01",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2023/02",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2023/03",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
       "yearMonth": "2023/04",
       "zenn": 8,
       "qiita": 0
@@ -92,24 +77,6 @@ export const TechArticleData = {
     }
   ],
   "favoritesCounts": [
-    {
-      "yearMonth": "2023/01",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2023/02",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2023/03",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
     {
       "yearMonth": "2023/04",
       "zenn": 315,

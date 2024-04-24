@@ -79,46 +79,6 @@ export const TechArticleData = {
       "yearMonth": "2024/04",
       "zenn": 4,
       "qiita": 2
-    },
-    {
-      "yearMonth": "2024/05",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/06",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/07",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/08",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/09",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/10",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/11",
-      "zenn": 0,
-      "qiita": 0
-    },
-    {
-      "yearMonth": "2024/12",
-      "zenn": 0,
-      "qiita": 0
     }
   ],
   "yearArticleCounts": [
@@ -225,56 +185,8 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 99,
-      "qiita": 156,
-      "qiita_stock": 161
-    },
-    {
-      "yearMonth": "2024/05",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/06",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/07",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/08",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/09",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/10",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/11",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
-    },
-    {
-      "yearMonth": "2024/12",
-      "zenn": 0,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 158,
+      "qiita_stock": 164
     }
   ],
   "yearFavoritesCounts": [
@@ -284,7 +196,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 601
+      "favorites": 606
     }
   ]
 };

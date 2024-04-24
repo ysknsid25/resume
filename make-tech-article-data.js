@@ -26,6 +26,9 @@ const main = async () => {
     console.log(qiitaData);
   
     console.log('#### Make Chart Data ####');
+    const date = new Date();
+    const currentYear = date.getFullYear();
+    const currentMonth = date.getMonth() + 1;
     const chartData = {
       articlesCounts: [],
       yearArticleCounts: [],
@@ -42,6 +45,10 @@ const main = async () => {
         favorites: 0,
       }
       for (let month = 0; month < 12; month++) {
+        //未来になったら抜ける
+        if(currentYear===year && currentMonth < month+1){
+          break;
+        }
         const key = getFormattedDate(year, month + 1)
         const articlesCount = {
           yearMonth: key,

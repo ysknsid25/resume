@@ -5,25 +5,18 @@ import {useState} from 'react';
 const BEGIN_PAGE = 0
 const END_PAGE = TechArticleList.length - 1
 
-const scrollToTop = () => {
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth' // スムーズなスクロールを行う
-  });
-}
-
 export const Articles = () => {
   const [nowPage, setNowPage] = useState(0)
   const onClickPrevPage = () => {
     if(nowPage > BEGIN_PAGE) {
       setNowPage(nowPage - 1)
-      scrollToTop()
+      scrollTo(0, 0)
     }
   }
   const onClickNextPage = () => {
     if(nowPage < END_PAGE) {
       setNowPage(nowPage + 1)
-      scrollToTop()
+      scrollTo(0, 0)
     }
   }
   return (

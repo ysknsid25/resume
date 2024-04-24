@@ -80,90 +80,77 @@ export const TechArticleData = {
     {
       "yearMonth": "2023/04",
       "zenn": 315,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2023/05",
       "zenn": 1152,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2023/06",
       "zenn": 79,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2023/07",
       "zenn": 249,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2023/08",
       "zenn": 171,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2023/09",
       "zenn": 51,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2023/10",
       "zenn": 25,
-      "qiita": 7,
-      "qiita_stock": 5
+      "qiita": 7
     },
     {
       "yearMonth": "2023/11",
       "zenn": 9,
-      "qiita": 2,
-      "qiita_stock": 1
+      "qiita": 2
     },
     {
       "yearMonth": "2023/12",
       "zenn": 205,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2024/01",
       "zenn": 57,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2024/02",
       "zenn": 123,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2024/03",
       "zenn": 5,
-      "qiita": 0,
-      "qiita_stock": 0
+      "qiita": 0
     },
     {
       "yearMonth": "2024/04",
       "zenn": 99,
-      "qiita": 158,
-      "qiita_stock": 164
+      "qiita": 158
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2271
+      "favorites": 2265
     },
     {
       "year": "2024",
-      "favorites": 606
+      "favorites": 442
     }
   ]
 };

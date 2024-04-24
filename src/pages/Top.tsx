@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Profile } from '../components/Profile'
 import { Skills } from '../components/Skills'
 import { Social } from '../components/Social'
+import { Communities } from '../components/Communities'
 import { Menu } from '../components/Menu'
 import { Certifications } from '../components/Certifications'
 import { Career } from "../components/Career"
@@ -13,8 +14,9 @@ import { LT } from '../components/LT'
 import { SideJob } from '../components/SideJob'
 import { DevRel } from '../components/DevRel'
 import { Frame } from '../components/Frame'
+import {TechArticlesGraph} from '../components/TechArticlesGraph'
 
-const social = "Social"
+const top = "Top"
 const skills = "Skills"
 const certifications = "Certifications"
 const career = "Career"
@@ -27,7 +29,7 @@ const works = "Works"
 const sideJob = "Side Job"
 
 const menuList = [
-    social,
+    top,
     skills,
     certifications,
     articles,
@@ -46,9 +48,19 @@ interface DynamicContentsProps {
 const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element => {
     return (
         <>
-            {selectedFrame === social && <Frame>
-                <Social></Social>
-            </Frame>}
+            {selectedFrame === top && 
+            <>
+                <Frame>
+                    <Social></Social>
+                </Frame>
+                <Frame>
+                    <TechArticlesGraph></TechArticlesGraph>
+                </Frame>
+                <Frame>
+                    <Communities></Communities>
+                </Frame>
+            </>
+            }
             {
                 selectedFrame === skills && <Frame>
                     <Skills></Skills>
@@ -113,7 +125,7 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
 }
 
 export const Top = () => {
-    const [selectedFrame, setSelectedFrame] = useState(social)
+    const [selectedFrame, setSelectedFrame] = useState(top)
     const onClickMenuHandler = (selectedMenu: string) => {
         setSelectedFrame(selectedMenu)
     }

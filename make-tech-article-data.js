@@ -67,10 +67,9 @@ const main = async () => {
           yearMonth: key,
           zenn: zennData[key] ? zennData[key].likeCount : 0,
           qiita: qiitaData[key] ? qiitaData[key].likeCount : 0,
-          qiita_stock: qiitaData[key] ? qiitaData[key].stocksCount : 0,
         }
         chartData.favoritesCounts.push(favoritesCount)
-        yearFavoritesCount.favorites += favoritesCount.zenn + favoritesCount.qiita + favoritesCount.qiita_stock
+        yearFavoritesCount.favorites += favoritesCount.zenn + favoritesCount.qiita
       }
       chartData.yearArticleCounts.push(yearArticleCount)
       chartData.yearFavoritesCounts.push(yearFavoritesCount)
@@ -156,12 +155,10 @@ const getQiitaData = (articles) => {
     if (qiitaData[key]) {
       qiitaData[key].articlesCount += 1
       qiitaData[key].likeCount += article.likes_count
-      qiitaData[key].stocksCount += article.stocks_count
     } else {
       qiitaData[key] = {
         articlesCount: 1,
         likeCount: article.likes_count,
-        stocksCount: article.stocks_count
       }
     }
   })

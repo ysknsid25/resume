@@ -29,6 +29,16 @@ const main = async () => {
     const qiitaArticleList = getQiitaArticleList(originalQiitaData)
     console.log(qiitaArticleList);
 
+    console.log('#### Fetch GitHub Info####');
+    const gitHubData = await getGitHubControbutions();
+    const gitHubContributions = gitHubData.contributions.map(contribution => {
+      return {
+        date: contribution.date,
+        contributionCount: contribution.count,
+      }
+    });
+    console.log(qiitaArticleList.length);
+
     // データをソートする
     console.log('#### Make Sort And Paging Articles List ####');
     const maegedAndSortedArticleList = [...zennArticleList, ...qiitaArticleList].sort(comparePublishDate);
@@ -89,7 +99,8 @@ const main = async () => {
     console.log('#### Print Data TS file ####');
     const chartDataJson = JSON.stringify(chartData, null, 2);
     const articleListJson = JSON.stringify(pagingArticles, null, 2);
-    const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};`
+    const githubContributionsJson = JSON.stringify(gitHubContributions, null, 2);
+    const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};\nexport const GitHubContributions = ${githubContributionsJson};`
     fs.writeFile(FILE_PATH, jsonContent, 'utf8', (err) => {
       if (err) {
         throw err;
@@ -108,11 +119,14 @@ const main = async () => {
 
 const getZennArticles = async () => {
   const url = 'https://zenn.dev/api/articles?username=yskn_sid25&order=latest&count=500'
+  console.log('#### Zenn Data Fetching ####')
   return await fetch(url)
   .then(response => {
+    console.log('#### Zenn Data Responsed ####')
     return response.json();
   })
   .then(data => {
+    console.log('#### Zenn Data Fetched ####')
     return data;
   })
   .catch(error => {
@@ -139,6 +153,22 @@ const getQiitaArticles = async (env) => {
     console.error('Qiita Request failed', error);
     throw error;
   });
+}
+
+const getGitHubControbutions = async () => {
+  const url = 'https://github-contributions-api.deno.dev/ysknsid25.json?flat=true'
+  return await fetch(url)
+  .then(response => {
+    return response.json();
+  })
+  .then(data => {
+    return data;
+  })
+  .catch(error => {
+    console.error('GitHub Request failed', error);
+    throw error;
+  });
+
 }
 
 const getZennData = (articles) => {

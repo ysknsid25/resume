@@ -1,5 +1,8 @@
 name: Deploy to Firebase
 on:
+  push:
+    branches:
+      - masetr
   schedule:
     # GHAはUTC基準なので、JST換算すると毎朝午前4時
     - cron: '0 19 * * *'

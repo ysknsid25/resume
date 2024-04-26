@@ -18,6 +18,8 @@ jobs:
       QIITA_API_KEY: ${{ secrets.QIITA_API_KEY }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20.10.0'
@@ -43,3 +45,20 @@ jobs:
       - name: Deploy to Firebase
         run: |
           firebase deploy --only hosting
+      # 作成されたデータファイルを保存
+      - name: Check Diff
+        id: check_diff
+        run: |
+          git add -N .
+          git diff --name-only --exit-code
+        continue-on-error: true
+      - name: Commit
+        if: steps.check_diff.outcome == 'failure'
+        # メールアドレスの設定についてはこちらを参照
+        # https://github.com/kokoroe-dev/kokoroe-frontend/pull/734#discussion_r1484925218
+        run: |
+          git config user.name "actions-user"
+          git config user.email "action@github.com"
+          git add .
+          git commit -m "Auto commit code format"
+          git push origin ${{ github.head_ref }}

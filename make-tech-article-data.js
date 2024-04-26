@@ -21,13 +21,13 @@ const main = async () => {
     const originalZennData = await getZennArticles()
     const zennData = getZennData(originalZennData.articles)
     const zennArticleList = getZennArticleList(originalZennData.articles)
-    console.log(zennArticleList);
+    console.log(zennArticleList.length);
   
     console.log('#### Fetch Qiita Info####');
     const originalQiitaData = await getQiitaArticles(env)
     const qiitaData = getQiitaData(originalQiitaData)
     const qiitaArticleList = getQiitaArticleList(originalQiitaData)
-    console.log(qiitaArticleList);
+    console.log(qiitaArticleList.length);
 
     console.log('#### Fetch GitHub Info####');
     const gitHubData = await getGitHubControbutions();
@@ -37,7 +37,7 @@ const main = async () => {
         contributionCount: contribution.count,
       }
     });
-    console.log(qiitaArticleList.length);
+    console.log(gitHubContributions.length);
 
     // データをソートする
     console.log('#### Make Sort And Paging Articles List ####');

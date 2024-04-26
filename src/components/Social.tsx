@@ -19,7 +19,7 @@ type SNS = {
 const snsList: SNS[] = [
     { url: "https://zenn.dev/yskn_sid25", icon: zenn },
     { url: "https://qiita.com/ysknsid25", icon: qiita },
-    { url: "https://note.com/ysknsid25/", icon: note },
+    { url: "https://note.com/samurai_se/", icon: note },
     { url: "https://twitter.com/samurai_se", icon: twitter },
     { url: "https://speakerdeck.com/ysknsid25", icon: speakerdeck },
     { url: "https://github.com/ysknsid25", icon: github },

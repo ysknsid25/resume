@@ -19,16 +19,16 @@ type SNS = {
 const snsList: SNS[] = [
     { url: "https://zenn.dev/yskn_sid25", icon: zenn },
     { url: "https://qiita.com/ysknsid25", icon: qiita },
-    { url: "https://github.com/ysknsid25", icon: github },
+    { url: "https://note.com/ysknsid25/", icon: note },
     { url: "https://twitter.com/samurai_se", icon: twitter },
     { url: "https://speakerdeck.com/ysknsid25", icon: speakerdeck },
+    { url: "https://github.com/ysknsid25", icon: github },
+    { url: "https://kanonon.hatenablog.com/", icon: hatena },
+    { url: "https://sizu.me/ysknsid25", icon: shizunet },
     { url: "https://bsky.app/profile/blessingsoftware.bsky.social", icon: bluesky },
     { url: "https://www.instagram.com/samurai_se99/", icon: insta },
     { url: "https://www.threads.net/@samurai_se99", icon: threads },
     { url: "https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share", icon: amazon },
-    { url: "https://kanonon.hatenablog.com/", icon: hatena },
-    { url: "https://note.com/samurai_se/", icon: note },
-    { url: "https://sizu.me/ysknsid25", icon: shizunet },
 ]
 
 export const Social = () => {

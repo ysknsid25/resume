@@ -63,7 +63,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 4,
-      "qiita": 2
+      "qiita": 3
     }
   ],
   "yearArticleCounts": [
@@ -73,7 +73,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "articles": 13
+      "articles": 14
     }
   ],
   "favoritesCounts": [
@@ -94,7 +94,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 249,
+      "zenn": 250,
       "qiita": 0
     },
     {
@@ -115,11 +115,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2023/11",
       "zenn": 9,
-      "qiita": 2
+      "qiita": 3
     },
     {
       "yearMonth": "2023/12",
-      "zenn": 205,
+      "zenn": 206,
       "qiita": 0
     },
     {
@@ -139,18 +139,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 100,
-      "qiita": 158
+      "zenn": 102,
+      "qiita": 179
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2265
+      "favorites": 2268
     },
     {
       "year": "2024",
-      "favorites": 443
+      "favorites": 466
     }
   ]
 };
@@ -159,10 +159,18 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "qiita",
+      "year": "2024/04/24",
+      "title": "Reactで作ったレジュメにRechartsを組み込んでスタイリッシュにデータを魅せる",
+      "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
+      "content": "❤️ 16"
+    },
+    {
+      "treeType": "🖋",
+      "img": "qiita",
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 152"
+      "content": "❤️ 157"
     },
     {
       "treeType": "🖋",
@@ -178,7 +186,7 @@ export const TechArticleList = [
       "year": "2024/04/17",
       "title": "テックカンファレンスに「なんとなく」や「ただ楽しいから」で参加してない？",
       "url": "https://zenn.dev/bs_kansai/articles/4a8d9afc534d18",
-      "content": "❤️ 50"
+      "content": "❤️ 52"
     },
     {
       "treeType": "🖋",
@@ -187,7 +195,9 @@ export const TechArticleList = [
       "title": "ここ1年間のはてなブックマーク数の多かった記事から、Zennでウケそうな記事の傾向を考える",
       "url": "https://zenn.dev/bs_kansai/articles/fe27a912e923ce",
       "content": "❤️ 19"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -195,9 +205,7 @@ export const TechArticleList = [
       "title": "PHPのMutation Testingライブラリ・Infectionを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/6772d749f7d70c",
       "content": "❤️ 6"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -229,7 +237,9 @@ export const TechArticleList = [
       "title": "ChatGPT Visionで色々実験してみたまとめ",
       "url": "https://zenn.dev/bs_kansai/articles/b1dc1c602b87c3",
       "content": "❤️ 11"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -237,9 +247,7 @@ export const TechArticleList = [
       "title": "pathpidaを使ってNext.js/Nuxt.jsでのURLタイポからオサラバする",
       "url": "https://zenn.dev/bs_kansai/articles/a3b7ca31d94953",
       "content": "❤️ 5"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -270,8 +278,10 @@ export const TechArticleList = [
       "year": "2023/12/20",
       "title": "2023年に読んでよかった技術書",
       "url": "https://zenn.dev/bs_kansai/articles/9f24f9c787b257",
-      "content": "❤️ 202"
-    },
+      "content": "❤️ 203"
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -279,9 +289,7 @@ export const TechArticleList = [
       "title": "Next.jsチーム謹製のData Fetcher・useSWRについてのまとめ",
       "url": "https://zenn.dev/bs_kansai/articles/448e3ce99eecb6",
       "content": "❤️ 3"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -296,7 +304,7 @@ export const TechArticleList = [
       "year": "2023/11/22",
       "title": "要件を理解するために、非エンジニアと一緒に業務をこなした話",
       "url": "https://qiita.com/ysknsid25/items/79f86b1f3547fc1cabf8",
-      "content": "❤️ 2"
+      "content": "❤️ 3"
     },
     {
       "treeType": "🖋",
@@ -313,7 +321,9 @@ export const TechArticleList = [
       "title": "Vitestで書いたテストに対してStrykerを利用したMutation Testingを試してみる",
       "url": "https://zenn.dev/bs_kansai/articles/8fa18a5a94ec77",
       "content": "❤️ 10"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -321,9 +331,7 @@ export const TechArticleList = [
       "title": "Next.jsにeslint-plugin-securityを導入してみた",
       "url": "https://zenn.dev/bs_kansai/articles/2fcd849c658c8f",
       "content": "❤️ 8"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -355,7 +363,9 @@ export const TechArticleList = [
       "title": "fetcherの中でsetStateを呼んだりしてないよね？",
       "url": "https://zenn.dev/bs_kansai/articles/bab7a9e3014ae2",
       "content": "❤️ 38"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -363,9 +373,7 @@ export const TechArticleList = [
       "title": "Kotlin製ORマッパーexposedはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/5386f097cc4b43",
       "content": "❤️ 9"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -397,7 +405,9 @@ export const TechArticleList = [
       "title": "Kotlin製ORMのexposedでselectの対象としてサブクエリを利用する",
       "url": "https://zenn.dev/bs_kansai/articles/0121b32ba317ef",
       "content": "❤️ 3"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -405,9 +415,7 @@ export const TechArticleList = [
       "title": "Kotlin製ORMのexposedでテーブルとサブクエリをJOINする",
       "url": "https://zenn.dev/bs_kansai/articles/48da45d52db79e",
       "content": "❤️ 3"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -439,7 +447,9 @@ export const TechArticleList = [
       "title": "G.I.Gに参加してProfessional Cloud Developerを取得した話",
       "url": "https://zenn.dev/bs_kansai/articles/6508e7b37e137f",
       "content": "❤️ 14"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -447,9 +457,7 @@ export const TechArticleList = [
       "title": "Koinで始めるKtor DI",
       "url": "https://zenn.dev/bs_kansai/articles/27497d0acdd172",
       "content": "❤️ 3"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -481,7 +489,9 @@ export const TechArticleList = [
       "title": "私がエンジニア勉強会を作り、ブログリレーを主催するまで",
       "url": "https://zenn.dev/bs_kansai/articles/ec124795cf0f48",
       "content": "❤️ 16"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -489,9 +499,7 @@ export const TechArticleList = [
       "title": "Kotlinのプロパティ初期化処理、きちんと使い分けできてますか？",
       "url": "https://zenn.dev/bs_kansai/articles/fcb6681b91a290",
       "content": "❤️ 10"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -506,7 +514,7 @@ export const TechArticleList = [
       "year": "2023/07/25",
       "title": "30代のキャリアを意識した20代のキャリア戦略",
       "url": "https://zenn.dev/bs_kansai/articles/b63d358252bf69",
-      "content": "❤️ 112"
+      "content": "❤️ 113"
     },
     {
       "treeType": "🖋",
@@ -523,7 +531,9 @@ export const TechArticleList = [
       "title": "VitestでSnapshotテストを試してみる",
       "url": "https://zenn.dev/bs_kansai/articles/943c0c015ed41b",
       "content": "❤️ 8"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -531,9 +541,7 @@ export const TechArticleList = [
       "title": "React×TypeScriptではじめるVitest",
       "url": "https://zenn.dev/bs_kansai/articles/b79d97a8f921d6",
       "content": "❤️ 44"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -565,7 +573,9 @@ export const TechArticleList = [
       "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
       "url": "https://zenn.dev/bs_kansai/articles/94ddaebe84bb71",
       "content": "❤️ 46"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -573,9 +583,7 @@ export const TechArticleList = [
       "title": "useEffectのコールバック関数とcleanUp関数の実行タイミング、正しく説明できますか？",
       "url": "https://zenn.dev/bs_kansai/articles/8a19f36bbcc914",
       "content": "❤️ 89"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -607,7 +615,9 @@ export const TechArticleList = [
       "title": "goofiで見る👀色んな言語の知っておきたいOSSプロジェクト",
       "url": "https://zenn.dev/bs_kansai/articles/a41961614c4b25",
       "content": "❤️ 23"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -615,9 +625,7 @@ export const TechArticleList = [
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
       "content": "❤️ 347"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -649,7 +657,9 @@ export const TechArticleList = [
       "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
       "url": "https://zenn.dev/bs_kansai/articles/71a17cf67d6461",
       "content": "❤️ 41"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -657,9 +667,7 @@ export const TechArticleList = [
       "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
       "url": "https://zenn.dev/bs_kansai/articles/1632bd54d30524",
       "content": "❤️ 9"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -691,7 +699,9 @@ export const TechArticleList = [
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
       "content": "❤️ 39"
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -699,9 +709,7 @@ export const TechArticleList = [
       "title": "ソフトウェア開発者としての寿命を延ばすためのバイブル(20代時点版)",
       "url": "https://zenn.dev/bs_kansai/articles/c8b1fe6657d9b9",
       "content": "❤️ 75"
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",

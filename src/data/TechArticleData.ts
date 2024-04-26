@@ -140,7 +140,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 102,
-      "qiita": 180
+      "qiita": 183
     }
   ],
   "yearFavoritesCounts": [
@@ -150,7 +150,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 468
+      "favorites": 471
     }
   ]
 };
@@ -162,7 +162,7 @@ export const TechArticleList = [
       "year": "2024/04/24",
       "title": "Reactで作ったレジュメにRechartsを組み込んでスタイリッシュにデータを魅せる",
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
-      "content": "❤️ 17"
+      "content": "❤️ 20"
     },
     {
       "treeType": "🖋",
@@ -1095,6 +1095,6 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/04/26",
-    "contributionCount": 8
+    "contributionCount": 11
   }
 ];

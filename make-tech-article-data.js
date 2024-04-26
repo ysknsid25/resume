@@ -34,7 +34,7 @@ const main = async () => {
     const gitHubContributions = gitHubData.contributions.map(contribution => {
       return {
         date: contribution.date,
-        contributionCount: contribution.count,
+        contributionCount: contribution.contributionCount,
       }
     });
     console.log(gitHubContributions.length);
@@ -146,7 +146,7 @@ const getQiitaArticles = async (env) => {
     return response.json();
   })
   .then(data => {
-    console.log(data[0])
+    //console.log(data[0])
     return data;
   })
   .catch(error => {

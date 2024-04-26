@@ -54,11 +54,9 @@ jobs:
         continue-on-error: true
       - name: Commit
         if: steps.check_diff.outcome == 'failure'
-        # メールアドレスの設定についてはこちらを参照
-        # https://github.com/kokoroe-dev/kokoroe-frontend/pull/734#discussion_r1484925218
         run: |
-          git config user.name "actions-user"
-          git config user.email "action@github.com"
+          git config user.name "ysknsid25"
+          git config user.email "kengo071225@gmail.com"
           git add .
           git commit -m "Make Articles & GitHub Contributions Data"
           git push origin ${{ github.head_ref }}

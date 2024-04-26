@@ -33,7 +33,7 @@ const main = async () => {
     const gitHubData = await getGitHubControbutions();
     const gitHubContributions = gitHubData.contributions.map(contribution => {
       return {
-        date: contribution.date,
+        date: contribution.date.replace(/-/g, '/'),
         contributionCount: contribution.contributionCount,
       }
     });
@@ -156,7 +156,17 @@ const getQiitaArticles = async (env) => {
 }
 
 const getGitHubControbutions = async () => {
-  const url = 'https://github-contributions-api.deno.dev/ysknsid25.json?flat=true'
+  // 現在の日付を取得
+  const currentDate = new Date();
+  const before3date = new Date();
+  // 3ヶ月前の日付を取得
+  before3Month.setMonth(before3Month.getMonth() - 3);
+  const currentDateISO = currentDate.toISOString().slice(0,10);
+  const before3MonthISO = before3date.toISOString().slice(0,10);
+  console.log(currentDateISO);
+  console.log(before3MonthISO);
+
+  const url = `https://github-contributions-api.deno.dev/ysknsid25.json?flat=true&from=${before3MonthISO}&to=${currentDateISO}`
   return await fetch(url)
   .then(response => {
     return response.json();

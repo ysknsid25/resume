@@ -14,7 +14,8 @@ import { LT } from '../components/LT'
 import { SideJob } from '../components/SideJob'
 import { DevRel } from '../components/DevRel'
 import { Frame } from '../components/Frame'
-import {TechArticlesGraph} from '../components/TechArticlesGraph'
+import { TechArticlesGraph } from '../components/TechArticlesGraph'
+import { GitHubContributionsGraph } from '../components/GitHubContributionsGraph'
 
 const top = "Top"
 const skills = "Skills"
@@ -52,6 +53,9 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
             <>
                 <Frame>
                     <Social></Social>
+                </Frame>
+                <Frame>
+                    <GitHubContributionsGraph></GitHubContributionsGraph>
                 </Frame>
                 <Frame>
                     <TechArticlesGraph></TechArticlesGraph>

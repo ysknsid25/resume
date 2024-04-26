@@ -79,7 +79,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 315,
+      "zenn": 316,
       "qiita": 0
     },
     {
@@ -140,17 +140,17 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 102,
-      "qiita": 183
+      "qiita": 185
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2268
+      "favorites": 2269
     },
     {
       "year": "2024",
-      "favorites": 471
+      "favorites": 473
     }
   ]
 };
@@ -162,7 +162,7 @@ export const TechArticleList = [
       "year": "2024/04/24",
       "title": "Reactで作ったレジュメにRechartsを組み込んでスタイリッシュにデータを魅せる",
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
-      "content": "❤️ 20"
+      "content": "❤️ 21"
     },
     {
       "treeType": "🖋",
@@ -170,7 +170,7 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 157"
+      "content": "❤️ 158"
     },
     {
       "treeType": "🖋",
@@ -708,7 +708,7 @@ export const TechArticleList = [
       "year": "2023/04/10",
       "title": "ソフトウェア開発者としての寿命を延ばすためのバイブル(20代時点版)",
       "url": "https://zenn.dev/bs_kansai/articles/c8b1fe6657d9b9",
-      "content": "❤️ 75"
+      "content": "❤️ 76"
     },
     {
       "treeType": "🖋",
@@ -1095,6 +1095,6 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/04/26",
-    "contributionCount": 15
+    "contributionCount": 18
   }
 ];

@@ -730,471 +730,371 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024-01-01",
+    "date": "2024/01/26",
     "contributionCount": 1
   },
   {
-    "date": "2024-01-02",
-    "contributionCount": 0
-  },
-  {
-    "date": "2024-01-03",
+    "date": "2024/01/27",
     "contributionCount": 1
   },
   {
-    "date": "2024-01-04",
-    "contributionCount": 4
-  },
-  {
-    "date": "2024-01-05",
-    "contributionCount": 15
-  },
-  {
-    "date": "2024-01-06",
+    "date": "2024/01/28",
     "contributionCount": 1
   },
   {
-    "date": "2024-01-07",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-08",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-09",
-    "contributionCount": 2
-  },
-  {
-    "date": "2024-01-10",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-11",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-12",
-    "contributionCount": 0
-  },
-  {
-    "date": "2024-01-13",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-14",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-15",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-16",
-    "contributionCount": 2
-  },
-  {
-    "date": "2024-01-17",
-    "contributionCount": 3
-  },
-  {
-    "date": "2024-01-18",
-    "contributionCount": 2
-  },
-  {
-    "date": "2024-01-19",
-    "contributionCount": 3
-  },
-  {
-    "date": "2024-01-20",
-    "contributionCount": 0
-  },
-  {
-    "date": "2024-01-21",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-22",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-23",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-24",
-    "contributionCount": 3
-  },
-  {
-    "date": "2024-01-25",
-    "contributionCount": 3
-  },
-  {
-    "date": "2024-01-26",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-27",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-28",
-    "contributionCount": 1
-  },
-  {
-    "date": "2024-01-29",
+    "date": "2024/01/29",
     "contributionCount": 8
   },
   {
-    "date": "2024-01-30",
+    "date": "2024/01/30",
     "contributionCount": 1
   },
   {
-    "date": "2024-01-31",
+    "date": "2024/01/31",
     "contributionCount": 5
   },
   {
-    "date": "2024-02-01",
+    "date": "2024/02/01",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-02",
+    "date": "2024/02/02",
     "contributionCount": 15
   },
   {
-    "date": "2024-02-03",
+    "date": "2024/02/03",
     "contributionCount": 6
   },
   {
-    "date": "2024-02-04",
+    "date": "2024/02/04",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-05",
+    "date": "2024/02/05",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-06",
+    "date": "2024/02/06",
     "contributionCount": 4
   },
   {
-    "date": "2024-02-07",
+    "date": "2024/02/07",
     "contributionCount": 6
   },
   {
-    "date": "2024-02-08",
+    "date": "2024/02/08",
     "contributionCount": 9
   },
   {
-    "date": "2024-02-09",
+    "date": "2024/02/09",
     "contributionCount": 7
   },
   {
-    "date": "2024-02-10",
+    "date": "2024/02/10",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-11",
+    "date": "2024/02/11",
     "contributionCount": 4
   },
   {
-    "date": "2024-02-12",
+    "date": "2024/02/12",
     "contributionCount": 7
   },
   {
-    "date": "2024-02-13",
+    "date": "2024/02/13",
     "contributionCount": 7
   },
   {
-    "date": "2024-02-14",
+    "date": "2024/02/14",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-15",
+    "date": "2024/02/15",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-16",
+    "date": "2024/02/16",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-17",
+    "date": "2024/02/17",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-18",
+    "date": "2024/02/18",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-19",
+    "date": "2024/02/19",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-20",
+    "date": "2024/02/20",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-21",
+    "date": "2024/02/21",
     "contributionCount": 5
   },
   {
-    "date": "2024-02-22",
+    "date": "2024/02/22",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-23",
+    "date": "2024/02/23",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-24",
+    "date": "2024/02/24",
     "contributionCount": 6
   },
   {
-    "date": "2024-02-25",
+    "date": "2024/02/25",
     "contributionCount": 3
   },
   {
-    "date": "2024-02-26",
+    "date": "2024/02/26",
     "contributionCount": 2
   },
   {
-    "date": "2024-02-27",
+    "date": "2024/02/27",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-28",
+    "date": "2024/02/28",
     "contributionCount": 1
   },
   {
-    "date": "2024-02-29",
+    "date": "2024/02/29",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-01",
+    "date": "2024/03/01",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-02",
+    "date": "2024/03/02",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-03",
+    "date": "2024/03/03",
     "contributionCount": 4
   },
   {
-    "date": "2024-03-04",
+    "date": "2024/03/04",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-05",
+    "date": "2024/03/05",
     "contributionCount": 2
   },
   {
-    "date": "2024-03-06",
+    "date": "2024/03/06",
     "contributionCount": 3
   },
   {
-    "date": "2024-03-07",
+    "date": "2024/03/07",
     "contributionCount": 4
   },
   {
-    "date": "2024-03-08",
+    "date": "2024/03/08",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-09",
+    "date": "2024/03/09",
     "contributionCount": 2
   },
   {
-    "date": "2024-03-10",
+    "date": "2024/03/10",
     "contributionCount": 0
   },
   {
-    "date": "2024-03-11",
+    "date": "2024/03/11",
     "contributionCount": 5
   },
   {
-    "date": "2024-03-12",
+    "date": "2024/03/12",
     "contributionCount": 0
   },
   {
-    "date": "2024-03-13",
+    "date": "2024/03/13",
     "contributionCount": 6
   },
   {
-    "date": "2024-03-14",
+    "date": "2024/03/14",
     "contributionCount": 6
   },
   {
-    "date": "2024-03-15",
+    "date": "2024/03/15",
     "contributionCount": 0
   },
   {
-    "date": "2024-03-16",
+    "date": "2024/03/16",
     "contributionCount": 13
   },
   {
-    "date": "2024-03-17",
+    "date": "2024/03/17",
     "contributionCount": 15
   },
   {
-    "date": "2024-03-18",
+    "date": "2024/03/18",
     "contributionCount": 0
   },
   {
-    "date": "2024-03-19",
+    "date": "2024/03/19",
     "contributionCount": 5
   },
   {
-    "date": "2024-03-20",
+    "date": "2024/03/20",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-21",
+    "date": "2024/03/21",
     "contributionCount": 6
   },
   {
-    "date": "2024-03-22",
+    "date": "2024/03/22",
     "contributionCount": 0
   },
   {
-    "date": "2024-03-23",
+    "date": "2024/03/23",
     "contributionCount": 17
   },
   {
-    "date": "2024-03-24",
+    "date": "2024/03/24",
     "contributionCount": 2
   },
   {
-    "date": "2024-03-25",
+    "date": "2024/03/25",
     "contributionCount": 1
   },
   {
-    "date": "2024-03-26",
+    "date": "2024/03/26",
     "contributionCount": 3
   },
   {
-    "date": "2024-03-27",
+    "date": "2024/03/27",
     "contributionCount": 2
   },
   {
-    "date": "2024-03-28",
+    "date": "2024/03/28",
     "contributionCount": 0
   },
   {
-    "date": "2024-03-29",
+    "date": "2024/03/29",
     "contributionCount": 7
   },
   {
-    "date": "2024-03-30",
+    "date": "2024/03/30",
     "contributionCount": 22
   },
   {
-    "date": "2024-03-31",
+    "date": "2024/03/31",
     "contributionCount": 0
   },
   {
-    "date": "2024-04-01",
+    "date": "2024/04/01",
     "contributionCount": 3
   },
   {
-    "date": "2024-04-02",
+    "date": "2024/04/02",
     "contributionCount": 3
   },
   {
-    "date": "2024-04-03",
+    "date": "2024/04/03",
     "contributionCount": 6
   },
   {
-    "date": "2024-04-04",
+    "date": "2024/04/04",
     "contributionCount": 1
   },
   {
-    "date": "2024-04-05",
+    "date": "2024/04/05",
     "contributionCount": 1
   },
   {
-    "date": "2024-04-06",
+    "date": "2024/04/06",
     "contributionCount": 0
   },
   {
-    "date": "2024-04-07",
+    "date": "2024/04/07",
     "contributionCount": 0
   },
   {
-    "date": "2024-04-08",
+    "date": "2024/04/08",
     "contributionCount": 1
   },
   {
-    "date": "2024-04-09",
+    "date": "2024/04/09",
     "contributionCount": 1
   },
   {
-    "date": "2024-04-10",
+    "date": "2024/04/10",
     "contributionCount": 6
   },
   {
-    "date": "2024-04-11",
+    "date": "2024/04/11",
     "contributionCount": 3
   },
   {
-    "date": "2024-04-12",
+    "date": "2024/04/12",
     "contributionCount": 1
   },
   {
-    "date": "2024-04-13",
+    "date": "2024/04/13",
     "contributionCount": 0
   },
   {
-    "date": "2024-04-14",
+    "date": "2024/04/14",
     "contributionCount": 0
   },
   {
-    "date": "2024-04-15",
+    "date": "2024/04/15",
     "contributionCount": 5
   },
   {
-    "date": "2024-04-16",
+    "date": "2024/04/16",
     "contributionCount": 8
   },
   {
-    "date": "2024-04-17",
+    "date": "2024/04/17",
     "contributionCount": 4
   },
   {
-    "date": "2024-04-18",
+    "date": "2024/04/18",
     "contributionCount": 6
   },
   {
-    "date": "2024-04-19",
+    "date": "2024/04/19",
     "contributionCount": 13
   },
   {
-    "date": "2024-04-20",
+    "date": "2024/04/20",
     "contributionCount": 17
   },
   {
-    "date": "2024-04-21",
+    "date": "2024/04/21",
     "contributionCount": 8
   },
   {
-    "date": "2024-04-22",
+    "date": "2024/04/22",
     "contributionCount": 6
   },
   {
-    "date": "2024-04-23",
+    "date": "2024/04/23",
     "contributionCount": 3
   },
   {
-    "date": "2024-04-24",
+    "date": "2024/04/24",
     "contributionCount": 25
   },
   {
-    "date": "2024-04-25",
+    "date": "2024/04/25",
     "contributionCount": 8
   },
   {
-    "date": "2024-04-26",
-    "contributionCount": 6
+    "date": "2024/04/26",
+    "contributionCount": 8
   }
 ];

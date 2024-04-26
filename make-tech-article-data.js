@@ -160,7 +160,7 @@ const getGitHubControbutions = async () => {
   const currentDate = new Date();
   const before3date = new Date();
   // 3ヶ月前の日付を取得
-  before3Month.setMonth(before3Month.getMonth() - 3);
+  before3date.setMonth(before3date.getMonth() - 3);
   const currentDateISO = currentDate.toISOString().slice(0,10);
   const before3MonthISO = before3date.toISOString().slice(0,10);
   console.log(currentDateISO);

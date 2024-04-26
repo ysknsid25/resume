@@ -79,25 +79,25 @@ export const TechArticlesGraph = () => {
           </div>
           <div className="flex justify-center items-center gap-4 mb-4">
             <ResponsiveContainer width="100%" height={300}>
-              <LineChart
-                  width={500}
-                  height={300}
-                  data={TechArticleData.favoritesCounts}
-                  margin={{
-                    top: 5,
-                    right: 30,
-                    left: 20,
-                    bottom: 5,
-                  }}
-                >
+              <BarChart
+                width={500}
+                height={300}
+                data={TechArticleData.favoritesCounts}
+                margin={{
+                  top: 5,
+                  right: 30,
+                  left: 20,
+                  bottom: 5,
+                }}
+              >
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="yearMonth" />
                 <YAxis />
                 <Tooltip />
                 <Legend />
-                <Line type="monotone" dataKey="zenn" stroke="#3EA8FF" strokeWidth={2} />
-                <Line type="monotone" dataKey="qiita" stroke="#55C500" strokeWidth={2} />
-              </LineChart>
+                <Bar dataKey="zenn" stackId="a" fill="#3EA8FF" />
+                <Bar dataKey="qiita" stackId="a" fill="#55C500" />
+              </BarChart>
             </ResponsiveContainer>
           </div>
       </div>

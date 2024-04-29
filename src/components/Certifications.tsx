@@ -1,9 +1,9 @@
 import lpic from '../assets/program/lpic.png'
 import ipa from '../assets/program/ipa.png'
-import gcp from '../assets/program/gcp.png'
+import pcd from '../assets/program/pcd.png'
 import atcoder from '../assets/program/atcoder.png'
-import java from '../assets/program/java.png'
-import oracle from '../assets/program/oracle.png'
+import javase from '../assets/program/javase.png'
+import orab from '../assets/program/orab.png'
 
 type Certification = {
     name: string,
@@ -12,12 +12,12 @@ type Certification = {
 }
 
 const certifications: Certification[] = [
-    { name: "Google Proffesional Cloud Developer", year: 2022, icon: gcp },
+    { name: "Google Proffesional Cloud Developer", year: 2022, icon: pcd },
     { name: "Lpic Lv.2", year: 2022, icon: lpic },
     { name: "AtCoder 茶", year: 2022, icon: atcoder },
     { name: "応用情報技術者", year: 2020, icon: ipa },
-    { name: "Oracle Master Bronze", year: 2019, icon: oracle },
-    { name: "Java SE8 Silver", year: 2018, icon: java },
+    { name: "Oracle Master Bronze", year: 2019, icon: orab },
+    { name: "Java SE8 Silver", year: 2018, icon: javase },
 ]
 
 export const Certifications = () => {

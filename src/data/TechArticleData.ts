@@ -84,7 +84,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1152,
+      "zenn": 1153,
       "qiita": 0
     },
     {
@@ -139,18 +139,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 114,
-      "qiita": 203
+      "zenn": 147,
+      "qiita": 208
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2269
+      "favorites": 2270
     },
     {
       "year": "2024",
-      "favorites": 503
+      "favorites": 541
     }
   ]
 };
@@ -162,7 +162,7 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
       "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-      "content": "❤️ 11"
+      "content": "❤️ 44"
     },
     {
       "treeType": "🖋",
@@ -170,7 +170,7 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 7"
+      "content": "❤️ 11"
     },
     {
       "treeType": "🖋",
@@ -186,7 +186,7 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 165"
+      "content": "❤️ 166"
     },
     {
       "treeType": "🖋",
@@ -640,7 +640,7 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
-      "content": "❤️ 347"
+      "content": "❤️ 348"
     },
     {
       "treeType": "🖋",
@@ -745,10 +745,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/01/28",
-    "contributionCount": 1
-  },
   {
     "date": "2024/01/29",
     "contributionCount": 8
@@ -1112,5 +1108,9 @@ export const GitHubContributions = [
   {
     "date": "2024/04/28",
     "contributionCount": 10
+  },
+  {
+    "date": "2024/04/29",
+    "contributionCount": 2
   }
 ];

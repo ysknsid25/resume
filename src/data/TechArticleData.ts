@@ -64,6 +64,11 @@ export const TechArticleData = {
       "yearMonth": "2024/04",
       "zenn": 5,
       "qiita": 4
+    },
+    {
+      "yearMonth": "2024/05",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearArticleCounts": [
@@ -84,7 +89,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1153,
+      "zenn": 1154,
       "qiita": 0
     },
     {
@@ -124,7 +129,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 57,
+      "zenn": 58,
       "qiita": 0
     },
     {
@@ -139,18 +144,23 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 155,
-      "qiita": 212
+      "zenn": 175,
+      "qiita": 219
+    },
+    {
+      "yearMonth": "2024/05",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2270
+      "favorites": 2271
     },
     {
       "year": "2024",
-      "favorites": 553
+      "favorites": 581
     }
   ]
 };
@@ -162,7 +172,7 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
       "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-      "content": "❤️ 52"
+      "content": "❤️ 72"
     },
     {
       "treeType": "🖋",
@@ -170,7 +180,7 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 14"
+      "content": "❤️ 16"
     },
     {
       "treeType": "🖋",
@@ -178,7 +188,7 @@ export const TechArticleList = [
       "year": "2024/04/24",
       "title": "Reactで作ったレジュメにRechartsを組み込んでスタイリッシュにデータを魅せる",
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
-      "content": "❤️ 25"
+      "content": "❤️ 29"
     },
     {
       "treeType": "🖋",
@@ -186,7 +196,7 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 167"
+      "content": "❤️ 168"
     },
     {
       "treeType": "🖋",
@@ -270,7 +280,7 @@ export const TechArticleList = [
       "year": "2024/01/11",
       "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
       "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
-      "content": "❤️ 37"
+      "content": "❤️ 38"
     },
     {
       "treeType": "🖋",
@@ -606,7 +616,7 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 416"
+      "content": "❤️ 417"
     },
     {
       "treeType": "🖋",
@@ -745,14 +755,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/01/29",
-    "contributionCount": 8
-  },
-  {
-    "date": "2024/01/30",
-    "contributionCount": 1
-  },
   {
     "date": "2024/01/31",
     "contributionCount": 5
@@ -1112,5 +1114,9 @@ export const GitHubContributions = [
   {
     "date": "2024/04/29",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/04/30",
+    "contributionCount": 4
   }
 ];

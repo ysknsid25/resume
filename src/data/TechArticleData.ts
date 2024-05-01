@@ -1198,7 +1198,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/01",
-    "contributionCount": 8
+    "contributionCount": 10
   }
 ];
 export const PopularArticles = [

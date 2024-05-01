@@ -56,6 +56,9 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
                     <Social></Social>
                 </Frame>
                 <Frame>
+                    <Communities></Communities>
+                </Frame>
+                <Frame>
                     <GitHubContributionsGraph></GitHubContributionsGraph>
                 </Frame>
                 <Frame>
@@ -63,9 +66,6 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
                 </Frame>
                 <Frame>
                     <PopularArticle></PopularArticle>
-                </Frame>
-                <Frame>
-                    <Communities></Communities>
                 </Frame>
             </>
             }

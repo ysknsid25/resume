@@ -16,6 +16,7 @@ import { DevRel } from '../components/DevRel'
 import { Frame } from '../components/Frame'
 import { TechArticlesGraph } from '../components/TechArticlesGraph'
 import { GitHubContributionsGraph } from '../components/GitHubContributionsGraph'
+import {PopularArticle} from '../components/PopularArticles'
 
 const top = "Top"
 const skills = "Skills"
@@ -59,6 +60,9 @@ const DynamicContents = ({ selectedFrame }: DynamicContentsProps): JSX.Element =
                 </Frame>
                 <Frame>
                     <TechArticlesGraph></TechArticlesGraph>
+                </Frame>
+                <Frame>
+                    <PopularArticle></PopularArticle>
                 </Frame>
                 <Frame>
                     <Communities></Communities>

@@ -45,6 +45,18 @@ const main = async () => {
     console.log(`Length is ${maegedAndSortedArticleList.length}`);
     const pagingArticles = getPagingArticles(maegedAndSortedArticleList);
     console.log(`Page Size is ${pagingArticles.length}`);
+    const nowYear = new Date().getFullYear();
+    const popularArticles = maegedAndSortedArticleList.filter(article => article.year.includes(nowYear)).sort(function(a, b) {
+      return b.likeCount - a.likeCount;
+    });
+    const rankEmojiArray = ['🥇', '🥈', '🥉', '🏅', '🏅']
+    const slicedPopularArticles = popularArticles.length > 4 ? popularArticles.slice(0, 5) : popularArticles;
+    const popularArticlesWithRank = slicedPopularArticles.map((article, index) => {
+      return {
+        ...article,
+        treeType: rankEmojiArray[index],
+      }
+    });
   
     console.log('#### Make Chart Data ####');
     const date = new Date();
@@ -100,7 +112,8 @@ const main = async () => {
     const chartDataJson = JSON.stringify(chartData, null, 2);
     const articleListJson = JSON.stringify(pagingArticles, null, 2);
     const githubContributionsJson = JSON.stringify(gitHubContributions, null, 2);
-    const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};\nexport const GitHubContributions = ${githubContributionsJson};`
+    const popularArticlesWithRankJson = JSON.stringify(popularArticlesWithRank, null, 2);
+    const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};\nexport const GitHubContributions = ${githubContributionsJson};\nexport const PopularArticles = ${popularArticlesWithRankJson};`
     fs.writeFile(FILE_PATH, jsonContent, 'utf8', (err) => {
       if (err) {
         throw err;
@@ -226,6 +239,7 @@ const getZennArticleList = (articles) => {
       title: article.title,
       url: `https://zenn.dev${article.path}`,
       content: `❤️ ${article.liked_count}`,
+      likeCount: article.liked_count,
     }
   })
 }
@@ -241,6 +255,7 @@ const getQiitaArticleList = (articles) => {
       title: article.title,
       url: article.url,
       content: `❤️ ${article.likes_count}`,
+      likeCount: article.likes_count,
     }
   })
 }
@@ -271,6 +286,12 @@ const comparePublishDate = (a, b) => {
   const dateA = new Date(a.year);
   const dateB = new Date(b.year);
   return dateB - dateA;
+}
+
+const compareLikeCount = (a, b) => {
+  const likeA = new Date(a.year);
+  const likeB = new Date(b.year);
+  return likeB - likeA;
 }
 
 const getPagingArticles = (articleList) => {

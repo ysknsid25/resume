@@ -49,8 +49,8 @@ const main = async () => {
     const popularArticles = maegedAndSortedArticleList.filter(article => article.year.includes(nowYear)).sort(function(a, b) {
       return b.likeCount - a.likeCount;
     });
-    const rankEmojiArray = ['🥇', '🥈', '🥉', '🏅', '🏅']
-    const slicedPopularArticles = popularArticles.length > 4 ? popularArticles.slice(0, 5) : popularArticles;
+    const rankEmojiArray = ['🥇', '🥈', '🥉']
+    const slicedPopularArticles = popularArticles.length > 2 ? popularArticles.slice(0, 3) : popularArticles;
     const popularArticlesWithRank = slicedPopularArticles.map((article, index) => {
       return {
         ...article,

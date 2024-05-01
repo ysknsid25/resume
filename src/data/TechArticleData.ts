@@ -150,7 +150,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 4
+      "qiita": 6
     }
   ],
   "yearFavoritesCounts": [
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 613
+      "favorites": 615
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 6",
+      "likeCount": 6
     },
     {
       "treeType": "🖋",
@@ -1228,23 +1228,5 @@ export const PopularArticles = [
     "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
     "content": "❤️ 80",
     "likeCount": 80
-  },
-  {
-    "treeType": "🏅",
-    "img": "zenn",
-    "year": "2024/04/17",
-    "title": "テックカンファレンスに「なんとなく」や「ただ楽しいから」で参加してない？",
-    "url": "https://zenn.dev/bs_kansai/articles/4a8d9afc534d18",
-    "content": "❤️ 52",
-    "likeCount": 52
-  },
-  {
-    "treeType": "🏅",
-    "img": "zenn",
-    "year": "2024/01/11",
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
-    "content": "❤️ 38",
-    "likeCount": 38
   }
 ];

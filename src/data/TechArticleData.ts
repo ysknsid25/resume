@@ -145,7 +145,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 184,
-      "qiita": 235
+      "qiita": 237
     },
     {
       "yearMonth": "2024/05",
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 611
+      "favorites": 613
     }
   ]
 };
@@ -199,8 +199,8 @@ export const TechArticleList = [
       "year": "2024/04/24",
       "title": "Reactで作ったレジュメにRechartsを組み込んでスタイリッシュにデータを魅せる",
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
-      "content": "❤️ 29",
-      "likeCount": 29
+      "content": "❤️ 30",
+      "likeCount": 30
     },
     {
       "treeType": "🖋",
@@ -208,8 +208,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 184",
-      "likeCount": 184
+      "content": "❤️ 185",
+      "likeCount": 185
     }
   ],
   [
@@ -1198,7 +1198,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/01",
-    "contributionCount": 10
+    "contributionCount": 12
   }
 ];
 export const PopularArticles = [
@@ -1208,8 +1208,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 184",
-    "likeCount": 184
+    "content": "❤️ 185",
+    "likeCount": 185
   },
   {
     "treeType": "🥈",

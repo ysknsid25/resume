@@ -89,7 +89,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1156,
+      "zenn": 1157,
       "qiita": 0
     },
     {
@@ -129,7 +129,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 53,
+      "zenn": 54,
       "qiita": 0
     },
     {
@@ -144,23 +144,23 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 165,
-      "qiita": 252
+      "zenn": 166,
+      "qiita": 258
     },
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 75
+      "qiita": 79
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2201
+      "favorites": 2202
     },
     {
       "year": "2024",
-      "favorites": 674
+      "favorites": 686
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 75",
-      "likeCount": 75
+      "content": "❤️ 79",
+      "likeCount": 79
     },
     {
       "treeType": "🖋",
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
       "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-      "content": "❤️ 82",
-      "likeCount": 82
+      "content": "❤️ 83",
+      "likeCount": 83
     },
     {
       "treeType": "🖋",
@@ -190,8 +190,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 22",
-      "likeCount": 22
+      "content": "❤️ 23",
+      "likeCount": 23
     },
     {
       "treeType": "🖋",
@@ -208,8 +208,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 193",
-      "likeCount": 193
+      "content": "❤️ 198",
+      "likeCount": 198
     }
   ],
   [
@@ -302,8 +302,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 15",
-      "likeCount": 15
+      "content": "❤️ 16",
+      "likeCount": 16
     }
   ],
   [
@@ -660,8 +660,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
-      "content": "❤️ 350",
-      "likeCount": 350
+      "content": "❤️ 351",
+      "likeCount": 351
     },
     {
       "treeType": "🖋",
@@ -778,10 +778,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/04",
-    "contributionCount": 2
-  },
   {
     "date": "2024/02/05",
     "contributionCount": 2
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/04",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/05/05",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1150,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 193",
-    "likeCount": 193
+    "content": "❤️ 198",
+    "likeCount": 198
   },
   {
     "treeType": "🥈",
@@ -1168,7 +1168,7 @@ export const PopularArticles = [
     "year": "2024/04/28",
     "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
     "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-    "content": "❤️ 82",
-    "likeCount": 82
+    "content": "❤️ 83",
+    "likeCount": 83
   }
 ];

@@ -144,13 +144,13 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 166,
-      "qiita": 258
+      "zenn": 167,
+      "qiita": 260
     },
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 79
+      "qiita": 89
     }
   ],
   "yearFavoritesCounts": [
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 686
+      "favorites": 699
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 79",
-      "likeCount": 79
+      "content": "❤️ 89",
+      "likeCount": 89
     },
     {
       "treeType": "🖋",
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
       "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-      "content": "❤️ 83",
-      "likeCount": 83
+      "content": "❤️ 84",
+      "likeCount": 84
     },
     {
       "treeType": "🖋",
@@ -208,8 +208,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 198",
-      "likeCount": 198
+      "content": "❤️ 200",
+      "likeCount": 200
     }
   ],
   [
@@ -779,10 +779,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/02/05",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/02/06",
     "contributionCount": 4
   },
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/05",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/05/06",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1150,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 198",
-    "likeCount": 198
+    "content": "❤️ 200",
+    "likeCount": 200
   },
   {
     "treeType": "🥈",
@@ -1164,11 +1164,11 @@ export const PopularArticles = [
   },
   {
     "treeType": "🥉",
-    "img": "zenn",
-    "year": "2024/04/28",
-    "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
-    "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-    "content": "❤️ 83",
-    "likeCount": 83
+    "img": "qiita",
+    "year": "2024/05/01",
+    "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
+    "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
+    "content": "❤️ 89",
+    "likeCount": 89
   }
 ];

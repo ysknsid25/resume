@@ -99,7 +99,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 238,
+      "zenn": 239,
       "qiita": 0
     },
     {
@@ -134,7 +134,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 124,
+      "zenn": 126,
       "qiita": 0
     },
     {
@@ -145,22 +145,22 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 167,
-      "qiita": 260
+      "qiita": 261
     },
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 89
+      "qiita": 105
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2202
+      "favorites": 2203
     },
     {
       "year": "2024",
-      "favorites": 699
+      "favorites": 718
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 89",
-      "likeCount": 89
+      "content": "❤️ 105",
+      "likeCount": 105
     },
     {
       "treeType": "🖋",
@@ -208,8 +208,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 200",
-      "likeCount": 200
+      "content": "❤️ 201",
+      "likeCount": 201
     }
   ],
   [
@@ -266,8 +266,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 108",
-      "likeCount": 108
+      "content": "❤️ 110",
+      "likeCount": 110
     },
     {
       "treeType": "🖋",
@@ -557,8 +557,8 @@ export const TechArticleList = [
       "year": "2023/07/25",
       "title": "30代のキャリアを意識した20代のキャリア戦略",
       "url": "https://zenn.dev/bs_kansai/articles/b63d358252bf69",
-      "content": "❤️ 113",
-      "likeCount": 113
+      "content": "❤️ 114",
+      "likeCount": 114
     },
     {
       "treeType": "🖋",
@@ -778,10 +778,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/06",
-    "contributionCount": 4
-  },
   {
     "date": "2024/02/07",
     "contributionCount": 6
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/06",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/05/07",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1150,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 200",
-    "likeCount": 200
+    "content": "❤️ 201",
+    "likeCount": 201
   },
   {
     "treeType": "🥈",
@@ -1159,8 +1159,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 108",
-    "likeCount": 108
+    "content": "❤️ 110",
+    "likeCount": 110
   },
   {
     "treeType": "🥉",
@@ -1168,7 +1168,7 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 89",
-    "likeCount": 89
+    "content": "❤️ 105",
+    "likeCount": 105
   }
 ];

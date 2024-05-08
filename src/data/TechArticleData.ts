@@ -84,7 +84,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 317,
+      "zenn": 318,
       "qiita": 0
     },
     {
@@ -150,17 +150,17 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 105
+      "qiita": 132
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2203
+      "favorites": 2204
     },
     {
       "year": "2024",
-      "favorites": 718
+      "favorites": 745
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 105",
-      "likeCount": 105
+      "content": "❤️ 132",
+      "likeCount": 132
     },
     {
       "treeType": "🖋",
@@ -725,8 +725,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 131",
-      "likeCount": 131
+      "content": "❤️ 132",
+      "likeCount": 132
     }
   ],
   [
@@ -778,10 +778,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/07",
-    "contributionCount": 6
-  },
   {
     "date": "2024/02/08",
     "contributionCount": 9
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/07",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/05/08",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1155,20 +1155,20 @@ export const PopularArticles = [
   },
   {
     "treeType": "🥈",
+    "img": "qiita",
+    "year": "2024/05/01",
+    "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
+    "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
+    "content": "❤️ 132",
+    "likeCount": 132
+  },
+  {
+    "treeType": "🥉",
     "img": "zenn",
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
     "content": "❤️ 110",
     "likeCount": 110
-  },
-  {
-    "treeType": "🥉",
-    "img": "qiita",
-    "year": "2024/05/01",
-    "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
-    "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 105",
-    "likeCount": 105
   }
 ];

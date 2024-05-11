@@ -8,7 +8,7 @@ export const Profile = () => {
             <div>
                 <h1 className="text-center text-3xl font-extrabold text-gray-600">Kanon</h1>
                 <p className="mt-2 text-center text-xs text-gray-400">blessing software</p>
-                <p className="mt-4 text-center text-sm text-gray-600">俺の敵はだいたい俺です</p>
+                <p className="mt-4 text-center text-sm text-gray-600">水瀬いのりライブTでテックカンファレンスに登壇してる人です</p>
             </div>
         </div>
     )

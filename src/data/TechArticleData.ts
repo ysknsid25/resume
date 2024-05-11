@@ -68,7 +68,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 1
+      "qiita": 2
     }
   ],
   "yearArticleCounts": [
@@ -78,7 +78,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "articles": 15
+      "articles": 16
     }
   ],
   "favoritesCounts": [
@@ -145,12 +145,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 167,
-      "qiita": 261
+      "qiita": 262
     },
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 149
+      "qiita": 158
     }
   ],
   "yearFavoritesCounts": [
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 762
+      "favorites": 772
     }
   ]
 };
@@ -169,11 +169,20 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "qiita",
+      "year": "2024/05/11",
+      "title": "情報収集に活用させていただいているTechブログ・コミュニティ",
+      "url": "https://qiita.com/ysknsid25/items/12ead219d2fb6476d4d7",
+      "content": "❤️ 5",
+      "likeCount": 5
+    },
+    {
+      "treeType": "🖋",
+      "img": "qiita",
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 149",
-      "likeCount": 149
+      "content": "❤️ 153",
+      "likeCount": 153
     },
     {
       "treeType": "🖋",
@@ -201,18 +210,18 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
       "content": "❤️ 31",
       "likeCount": 31
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "qiita",
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 201",
-      "likeCount": 201
-    }
-  ],
-  [
+      "content": "❤️ 202",
+      "likeCount": 202
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -248,7 +257,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
       "content": "❤️ 25",
       "likeCount": 25
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -257,9 +268,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/3a198f77e60d40",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -295,7 +304,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
       "content": "❤️ 38",
       "likeCount": 38
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -304,9 +315,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
       "content": "❤️ 16",
       "likeCount": 16
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -342,7 +351,9 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/79f86b1f3547fc1cabf8",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -351,9 +362,7 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/f84ccafa2d0eab5af045",
       "content": "❤️ 7",
       "likeCount": 7
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -389,7 +398,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/92015d6ce05bf6",
       "content": "❤️ 2",
       "likeCount": 2
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -398,9 +409,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/a5af0f8bf43aaa",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -436,7 +445,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/63bd7de0f35bf0",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -445,9 +456,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/1e3d19b793e6d9",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -483,7 +492,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/cbf1fa3c0ed3bf",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -492,9 +503,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/8618aaa04504b7",
       "content": "❤️ 24",
       "likeCount": 24
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -530,7 +539,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/d37043246e246e",
       "content": "❤️ 18",
       "likeCount": 18
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -539,9 +550,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/fcb6681b91a290",
       "content": "❤️ 10",
       "likeCount": 10
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -577,7 +586,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/943c0c015ed41b",
       "content": "❤️ 8",
       "likeCount": 8
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -586,9 +597,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/b79d97a8f921d6",
       "content": "❤️ 45",
       "likeCount": 45
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -624,7 +633,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
       "content": "❤️ 417",
       "likeCount": 417
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -633,9 +644,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/a6cce28a651894",
       "content": "❤️ 58",
       "likeCount": 58
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -671,7 +680,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/90c3238f61f273",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -680,9 +691,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/c79c6b84c536d1",
       "content": "❤️ 65",
       "likeCount": 65
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -718,7 +727,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/03fb71dfcf82d6",
       "content": "❤️ 8",
       "likeCount": 8
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -727,9 +738,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
       "content": "❤️ 132",
       "likeCount": 132
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -765,7 +774,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/b2ecc4b220d54a",
       "content": "❤️ 18",
       "likeCount": 18
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1140,7 +1151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/11",
-    "contributionCount": 2
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1161,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 201",
-    "likeCount": 201
+    "content": "❤️ 202",
+    "likeCount": 202
   },
   {
     "treeType": "🥈",
@@ -1159,8 +1170,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 149",
-    "likeCount": 149
+    "content": "❤️ 153",
+    "likeCount": 153
   },
   {
     "treeType": "🥉",

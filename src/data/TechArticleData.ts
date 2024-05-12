@@ -99,7 +99,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 239,
+      "zenn": 240,
       "qiita": 0
     },
     {
@@ -145,22 +145,22 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 167,
-      "qiita": 262
+      "qiita": 264
     },
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 158
+      "qiita": 159
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2204
+      "favorites": 2205
     },
     {
       "year": "2024",
-      "favorites": 772
+      "favorites": 775
     }
   ]
 };
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 153",
-      "likeCount": 153
+      "content": "❤️ 154",
+      "likeCount": 154
     },
     {
       "treeType": "🖋",
@@ -199,8 +199,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 23",
-      "likeCount": 23
+      "content": "❤️ 24",
+      "likeCount": 24
     },
     {
       "treeType": "🖋",
@@ -208,8 +208,8 @@ export const TechArticleList = [
       "year": "2024/04/24",
       "title": "Reactで作ったレジュメにRechartsを組み込んでスタイリッシュにデータを魅せる",
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
-      "content": "❤️ 31",
-      "likeCount": 31
+      "content": "❤️ 32",
+      "likeCount": 32
     }
   ],
   [
@@ -595,8 +595,8 @@ export const TechArticleList = [
       "year": "2023/07/10",
       "title": "React×TypeScriptではじめるVitest",
       "url": "https://zenn.dev/bs_kansai/articles/b79d97a8f921d6",
-      "content": "❤️ 45",
-      "likeCount": 45
+      "content": "❤️ 46",
+      "likeCount": 46
     },
     {
       "treeType": "🖋",
@@ -789,10 +789,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/11",
-    "contributionCount": 4
-  },
   {
     "date": "2024/02/12",
     "contributionCount": 7
@@ -1152,6 +1148,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/11",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/05/12",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1170,8 +1170,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 153",
-    "likeCount": 153
+    "content": "❤️ 154",
+    "likeCount": 154
   },
   {
     "treeType": "🥉",

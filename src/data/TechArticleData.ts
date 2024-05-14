@@ -84,12 +84,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 320,
+      "zenn": 321,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1158,
+      "zenn": 1159,
       "qiita": 0
     },
     {
@@ -150,17 +150,17 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 165
+      "qiita": 167
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2209
+      "favorites": 2211
     },
     {
       "year": "2024",
-      "favorites": 782
+      "favorites": 784
     }
   ]
 };
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 158",
-      "likeCount": 158
+      "content": "❤️ 160",
+      "likeCount": 160
     },
     {
       "treeType": "🖋",
@@ -622,8 +622,8 @@ export const TechArticleList = [
       "year": "2023/05/28",
       "title": "useEffectのコールバック関数とcleanUp関数の実行タイミング、正しく説明できますか？",
       "url": "https://zenn.dev/bs_kansai/articles/8a19f36bbcc914",
-      "content": "❤️ 89",
-      "likeCount": 89
+      "content": "❤️ 90",
+      "likeCount": 90
     },
     {
       "treeType": "🖋",
@@ -725,8 +725,8 @@ export const TechArticleList = [
       "year": "2023/04/27",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【Remember me編】",
       "url": "https://zenn.dev/bs_kansai/articles/03fb71dfcf82d6",
-      "content": "❤️ 8",
-      "likeCount": 8
+      "content": "❤️ 9",
+      "likeCount": 9
     }
   ],
   [
@@ -789,10 +789,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/13",
-    "contributionCount": 7
-  },
   {
     "date": "2024/02/14",
     "contributionCount": 2
@@ -1095,11 +1091,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/04/29",
-    "contributionCount": 3
+    "contributionCount": 4
   },
   {
     "date": "2024/04/30",
-    "contributionCount": 4
+    "contributionCount": 5
   },
   {
     "date": "2024/05/01",
@@ -1151,7 +1147,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/13",
-    "contributionCount": 6
+    "contributionCount": 7
+  },
+  {
+    "date": "2024/05/14",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1170,8 +1170,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 158",
-    "likeCount": 158
+    "content": "❤️ 160",
+    "likeCount": 160
   },
   {
     "treeType": "🥉",

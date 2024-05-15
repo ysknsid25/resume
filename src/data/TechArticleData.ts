@@ -89,7 +89,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1159,
+      "zenn": 1162,
       "qiita": 0
     },
     {
@@ -99,7 +99,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 240,
+      "zenn": 241,
       "qiita": 0
     },
     {
@@ -124,7 +124,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/12",
-      "zenn": 207,
+      "zenn": 208,
       "qiita": 0
     },
     {
@@ -150,17 +150,17 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 167
+      "qiita": 180
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2211
+      "favorites": 2216
     },
     {
       "year": "2024",
-      "favorites": 784
+      "favorites": 797
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/11",
       "title": "情報収集に活用させていただいているTechブログ・コミュニティ",
       "url": "https://qiita.com/ysknsid25/items/12ead219d2fb6476d4d7",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 8",
+      "likeCount": 8
     },
     {
       "treeType": "🖋",
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 160",
-      "likeCount": 160
+      "content": "❤️ 172",
+      "likeCount": 172
     },
     {
       "treeType": "🖋",
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2023/12/20",
       "title": "2023年に読んでよかった技術書",
       "url": "https://zenn.dev/bs_kansai/articles/9f24f9c787b257",
-      "content": "❤️ 204",
-      "likeCount": 204
+      "content": "❤️ 205",
+      "likeCount": 205
     },
     {
       "treeType": "🖋",
@@ -575,8 +575,8 @@ export const TechArticleList = [
       "year": "2023/07/21",
       "title": "Next.js×TypeScript環境でJest→Vitestに移行してみた",
       "url": "https://zenn.dev/bs_kansai/articles/f45da65cb0a931",
-      "content": "❤️ 23",
-      "likeCount": 23
+      "content": "❤️ 24",
+      "likeCount": 24
     },
     {
       "treeType": "🖋",
@@ -669,8 +669,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
-      "content": "❤️ 352",
-      "likeCount": 352
+      "content": "❤️ 353",
+      "likeCount": 353
     },
     {
       "treeType": "🖋",
@@ -698,8 +698,8 @@ export const TechArticleList = [
       "year": "2023/05/03",
       "title": "Laravel considered harmful 〜SOLID原則にそぐわないLaravelのイマイチな習慣〜",
       "url": "https://zenn.dev/bs_kansai/articles/cc06884a9bce36",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -707,8 +707,8 @@ export const TechArticleList = [
       "year": "2023/05/01",
       "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
       "url": "https://zenn.dev/bs_kansai/articles/71a17cf67d6461",
-      "content": "❤️ 41",
-      "likeCount": 41
+      "content": "❤️ 42",
+      "likeCount": 42
     },
     {
       "treeType": "🖋",
@@ -789,10 +789,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/14",
-    "contributionCount": 2
-  },
   {
     "date": "2024/02/15",
     "contributionCount": 1
@@ -1152,6 +1148,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/14",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/05/15",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1170,8 +1170,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 160",
-    "likeCount": 160
+    "content": "❤️ 172",
+    "likeCount": 172
   },
   {
     "treeType": "🥉",

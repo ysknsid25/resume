@@ -89,7 +89,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1162,
+      "zenn": 1163,
       "qiita": 0
     },
     {
@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 142,
+      "zenn": 143,
       "qiita": 0
     },
     {
@@ -145,22 +145,22 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 167,
-      "qiita": 264
+      "qiita": 267
     },
     {
       "yearMonth": "2024/05",
       "zenn": 0,
-      "qiita": 180
+      "qiita": 184
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2216
+      "favorites": 2218
     },
     {
       "year": "2024",
-      "favorites": 797
+      "favorites": 804
     }
   ]
 };
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 172",
-      "likeCount": 172
+      "content": "❤️ 176",
+      "likeCount": 176
     },
     {
       "treeType": "🖋",
@@ -199,8 +199,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 24",
-      "likeCount": 24
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -219,8 +219,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 202",
-      "likeCount": 202
+      "content": "❤️ 203",
+      "likeCount": 203
     },
     {
       "treeType": "🖋",
@@ -528,8 +528,8 @@ export const TechArticleList = [
       "year": "2023/08/10",
       "title": "VitestでMock, Testing Typesを使ってみよう！",
       "url": "https://zenn.dev/bs_kansai/articles/21962b63727f27",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     },
     {
       "treeType": "🖋",
@@ -651,8 +651,8 @@ export const TechArticleList = [
       "year": "2023/05/14",
       "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
       "url": "https://zenn.dev/bs_kansai/articles/5bfd9987791b0e",
-      "content": "❤️ 79",
-      "likeCount": 79
+      "content": "❤️ 80",
+      "likeCount": 80
     },
     {
       "treeType": "🖋",
@@ -789,10 +789,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/15",
-    "contributionCount": 1
-  },
   {
     "date": "2024/02/16",
     "contributionCount": 1
@@ -1152,6 +1148,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/15",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/05/16",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1161,8 +1161,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 202",
-    "likeCount": 202
+    "content": "❤️ 203",
+    "likeCount": 203
   },
   {
     "treeType": "🥈",
@@ -1170,8 +1170,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 172",
-    "likeCount": 172
+    "content": "❤️ 176",
+    "likeCount": 176
   },
   {
     "treeType": "🥉",

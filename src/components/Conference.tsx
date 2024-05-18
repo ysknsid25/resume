@@ -13,9 +13,9 @@ const contents = [
         treeType: "🎤",
         title: "PHPカンファレンス香川2024",
         year: "2024",
-        img: "cantsee",
-        url: "",
-        content: "Coming soon...",
+        img: "work",
+        url: "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiang-chuan",
+        content: "令和版ソフトウェアエンジニアの情報収集術",
     },
     {
         treeType: "🎤",

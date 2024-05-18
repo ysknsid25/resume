@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "⚡️",
+        title: "なぜAWS S3ではなく Cloudflare R2を選ぶの？",
+        year: "2024",
+        img: "pointed",
+        url: "https://speakerdeck.com/ysknsid25/nazeaws-s3dehanaku-cloudflare-r2woxuan-buno-cloudflare-meet-up-osaka-number-4",
+        content: "Cloudflare Meet-up Osaka #4",
+    },
+    {
+        treeType: "⚡️",
         title: "技術書典15 に初出展する本のご紹介",
         year: "2023",
         img: "here",

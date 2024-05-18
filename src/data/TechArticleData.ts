@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 167,
+      "zenn": 168,
       "qiita": 270
     },
     {
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 810
+      "favorites": 811
     }
   ]
 };
@@ -255,8 +255,8 @@ export const TechArticleList = [
       "year": "2024/04/03",
       "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 26",
+      "likeCount": 26
     }
   ],
   [
@@ -790,10 +790,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/02/17",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/02/18",
     "contributionCount": 2
   },
@@ -891,11 +887,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/03/13",
-    "contributionCount": 5
+    "contributionCount": 6
   },
   {
     "date": "2024/03/14",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/03/15",
@@ -1152,6 +1148,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/17",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/05/18",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

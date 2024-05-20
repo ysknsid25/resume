@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "⚡️",
+        title: "技術書典16 (こ10) で 『はんずおんExposed』を頒布します！",
+        year: "2024",
+        img: "buy",
+        url: "https://speakerdeck.com/ysknsid25/nazeaws-s3dehanaku-cloudflare-r2woxuan-buno-cloudflare-meet-up-osaka-number-4",
+        content: "技術同人誌を紹介LT会",
+    },
+    {
+        treeType: "⚡️",
         title: "なぜAWS S3ではなく Cloudflare R2を選ぶの？",
         year: "2024",
         img: "pointed",

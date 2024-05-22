@@ -134,7 +134,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 128,
+      "zenn": 129,
       "qiita": 0
     },
     {
@@ -149,8 +149,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 24,
-      "qiita": 203
+      "zenn": 27,
+      "qiita": 204
     }
   ],
   "yearFavoritesCounts": [
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 862
+      "favorites": 867
     }
   ]
 };
@@ -172,8 +172,8 @@ export const TechArticleList = [
       "year": "2024/05/21",
       "title": "【技術書典】「はんずおんExposed」を執筆しました。",
       "url": "https://qiita.com/ysknsid25/items/8baa296614644d89dfb2",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 5",
+      "likeCount": 5
     },
     {
       "treeType": "🖋",
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 24",
-      "likeCount": 24
+      "content": "❤️ 27",
+      "likeCount": 27
     },
     {
       "treeType": "🖋",
@@ -293,8 +293,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 112",
-      "likeCount": 112
+      "content": "❤️ 113",
+      "likeCount": 113
     },
     {
       "treeType": "🖋",
@@ -808,10 +808,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/02/21",
-    "contributionCount": 5
-  },
-  {
     "date": "2024/02/22",
     "contributionCount": 1
   },
@@ -1170,6 +1166,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/21",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/05/22",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1197,7 +1197,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 112",
-    "likeCount": 112
+    "content": "❤️ 113",
+    "likeCount": 113
   }
 ];

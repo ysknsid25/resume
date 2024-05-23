@@ -84,7 +84,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 323,
+      "zenn": 324,
       "qiita": 0
     },
     {
@@ -149,18 +149,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 27,
-      "qiita": 204
+      "zenn": 28,
+      "qiita": 207
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2219
+      "favorites": 2220
     },
     {
       "year": "2024",
-      "favorites": 867
+      "favorites": 871
     }
   ]
 };
@@ -181,8 +181,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 27",
-      "likeCount": 27
+      "content": "❤️ 28",
+      "likeCount": 28
     },
     {
       "treeType": "🖋",
@@ -199,8 +199,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 188",
-      "likeCount": 188
+      "content": "❤️ 191",
+      "likeCount": 191
     },
     {
       "treeType": "🖋",
@@ -772,8 +772,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 41",
-      "likeCount": 41
+      "content": "❤️ 42",
+      "likeCount": 42
     }
   ],
   [
@@ -807,10 +807,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/22",
-    "contributionCount": 1
-  },
   {
     "date": "2024/02/23",
     "contributionCount": 1
@@ -1170,6 +1166,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/22",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/05/23",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1188,8 +1188,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 188",
-    "likeCount": 188
+    "content": "❤️ 191",
+    "likeCount": 191
   },
   {
     "treeType": "🥉",

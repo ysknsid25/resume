@@ -145,12 +145,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 277
+      "qiita": 278
     },
     {
       "yearMonth": "2024/05",
       "zenn": 28,
-      "qiita": 214
+      "qiita": 216
     }
   ],
   "yearFavoritesCounts": [
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 826
+      "favorites": 829
     }
   ]
 };
@@ -199,8 +199,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 197",
-      "likeCount": 197
+      "content": "❤️ 199",
+      "likeCount": 199
     },
     {
       "treeType": "🖋",
@@ -219,8 +219,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 31",
-      "likeCount": 31
+      "content": "❤️ 32",
+      "likeCount": 32
     },
     {
       "treeType": "🖋",
@@ -761,10 +761,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/02/25",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/02/26",
     "contributionCount": 1
   },
@@ -830,11 +826,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/03/13",
-    "contributionCount": 5
+    "contributionCount": 6
   },
   {
     "date": "2024/03/14",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/03/15",
@@ -1123,6 +1119,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/25",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/05/26",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1141,8 +1141,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 197",
-    "likeCount": 197
+    "content": "❤️ 199",
+    "likeCount": 199
   },
   {
     "treeType": "🥉",

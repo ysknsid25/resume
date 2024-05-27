@@ -1,4 +1,4 @@
-import blessingsoftware from '../assets/community/blessingsoftware.png'
+import kobets from '../assets/community/kobets.png'
 import ServerSidekt from '../assets/community/ServerSidekt.png'
 
 export const Communities = () => {
@@ -9,8 +9,8 @@ export const Communities = () => {
             </div>
             <div className="grid md:grid-cols-2 grid-cols-1 justify-center items-center gap-2">
                 <div className="flex justify-center items-center">
-                    <a href="https://blessingsoftware.connpass.com/" target="_blank" rel="noopener noreferrer">
-                        <img className="inline-block h-36 w-56" src={blessingsoftware} alt="icon" />
+                    <a href="https://kobets.connpass.com/" target="_blank" rel="noopener noreferrer">
+                        <img className="inline-block h-36 w-56" src={kobets} alt="icon" />
                     </a>
                 </div>
                 <div className="flex justify-center items-center">

@@ -145,7 +145,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 281
+      "qiita": 282
     },
     {
       "yearMonth": "2024/05",
@@ -160,7 +160,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 838
+      "favorites": 839
     }
   ]
 };
@@ -219,8 +219,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 35",
-      "likeCount": 35
+      "content": "❤️ 36",
+      "likeCount": 36
     },
     {
       "treeType": "🖋",
@@ -1122,7 +1122,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/27",
-    "contributionCount": 7
+    "contributionCount": 8
   }
 ];
 export const PopularArticles = [

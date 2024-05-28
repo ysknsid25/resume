@@ -84,12 +84,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 249,
+      "zenn": 250,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 811,
+      "zenn": 812,
       "qiita": 0
     },
     {
@@ -150,17 +150,17 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 28,
-      "qiita": 222
+      "qiita": 226
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1475
+      "favorites": 1477
     },
     {
       "year": "2024",
-      "favorites": 839
+      "favorites": 843
     }
   ]
 };
@@ -199,8 +199,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 205",
-      "likeCount": 205
+      "content": "❤️ 209",
+      "likeCount": 209
     },
     {
       "treeType": "🖋",
@@ -622,8 +622,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 417",
-      "likeCount": 417
+      "content": "❤️ 418",
+      "likeCount": 418
     },
     {
       "treeType": "🖋",
@@ -716,8 +716,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-      "content": "❤️ 134",
-      "likeCount": 134
+      "content": "❤️ 135",
+      "likeCount": 135
     },
     {
       "treeType": "🖋",
@@ -760,10 +760,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/02/27",
-    "contributionCount": 1
-  },
   {
     "date": "2024/02/28",
     "contributionCount": 1
@@ -1123,26 +1119,30 @@ export const GitHubContributions = [
   {
     "date": "2024/05/27",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/05/28",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
   {
     "treeType": "🥇",
     "img": "qiita",
+    "year": "2024/05/01",
+    "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
+    "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
+    "content": "❤️ 209",
+    "likeCount": 209
+  },
+  {
+    "treeType": "🥈",
+    "img": "qiita",
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
     "content": "❤️ 208",
     "likeCount": 208
-  },
-  {
-    "treeType": "🥈",
-    "img": "qiita",
-    "year": "2024/05/01",
-    "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
-    "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 205",
-    "likeCount": 205
   },
   {
     "treeType": "🥉",

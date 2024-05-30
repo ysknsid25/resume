@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "⚡️",
+        title: "ReactにSWRがあるとき🤣 ないとき😭",
+        year: "2024",
+        img: "wai",
+        url: "https://speakerdeck.com/ysknsid25/nazeaws-s3dehanaku-cloudflare-r2woxuan-buno-cloudflare-meet-up-osaka-number-4",
+        content: "クラスメソッドのReact事情大公開スペシャル#3",
+    },
+    {
+        treeType: "⚡️",
         title: "技術書典16 (こ10) で 『はんずおんExposed』を頒布します！",
         year: "2024",
         img: "buy",

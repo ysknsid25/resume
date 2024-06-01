@@ -150,12 +150,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 289
+      "qiita": 290
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 28,
-      "qiita": 243
+      "zenn": 29,
+      "qiita": 244
     },
     {
       "yearMonth": "2024/06",
@@ -170,7 +170,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 868
+      "favorites": 871
     }
   ]
 };
@@ -191,8 +191,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 28",
-      "likeCount": 28
+      "content": "❤️ 29",
+      "likeCount": 29
     },
     {
       "treeType": "🖋",
@@ -209,8 +209,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 225",
-      "likeCount": 225
+      "content": "❤️ 226",
+      "likeCount": 226
     },
     {
       "treeType": "🖋",
@@ -247,8 +247,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 211",
-      "likeCount": 211
+      "content": "❤️ 212",
+      "likeCount": 212
     },
     {
       "treeType": "🖋",
@@ -771,10 +771,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/02/29",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/03/01",
     "contributionCount": 1
   },
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/05/31",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/06/01",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1150,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 225",
-    "likeCount": 225
+    "content": "❤️ 226",
+    "likeCount": 226
   },
   {
     "treeType": "🥈",
@@ -1159,8 +1159,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 211",
-    "likeCount": 211
+    "content": "❤️ 212",
+    "likeCount": 212
   },
   {
     "treeType": "🥉",

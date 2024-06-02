@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 129,
+      "zenn": 130,
       "qiita": 0
     },
     {
@@ -155,7 +155,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 29,
-      "qiita": 244
+      "qiita": 246
     },
     {
       "yearMonth": "2024/06",
@@ -166,11 +166,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1481
+      "favorites": 1482
     },
     {
       "year": "2024",
-      "favorites": 871
+      "favorites": 873
     }
   ]
 };
@@ -209,8 +209,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 226",
-      "likeCount": 226
+      "content": "❤️ 228",
+      "likeCount": 228
     },
     {
       "treeType": "🖋",
@@ -585,8 +585,8 @@ export const TechArticleList = [
       "year": "2023/07/13",
       "title": "VitestでSnapshotテストを試してみる",
       "url": "https://zenn.dev/bs_kansai/articles/943c0c015ed41b",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -770,10 +770,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/01",
-    "contributionCount": 1
-  },
   {
     "date": "2024/03/02",
     "contributionCount": 1
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/01",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/06/02",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1150,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 226",
-    "likeCount": 226
+    "content": "❤️ 228",
+    "likeCount": 228
   },
   {
     "treeType": "🥈",

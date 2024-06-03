@@ -89,7 +89,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 250,
+      "zenn": 251,
       "qiita": 0
     },
     {
@@ -134,7 +134,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 57,
+      "zenn": 56,
       "qiita": 0
     },
     {
@@ -150,12 +150,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 290
+      "qiita": 291
     },
     {
       "yearMonth": "2024/05",
       "zenn": 29,
-      "qiita": 246
+      "qiita": 251
     },
     {
       "yearMonth": "2024/06",
@@ -166,11 +166,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1482
+      "favorites": 1483
     },
     {
       "year": "2024",
-      "favorites": 873
+      "favorites": 878
     }
   ]
 };
@@ -209,8 +209,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 228",
-      "likeCount": 228
+      "content": "❤️ 233",
+      "likeCount": 233
     },
     {
       "treeType": "🖋",
@@ -247,8 +247,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 212",
-      "likeCount": 212
+      "content": "❤️ 213",
+      "likeCount": 213
     },
     {
       "treeType": "🖋",
@@ -332,8 +332,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 19",
-      "likeCount": 19
+      "content": "❤️ 18",
+      "likeCount": 18
     },
     {
       "treeType": "🖋",
@@ -746,8 +746,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
-      "content": "❤️ 42",
-      "likeCount": 42
+      "content": "❤️ 43",
+      "likeCount": 43
     },
     {
       "treeType": "🖋",
@@ -770,10 +770,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/02",
-    "contributionCount": 1
-  },
   {
     "date": "2024/03/03",
     "contributionCount": 4
@@ -816,11 +812,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/03/13",
-    "contributionCount": 5
+    "contributionCount": 6
   },
   {
     "date": "2024/03/14",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/03/15",
@@ -1141,6 +1137,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/02",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/06/03",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1150,8 +1150,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 228",
-    "likeCount": 228
+    "content": "❤️ 233",
+    "likeCount": 233
   },
   {
     "treeType": "🥈",
@@ -1159,8 +1159,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 212",
-    "likeCount": 212
+    "content": "❤️ 213",
+    "likeCount": 213
   },
   {
     "treeType": "🥉",

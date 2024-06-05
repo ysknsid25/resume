@@ -89,7 +89,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 251,
+      "zenn": 252,
       "qiita": 0
     },
     {
@@ -155,7 +155,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 29,
-      "qiita": 253
+      "qiita": 255
     },
     {
       "yearMonth": "2024/06",
@@ -166,11 +166,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1483
+      "favorites": 1484
     },
     {
       "year": "2024",
-      "favorites": 885
+      "favorites": 887
     }
   ]
 };
@@ -218,8 +218,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 235",
-      "likeCount": 235
+      "content": "❤️ 237",
+      "likeCount": 237
     }
   ],
   [
@@ -735,8 +735,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-      "content": "❤️ 135",
-      "likeCount": 135
+      "content": "❤️ 136",
+      "likeCount": 136
     }
   ],
   [
@@ -779,10 +779,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/04",
-    "contributionCount": 1
-  },
   {
     "date": "2024/03/05",
     "contributionCount": 2
@@ -1133,7 +1129,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/31",
-    "contributionCount": 2
+    "contributionCount": 1
   },
   {
     "date": "2024/06/01",
@@ -1150,6 +1146,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/04",
     "contributionCount": 7
+  },
+  {
+    "date": "2024/06/05",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1159,8 +1159,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 235",
-    "likeCount": 235
+    "content": "❤️ 237",
+    "likeCount": 237
   },
   {
     "treeType": "🥈",

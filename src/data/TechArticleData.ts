@@ -94,7 +94,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 812,
+      "zenn": 813,
       "qiita": 0
     },
     {
@@ -150,7 +150,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 291
+      "qiita": 292
     },
     {
       "yearMonth": "2024/05",
@@ -159,18 +159,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 11,
+      "zenn": 15,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1484
+      "favorites": 1485
     },
     {
       "year": "2024",
-      "favorites": 896
+      "favorites": 901
     }
   ]
 };
@@ -182,8 +182,8 @@ export const TechArticleList = [
       "year": "2024/06/06",
       "title": "VitestでMockを使うための逆引きレシピ集",
       "url": "https://zenn.dev/bs_kansai/articles/a5a22aa43aa46b",
-      "content": "❤️ 6",
-      "likeCount": 6
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -265,8 +265,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 213",
-      "likeCount": 213
+      "content": "❤️ 214",
+      "likeCount": 214
     }
   ],
   [
@@ -652,8 +652,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 418",
-      "likeCount": 418
+      "content": "❤️ 419",
+      "likeCount": 419
     },
     {
       "treeType": "🖋",
@@ -788,10 +788,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/06",
-    "contributionCount": 3
-  },
   {
     "date": "2024/03/07",
     "contributionCount": 4
@@ -1159,6 +1155,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/06",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/06/07",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1177,8 +1177,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 213",
-    "likeCount": 213
+    "content": "❤️ 214",
+    "likeCount": 214
   },
   {
     "treeType": "🥉",

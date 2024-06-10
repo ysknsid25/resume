@@ -159,8 +159,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 20,
-      "qiita": 8
+      "zenn": 21,
+      "qiita": 10
     }
   ],
   "yearFavoritesCounts": [
@@ -170,7 +170,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 917
+      "favorites": 920
     }
   ]
 };
@@ -182,8 +182,8 @@ export const TechArticleList = [
       "year": "2024/06/08",
       "title": "VitestでMockを使うための逆引きレシピ集",
       "url": "https://qiita.com/ysknsid25/items/c346c44bdfdddf0cff3f",
-      "content": "❤️ 8",
-      "likeCount": 8
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -191,8 +191,8 @@ export const TechArticleList = [
       "year": "2024/06/06",
       "title": "VitestでMockを使うための逆引きレシピ集",
       "url": "https://zenn.dev/bs_kansai/articles/a5a22aa43aa46b",
-      "content": "❤️ 15",
-      "likeCount": 15
+      "content": "❤️ 16",
+      "likeCount": 16
     },
     {
       "treeType": "🖋",
@@ -800,10 +800,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/03/09",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/03/10",
     "contributionCount": 0
   },
@@ -817,11 +813,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/03/13",
-    "contributionCount": 6
+    "contributionCount": 5
   },
   {
     "date": "2024/03/14",
-    "contributionCount": 6
+    "contributionCount": 7
   },
   {
     "date": "2024/03/15",
@@ -1170,6 +1166,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/09",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/06/10",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

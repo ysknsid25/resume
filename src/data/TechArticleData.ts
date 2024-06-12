@@ -154,8 +154,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 29,
-      "qiita": 263
+      "zenn": 30,
+      "qiita": 266
     },
     {
       "yearMonth": "2024/06",
@@ -170,7 +170,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 934
+      "favorites": 938
     }
   ]
 };
@@ -229,8 +229,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 29",
-      "likeCount": 29
+      "content": "❤️ 30",
+      "likeCount": 30
     },
     {
       "treeType": "🖋",
@@ -247,8 +247,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 245",
-      "likeCount": 245
+      "content": "❤️ 248",
+      "likeCount": 248
     },
     {
       "treeType": "🖋",
@@ -809,10 +809,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/03/11",
-    "contributionCount": 5
-  },
-  {
     "date": "2024/03/12",
     "contributionCount": 0
   },
@@ -1178,7 +1174,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/11",
-    "contributionCount": 7
+    "contributionCount": 14
+  },
+  {
+    "date": "2024/06/12",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1188,8 +1188,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 245",
-    "likeCount": 245
+    "content": "❤️ 248",
+    "likeCount": 248
   },
   {
     "treeType": "🥈",

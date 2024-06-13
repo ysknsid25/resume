@@ -89,7 +89,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 252,
+      "zenn": 253,
       "qiita": 0
     },
     {
@@ -109,7 +109,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 143,
+      "zenn": 144,
       "qiita": 0
     },
     {
@@ -134,7 +134,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 57,
+      "zenn": 58,
       "qiita": 0
     },
     {
@@ -150,12 +150,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 293
+      "qiita": 294
     },
     {
       "yearMonth": "2024/05",
       "zenn": 30,
-      "qiita": 266
+      "qiita": 269
     },
     {
       "yearMonth": "2024/06",
@@ -166,11 +166,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1485
+      "favorites": 1487
     },
     {
       "year": "2024",
-      "favorites": 938
+      "favorites": 943
     }
   ]
 };
@@ -247,8 +247,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 248",
-      "likeCount": 248
+      "content": "❤️ 251",
+      "likeCount": 251
     },
     {
       "treeType": "🖋",
@@ -285,8 +285,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 215",
-      "likeCount": 215
+      "content": "❤️ 216",
+      "likeCount": 216
     },
     {
       "treeType": "🖋",
@@ -359,8 +359,8 @@ export const TechArticleList = [
       "year": "2024/01/11",
       "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
       "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
-      "content": "❤️ 38",
-      "likeCount": 38
+      "content": "❤️ 39",
+      "likeCount": 39
     }
   ],
   [
@@ -576,8 +576,8 @@ export const TechArticleList = [
       "year": "2023/08/10",
       "title": "VitestでMock, Testing Typesを使ってみよう！",
       "url": "https://zenn.dev/bs_kansai/articles/21962b63727f27",
-      "content": "❤️ 13",
-      "likeCount": 13
+      "content": "❤️ 14",
+      "likeCount": 14
     },
     {
       "treeType": "🖋",
@@ -802,16 +802,12 @@ export const TechArticleList = [
       "year": "2023/04/07",
       "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
       "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     }
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/12",
-    "contributionCount": 0
-  },
   {
     "date": "2024/03/13",
     "contributionCount": 6
@@ -1022,7 +1018,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/04",
-    "contributionCount": 5
+    "contributionCount": 4
   },
   {
     "date": "2024/05/05",
@@ -1106,7 +1102,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/25",
-    "contributionCount": 4
+    "contributionCount": 3
   },
   {
     "date": "2024/05/26",
@@ -1114,7 +1110,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/27",
-    "contributionCount": 8
+    "contributionCount": 7
   },
   {
     "date": "2024/05/28",
@@ -1158,7 +1154,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/07",
-    "contributionCount": 3
+    "contributionCount": 2
   },
   {
     "date": "2024/06/08",
@@ -1179,6 +1175,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/12",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/06/13",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1188,8 +1188,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 248",
-    "likeCount": 248
+    "content": "❤️ 251",
+    "likeCount": 251
   },
   {
     "treeType": "🥈",
@@ -1197,8 +1197,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 215",
-    "likeCount": 215
+    "content": "❤️ 216",
+    "likeCount": 216
   },
   {
     "treeType": "🥉",

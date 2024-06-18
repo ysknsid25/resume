@@ -94,7 +94,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 813,
+      "zenn": 814,
       "qiita": 0
     },
     {
@@ -134,12 +134,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 58,
+      "zenn": 59,
       "qiita": 0
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 132,
+      "zenn": 133,
       "qiita": 0
     },
     {
@@ -154,8 +154,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 31,
-      "qiita": 275
+      "zenn": 32,
+      "qiita": 276
     },
     {
       "yearMonth": "2024/06",
@@ -166,11 +166,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1488
+      "favorites": 1489
     },
     {
       "year": "2024",
-      "favorites": 961
+      "favorites": 965
     }
   ]
 };
@@ -238,8 +238,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 31",
-      "likeCount": 31
+      "content": "❤️ 32",
+      "likeCount": 32
     },
     {
       "treeType": "🖋",
@@ -256,8 +256,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 257",
-      "likeCount": 257
+      "content": "❤️ 258",
+      "likeCount": 258
     },
     {
       "treeType": "🖋",
@@ -341,8 +341,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 116",
-      "likeCount": 116
+      "content": "❤️ 117",
+      "likeCount": 117
     },
     {
       "treeType": "🖋",
@@ -379,8 +379,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 19",
-      "likeCount": 19
+      "content": "❤️ 20",
+      "likeCount": 20
     },
     {
       "treeType": "🖋",
@@ -679,8 +679,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 419",
-      "likeCount": 419
+      "content": "❤️ 420",
+      "likeCount": 420
     },
     {
       "treeType": "🖋",
@@ -817,10 +817,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/17",
-    "contributionCount": 15
-  },
   {
     "date": "2024/03/18",
     "contributionCount": 0
@@ -1187,7 +1183,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/17",
-    "contributionCount": 9
+    "contributionCount": 12
+  },
+  {
+    "date": "2024/06/18",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1197,8 +1197,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 257",
-    "likeCount": 257
+    "content": "❤️ 258",
+    "likeCount": 258
   },
   {
     "treeType": "🥈",
@@ -1215,7 +1215,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 116",
-    "likeCount": 116
+    "content": "❤️ 117",
+    "likeCount": 117
   }
 ];

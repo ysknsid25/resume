@@ -89,12 +89,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 256,
+      "zenn": 254,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 816,
+      "zenn": 814,
       "qiita": 0
     },
     {
@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 134,
+      "zenn": 133,
       "qiita": 0
     },
     {
@@ -159,18 +159,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 157,
+      "zenn": 167,
       "qiita": 17
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1497
+      "favorites": 1493
     },
     {
       "year": "2024",
-      "favorites": 1096
+      "favorites": 1105
     }
   ]
 };
@@ -182,8 +182,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 107",
-      "likeCount": 107
+      "content": "❤️ 117",
+      "likeCount": 117
     },
     {
       "treeType": "🖋",
@@ -359,8 +359,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 118",
-      "likeCount": 118
+      "content": "❤️ 117",
+      "likeCount": 117
     }
   ],
   [
@@ -755,8 +755,8 @@ export const TechArticleList = [
       "year": "2023/05/03",
       "title": "Laravel considered harmful 〜SOLID原則にそぐわないLaravelのイマイチな習慣〜",
       "url": "https://zenn.dev/yskn_sid25/articles/cc06884a9bce36",
-      "content": "❤️ 26",
-      "likeCount": 26
+      "content": "❤️ 25",
+      "likeCount": 25
     },
     {
       "treeType": "🖋",
@@ -764,8 +764,8 @@ export const TechArticleList = [
       "year": "2023/05/01",
       "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
-      "content": "❤️ 42",
-      "likeCount": 42
+      "content": "❤️ 41",
+      "likeCount": 41
     },
     {
       "treeType": "🖋",
@@ -793,8 +793,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 137",
-      "likeCount": 137
+      "content": "❤️ 136",
+      "likeCount": 136
     },
     {
       "treeType": "🖋",
@@ -811,8 +811,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 45",
-      "likeCount": 45
+      "content": "❤️ 44",
+      "likeCount": 44
     },
     {
       "treeType": "🖋",
@@ -835,10 +835,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/22",
-    "contributionCount": 0
-  },
   {
     "date": "2024/03/23",
     "contributionCount": 17
@@ -1161,7 +1157,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/11",
-    "contributionCount": 14
+    "contributionCount": 13
   },
   {
     "date": "2024/06/12",
@@ -1206,6 +1202,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/22",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/06/23",
+    "contributionCount": 8
   }
 ];
 export const PopularArticles = [
@@ -1230,10 +1230,10 @@ export const PopularArticles = [
   {
     "treeType": "🥉",
     "img": "zenn",
-    "year": "2024/02/24",
-    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
-    "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 118",
-    "likeCount": 118
+    "year": "2024/06/20",
+    "title": "<T, K extends keyof T> をちゃんと理解する",
+    "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
+    "content": "❤️ 117",
+    "likeCount": 117
   }
 ];

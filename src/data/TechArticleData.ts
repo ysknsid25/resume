@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 130,
+      "zenn": 131,
       "qiita": 0
     },
     {
@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 133,
+      "zenn": 134,
       "qiita": 0
     },
     {
@@ -150,7 +150,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 294
+      "qiita": 295
     },
     {
       "yearMonth": "2024/05",
@@ -159,18 +159,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 190,
+      "zenn": 213,
       "qiita": 19
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1493
+      "favorites": 1494
     },
     {
       "year": "2024",
-      "favorites": 1131
+      "favorites": 1156
     }
   ]
 };
@@ -182,8 +182,8 @@ export const TechArticleList = [
       "year": "2024/06/24",
       "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
-      "content": "❤️ 13",
-      "likeCount": 13
+      "content": "❤️ 35",
+      "likeCount": 35
     },
     {
       "treeType": "🖋",
@@ -218,8 +218,8 @@ export const TechArticleList = [
       "year": "2024/06/14",
       "title": "useSWRをuseContextの代わりに使ってみる試み",
       "url": "https://zenn.dev/bs_kansai/articles/a015ffbadb0793",
-      "content": "❤️ 13",
-      "likeCount": 13
+      "content": "❤️ 14",
+      "likeCount": 14
     }
   ],
   [
@@ -323,8 +323,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 216",
-      "likeCount": 216
+      "content": "❤️ 217",
+      "likeCount": 217
     },
     {
       "treeType": "🖋",
@@ -370,8 +370,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 117",
-      "likeCount": 117
+      "content": "❤️ 118",
+      "likeCount": 118
     },
     {
       "treeType": "🖋",
@@ -670,8 +670,8 @@ export const TechArticleList = [
       "year": "2023/07/10",
       "title": "React×TypeScriptではじめるVitest",
       "url": "https://zenn.dev/bs_kansai/articles/b79d97a8f921d6",
-      "content": "❤️ 47",
-      "likeCount": 47
+      "content": "❤️ 48",
+      "likeCount": 48
     },
     {
       "treeType": "🖋",
@@ -846,10 +846,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/03/24",
-    "contributionCount": 2
-  },
   {
     "date": "2024/03/25",
     "contributionCount": 1
@@ -1084,11 +1080,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/05/22",
-    "contributionCount": 1
+    "contributionCount": 2
   },
   {
     "date": "2024/05/23",
-    "contributionCount": 4
+    "contributionCount": 6
   },
   {
     "date": "2024/05/24",
@@ -1188,7 +1184,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/17",
-    "contributionCount": 12
+    "contributionCount": 11
   },
   {
     "date": "2024/06/18",
@@ -1217,6 +1213,10 @@ export const GitHubContributions = [
   {
     "date": "2024/06/24",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/06/25",
+    "contributionCount": 13
   }
 ];
 export const PopularArticles = [
@@ -1235,8 +1235,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 216",
-    "likeCount": 216
+    "content": "❤️ 217",
+    "likeCount": 217
   },
   {
     "treeType": "🥉",

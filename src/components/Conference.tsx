@@ -5,9 +5,9 @@ const contents = [
         treeType: "🎤",
         title: "PHPカンファレンス福岡2024",
         year: "2024",
-        img: "cantsee",
-        url: "",
-        content: "Coming soon...",
+        img: "wai",
+        url: "https://speakerdeck.com/ysknsid25/websabatophpshi-xing-fang-shi-wo-kitintoli-jie-sitephprantaimuwo-shi-qie-nishi-ifen-keru-phpkanhuarensufu-gang-2024",
+        content: "WebサーバーとPHP実行方式を きちんと理解してPHPランタイムを 適切に使い分ける",
     },
     {
         treeType: "🎤",

@@ -33,14 +33,14 @@ const contents = [
     //     url: "https://speakerdeck.com/ysknsid25/eslint-plugin-securitywodao-ru-site-di-lao-li-dejian-lao-nakodowozuo-ru",
     //     content: "Kobe Engineer SakeBash #3 with HACK.BAR",
     // },
-    // {
-    //     treeType: "⚡️",
-    //     title: "ChatGPT Visionで色々実験したまとめ",
-    //     year: "2024",
-    //     img: "",
-    //     url: "https://speakerdeck.com/ysknsid25/chatgpt-visiondese-shi-yan-sitamatome-kobe-engineer-sakebash-number-3-with-hack-dot-bar",
-    //     content: "nakanoshima.dev #37 セキュリティLT大会　～そもそもみんな何をしてる？～",
-    // },
+    {
+        treeType: "⚡️",
+        title: "ChatGPT Visionで色々実験したまとめ",
+        year: "2024",
+        img: "",
+        url: "https://speakerdeck.com/ysknsid25/chatgpt-visiondese-shi-yan-sitamatome-kobe-engineer-sakebash-number-3-with-hack-dot-bar",
+        content: "nakanoshima.dev #37 セキュリティLT大会　～そもそもみんな何をしてる？～",
+    },
     {
         treeType: "⚡️",
         title: "Nest.jsを使ってみたら とても開発体験がよかった話",

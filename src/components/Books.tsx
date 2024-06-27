@@ -6,8 +6,8 @@ const contents = [
         title: "技術書典16",
         year: "2024",
         img: "techbookfest",
-        url: "",
-        content: "coming soon...",
+        url: "https://techbookfest.org/product/6GsWPHVz5zPvetaki3GEQq?productVariantID=wA07ECFtpTXpng3ETDdKvS",
+        content: "はんずおんExposed",
     },
     {
         treeType: "📕",

@@ -7,7 +7,7 @@ const contents = [
         year: "2024 - 現在",
         img: "hitocolor",
         url: "https://www.hitocolor.co.jp/",
-        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。機能開発だけでなく既存テストコードのカバレッジ改善、DXや脆弱性など非機能面での改善のお手伝いもしています。",
+        content: "Next.js+LaravelでのWebアプリケーション開発を行なっています。機能開発だけでなく既存テストコードのカバレッジ改善、DXや脆弱性など非機能面での改善のお手伝いもしています。またNest.js×LangChainを利用したマイクロサービスの全体的な技術選定・構築・実装までも担当しています。",
     },
 ]
 

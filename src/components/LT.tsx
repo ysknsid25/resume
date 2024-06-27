@@ -37,7 +37,7 @@ const contents = [
         treeType: "⚡️",
         title: "ChatGPT Visionで色々実験したまとめ",
         year: "2024",
-        img: "",
+        img: "spana",
         url: "https://speakerdeck.com/ysknsid25/chatgpt-visiondese-shi-yan-sitamatome-kobe-engineer-sakebash-number-3-with-hack-dot-bar",
         content: "nakanoshima.dev #37 セキュリティLT大会　～そもそもみんな何をしてる？～",
     },

@@ -74,6 +74,11 @@ export const TechArticleData = {
       "yearMonth": "2024/06",
       "zenn": 9,
       "qiita": 1
+    },
+    {
+      "yearMonth": "2024/07",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearArticleCounts": [
@@ -159,8 +164,13 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 259,
+      "zenn": 260,
       "qiita": 19
+    },
+    {
+      "yearMonth": "2024/07",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
@@ -170,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1210
+      "favorites": 1211
     }
   ]
 };
@@ -200,8 +210,8 @@ export const TechArticleList = [
       "year": "2024/06/24",
       "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
-      "content": "❤️ 53",
-      "likeCount": 53
+      "content": "❤️ 54",
+      "likeCount": 54
     },
     {
       "treeType": "🖋",
@@ -865,10 +875,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/03/30",
-    "contributionCount": 19
-  },
-  {
     "date": "2024/03/31",
     "contributionCount": 0
   },
@@ -1234,7 +1240,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/30",
-    "contributionCount": 5
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [

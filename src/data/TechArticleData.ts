@@ -160,11 +160,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 292
+      "qiita": 293
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 262,
+      "zenn": 265,
       "qiita": 19
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1217
+      "favorites": 1221
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 16",
-      "likeCount": 16
+      "content": "❤️ 18",
+      "likeCount": 18
     },
     {
       "treeType": "🖋",
@@ -219,8 +219,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 132",
-      "likeCount": 132
+      "content": "❤️ 133",
+      "likeCount": 133
     },
     {
       "treeType": "🖋",
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 274",
-      "likeCount": 274
+      "content": "❤️ 275",
+      "likeCount": 275
     },
     {
       "treeType": "🖋",
@@ -875,10 +875,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/02",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/04/03",
     "contributionCount": 6
   },
@@ -1241,6 +1237,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/02",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/03",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1250,8 +1250,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 274",
-    "likeCount": 274
+    "content": "❤️ 275",
+    "likeCount": 275
   },
   {
     "treeType": "🥈",
@@ -1268,7 +1268,7 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 132",
-    "likeCount": 132
+    "content": "❤️ 133",
+    "likeCount": 133
   }
 ];

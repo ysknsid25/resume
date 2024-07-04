@@ -94,7 +94,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 255,
+      "zenn": 256,
       "qiita": 0
     },
     {
@@ -160,7 +160,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 293
+      "qiita": 296
     },
     {
       "yearMonth": "2024/06",
@@ -176,11 +176,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1499
+      "favorites": 1500
     },
     {
       "year": "2024",
-      "favorites": 1221
+      "favorites": 1224
     }
   ]
 };
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 275",
-      "likeCount": 275
+      "content": "❤️ 278",
+      "likeCount": 278
     },
     {
       "treeType": "🖋",
@@ -850,8 +850,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 44",
-      "likeCount": 44
+      "content": "❤️ 45",
+      "likeCount": 45
     },
     {
       "treeType": "🖋",
@@ -874,10 +874,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/03",
-    "contributionCount": 6
-  },
   {
     "date": "2024/04/04",
     "contributionCount": 1
@@ -1240,7 +1236,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/03",
-    "contributionCount": 4
+    "contributionCount": 3
+  },
+  {
+    "date": "2024/07/04",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1250,8 +1250,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 275",
-    "likeCount": 275
+    "content": "❤️ 278",
+    "likeCount": 278
   },
   {
     "treeType": "🥈",

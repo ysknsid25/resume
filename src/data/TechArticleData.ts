@@ -160,11 +160,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 296
+      "qiita": 298
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 265,
+      "zenn": 266,
       "qiita": 19
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1224
+      "favorites": 1227
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 18",
-      "likeCount": 18
+      "content": "❤️ 19",
+      "likeCount": 19
     },
     {
       "treeType": "🖋",
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 278",
-      "likeCount": 278
+      "content": "❤️ 280",
+      "likeCount": 280
     },
     {
       "treeType": "🖋",
@@ -875,10 +875,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/04",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/04/05",
     "contributionCount": 1
   },
@@ -1236,11 +1232,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/03",
-    "contributionCount": 3
+    "contributionCount": 6
   },
   {
     "date": "2024/07/04",
-    "contributionCount": 2
+    "contributionCount": 6
+  },
+  {
+    "date": "2024/07/05",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1250,8 +1250,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 278",
-    "likeCount": 278
+    "content": "❤️ 280",
+    "likeCount": 280
   },
   {
     "treeType": "🥈",

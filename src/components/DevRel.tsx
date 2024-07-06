@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "🤝",
+        title: "神戸での勉強会コミュニティ・Kobe.tsを立ち上げ",
+        year: "2024",
+        img: "ehhen",
+        url: "https://kobets.connpass.com/",
+        content: "神戸のソフトウェアエンジニアに勉強会の場を提供するべく立ち上げ",
+    },
+    {
+        treeType: "🤝",
         title: "『技術同人誌を紹介LT会』を企画・主催",
         year: "2024",
         img: "buy",

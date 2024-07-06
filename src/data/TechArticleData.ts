@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 59,
+      "zenn": 58,
       "qiita": 0
     },
     {
@@ -160,11 +160,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 298
+      "qiita": 299
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 266,
+      "zenn": 267,
       "qiita": 19
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1227
+      "favorites": 1228
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 19",
-      "likeCount": 19
+      "content": "❤️ 20",
+      "likeCount": 20
     },
     {
       "treeType": "🖋",
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 280",
-      "likeCount": 280
+      "content": "❤️ 281",
+      "likeCount": 281
     },
     {
       "treeType": "🖋",
@@ -427,8 +427,8 @@ export const TechArticleList = [
       "year": "2024/01/11",
       "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
       "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
-      "content": "❤️ 39",
-      "likeCount": 39
+      "content": "❤️ 38",
+      "likeCount": 38
     },
     {
       "treeType": "🖋",
@@ -875,10 +875,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/05",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/04/06",
     "contributionCount": 0
   },
@@ -1241,6 +1237,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/05",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/06",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1250,8 +1250,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 280",
-    "likeCount": 280
+    "content": "❤️ 281",
+    "likeCount": 281
   },
   {
     "treeType": "🥈",

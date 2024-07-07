@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 58,
+      "zenn": 59,
       "qiita": 0
     },
     {
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 266,
+      "zenn": 268,
       "qiita": 19
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1227
+      "favorites": 1230
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 20",
-      "likeCount": 20
+      "content": "❤️ 21",
+      "likeCount": 21
     },
     {
       "treeType": "🖋",
@@ -210,8 +210,8 @@ export const TechArticleList = [
       "year": "2024/06/24",
       "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
-      "content": "❤️ 55",
-      "likeCount": 55
+      "content": "❤️ 56",
+      "likeCount": 56
     },
     {
       "treeType": "🖋",
@@ -427,8 +427,8 @@ export const TechArticleList = [
       "year": "2024/01/11",
       "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
       "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
-      "content": "❤️ 38",
-      "likeCount": 38
+      "content": "❤️ 39",
+      "likeCount": 39
     },
     {
       "treeType": "🖋",
@@ -875,10 +875,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/06",
-    "contributionCount": 0
-  },
-  {
     "date": "2024/04/07",
     "contributionCount": 0
   },
@@ -1241,6 +1237,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/06",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/07/07",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

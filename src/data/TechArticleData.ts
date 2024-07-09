@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 134,
+      "zenn": 135,
       "qiita": 0
     },
     {
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 268,
+      "zenn": 270,
       "qiita": 19
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1230
+      "favorites": 1233
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 21",
-      "likeCount": 21
+      "content": "❤️ 23",
+      "likeCount": 23
     },
     {
       "treeType": "🖋",
@@ -398,8 +398,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 118",
-      "likeCount": 118
+      "content": "❤️ 119",
+      "likeCount": 119
     },
     {
       "treeType": "🖋",
@@ -875,10 +875,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/08",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/04/09",
     "contributionCount": 1
   },
@@ -1240,6 +1236,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/08",
+    "contributionCount": 2
+  },
+  {
+    "date": "2024/07/09",
     "contributionCount": 2
   }
 ];

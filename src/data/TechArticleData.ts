@@ -94,7 +94,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 256,
+      "zenn": 257,
       "qiita": 0
     },
     {
@@ -155,7 +155,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 297
+      "qiita": 298
     },
     {
       "yearMonth": "2024/05",
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 270,
+      "zenn": 273,
       "qiita": 19
     },
     {
@@ -176,11 +176,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1500
+      "favorites": 1501
     },
     {
       "year": "2024",
-      "favorites": 1233
+      "favorites": 1237
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 23",
-      "likeCount": 23
+      "content": "❤️ 24",
+      "likeCount": 24
     },
     {
       "treeType": "🖋",
@@ -210,8 +210,8 @@ export const TechArticleList = [
       "year": "2024/06/24",
       "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
-      "content": "❤️ 56",
-      "likeCount": 56
+      "content": "❤️ 57",
+      "likeCount": 57
     },
     {
       "treeType": "🖋",
@@ -219,8 +219,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 132",
-      "likeCount": 132
+      "content": "❤️ 133",
+      "likeCount": 133
     },
     {
       "treeType": "🖋",
@@ -351,8 +351,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 219",
-      "likeCount": 219
+      "content": "❤️ 220",
+      "likeCount": 220
     },
     {
       "treeType": "🖋",
@@ -830,8 +830,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 137",
-      "likeCount": 137
+      "content": "❤️ 138",
+      "likeCount": 138
     },
     {
       "treeType": "🖋",
@@ -874,10 +874,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/09",
-    "contributionCount": 1
-  },
   {
     "date": "2024/04/10",
     "contributionCount": 6
@@ -1236,11 +1232,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/08",
-    "contributionCount": 2
+    "contributionCount": 12
   },
   {
     "date": "2024/07/09",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/07/10",
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [
@@ -1259,8 +1259,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 219",
-    "likeCount": 219
+    "content": "❤️ 220",
+    "likeCount": 220
   },
   {
     "treeType": "🥉",
@@ -1268,7 +1268,7 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 132",
-    "likeCount": 132
+    "content": "❤️ 133",
+    "likeCount": 133
   }
 ];

@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 7,
+      "zenn": 9,
       "qiita": 0
     }
   ],
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1249
+      "favorites": 1251
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/07/12",
       "title": "Kotlin DataFrameを使えばCSVやJSONをいい感じに扱えそう",
       "url": "https://zenn.dev/yskn_sid25/articles/5f690bf86cad25",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 9",
+      "likeCount": 9
     },
     {
       "treeType": "🖋",
@@ -884,10 +884,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/12",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/04/13",
     "contributionCount": 0
   },
@@ -1250,6 +1246,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/12",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/07/13",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

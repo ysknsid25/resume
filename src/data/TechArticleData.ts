@@ -94,7 +94,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 257,
+      "zenn": 259,
       "qiita": 0
     },
     {
@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/03",
-      "zenn": 5,
+      "zenn": 6,
       "qiita": 0
     },
     {
@@ -160,7 +160,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 302
+      "qiita": 303
     },
     {
       "yearMonth": "2024/06",
@@ -176,11 +176,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1503
+      "favorites": 1505
     },
     {
       "year": "2024",
-      "favorites": 1251
+      "favorites": 1253
     }
   ]
 };
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 284",
-      "likeCount": 284
+      "content": "❤️ 285",
+      "likeCount": 285
     }
   ],
   [
@@ -398,8 +398,8 @@ export const TechArticleList = [
       "year": "2024/03/04",
       "title": "Laravel(Pest)でInfectionを利用したMutation Testingを試してみる",
       "url": "https://zenn.dev/yskn_sid25/articles/3a198f77e60d40",
-      "content": "❤️ 5",
-      "likeCount": 5
+      "content": "❤️ 6",
+      "likeCount": 6
     },
     {
       "treeType": "🖋",
@@ -839,8 +839,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 138",
-      "likeCount": 138
+      "content": "❤️ 140",
+      "likeCount": 140
     }
   ],
   [
@@ -883,10 +883,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/13",
-    "contributionCount": 0
-  },
   {
     "date": "2024/04/14",
     "contributionCount": 0
@@ -1250,6 +1246,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/13",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/07/14",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1259,8 +1259,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 284",
-    "likeCount": 284
+    "content": "❤️ 285",
+    "likeCount": 285
   },
   {
     "treeType": "🥈",

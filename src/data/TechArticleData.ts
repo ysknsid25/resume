@@ -160,16 +160,16 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 303
+      "qiita": 305
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 277,
+      "zenn": 279,
       "qiita": 19
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 94,
+      "zenn": 117,
       "qiita": 0
     }
   ],
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1342
+      "favorites": 1369
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 83",
-      "likeCount": 83
+      "content": "❤️ 106",
+      "likeCount": 106
     },
     {
       "treeType": "🖋",
@@ -239,8 +239,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 136",
-      "likeCount": 136
+      "content": "❤️ 138",
+      "likeCount": 138
     },
     {
       "treeType": "🖋",
@@ -333,8 +333,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 285",
-      "likeCount": 285
+      "content": "❤️ 287",
+      "likeCount": 287
     },
     {
       "treeType": "🖋",
@@ -893,10 +893,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/16",
-    "contributionCount": 8
-  },
-  {
     "date": "2024/04/17",
     "contributionCount": 4
   },
@@ -1259,6 +1255,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/16",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/17",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1268,8 +1268,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 285",
-    "likeCount": 285
+    "content": "❤️ 287",
+    "likeCount": 287
   },
   {
     "treeType": "🥈",
@@ -1286,7 +1286,7 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 136",
-    "likeCount": 136
+    "content": "❤️ 138",
+    "likeCount": 138
   }
 ];

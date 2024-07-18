@@ -99,7 +99,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 819,
+      "zenn": 820,
       "qiita": 0
     },
     {
@@ -155,7 +155,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 298
+      "qiita": 299
     },
     {
       "yearMonth": "2024/05",
@@ -164,23 +164,23 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 279,
+      "zenn": 282,
       "qiita": 19
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 117,
+      "zenn": 129,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1505
+      "favorites": 1506
     },
     {
       "year": "2024",
-      "favorites": 1369
+      "favorites": 1385
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 106",
-      "likeCount": 106
+      "content": "❤️ 118",
+      "likeCount": 118
     },
     {
       "treeType": "🖋",
@@ -210,8 +210,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 24",
-      "likeCount": 24
+      "content": "❤️ 25",
+      "likeCount": 25
     },
     {
       "treeType": "🖋",
@@ -228,8 +228,8 @@ export const TechArticleList = [
       "year": "2024/06/24",
       "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
-      "content": "❤️ 58",
-      "likeCount": 58
+      "content": "❤️ 59",
+      "likeCount": 59
     }
   ],
   [
@@ -239,8 +239,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 138",
-      "likeCount": 138
+      "content": "❤️ 139",
+      "likeCount": 139
     },
     {
       "treeType": "🖋",
@@ -351,8 +351,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 40",
-      "likeCount": 40
+      "content": "❤️ 41",
+      "likeCount": 41
     },
     {
       "treeType": "🖋",
@@ -756,8 +756,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 424",
-      "likeCount": 424
+      "content": "❤️ 425",
+      "likeCount": 425
     },
     {
       "treeType": "🖋",
@@ -892,10 +892,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/17",
-    "contributionCount": 4
-  },
   {
     "date": "2024/04/18",
     "contributionCount": 6
@@ -1259,6 +1255,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/17",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/18",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1286,7 +1286,7 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 138",
-    "likeCount": 138
+    "content": "❤️ 139",
+    "likeCount": 139
   }
 ];

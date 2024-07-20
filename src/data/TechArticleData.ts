@@ -155,7 +155,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 299
+      "qiita": 300
     },
     {
       "yearMonth": "2024/05",
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1392
+      "favorites": 1393
     }
   ]
 };
@@ -369,8 +369,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 220",
-      "likeCount": 220
+      "content": "❤️ 221",
+      "likeCount": 221
     }
   ],
   [
@@ -904,10 +904,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/19",
-    "contributionCount": 10
-  },
-  {
     "date": "2024/04/20",
     "contributionCount": 17
   },
@@ -1270,6 +1266,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/19",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/07/20",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1288,8 +1288,8 @@ export const PopularArticles = [
     "year": "2024/04/20",
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "content": "❤️ 220",
-    "likeCount": 220
+    "content": "❤️ 221",
+    "likeCount": 221
   },
   {
     "treeType": "🥉",

@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 60,
+      "zenn": 61,
       "qiita": 0
     },
     {
@@ -160,7 +160,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 306
+      "qiita": 307
     },
     {
       "yearMonth": "2024/06",
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1393
+      "favorites": 1395
     }
   ]
 };
@@ -333,8 +333,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 288",
-      "likeCount": 288
+      "content": "❤️ 289",
+      "likeCount": 289
     },
     {
       "treeType": "🖋",
@@ -454,8 +454,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 21",
-      "likeCount": 21
+      "content": "❤️ 22",
+      "likeCount": 22
     },
     {
       "treeType": "🖋",
@@ -904,10 +904,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/20",
-    "contributionCount": 17
-  },
-  {
     "date": "2024/04/21",
     "contributionCount": 8
   },
@@ -1270,6 +1266,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/20",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/21",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1279,8 +1279,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 288",
-    "likeCount": 288
+    "content": "❤️ 289",
+    "likeCount": 289
   },
   {
     "treeType": "🥈",

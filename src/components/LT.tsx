@@ -1,14 +1,22 @@
 import { Tree } from "./Tree/Tree"
 
 const contents = [
-    // {
-    //     treeType: "⚡️",
-    //     title: "個人開発のモチベーションと作ったものたち",
-    //     year: "2024",
-    //     img: "",
-    //     url: "https://speakerdeck.com/ysknsid25/ge-ren-kai-fa-nomotibesiyontozuo-tutamonotati",
-    //     content: "Helpfeelさん主催の【オフライン開催 in 京都】個人開発祭り #4【配信もあり】",
-    // },
+    {
+        treeType: "⚡️",
+        title: "ぼっち・ざ・りもーと！〜フルリモならオフラインLTをやれ！〜",
+        year: "2024",
+        img: "wai",
+        url: "https://speakerdeck.com/ysknsid25/botutizarimoto-hururimonaraohurainlthexing-ke",
+        content: "地方でエンジニアとして活躍するためのLT会",
+    },
+    {
+        treeType: "⚡️",
+        title: "個人開発のモチベーションと作ったものたち",
+        year: "2024",
+        img: "wai",
+        url: "https://speakerdeck.com/ysknsid25/ge-ren-kai-fa-nomotibesiyontozuo-tutamonotati",
+        content: "Helpfeelさん主催の【オフライン開催 in 京都】個人開発祭り #4【配信もあり】",
+    },
     // {
     //     treeType: "⚡️",
     //     title: "ソフトウェアエンジニア観に影響を与えたアニメ・漫画の名言",
@@ -17,14 +25,14 @@ const contents = [
     //     url: "https://speakerdeck.com/ysknsid25/sohutoueaenziniaguan-niying-xiang-woyu-etaanimeman-hua-noming-yan",
     //     content: "Hackers' Meetup #1",
     // },
-    // {
-    //     treeType: "⚡️",
-    //     title: "Google I/O 2024で発表されたFirebase Data Connectを試してみた",
-    //     year: "2024",
-    //     img: "",
-    //     url: "https://speakerdeck.com/ysknsid25/google-i-o-2024tefa-biao-saretafirebase-data-connectwoshi-sitemita",
-    //     content: "Serverless Meetup Osaka #02",
-    // },
+    {
+        treeType: "⚡️",
+        title: "Google I/O 2024で発表されたFirebase Data Connectを試してみた",
+        year: "2024",
+        img: "work",
+        url: "https://speakerdeck.com/ysknsid25/google-i-o-2024tefa-biao-saretafirebase-data-connectwoshi-sitemita",
+        content: "Serverless Meetup Osaka #02",
+    },
     {
         treeType: "⚡️",
         title: "eslint-plugin-securityを導入して、 低労力で堅牢なコードを作る",

@@ -3,6 +3,14 @@ import { Tree } from "./Tree/Tree"
 const contents = [
     {
         treeType: "🤝",
+        title: 'PHP"オレ"カンファレンス神戸 を企画・主催',
+        year: "2024",
+        img: "ehhen",
+        url: "https://note.com/samurai_se/n/n3ad4fd22a003",
+        content: "神戸のソフトウェアエンジニアにハレノヒの場を提供するべく立ち上げ",
+    },
+    {
+        treeType: "🤝",
         title: "神戸での勉強会コミュニティ・Kobe.tsを立ち上げ",
         year: "2024",
         img: "ehhen",

@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 132,
+      "zenn": 133,
       "qiita": 0
     }
   ],
@@ -180,7 +180,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1395
+      "favorites": 1396
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 121",
-      "likeCount": 121
+      "content": "❤️ 122",
+      "likeCount": 122
     },
     {
       "treeType": "🖋",
@@ -904,10 +904,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/04/21",
-    "contributionCount": 8
-  },
-  {
     "date": "2024/04/22",
     "contributionCount": 6
   },
@@ -1270,6 +1266,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/21",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/07/22",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

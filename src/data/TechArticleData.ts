@@ -94,7 +94,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 259,
+      "zenn": 258,
       "qiita": 0
     },
     {
@@ -169,18 +169,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 135,
+      "zenn": 136,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1712
+      "favorites": 1711
     },
     {
       "year": "2024",
-      "favorites": 1399
+      "favorites": 1400
     }
   ]
 };
@@ -192,8 +192,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 124",
-      "likeCount": 124
+      "content": "❤️ 125",
+      "likeCount": 125
     },
     {
       "treeType": "🖋",
@@ -859,8 +859,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 140",
-      "likeCount": 140
+      "content": "❤️ 139",
+      "likeCount": 139
     },
     {
       "treeType": "🖋",
@@ -903,10 +903,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/23",
-    "contributionCount": 3
-  },
   {
     "date": "2024/04/24",
     "contributionCount": 24
@@ -1221,7 +1217,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/11",
-    "contributionCount": 7
+    "contributionCount": 15
   },
   {
     "date": "2024/07/12",
@@ -1270,6 +1266,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/23",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/24",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

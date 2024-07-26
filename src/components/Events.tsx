@@ -62,7 +62,7 @@ export const Events = () => {
         <div className="grid grid-cols-1 items-center justify-center gap-4">
             <div className="flex justify-center items-center gap-4 mb-4">
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">
-                    DevRel
+                    Events
                 </h1>
             </div>
             <Tree contents={contents}></Tree>

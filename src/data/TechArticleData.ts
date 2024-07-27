@@ -94,7 +94,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 258,
+      "zenn": 259,
       "qiita": 0
     },
     {
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 287,
+      "zenn": 288,
       "qiita": 19
     },
     {
@@ -176,11 +176,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1711
+      "favorites": 1712
     },
     {
       "year": "2024",
-      "favorites": 1406
+      "favorites": 1407
     }
   ]
 };
@@ -266,8 +266,8 @@ export const TechArticleList = [
       "year": "2024/06/14",
       "title": "useSWRをuseContextの代わりに使ってみる試み",
       "url": "https://zenn.dev/bs_kansai/articles/a015ffbadb0793",
-      "content": "❤️ 14",
-      "likeCount": 14
+      "content": "❤️ 15",
+      "likeCount": 15
     },
     {
       "treeType": "🖋",
@@ -877,8 +877,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 45",
-      "likeCount": 45
+      "content": "❤️ 46",
+      "likeCount": 46
     },
     {
       "treeType": "🖋",
@@ -903,10 +903,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/26",
-    "contributionCount": 16
-  },
   {
     "date": "2024/04/27",
     "contributionCount": 7
@@ -1270,6 +1266,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/26",
     "contributionCount": 10
+  },
+  {
+    "date": "2024/07/27",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [

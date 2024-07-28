@@ -99,7 +99,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 820,
+      "zenn": 821,
       "qiita": 0
     },
     {
@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 61,
+      "zenn": 62,
       "qiita": 0
     },
     {
@@ -176,11 +176,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1712
+      "favorites": 1713
     },
     {
       "year": "2024",
-      "favorites": 1407
+      "favorites": 1408
     }
   ]
 };
@@ -454,8 +454,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 22",
-      "likeCount": 22
+      "content": "❤️ 23",
+      "likeCount": 23
     },
     {
       "treeType": "🖋",
@@ -765,8 +765,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 425",
-      "likeCount": 425
+      "content": "❤️ 426",
+      "likeCount": 426
     },
     {
       "treeType": "🖋",
@@ -903,10 +903,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/04/27",
-    "contributionCount": 7
-  },
   {
     "date": "2024/04/28",
     "contributionCount": 9
@@ -1270,6 +1266,10 @@ export const GitHubContributions = [
   {
     "date": "2024/07/27",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/07/28",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 137,
+      "zenn": 138,
       "qiita": 0
     },
     {
@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 288,
+      "zenn": 289,
       "qiita": 19
     },
     {
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1413
+      "favorites": 1415
     }
   ]
 };
@@ -285,8 +285,8 @@ export const TechArticleList = [
       "year": "2024/06/11",
       "title": "GitHubのプルリクコメントにVitestのカバレッジレポートのSummaryを表示する",
       "url": "https://zenn.dev/bs_kansai/articles/e822e7922d4b43",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     }
   ],
   [
@@ -426,8 +426,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 121",
-      "likeCount": 121
+      "content": "❤️ 122",
+      "likeCount": 122
     }
   ],
   [
@@ -914,10 +914,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/01",
-    "contributionCount": 12
-  },
-  {
     "date": "2024/05/02",
     "contributionCount": 6
   },
@@ -1107,7 +1103,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/18",
-    "contributionCount": 4
+    "contributionCount": 3
   },
   {
     "date": "2024/06/19",
@@ -1191,7 +1187,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/09",
-    "contributionCount": 2
+    "contributionCount": 1
   },
   {
     "date": "2024/07/10",
@@ -1284,6 +1280,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/01",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/08/02",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [

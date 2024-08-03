@@ -14,7 +14,7 @@ const contents = [
         title: "PHPカンファレンス福岡2024",
         year: "2024",
         img: "wai",
-        url: "https://speakerdeck.com/ysknsid25/websabatophpshi-xing-fang-shi-wo-kitintoli-jie-sitephprantaimuwo-shi-qie-nishi-ifen-keru-phpkanhuarensufu-gang-2024",
+        url: "https://fortee.jp/phpcon-fukuoka-2024/proposal/a41337a4-002e-4306-915a-06ee424054d3",
         content:
             "WebサーバーとPHP実行方式を きちんと理解してPHPランタイムを 適切に使い分ける",
     },
@@ -23,7 +23,7 @@ const contents = [
         title: "PHPカンファレンス香川2024",
         year: "2024",
         img: "work",
-        url: "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiang-chuan",
+        url: "https://fortee.jp/phpconkagawa-2024/proposal/d9f74b93-9991-4932-afaf-ada75c330094",
         content: "令和版ソフトウェアエンジニアの情報収集術",
     },
     {
@@ -31,7 +31,7 @@ const contents = [
         title: "PHPカンファレンス小田原2024",
         year: "2024",
         img: "inscreen",
-        url: "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiao-tian-yuan-2024",
+        url: "https://fortee.jp/phpconodawara-2024/proposal/4904f67e-2ded-43a3-8523-98a8c40b1db5",
         content:
             "『テスト品質を向上させよう！〜アンチパターン回避メソッド〜』というテーマで15分枠で登壇しました。",
     },
@@ -40,7 +40,7 @@ const contents = [
         title: "PHPカンファレンス関西2024",
         year: "2024",
         img: "wai",
-        url: "https://speakerdeck.com/ysknsid25/phpkanhuarensuguan-xi-2024",
+        url: "https://fortee.jp/phpcon-kansai2024/proposal/8daa1c68-69b1-458a-9f3a-0c9a86e7843e",
         content:
             "『Mutation Testingとはなにか？』というテーマで15分枠で登壇しました。",
     },

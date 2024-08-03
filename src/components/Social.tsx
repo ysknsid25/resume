@@ -19,7 +19,7 @@ const snsList: SNS[] = [
     { url: "https://twitter.com/samurai_se", icon: twitter },
     { url: "https://speakerdeck.com/ysknsid25", icon: speakerdeck },
     { url: "https://github.com/ysknsid25", icon: github },
-    { url: "https://www.instagram.com/samurai_se99/", icon: insta },
+    { url: "https://www.instagram.com/ysknsid25/", icon: insta },
     {
         url: "https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share",
         icon: amazon,

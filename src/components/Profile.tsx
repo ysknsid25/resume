@@ -17,7 +17,7 @@ export const Profile = () => {
                     blessing software
                 </p>
                 <p className="mt-4 text-center text-sm text-gray-600">
-                    水瀬いのり無限恒久永遠推し!!!
+                    "人生"というゲームを全力で楽しんでいます。
                 </p>
             </div>
         </div>

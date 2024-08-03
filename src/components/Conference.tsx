@@ -16,7 +16,7 @@ const contents = [
         img: "wai",
         url: "https://fortee.jp/phpcon-fukuoka-2024/proposal/a41337a4-002e-4306-915a-06ee424054d3",
         content:
-            "WebサーバーとPHP実行方式を きちんと理解してPHPランタイムを 適切に使い分ける",
+            "『WebサーバーとPHP実行方式を きちんと理解してPHPランタイムを 適切に使い分ける』というテーマで15分枠で登壇しました。",
     },
     {
         treeType: "🎤",
@@ -24,7 +24,8 @@ const contents = [
         year: "2024",
         img: "work",
         url: "https://fortee.jp/phpconkagawa-2024/proposal/d9f74b93-9991-4932-afaf-ada75c330094",
-        content: "令和版ソフトウェアエンジニアの情報収集術",
+        content:
+            "『令和版ソフトウェアエンジニアの情報収集術』というテーマで15分枠で登壇しました。",
     },
     {
         treeType: "🎤",
@@ -71,6 +72,17 @@ export const Conference = () => {
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">
                     Conference
                 </h1>
+            </div>
+            <div className="flex justify-end items-end gap-4 mb-4">
+                <div className="text-sm font-normal flex underline">
+                    <a
+                        href="https://connpass.com/user/samurai_se/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        その他の登壇はこちらをcheck
+                    </a>
+                </div>
             </div>
             <Tree contents={contents}></Tree>
         </div>

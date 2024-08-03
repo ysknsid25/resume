@@ -10,7 +10,6 @@ import { Books } from "../components/Books";
 import { Articles } from "../components/Articles";
 import { Conference } from "../components/Conference";
 import { Works } from "../components/Works";
-import { LT } from "../components/LT";
 import { SideJob } from "../components/SideJob";
 import { Events } from "../components/Events";
 import { Frame } from "../components/Frame";
@@ -22,7 +21,6 @@ const top = "Top";
 const skills = "Skills";
 const certifications = "Certifications";
 const career = "Career";
-const lt = "LT";
 const articles = "Articles";
 const conference = "Conference";
 const books = "Books";
@@ -34,7 +32,6 @@ const menuList = [
     top,
     articles,
     conference,
-    lt,
     career,
     skills,
     certifications,
@@ -84,11 +81,6 @@ const DynamicContents = ({
             {selectedFrame === career && (
                 <Frame>
                     <Career></Career>
-                </Frame>
-            )}
-            {selectedFrame === lt && (
-                <Frame>
-                    <LT></LT>
                 </Frame>
             )}
             {selectedFrame === articles && (

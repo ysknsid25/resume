@@ -82,7 +82,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 0,
+      "zenn": 1,
       "qiita": 0
     }
   ],
@@ -93,7 +93,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "articles": 29
+      "articles": 30
     }
   ],
   "favoritesCounts": [
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 33,
+      "zenn": 32,
       "qiita": 313
     },
     {
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 0,
+      "zenn": 7,
       "qiita": 0
     }
   ],
@@ -190,12 +190,21 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1415
+      "favorites": 1421
     }
   ]
 };
 export const TechArticleList = [
   [
+    {
+      "treeType": "🖋",
+      "img": "zenn",
+      "year": "2024/08/04",
+      "title": "Firebase Genkit + DiscordJSで始めるDiscord Bot作成",
+      "url": "https://zenn.dev/bs_kansai/articles/26f86403dba278",
+      "content": "❤️ 7",
+      "likeCount": 7
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -231,7 +240,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/2baab3d1b53495",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -240,9 +251,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
       "content": "❤️ 59",
       "likeCount": 59
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -278,7 +287,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/a015ffbadb0793",
       "content": "❤️ 15",
       "likeCount": 15
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -287,9 +298,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/e822e7922d4b43",
       "content": "❤️ 10",
       "likeCount": 10
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -323,9 +332,11 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 33",
-      "likeCount": 33
-    },
+      "content": "❤️ 32",
+      "likeCount": 32
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -334,9 +345,7 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/12ead219d2fb6476d4d7",
       "content": "❤️ 14",
       "likeCount": 14
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -372,7 +381,9 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/b3a598249cf9dc41247a",
       "content": "❤️ 32",
       "likeCount": 32
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -381,9 +392,7 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
       "content": "❤️ 221",
       "likeCount": 221
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -419,7 +428,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/3a198f77e60d40",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -428,9 +439,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
       "content": "❤️ 122",
       "likeCount": 122
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -466,7 +475,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
       "content": "❤️ 23",
       "likeCount": 23
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -475,9 +486,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/9f24f9c787b257",
       "content": "❤️ 205",
       "likeCount": 205
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -513,7 +522,9 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/f84ccafa2d0eab5af045",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -522,9 +533,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/8fa18a5a94ec77",
       "content": "❤️ 11",
       "likeCount": 11
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -560,7 +569,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a5af0f8bf43aaa",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -569,9 +580,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/bab7a9e3014ae2",
       "content": "❤️ 38",
       "likeCount": 38
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -607,7 +616,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/1e3d19b793e6d9",
       "content": "❤️ 2",
       "likeCount": 2
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -616,9 +627,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/0121b32ba317ef",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -654,7 +663,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/8618aaa04504b7",
       "content": "❤️ 24",
       "likeCount": 24
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -663,9 +674,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/27497d0acdd172",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -701,7 +710,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/fcb6681b91a290",
       "content": "❤️ 10",
       "likeCount": 10
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -710,9 +721,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/2e57805dab6745",
       "content": "❤️ 35",
       "likeCount": 35
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -748,7 +757,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/f4c4fc8d6b14da",
       "content": "❤️ 15",
       "likeCount": 15
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -757,9 +768,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
       "content": "❤️ 48",
       "likeCount": 48
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -795,7 +804,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/5bfd9987791b0e",
       "content": "❤️ 81",
       "likeCount": 81
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -804,9 +815,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a41961614c4b25",
       "content": "❤️ 23",
       "likeCount": 23
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -842,7 +851,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
       "content": "❤️ 41",
       "likeCount": 41
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -851,9 +862,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
       "content": "❤️ 9",
       "likeCount": 9
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -889,7 +898,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
       "content": "❤️ 47",
       "likeCount": 47
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -898,9 +909,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/b2ecc4b220d54a",
       "content": "❤️ 18",
       "likeCount": 18
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -913,10 +922,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/03",
-    "contributionCount": 4
-  },
   {
     "date": "2024/05/04",
     "contributionCount": 4
@@ -1284,6 +1289,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/03",
     "contributionCount": 11
+  },
+  {
+    "date": "2024/08/04",
+    "contributionCount": 8
   }
 ];
 export const PopularArticles = [

@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 62,
+      "zenn": 63,
       "qiita": 0
     },
     {
@@ -165,11 +165,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 313
+      "qiita": 314
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 289,
+      "zenn": 290,
       "qiita": 19
     },
     {
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1421
+      "favorites": 1424
     }
   ]
 };
@@ -258,8 +258,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 142",
-      "likeCount": 142
+      "content": "❤️ 143",
+      "likeCount": 143
     },
     {
       "treeType": "🖋",
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 294",
-      "likeCount": 294
+      "content": "❤️ 295",
+      "likeCount": 295
     },
     {
       "treeType": "🖋",
@@ -473,8 +473,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 23",
-      "likeCount": 23
+      "content": "❤️ 24",
+      "likeCount": 24
     }
   ],
   [
@@ -923,10 +923,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/04",
-    "contributionCount": 4
-  },
-  {
     "date": "2024/05/05",
     "contributionCount": 1
   },
@@ -1293,6 +1289,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/04",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/08/05",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1302,8 +1302,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 294",
-    "likeCount": 294
+    "content": "❤️ 295",
+    "likeCount": 295
   },
   {
     "treeType": "🥈",
@@ -1320,7 +1320,7 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 142",
-    "likeCount": 142
+    "content": "❤️ 143",
+    "likeCount": 143
   }
 ];

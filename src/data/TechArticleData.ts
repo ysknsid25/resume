@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 314
+      "qiita": 315
     },
     {
       "yearMonth": "2024/06",
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1424
+      "favorites": 1425
     }
   ]
 };
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 295",
-      "likeCount": 295
+      "content": "❤️ 296",
+      "likeCount": 296
     },
     {
       "treeType": "🖋",
@@ -923,10 +923,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/05",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/05/06",
     "contributionCount": 1
   },
@@ -1293,6 +1289,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/05",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/08/06",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1302,8 +1302,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 295",
-    "likeCount": 295
+    "content": "❤️ 296",
+    "likeCount": 296
   },
   {
     "treeType": "🥈",

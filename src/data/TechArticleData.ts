@@ -2,7 +2,7 @@ export const TechArticleData = {
   "articlesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 7,
+      "zenn": 8,
       "qiita": 0
     },
     {
@@ -89,7 +89,7 @@ export const TechArticleData = {
   "yearArticleCounts": [
     {
       "year": "2023",
-      "articles": 47
+      "articles": 48
     },
     {
       "year": "2024",
@@ -99,7 +99,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 260,
+      "zenn": 337,
       "qiita": 0
     },
     {
@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 315
+      "qiita": 316
     },
     {
       "yearMonth": "2024/06",
@@ -186,11 +186,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1714
+      "favorites": 1791
     },
     {
       "year": "2024",
-      "favorites": 1425
+      "favorites": 1426
     }
   ]
 };
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 296",
-      "likeCount": 296
+      "content": "❤️ 297",
+      "likeCount": 297
     },
     {
       "treeType": "🖋",
@@ -887,8 +887,8 @@ export const TechArticleList = [
       "year": "2023/04/22",
       "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
       "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
-      "content": "❤️ 28",
-      "likeCount": 28
+      "content": "❤️ 29",
+      "likeCount": 29
     },
     {
       "treeType": "🖋",
@@ -901,6 +901,15 @@ export const TechArticleList = [
     }
   ],
   [
+    {
+      "treeType": "🖋",
+      "img": "zenn",
+      "year": "2023/04/10",
+      "title": "ソフトウェア開発者としての寿命を延ばすためのバイブル(20代時点版)",
+      "url": "https://zenn.dev/bs_kansai/articles/c8b1fe6657d9b9",
+      "content": "❤️ 76",
+      "likeCount": 76
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -922,10 +931,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/06",
-    "contributionCount": 1
-  },
   {
     "date": "2024/05/07",
     "contributionCount": 1
@@ -1293,6 +1298,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/06",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/08/07",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1302,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 296",
-    "likeCount": 296
+    "content": "❤️ 297",
+    "likeCount": 297
   },
   {
     "treeType": "🥈",

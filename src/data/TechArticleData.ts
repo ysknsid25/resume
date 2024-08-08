@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 138,
+      "zenn": 139,
       "qiita": 0
     },
     {
@@ -165,11 +165,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 316
+      "qiita": 317
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 290,
+      "zenn": 291,
       "qiita": 19
     },
     {
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1426
+      "favorites": 1429
     }
   ]
 };
@@ -305,8 +305,8 @@ export const TechArticleList = [
       "year": "2024/06/06",
       "title": "VitestでMockを使うための逆引きレシピ集",
       "url": "https://zenn.dev/bs_kansai/articles/a5a22aa43aa46b",
-      "content": "❤️ 17",
-      "likeCount": 17
+      "content": "❤️ 18",
+      "likeCount": 18
     },
     {
       "treeType": "🖋",
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 297",
-      "likeCount": 297
+      "content": "❤️ 298",
+      "likeCount": 298
     },
     {
       "treeType": "🖋",
@@ -437,8 +437,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 122",
-      "likeCount": 122
+      "content": "❤️ 123",
+      "likeCount": 123
     },
     {
       "treeType": "🖋",
@@ -932,10 +932,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/07",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/05/08",
     "contributionCount": 1
   },
@@ -1297,11 +1293,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/06",
-    "contributionCount": 4
+    "contributionCount": 8
   },
   {
     "date": "2024/08/07",
-    "contributionCount": 4
+    "contributionCount": 8
+  },
+  {
+    "date": "2024/08/08",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1311,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 297",
-    "likeCount": 297
+    "content": "❤️ 298",
+    "likeCount": 298
   },
   {
     "treeType": "🥈",

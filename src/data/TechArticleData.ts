@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 63,
+      "zenn": 64,
       "qiita": 0
     },
     {
@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 317
+      "qiita": 318
     },
     {
       "yearMonth": "2024/06",
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1429
+      "favorites": 1431
     }
   ]
 };
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 298",
-      "likeCount": 298
+      "content": "❤️ 299",
+      "likeCount": 299
     },
     {
       "treeType": "🖋",
@@ -464,8 +464,8 @@ export const TechArticleList = [
       "year": "2024/01/11",
       "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
       "url": "https://zenn.dev/bs_kansai/articles/92ed5fd10338ef",
-      "content": "❤️ 39",
-      "likeCount": 39
+      "content": "❤️ 40",
+      "likeCount": 40
     },
     {
       "treeType": "🖋",
@@ -932,10 +932,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/08",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/05/09",
     "contributionCount": 1
   },
@@ -1302,6 +1298,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/08",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/08/09",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1311,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 298",
-    "likeCount": 298
+    "content": "❤️ 299",
+    "likeCount": 299
   },
   {
     "treeType": "🥈",

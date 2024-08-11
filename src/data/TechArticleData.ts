@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 821,
+      "zenn": 822,
       "qiita": 0
     },
     {
@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 318
+      "qiita": 320
     },
     {
       "yearMonth": "2024/06",
@@ -186,11 +186,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1791
+      "favorites": 1792
     },
     {
       "year": "2024",
-      "favorites": 1431
+      "favorites": 1433
     }
   ]
 };
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 299",
-      "likeCount": 299
+      "content": "❤️ 301",
+      "likeCount": 301
     },
     {
       "treeType": "🖋",
@@ -849,8 +849,8 @@ export const TechArticleList = [
       "year": "2023/05/01",
       "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
-      "content": "❤️ 41",
-      "likeCount": 41
+      "content": "❤️ 42",
+      "likeCount": 42
     }
   ],
   [
@@ -931,10 +931,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/10",
-    "contributionCount": 1
-  },
   {
     "date": "2024/05/11",
     "contributionCount": 5
@@ -1257,7 +1253,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/30",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/07/31",
@@ -1269,7 +1265,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/02",
-    "contributionCount": 4
+    "contributionCount": 3
   },
   {
     "date": "2024/08/03",
@@ -1277,7 +1273,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/04",
-    "contributionCount": 8
+    "contributionCount": 6
   },
   {
     "date": "2024/08/05",
@@ -1302,6 +1298,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/10",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/08/11",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1311,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 299",
-    "likeCount": 299
+    "content": "❤️ 301",
+    "likeCount": 301
   },
   {
     "treeType": "🥈",

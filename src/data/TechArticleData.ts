@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 291,
+      "zenn": 293,
       "qiita": 19
     },
     {
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1433
+      "favorites": 1435
     }
   ]
 };
@@ -229,8 +229,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 27",
-      "likeCount": 27
+      "content": "❤️ 28",
+      "likeCount": 28
     },
     {
       "treeType": "🖋",
@@ -238,8 +238,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Voltaを使ってnodeのバージョン管理を行う",
       "url": "https://zenn.dev/bs_kansai/articles/2baab3d1b53495",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 8",
+      "likeCount": 8
     }
   ],
   [
@@ -932,10 +932,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/12",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/05/13",
     "contributionCount": 10
   },
@@ -1249,7 +1245,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/30",
-    "contributionCount": 9
+    "contributionCount": 8
   },
   {
     "date": "2024/07/31",
@@ -1301,6 +1297,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/12",
+    "contributionCount": 2
+  },
+  {
+    "date": "2024/08/13",
     "contributionCount": 2
   }
 ];

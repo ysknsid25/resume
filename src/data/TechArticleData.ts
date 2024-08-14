@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 139,
+      "zenn": 140,
       "qiita": 0
     },
     {
@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 137,
+      "zenn": 138,
       "qiita": 0
     },
     {
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1435
+      "favorites": 1437
     }
   ]
 };
@@ -211,8 +211,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 126",
-      "likeCount": 126
+      "content": "❤️ 127",
+      "likeCount": 127
     },
     {
       "treeType": "🖋",
@@ -437,8 +437,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 123",
-      "likeCount": 123
+      "content": "❤️ 124",
+      "likeCount": 124
     },
     {
       "treeType": "🖋",
@@ -932,10 +932,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/13",
-    "contributionCount": 10
-  },
-  {
     "date": "2024/05/14",
     "contributionCount": 2
   },
@@ -1097,7 +1093,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/06/23",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/06/24",
@@ -1173,7 +1169,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/12",
-    "contributionCount": 5
+    "contributionCount": 4
   },
   {
     "date": "2024/07/13",
@@ -1197,7 +1193,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/18",
-    "contributionCount": 2
+    "contributionCount": 1
   },
   {
     "date": "2024/07/19",
@@ -1209,7 +1205,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/21",
-    "contributionCount": 3
+    "contributionCount": 2
   },
   {
     "date": "2024/07/22",
@@ -1257,7 +1253,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/02",
-    "contributionCount": 3
+    "contributionCount": 2
   },
   {
     "date": "2024/08/03",
@@ -1301,6 +1297,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/13",
+    "contributionCount": 1
+  },
+  {
+    "date": "2024/08/14",
     "contributionCount": 2
   }
 ];

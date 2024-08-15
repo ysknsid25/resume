@@ -160,12 +160,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 117,
-      "qiita": 300
+      "qiita": 301
     },
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 320
+      "qiita": 323
     },
     {
       "yearMonth": "2024/06",
@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 138,
+      "zenn": 139,
       "qiita": 0
     },
     {
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1437
+      "favorites": 1442
     }
   ]
 };
@@ -211,8 +211,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 127",
-      "likeCount": 127
+      "content": "❤️ 128",
+      "likeCount": 128
     },
     {
       "treeType": "🖋",
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 301",
-      "likeCount": 301
+      "content": "❤️ 304",
+      "likeCount": 304
     },
     {
       "treeType": "🖋",
@@ -370,8 +370,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "テスト駆動開発の発想×ポモドーロテクニック=『TODO駆動ポモドーロ』で作業効率化する手法を実践してみた",
       "url": "https://qiita.com/ysknsid25/items/51064e4d3c1e7dab5428",
-      "content": "❤️ 41",
-      "likeCount": 41
+      "content": "❤️ 42",
+      "likeCount": 42
     },
     {
       "treeType": "🖋",
@@ -932,10 +932,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/14",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/05/15",
     "contributionCount": 1
   },
@@ -1273,11 +1269,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/07",
-    "contributionCount": 8
+    "contributionCount": 9
   },
   {
     "date": "2024/08/08",
-    "contributionCount": 5
+    "contributionCount": 8
   },
   {
     "date": "2024/08/09",
@@ -1301,7 +1297,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/14",
-    "contributionCount": 2
+    "contributionCount": 3
+  },
+  {
+    "date": "2024/08/15",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1311,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 301",
-    "likeCount": 301
+    "content": "❤️ 304",
+    "likeCount": 304
   },
   {
     "treeType": "🥈",

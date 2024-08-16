@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 822,
+      "zenn": 825,
       "qiita": 0
     },
     {
@@ -169,12 +169,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 293,
+      "zenn": 294,
       "qiita": 19
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 139,
+      "zenn": 140,
       "qiita": 0
     },
     {
@@ -186,11 +186,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1792
+      "favorites": 1795
     },
     {
       "year": "2024",
-      "favorites": 1442
+      "favorites": 1444
     }
   ]
 };
@@ -211,8 +211,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 128",
-      "likeCount": 128
+      "content": "❤️ 129",
+      "likeCount": 129
     },
     {
       "treeType": "🖋",
@@ -258,8 +258,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 143",
-      "likeCount": 143
+      "content": "❤️ 144",
+      "likeCount": 144
     },
     {
       "treeType": "🖋",
@@ -784,8 +784,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 426",
-      "likeCount": 426
+      "content": "❤️ 429",
+      "likeCount": 429
     },
     {
       "treeType": "🖋",
@@ -931,10 +931,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/15",
-    "contributionCount": 1
-  },
   {
     "date": "2024/05/16",
     "contributionCount": 5
@@ -1301,7 +1297,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/15",
-    "contributionCount": 5
+    "contributionCount": 9
+  },
+  {
+    "date": "2024/08/16",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1329,7 +1329,7 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 143",
-    "likeCount": 143
+    "content": "❤️ 144",
+    "likeCount": 144
   }
 ];

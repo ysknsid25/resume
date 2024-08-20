@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 825,
+      "zenn": 826,
       "qiita": 0
     },
     {
@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 328
+      "qiita": 329
     },
     {
       "yearMonth": "2024/06",
@@ -186,11 +186,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1795
+      "favorites": 1796
     },
     {
       "year": "2024",
-      "favorites": 1450
+      "favorites": 1451
     }
   ]
 };
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 309",
-      "likeCount": 309
+      "content": "❤️ 310",
+      "likeCount": 310
     },
     {
       "treeType": "🖋",
@@ -784,8 +784,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 429",
-      "likeCount": 429
+      "content": "❤️ 430",
+      "likeCount": 430
     },
     {
       "treeType": "🖋",
@@ -931,10 +931,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/19",
-    "contributionCount": 1
-  },
   {
     "date": "2024/05/20",
     "contributionCount": 3
@@ -1302,6 +1298,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/19",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/08/20",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1311,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 309",
-    "likeCount": 309
+    "content": "❤️ 310",
+    "likeCount": 310
   },
   {
     "treeType": "🥈",

@@ -1,4 +1,4 @@
-import icon from "../assets/icon.png";
+import icon from "../assets/hina.jpeg";
 export const Profile = () => {
     return (
         <div className="mb-4">
@@ -17,7 +17,7 @@ export const Profile = () => {
                     blessing software
                 </p>
                 <p className="mt-4 text-center text-sm text-gray-600">
-                    人生というゲームを全力で楽しんでいます
+                    人生というゲームを全力で楽しむことに決めたプログラマー
                 </p>
             </div>
         </div>

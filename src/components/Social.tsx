@@ -5,6 +5,8 @@ import insta from "../assets/sns/insta.png";
 import note from "../assets/sns/note.png";
 import zenn from "../assets/sns/zenn.png";
 import qiita from "../assets/sns/qiita.png";
+import threads from "../assets/sns/threads.png";
+import bluesky from "../assets/sns/bluesky.png";
 import speakerdeck from "../assets/sns/speakerdeck.png";
 
 type SNS = {
@@ -13,14 +15,15 @@ type SNS = {
 };
 
 const snsList: SNS[] = [
+    { url: "https://x.com/ysknsid25", icon: twitter },
+    { url: "https://bsky.app/profile/ysknsid25.bsky.social", icon: bluesky },
+    { url: "https://www.threads.net/@ysknsid25", icon: threads },
+    { url: "https://www.instagram.com/ysknsid25/", icon: insta },
     { url: "https://zenn.dev/yskn_sid25", icon: zenn },
     { url: "https://qiita.com/ysknsid25", icon: qiita },
     { url: "https://note.com/samurai_se/", icon: note },
-    { url: "https://twitter.com/ysknsid25", icon: twitter },
-    { url: "https://x.com/inorinrinrinrin", icon: twitter },
     { url: "https://speakerdeck.com/ysknsid25", icon: speakerdeck },
     { url: "https://github.com/ysknsid25", icon: github },
-    { url: "https://www.instagram.com/ysknsid25/", icon: insta },
     {
         url: "https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share",
         icon: amazon,

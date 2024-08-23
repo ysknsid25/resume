@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 147,
+      "zenn": 148,
       "qiita": 0
     },
     {
@@ -165,11 +165,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 32,
-      "qiita": 331
+      "qiita": 333
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 294,
+      "zenn": 295,
       "qiita": 19
     },
     {
@@ -186,11 +186,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1797
+      "favorites": 1798
     },
     {
       "year": "2024",
-      "favorites": 1453
+      "favorites": 1456
     }
   ]
 };
@@ -229,8 +229,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 28",
-      "likeCount": 28
+      "content": "❤️ 29",
+      "likeCount": 29
     },
     {
       "treeType": "🖋",
@@ -352,8 +352,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 312",
-      "likeCount": 312
+      "content": "❤️ 314",
+      "likeCount": 314
     },
     {
       "treeType": "🖋",
@@ -681,8 +681,8 @@ export const TechArticleList = [
       "year": "2023/08/14",
       "title": "Vitest UIを使ってみよう！",
       "url": "https://zenn.dev/bs_kansai/articles/09d22440c3e3c5",
-      "content": "❤️ 53",
-      "likeCount": 53
+      "content": "❤️ 54",
+      "likeCount": 54
     },
     {
       "treeType": "🖋",
@@ -931,10 +931,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/22",
-    "contributionCount": 2
-  },
   {
     "date": "2024/05/23",
     "contributionCount": 6
@@ -1302,6 +1298,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/22",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/08/23",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1311,8 +1311,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 312",
-    "likeCount": 312
+    "content": "❤️ 314",
+    "likeCount": 314
   },
   {
     "treeType": "🥈",

@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 19,
+      "zenn": 41,
       "qiita": 0
     }
   ],
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1468
+      "favorites": 1490
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 34",
+      "likeCount": 34
     },
     {
       "treeType": "🖋",
@@ -1178,7 +1178,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/07/22",
-    "contributionCount": 5
+    "contributionCount": 3
   },
   {
     "date": "2024/07/23",
@@ -1310,7 +1310,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/24",
-    "contributionCount": 9
+    "contributionCount": 11
   }
 ];
 export const PopularArticles = [

@@ -3,20 +3,13 @@ import { Tree } from "./Tree/Tree";
 const contents = [
     {
         treeType: "🏢",
-        title: "現職",
+        title: "とらのあなラボ",
         year: "2023 - ",
-        img: "",
-        url: "",
-        content: "",
+        img: "tora",
+        url: "https://yumenosora.co.jp/tora-lab",
+        content:
+            "入社直後はJava/Springで構築されている『とらのあな通販』の住所マスタを最新版へリプレース。その後異動により、『サークルポータル』リプレース開発に従事。Next.js, Ktorを使った開発に日々奮闘中。",
     },
-    // {
-    //     treeType: "🏢",
-    //     title: "とらのあなラボ",
-    //     year: "2023 - ",
-    //     img: "tora",
-    //     url: "https://yumenosora.co.jp/tora-lab",
-    //     content: "入社直後はJava/Springで構築されている『とらのあな通販』の住所マスタを最新版へリプレース。その後異動により、『サークルポータル』リプレース開発に従事。Next.js, Ktorを使った開発に日々奮闘中。",
-    // },
     {
         treeType: "🏢",
         title: "エフアンドエムネット株式会社",

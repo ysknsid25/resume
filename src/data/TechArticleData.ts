@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 32,
+      "zenn": 33,
       "qiita": 333
     },
     {
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 41,
+      "zenn": 76,
       "qiita": 0
     }
   ],
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1490
+      "favorites": 1526
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 34",
-      "likeCount": 34
+      "content": "❤️ 69",
+      "likeCount": 69
     },
     {
       "treeType": "🖋",
@@ -343,8 +343,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 32",
-      "likeCount": 32
+      "content": "❤️ 33",
+      "likeCount": 33
     },
     {
       "treeType": "🖋",
@@ -941,10 +941,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/24",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/05/25",
     "contributionCount": 3
   },
@@ -1270,7 +1266,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/14",
-    "contributionCount": 3
+    "contributionCount": 2
   },
   {
     "date": "2024/08/15",
@@ -1310,7 +1306,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/24",
-    "contributionCount": 11
+    "contributionCount": 10
+  },
+  {
+    "date": "2024/08/25",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 148,
+      "zenn": 149,
       "qiita": 0
     },
     {
@@ -179,18 +179,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 76,
+      "zenn": 92,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1798
+      "favorites": 1799
     },
     {
       "year": "2024",
-      "favorites": 1526
+      "favorites": 1542
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 69",
-      "likeCount": 69
+      "content": "❤️ 85",
+      "likeCount": 85
     },
     {
       "treeType": "🖋",
@@ -690,8 +690,8 @@ export const TechArticleList = [
       "year": "2023/08/14",
       "title": "Vitest UIを使ってみよう！",
       "url": "https://zenn.dev/bs_kansai/articles/09d22440c3e3c5",
-      "content": "❤️ 54",
-      "likeCount": 54
+      "content": "❤️ 55",
+      "likeCount": 55
     },
     {
       "treeType": "🖋",
@@ -940,10 +940,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/25",
-    "contributionCount": 3
-  },
   {
     "date": "2024/05/26",
     "contributionCount": 5
@@ -1218,7 +1214,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/02",
-    "contributionCount": 2
+    "contributionCount": 1
   },
   {
     "date": "2024/08/03",
@@ -1311,6 +1307,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/25",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/08/26",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [

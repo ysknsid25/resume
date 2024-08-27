@@ -3,7 +3,7 @@ import { Tree } from "./Tree/Tree";
 const contents = [
     {
         treeType: "🏢",
-        title: "とらのあなラボ",
+        title: "虎の穴ラボ",
         year: "2023 - ",
         img: "tora",
         url: "https://yumenosora.co.jp/tora-lab",

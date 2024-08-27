@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 333
+      "qiita": 334
     },
     {
       "yearMonth": "2024/06",
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 92,
+      "zenn": 93,
       "qiita": 0
     }
   ],
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1542
+      "favorites": 1544
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 85",
-      "likeCount": 85
+      "content": "❤️ 86",
+      "likeCount": 86
     },
     {
       "treeType": "🖋",
@@ -361,8 +361,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 314",
-      "likeCount": 314
+      "content": "❤️ 315",
+      "likeCount": 315
     },
     {
       "treeType": "🖋",
@@ -941,10 +941,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/05/26",
-    "contributionCount": 5
-  },
-  {
     "date": "2024/05/27",
     "contributionCount": 7
   },
@@ -1286,7 +1282,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/20",
-    "contributionCount": 2
+    "contributionCount": 3
   },
   {
     "date": "2024/08/21",
@@ -1294,7 +1290,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/22",
-    "contributionCount": 8
+    "contributionCount": 10
   },
   {
     "date": "2024/08/23",
@@ -1302,7 +1298,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/24",
-    "contributionCount": 10
+    "contributionCount": 13
   },
   {
     "date": "2024/08/25",
@@ -1310,7 +1306,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/26",
-    "contributionCount": 6
+    "contributionCount": 9
+  },
+  {
+    "date": "2024/08/27",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1320,8 +1320,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 314",
-    "likeCount": 314
+    "content": "❤️ 315",
+    "likeCount": 315
   },
   {
     "treeType": "🥈",

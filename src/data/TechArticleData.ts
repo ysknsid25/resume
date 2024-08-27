@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 334
+      "qiita": 335
     },
     {
       "yearMonth": "2024/06",
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 93,
+      "zenn": 96,
       "qiita": 0
     }
   ],
@@ -190,7 +190,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1544
+      "favorites": 1548
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 86",
-      "likeCount": 86
+      "content": "❤️ 89",
+      "likeCount": 89
     },
     {
       "treeType": "🖋",
@@ -361,8 +361,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 315",
-      "likeCount": 315
+      "content": "❤️ 316",
+      "likeCount": 316
     },
     {
       "treeType": "🖋",
@@ -1306,11 +1306,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/26",
-    "contributionCount": 9
+    "contributionCount": 11
   },
   {
     "date": "2024/08/27",
-    "contributionCount": 2
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1320,8 +1320,8 @@ export const PopularArticles = [
     "year": "2024/05/01",
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "content": "❤️ 315",
-    "likeCount": 315
+    "content": "❤️ 316",
+    "likeCount": 316
   },
   {
     "treeType": "🥈",

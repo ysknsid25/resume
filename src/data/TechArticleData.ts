@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 826,
+      "zenn": 827,
       "qiita": 0
     },
     {
@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/12",
-      "zenn": 209,
+      "zenn": 210,
       "qiita": 0
     },
     {
@@ -186,7 +186,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1799
+      "favorites": 1801
     },
     {
       "year": "2024",
@@ -511,8 +511,8 @@ export const TechArticleList = [
       "year": "2023/12/19",
       "title": "Next.jsチーム謹製のData Fetcher・useSWRについてのまとめ",
       "url": "https://zenn.dev/bs_kansai/articles/448e3ce99eecb6",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 5",
+      "likeCount": 5
     },
     {
       "treeType": "🖋",
@@ -802,8 +802,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 430",
-      "likeCount": 430
+      "content": "❤️ 431",
+      "likeCount": 431
     }
   ],
   [
@@ -1319,7 +1319,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/08/28",
-    "contributionCount": 4
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [

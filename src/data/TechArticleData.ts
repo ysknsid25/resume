@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 132,
+      "zenn": 133,
       "qiita": 0
     },
     {
@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 295,
+      "zenn": 296,
       "qiita": 19
     },
     {
@@ -179,18 +179,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 99,
+      "zenn": 100,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1801
+      "favorites": 1802
     },
     {
       "year": "2024",
-      "favorites": 1607
+      "favorites": 1609
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 92",
-      "likeCount": 92
+      "content": "❤️ 93",
+      "likeCount": 93
     },
     {
       "treeType": "🖋",
@@ -267,8 +267,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 144",
-      "likeCount": 144
+      "content": "❤️ 145",
+      "likeCount": 145
     },
     {
       "treeType": "🖋",
@@ -766,8 +766,8 @@ export const TechArticleList = [
       "year": "2023/07/10",
       "title": "React×TypeScriptではじめるVitest",
       "url": "https://zenn.dev/bs_kansai/articles/b79d97a8f921d6",
-      "content": "❤️ 48",
-      "likeCount": 48
+      "content": "❤️ 49",
+      "likeCount": 49
     },
     {
       "treeType": "🖋",
@@ -949,10 +949,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/28",
-    "contributionCount": 4
-  },
   {
     "date": "2024/05/29",
     "contributionCount": 12
@@ -1320,6 +1316,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/28",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/08/29",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1329,8 +1329,8 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 144",
-    "likeCount": 144
+    "content": "❤️ 145",
+    "likeCount": 145
   },
   {
     "treeType": "🥈",

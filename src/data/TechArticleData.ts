@@ -104,7 +104,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 827,
+      "zenn": 828,
       "qiita": 0
     },
     {
@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 140,
+      "zenn": 141,
       "qiita": 0
     },
     {
@@ -165,7 +165,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 337
+      "qiita": 339
     },
     {
       "yearMonth": "2024/06",
@@ -179,18 +179,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 100,
+      "zenn": 102,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1802
+      "favorites": 1803
     },
     {
       "year": "2024",
-      "favorites": 1609
+      "favorites": 1614
     }
   ]
 };
@@ -202,8 +202,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 93",
-      "likeCount": 93
+      "content": "❤️ 95",
+      "likeCount": 95
     },
     {
       "treeType": "🖋",
@@ -361,8 +361,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 318",
-      "likeCount": 318
+      "content": "❤️ 320",
+      "likeCount": 320
     },
     {
       "treeType": "🖋",
@@ -455,8 +455,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 124",
-      "likeCount": 124
+      "content": "❤️ 125",
+      "likeCount": 125
     },
     {
       "treeType": "🖋",
@@ -793,8 +793,8 @@ export const TechArticleList = [
       "year": "2023/05/28",
       "title": "useEffectのコールバック関数とcleanUp関数の実行タイミング、正しく説明できますか？",
       "url": "https://zenn.dev/bs_kansai/articles/8a19f36bbcc914",
-      "content": "❤️ 92",
-      "likeCount": 92
+      "content": "❤️ 93",
+      "likeCount": 93
     },
     {
       "treeType": "🖋",
@@ -949,10 +949,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/05/29",
-    "contributionCount": 12
-  },
   {
     "date": "2024/05/30",
     "contributionCount": 3
@@ -1320,6 +1316,10 @@ export const GitHubContributions = [
   {
     "date": "2024/08/29",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/08/30",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1347,7 +1347,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 124",
-    "likeCount": 124
+    "content": "❤️ 125",
+    "likeCount": 125
   }
 ];

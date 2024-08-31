@@ -8,7 +8,7 @@ const contents = [
         img: "tora",
         url: "https://yumenosora.co.jp/tora-lab",
         content:
-            "入社直後はJava/Springで構築されている『とらのあな通販』の住所マスタを最新版へリプレース。その後異動により、『サークルポータル』リプレース開発に従事。Next.js, Ktorを使った開発に日々奮闘中。",
+            "入社直後はJava/Springで構築されている『とらのあな通販』の機能開発。その後異動により、『サークルポータル』リプレース開発に従事。Next.js, Ktorを使った開発に日々奮闘中。",
     },
     {
         treeType: "🏢",

@@ -154,7 +154,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 141,
+      "zenn": 142,
       "qiita": 0
     },
     {
@@ -170,7 +170,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 341
+      "qiita": 343
     },
     {
       "yearMonth": "2024/06",
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1618
+      "favorites": 1621
     }
   ]
 };
@@ -371,8 +371,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 322",
-      "likeCount": 322
+      "content": "❤️ 324",
+      "likeCount": 324
     },
     {
       "treeType": "🖋",
@@ -465,8 +465,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 125",
-      "likeCount": 125
+      "content": "❤️ 126",
+      "likeCount": 126
     },
     {
       "treeType": "🖋",
@@ -960,10 +960,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/02",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/06/03",
     "contributionCount": 9
   },
@@ -1329,7 +1325,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/02",
-    "contributionCount": 9
+    "contributionCount": 12
+  },
+  {
+    "date": "2024/09/03",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1357,7 +1357,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 125",
-    "likeCount": 125
+    "content": "❤️ 126",
+    "likeCount": 126
   }
 ];

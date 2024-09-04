@@ -109,7 +109,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 828,
+      "zenn": 830,
       "qiita": 0
     },
     {
@@ -124,7 +124,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 149,
+      "zenn": 150,
       "qiita": 0
     },
     {
@@ -164,13 +164,13 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 171,
+      "zenn": 172,
       "qiita": 301
     },
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 343
+      "qiita": 344
     },
     {
       "yearMonth": "2024/06",
@@ -184,7 +184,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 103,
+      "zenn": 104,
       "qiita": 0
     },
     {
@@ -196,11 +196,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1803
+      "favorites": 1806
     },
     {
       "year": "2024",
-      "favorites": 1621
+      "favorites": 1624
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/bs_kansai/articles/8ff70404804f60",
-      "content": "❤️ 96",
-      "likeCount": 96
+      "content": "❤️ 97",
+      "likeCount": 97
     },
     {
       "treeType": "🖋",
@@ -371,8 +371,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 324",
-      "likeCount": 324
+      "content": "❤️ 325",
+      "likeCount": 325
     },
     {
       "treeType": "🖋",
@@ -380,8 +380,8 @@ export const TechArticleList = [
       "year": "2024/04/28",
       "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
       "url": "https://zenn.dev/bs_kansai/articles/40fef14a1ea98e",
-      "content": "❤️ 85",
-      "likeCount": 85
+      "content": "❤️ 86",
+      "likeCount": 86
     },
     {
       "treeType": "🖋",
@@ -709,8 +709,8 @@ export const TechArticleList = [
       "year": "2023/08/14",
       "title": "Vitest UIを使ってみよう！",
       "url": "https://zenn.dev/bs_kansai/articles/09d22440c3e3c5",
-      "content": "❤️ 55",
-      "likeCount": 55
+      "content": "❤️ 56",
+      "likeCount": 56
     },
     {
       "treeType": "🖋",
@@ -812,8 +812,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 431",
-      "likeCount": 431
+      "content": "❤️ 433",
+      "likeCount": 433
     }
   ],
   [
@@ -959,10 +959,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/03",
-    "contributionCount": 9
-  },
   {
     "date": "2024/06/04",
     "contributionCount": 8
@@ -1330,6 +1326,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/03",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/09/04",
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [

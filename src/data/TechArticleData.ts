@@ -104,12 +104,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 338,
+      "zenn": 340,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 830,
+      "zenn": 831,
       "qiita": 0
     },
     {
@@ -196,7 +196,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1806
+      "favorites": 1809
     },
     {
       "year": "2024",
@@ -879,8 +879,8 @@ export const TechArticleList = [
       "year": "2023/05/01",
       "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
-      "content": "❤️ 42",
-      "likeCount": 42
+      "content": "❤️ 43",
+      "likeCount": 43
     },
     {
       "treeType": "🖋",
@@ -906,8 +906,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 139",
-      "likeCount": 139
+      "content": "❤️ 140",
+      "likeCount": 140
     }
   ],
   [
@@ -926,8 +926,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 48",
-      "likeCount": 48
+      "content": "❤️ 49",
+      "likeCount": 49
     },
     {
       "treeType": "🖋",
@@ -959,10 +959,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/04",
-    "contributionCount": 8
-  },
   {
     "date": "2024/06/05",
     "contributionCount": 3
@@ -1330,6 +1326,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/04",
     "contributionCount": 7
+  },
+  {
+    "date": "2024/09/05",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [

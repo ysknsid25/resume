@@ -103,11 +103,11 @@ export const Career = () => {
                     </div>
                     <div className="px-8 mt-4">
                         <ul className="list-disc text-sm font-normal text-gray-400">
-                            <li>Laravelを使ったアプリケーション開発</li>
-                            <li>React(Next.js)を使ったアプリケーション開発</li>
+                            <li>Reactを使ったアプリケーション開発</li>
                             <li>Ktorを使ったアプリケーション開発</li>
-                            <li>セキュリティタスクの遂行能力の向上</li>
+                            <li>Nest.jsを使ったアプリケーション開発</li>
                             <li>GCPを使ったアプリケーション構築</li>
+                            <li>セキュリティタスクの遂行能力の向上</li>
                             <li>CI/CDパイプラインの作成</li>
                         </ul>
                     </div>

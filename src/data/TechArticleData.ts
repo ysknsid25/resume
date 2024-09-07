@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 140,
+      "zenn": 141,
       "qiita": 0
     },
     {
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1625
+      "favorites": 1626
     }
   ]
 };
@@ -230,8 +230,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 129",
-      "likeCount": 129
+      "content": "❤️ 130",
+      "likeCount": 130
     },
     {
       "treeType": "🖋",
@@ -960,10 +960,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/06",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/06/07",
     "contributionCount": 2
   },
@@ -1330,6 +1326,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/06",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/09/07",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1348,8 +1348,8 @@ export const PopularArticles = [
     "year": "2024/07/15",
     "title": "[K, U] extends [U, K] ← ナニコレ",
     "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-    "content": "❤️ 129",
-    "likeCount": 129
+    "content": "❤️ 130",
+    "likeCount": 130
   },
   {
     "treeType": "🥉",

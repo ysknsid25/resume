@@ -5,7 +5,6 @@ import insta from "../assets/sns/insta.png";
 import note from "../assets/sns/note.png";
 import zenn from "../assets/sns/zenn.png";
 import qiita from "../assets/sns/qiita.png";
-import threads from "../assets/sns/threads.png";
 import bluesky from "../assets/sns/bluesky.png";
 import speakerdeck from "../assets/sns/speakerdeck.png";
 

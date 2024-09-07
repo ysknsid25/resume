@@ -16,6 +16,7 @@ import { Frame } from "../components/Frame";
 import { TechArticlesGraph } from "../components/TechArticlesGraph";
 import { GitHubContributionsGraph } from "../components/GitHubContributionsGraph";
 import { PopularArticle } from "../components/PopularArticles";
+import { LikeAndDislike } from "../components/LikeAndDislike";
 
 const top = "Top";
 const skills = "Skills";
@@ -61,10 +62,13 @@ const DynamicContents = ({
                         <GitHubContributionsGraph></GitHubContributionsGraph>
                     </Frame>
                     <Frame>
+                        <PopularArticle></PopularArticle>
+                    </Frame>
+                    <Frame>
                         <TechArticlesGraph></TechArticlesGraph>
                     </Frame>
                     <Frame>
-                        <PopularArticle></PopularArticle>
+                        <LikeAndDislike></LikeAndDislike>
                     </Frame>
                 </>
             )}

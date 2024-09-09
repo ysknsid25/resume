@@ -104,12 +104,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 340,
+      "zenn": 339,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 831,
+      "zenn": 830,
       "qiita": 0
     },
     {
@@ -129,7 +129,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/09",
-      "zenn": 51,
+      "zenn": 52,
       "qiita": 0
     },
     {
@@ -170,7 +170,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 345
+      "qiita": 346
     },
     {
       "yearMonth": "2024/06",
@@ -196,11 +196,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1809
+      "favorites": 1808
     },
     {
       "year": "2024",
-      "favorites": 1627
+      "favorites": 1628
     }
   ]
 };
@@ -371,8 +371,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 326",
-      "likeCount": 326
+      "content": "❤️ 327",
+      "likeCount": 327
     },
     {
       "treeType": "🖋",
@@ -615,8 +615,8 @@ export const TechArticleList = [
       "year": "2023/09/09",
       "title": "Kotlin製ORマッパーexposedはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/5386f097cc4b43",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -812,8 +812,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 433",
-      "likeCount": 433
+      "content": "❤️ 432",
+      "likeCount": 432
     }
   ],
   [
@@ -906,8 +906,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 140",
-      "likeCount": 140
+      "content": "❤️ 139",
+      "likeCount": 139
     }
   ],
   [
@@ -959,10 +959,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/08",
-    "contributionCount": 3
-  },
   {
     "date": "2024/06/09",
     "contributionCount": 1
@@ -1305,7 +1301,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/02",
-    "contributionCount": 12
+    "contributionCount": 13
   },
   {
     "date": "2024/09/03",
@@ -1330,6 +1326,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/08",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/09/09",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [

@@ -104,7 +104,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 339,
+      "zenn": 340,
       "qiita": 0
     },
     {
@@ -154,7 +154,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 142,
+      "zenn": 143,
       "qiita": 0
     },
     {
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 172,
+      "zenn": 174,
       "qiita": 301
     },
     {
@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 298,
+      "zenn": 299,
       "qiita": 19
     },
     {
@@ -196,11 +196,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1808
+      "favorites": 1809
     },
     {
       "year": "2024",
-      "favorites": 1628
+      "favorites": 1632
     }
   ]
 };
@@ -324,8 +324,8 @@ export const TechArticleList = [
       "year": "2024/06/06",
       "title": "VitestでMockを使うための逆引きレシピ集",
       "url": "https://zenn.dev/bs_kansai/articles/a5a22aa43aa46b",
-      "content": "❤️ 20",
-      "likeCount": 20
+      "content": "❤️ 21",
+      "likeCount": 21
     },
     {
       "treeType": "🖋",
@@ -427,8 +427,8 @@ export const TechArticleList = [
       "year": "2024/04/17",
       "title": "テックカンファレンスに「なんとなく」や「ただ楽しいから」で参加してない？",
       "url": "https://zenn.dev/bs_kansai/articles/4a8d9afc534d18",
-      "content": "❤️ 54",
-      "likeCount": 54
+      "content": "❤️ 55",
+      "likeCount": 55
     },
     {
       "treeType": "🖋",
@@ -447,8 +447,8 @@ export const TechArticleList = [
       "year": "2024/04/03",
       "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-      "content": "❤️ 26",
-      "likeCount": 26
+      "content": "❤️ 27",
+      "likeCount": 27
     },
     {
       "treeType": "🖋",
@@ -465,8 +465,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 126",
-      "likeCount": 126
+      "content": "❤️ 127",
+      "likeCount": 127
     },
     {
       "treeType": "🖋",
@@ -906,8 +906,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 139",
-      "likeCount": 139
+      "content": "❤️ 140",
+      "likeCount": 140
     }
   ],
   [
@@ -959,10 +959,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/09",
-    "contributionCount": 1
-  },
   {
     "date": "2024/06/10",
     "contributionCount": 17
@@ -1329,7 +1325,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/09",
-    "contributionCount": 5
+    "contributionCount": 7
+  },
+  {
+    "date": "2024/09/10",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1357,7 +1357,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 126",
-    "likeCount": 126
+    "content": "❤️ 127",
+    "likeCount": 127
   }
 ];

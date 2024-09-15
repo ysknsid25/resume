@@ -170,7 +170,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 351
+      "qiita": 352
     },
     {
       "yearMonth": "2024/06",
@@ -189,7 +189,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 10,
+      "zenn": 33,
       "qiita": 0
     }
   ],
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1649
+      "favorites": 1673
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 33",
+      "likeCount": 33
     },
     {
       "treeType": "🖋",
@@ -380,8 +380,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 332",
-      "likeCount": 332
+      "content": "❤️ 333",
+      "likeCount": 333
     },
     {
       "treeType": "🖋",
@@ -971,10 +971,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/14",
-    "contributionCount": 10
-  },
-  {
     "date": "2024/06/15",
     "contributionCount": 6
   },
@@ -1340,6 +1336,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/14",
+    "contributionCount": 9
+  },
+  {
+    "date": "2024/09/15",
     "contributionCount": 9
   }
 ];

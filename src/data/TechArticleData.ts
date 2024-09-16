@@ -189,7 +189,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 33,
+      "zenn": 39,
       "qiita": 0
     }
   ],
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1673
+      "favorites": 1679
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 33",
-      "likeCount": 33
+      "content": "❤️ 39",
+      "likeCount": 39
     },
     {
       "treeType": "🖋",
@@ -971,10 +971,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/15",
-    "contributionCount": 6
-  },
-  {
     "date": "2024/06/16",
     "contributionCount": 4
   },
@@ -1341,6 +1337,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/15",
     "contributionCount": 9
+  },
+  {
+    "date": "2024/09/16",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

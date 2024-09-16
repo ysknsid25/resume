@@ -4,7 +4,7 @@ const contents = [
     {
         treeType: "🏢",
         title: "虎の穴ラボ",
-        year: "2023 - ",
+        year: "",
         img: "tora",
         url: "https://yumenosora.co.jp/tora-lab",
         content:
@@ -13,7 +13,7 @@ const contents = [
     {
         treeType: "🏢",
         title: "エフアンドエムネット株式会社",
-        year: "2021 - 2022",
+        year: "",
         img: "fm",
         url: "https://www.fandmnet.com/",
         content:
@@ -22,7 +22,7 @@ const contents = [
     {
         treeType: "🏢",
         title: "株式会社スタジオノモス",
-        year: "2019 - 2021",
+        year: "",
         img: "nomos",
         url: "",
         content:
@@ -31,7 +31,7 @@ const contents = [
     {
         treeType: "🏢",
         title: "株式会社スタジオノモス",
-        year: "2018 - 2019",
+        year: "",
         img: "nomos",
         url: "",
         content:
@@ -40,7 +40,7 @@ const contents = [
     {
         treeType: "🏫",
         title: "国立 大阪教育大学 教育学部",
-        year: "2014 - 2018",
+        year: "",
         img: "muu",
         url: "",
         content:
@@ -49,18 +49,10 @@ const contents = [
     {
         treeType: "🏫",
         title: "兵庫県立 星陵高等学校 普通科",
-        year: "2011 - 2014",
+        year: "",
         img: "engel",
         url: "",
         content: "同窓生に西尾維新先生がいるそうな。",
-    },
-    {
-        treeType: "👶",
-        title: "爆誕",
-        year: "1995/12/25",
-        img: "wai",
-        url: "",
-        content: "",
     },
 ];
 

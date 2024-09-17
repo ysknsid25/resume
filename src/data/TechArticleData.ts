@@ -104,7 +104,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 341,
+      "zenn": 342,
       "qiita": 0
     },
     {
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 141,
+      "zenn": 142,
       "qiita": 0
     },
     {
@@ -189,18 +189,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 45,
+      "zenn": 56,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1811
+      "favorites": 1812
     },
     {
       "year": "2024",
-      "favorites": 1685
+      "favorites": 1697
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 45",
-      "likeCount": 45
+      "content": "❤️ 56",
+      "likeCount": 56
     },
     {
       "treeType": "🖋",
@@ -239,8 +239,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-      "content": "❤️ 130",
-      "likeCount": 130
+      "content": "❤️ 131",
+      "likeCount": 131
     },
     {
       "treeType": "🖋",
@@ -917,8 +917,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 140",
-      "likeCount": 140
+      "content": "❤️ 141",
+      "likeCount": 141
     },
     {
       "treeType": "🖋",
@@ -970,10 +970,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/16",
-    "contributionCount": 4
-  },
   {
     "date": "2024/06/17",
     "contributionCount": 11
@@ -1336,11 +1332,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/15",
-    "contributionCount": 9
+    "contributionCount": 23
   },
   {
     "date": "2024/09/16",
-    "contributionCount": 5
+    "contributionCount": 6
+  },
+  {
+    "date": "2024/09/17",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1359,8 +1359,8 @@ export const PopularArticles = [
     "year": "2024/07/15",
     "title": "[K, U] extends [U, K] ← ナニコレ",
     "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-    "content": "❤️ 130",
-    "likeCount": 130
+    "content": "❤️ 131",
+    "likeCount": 131
   },
   {
     "treeType": "🥉",

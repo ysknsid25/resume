@@ -2,6 +2,15 @@ import { Tree } from "./Tree/Tree";
 
 const contents = [
     {
+        treeType: "🎤",
+        title: "Developers Summit 2024 Kansai",
+        year: "2024",
+        img: "kiri",
+        url: "https://speakerdeck.com/ysknsid25/bian-naxian-ru-guan-woshe-tete-ming-ri-karamian-qiang-hui-kanhuarensudeng-tan-siteminai",
+        content:
+            "『変な先入観を捨てて、 明日から勉強会・カンファレンス登壇 してみない？』というテーマでLT枠で登壇しました",
+    },
+    {
         treeType: "🖋",
         title: "ログミーさんに記事掲載",
         year: "2024",

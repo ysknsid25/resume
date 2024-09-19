@@ -1,4 +1,4 @@
-import icon from "../assets/hina.jpeg";
+import icon from "../assets/icon.png";
 export const Profile = () => {
     return (
         <div className="mb-4">

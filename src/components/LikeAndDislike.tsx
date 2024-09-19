@@ -22,7 +22,7 @@ export const LikeAndDislike = () => {
                         <li>海辺でぼーっとする</li>
                         <li>散歩(静かな場所も街あるきも)</li>
                         <li>静かな空間</li>
-                        <li>静かな空間</li>
+                        <li>人が少ない空間</li>
                         <li>ひとりで過ごす時間(基本的に集団行動が嫌い)</li>
                     </ul>
                 </div>

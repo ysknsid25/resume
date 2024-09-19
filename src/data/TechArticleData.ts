@@ -104,7 +104,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 342,
+      "zenn": 343,
       "qiita": 0
     },
     {
@@ -189,18 +189,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 71,
+      "zenn": 72,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1812
+      "favorites": 1813
     },
     {
       "year": "2024",
-      "favorites": 1716
+      "favorites": 1717
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/09/18",
       "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
       "url": "https://zenn.dev/bs_kansai/articles/c309f804fde5a5",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 12",
+      "likeCount": 12
     },
     {
       "treeType": "🖋",
@@ -944,8 +944,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 50",
-      "likeCount": 50
+      "content": "❤️ 51",
+      "likeCount": 51
     },
     {
       "treeType": "🖋",
@@ -1349,7 +1349,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/19",
-    "contributionCount": 3
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [

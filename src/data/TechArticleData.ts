@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 301,
+      "zenn": 302,
       "qiita": 19
     },
     {
@@ -189,7 +189,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 68,
+      "zenn": 71,
       "qiita": 0
     }
   ],
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1712
+      "favorites": 1716
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/09/18",
       "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
       "url": "https://zenn.dev/bs_kansai/articles/c309f804fde5a5",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 11",
+      "likeCount": 11
     },
     {
       "treeType": "🖋",
@@ -221,8 +221,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 59",
-      "likeCount": 59
+      "content": "❤️ 60",
+      "likeCount": 60
     },
     {
       "treeType": "🖋",
@@ -333,8 +333,8 @@ export const TechArticleList = [
       "year": "2024/06/11",
       "title": "GitHubのプルリクコメントにVitestのカバレッジレポートのSummaryを表示する",
       "url": "https://zenn.dev/bs_kansai/articles/e822e7922d4b43",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 11",
+      "likeCount": 11
     },
     {
       "treeType": "🖋",
@@ -980,10 +980,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/18",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/06/19",
     "contributionCount": 1
   },
@@ -1350,6 +1346,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/18",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/09/19",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

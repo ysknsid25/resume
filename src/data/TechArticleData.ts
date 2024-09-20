@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 133,
+      "zenn": 134,
       "qiita": 0
     },
     {
@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 302,
+      "zenn": 303,
       "qiita": 19
     },
     {
@@ -189,18 +189,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 72,
+      "zenn": 75,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 1813
+      "favorites": 1814
     },
     {
       "year": "2024",
-      "favorites": 1717
+      "favorites": 1721
     }
   ]
 };
@@ -212,8 +212,8 @@ export const TechArticleList = [
       "year": "2024/09/18",
       "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
       "url": "https://zenn.dev/bs_kansai/articles/c309f804fde5a5",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     },
     {
       "treeType": "🖋",
@@ -221,8 +221,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 60",
-      "likeCount": 60
+      "content": "❤️ 62",
+      "likeCount": 62
     },
     {
       "treeType": "🖋",
@@ -295,8 +295,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-      "content": "❤️ 147",
-      "likeCount": 147
+      "content": "❤️ 148",
+      "likeCount": 148
     }
   ],
   [
@@ -776,8 +776,8 @@ export const TechArticleList = [
       "year": "2023/07/21",
       "title": "Next.js×TypeScript環境でJest→Vitestに移行してみた",
       "url": "https://zenn.dev/bs_kansai/articles/f45da65cb0a931",
-      "content": "❤️ 24",
-      "likeCount": 24
+      "content": "❤️ 25",
+      "likeCount": 25
     },
     {
       "treeType": "🖋",
@@ -979,10 +979,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/19",
-    "contributionCount": 1
-  },
   {
     "date": "2024/06/20",
     "contributionCount": 5
@@ -1350,6 +1346,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/19",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/09/20",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1359,8 +1359,8 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/bs_kansai/articles/da0547f3128308",
-    "content": "❤️ 147",
-    "likeCount": 147
+    "content": "❤️ 148",
+    "likeCount": 148
   },
   {
     "treeType": "🥈",

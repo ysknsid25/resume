@@ -36,6 +36,7 @@ export const LikeAndDislike = () => {
                 <div className="px-8 mt-4">
                     <ul className="list-disc text-sm font-normal text-gray-400">
                         <li>5人以上の飲み会には行かない</li>
+                        <li>旅行の時以外は1日1食</li>
                         <li>
                             食事を楽しむ・特定の人と過ごす時間を楽しむ以外の飲み会のときはノンアルで過ごす
                         </li>

@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 65,
+      "zenn": 66,
       "qiita": 0
     },
     {
@@ -164,8 +164,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 195,
-      "qiita": 302
+      "zenn": 196,
+      "qiita": 303
     },
     {
       "yearMonth": "2024/05",
@@ -189,7 +189,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 76,
+      "zenn": 77,
       "qiita": 0
     }
   ],
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1743
+      "favorites": 1747
     }
   ]
 };
@@ -221,8 +221,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 63",
-      "likeCount": 63
+      "content": "❤️ 64",
+      "likeCount": 64
     },
     {
       "treeType": "🖋",
@@ -427,8 +427,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 222",
-      "likeCount": 222
+      "content": "❤️ 223",
+      "likeCount": 223
     },
     {
       "treeType": "🖋",
@@ -474,8 +474,8 @@ export const TechArticleList = [
       "year": "2024/04/03",
       "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-      "content": "❤️ 27",
-      "likeCount": 27
+      "content": "❤️ 28",
+      "likeCount": 28
     },
     {
       "treeType": "🖋",
@@ -530,8 +530,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/bs_kansai/articles/59df844b29096d",
-      "content": "❤️ 24",
-      "likeCount": 24
+      "content": "❤️ 25",
+      "likeCount": 25
     }
   ],
   [
@@ -1027,10 +1027,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/23",
-    "contributionCount": 6
-  },
-  {
     "date": "2024/06/24",
     "contributionCount": 5
   },
@@ -1384,11 +1380,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/20",
-    "contributionCount": 3
+    "contributionCount": 4
   },
   {
     "date": "2024/09/21",
-    "contributionCount": 5
+    "contributionCount": 6
   },
   {
     "date": "2024/09/22",
@@ -1396,6 +1392,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/23",
+    "contributionCount": 2
+  },
+  {
+    "date": "2024/09/24",
     "contributionCount": 2
   }
 ];

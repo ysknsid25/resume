@@ -129,7 +129,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/09",
-      "zenn": 52,
+      "zenn": 53,
       "qiita": 0
     },
     {
@@ -170,7 +170,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 352
+      "qiita": 353
     },
     {
       "yearMonth": "2024/06",
@@ -196,11 +196,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2324
+      "favorites": 2325
     },
     {
       "year": "2024",
-      "favorites": 1747
+      "favorites": 1748
     }
   ]
 };
@@ -389,8 +389,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 333",
-      "likeCount": 333
+      "content": "❤️ 334",
+      "likeCount": 334
     }
   ],
   [
@@ -644,8 +644,8 @@ export const TechArticleList = [
       "year": "2023/09/09",
       "title": "Kotlin製ORマッパーexposedはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/5386f097cc4b43",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 11",
+      "likeCount": 11
     },
     {
       "treeType": "🖋",
@@ -1027,10 +1027,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/24",
-    "contributionCount": 5
-  },
-  {
     "date": "2024/06/25",
     "contributionCount": 15
   },
@@ -1396,6 +1392,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/24",
+    "contributionCount": 2
+  },
+  {
+    "date": "2024/09/25",
     "contributionCount": 2
   }
 ];

@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/06",
-      "zenn": 81,
+      "zenn": 82,
       "qiita": 0
     },
     {
@@ -196,7 +196,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2325
+      "favorites": 2326
     },
     {
       "year": "2024",
@@ -850,8 +850,8 @@ export const TechArticleList = [
       "year": "2023/06/12",
       "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
       "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
-      "content": "❤️ 48",
-      "likeCount": 48
+      "content": "❤️ 49",
+      "likeCount": 49
     },
     {
       "treeType": "🖋",
@@ -1320,7 +1320,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/07",
-    "contributionCount": 11
+    "contributionCount": 10
   },
   {
     "date": "2024/09/08",
@@ -1396,7 +1396,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/26",
-    "contributionCount": 2
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [

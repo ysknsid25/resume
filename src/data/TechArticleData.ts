@@ -170,11 +170,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 353
+      "qiita": 354
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 304,
+      "zenn": 305,
       "qiita": 19
     },
     {
@@ -200,7 +200,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1748
+      "favorites": 1750
     }
   ]
 };
@@ -268,8 +268,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 29",
-      "likeCount": 29
+      "content": "❤️ 30",
+      "likeCount": 30
     },
     {
       "treeType": "🖋",
@@ -389,8 +389,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 334",
-      "likeCount": 334
+      "content": "❤️ 335",
+      "likeCount": 335
     }
   ],
   [
@@ -1027,10 +1027,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/26",
-    "contributionCount": 12
-  },
-  {
     "date": "2024/06/27",
     "contributionCount": 8
   },
@@ -1396,7 +1392,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/26",
-    "contributionCount": 4
+    "contributionCount": 6
+  },
+  {
+    "date": "2024/09/27",
+    "contributionCount": 8
   }
 ];
 export const PopularArticles = [

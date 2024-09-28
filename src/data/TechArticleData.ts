@@ -109,7 +109,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1183,
+      "zenn": 1185,
       "qiita": 0
     },
     {
@@ -196,7 +196,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2326
+      "favorites": 2328
     },
     {
       "year": "2024",
@@ -870,8 +870,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 433",
-      "likeCount": 433
+      "content": "❤️ 434",
+      "likeCount": 434
     },
     {
       "treeType": "🖋",
@@ -906,8 +906,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
-      "content": "❤️ 352",
-      "likeCount": 352
+      "content": "❤️ 353",
+      "likeCount": 353
     }
   ],
   [
@@ -1026,10 +1026,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/27",
-    "contributionCount": 8
-  },
   {
     "date": "2024/06/28",
     "contributionCount": 1
@@ -1397,6 +1393,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/27",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/09/28",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [

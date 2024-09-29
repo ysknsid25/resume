@@ -1027,10 +1027,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/06/28",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/06/29",
     "contributionCount": 14
   },
@@ -1397,6 +1393,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/28",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/09/29",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

@@ -15,19 +15,21 @@ const contents = [
 export const SideJob = () => {
     const conditions = (isReceiving: boolean) => {
         return isReceiving ? (
-            <ul className="list-disc text-sm font-normal text-gray-400">
-                <li>月24時間程度</li>
-                <li>
-                    Kotlin(ServerSide Kotlin) or TypeScript (フロントバック) or
-                    GCP案件
-                </li>
-                <li>
-                    本業の業務領域に関連しない事業内容であること(アニメ・漫画などに関する商業商品販売・同人誌販売に関係しない事業内容)
-                </li>
-                <li>単金 ¥7500~</li>
-                <li>フルリモート勤務</li>
-                <li>基本的に平日8:00~17:00にMTGが発生しないこと</li>
-            </ul>
+            <div className="px-8 mt-4">
+                <ul className="list-disc text-sm font-normal text-gray-400">
+                    <li>月24時間程度</li>
+                    <li>
+                        Kotlin(ServerSide Kotlin) or TypeScript (フロントバック)
+                        or GCP案件
+                    </li>
+                    <li>
+                        本業の業務領域に関連しない事業内容であること(アニメ・漫画などに関する商業商品販売・同人誌販売に関係しない事業内容)
+                    </li>
+                    <li>単金 ¥7500~</li>
+                    <li>フルリモート勤務</li>
+                    <li>基本的に平日8:00~17:00にMTGが発生しないこと</li>
+                </ul>
+            </div>
         ) : (
             <p className="text-sm font-normal text-gray-400">
                 現在、新規の案件は募集しておりません。

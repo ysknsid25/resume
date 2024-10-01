@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1185,
+      "zenn": 1186,
       "qiita": 0
     },
     {
@@ -206,7 +206,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2330
+      "favorites": 2331
     },
     {
       "year": "2024",
@@ -916,8 +916,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
-      "content": "❤️ 353",
-      "likeCount": 353
+      "content": "❤️ 354",
+      "likeCount": 354
     }
   ],
   [
@@ -1036,10 +1036,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/06/30",
-    "contributionCount": 6
-  },
   {
     "date": "2024/07/01",
     "contributionCount": 2
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/09/30",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/10/01",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [

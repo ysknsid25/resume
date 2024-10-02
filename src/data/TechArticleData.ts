@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1186,
+      "zenn": 1187,
       "qiita": 0
     },
     {
@@ -124,12 +124,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 245,
+      "zenn": 246,
       "qiita": 0
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 164,
+      "zenn": 165,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 356
+      "qiita": 358
     },
     {
       "yearMonth": "2024/06",
@@ -206,11 +206,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2331
+      "favorites": 2334
     },
     {
       "year": "2024",
-      "favorites": 1752
+      "favorites": 1754
     }
   ]
 };
@@ -399,8 +399,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 337",
-      "likeCount": 337
+      "content": "❤️ 339",
+      "likeCount": 339
     }
   ],
   [
@@ -710,8 +710,8 @@ export const TechArticleList = [
       "year": "2023/08/24",
       "title": "Laravel Breeze + Google Authenticatorで2段階認証を設定する",
       "url": "https://zenn.dev/yskn_sid25/articles/92015d6ce05bf5",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -822,8 +822,8 @@ export const TechArticleList = [
       "year": "2023/07/13",
       "title": "VitestでSnapshotテストを試してみる",
       "url": "https://zenn.dev/bs_kansai/articles/943c0c015ed41b",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 11",
+      "likeCount": 11
     }
   ],
   [
@@ -916,8 +916,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/bs_kansai/articles/ca9658d8642177",
-      "content": "❤️ 354",
-      "likeCount": 354
+      "content": "❤️ 355",
+      "likeCount": 355
     }
   ],
   [
@@ -1036,10 +1036,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/01",
-    "contributionCount": 2
-  },
   {
     "date": "2024/07/02",
     "contributionCount": 1
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/01",
     "contributionCount": 1
+  },
+  {
+    "date": "2024/10/02",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [

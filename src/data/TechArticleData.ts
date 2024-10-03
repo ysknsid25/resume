@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1187,
+      "zenn": 1188,
       "qiita": 0
     },
     {
@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 144,
+      "zenn": 145,
       "qiita": 0
     },
     {
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 305,
+      "zenn": 306,
       "qiita": 19
     },
     {
@@ -206,11 +206,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2334
+      "favorites": 2335
     },
     {
       "year": "2024",
-      "favorites": 1754
+      "favorites": 1756
     }
   ]
 };
@@ -296,8 +296,8 @@ export const TechArticleList = [
       "year": "2024/06/24",
       "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
       "url": "https://zenn.dev/bs_kansai/articles/98cd4a69c34db6",
-      "content": "❤️ 59",
-      "likeCount": 59
+      "content": "❤️ 60",
+      "likeCount": 60
     },
     {
       "treeType": "🖋",
@@ -504,8 +504,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 128",
-      "likeCount": 128
+      "content": "❤️ 129",
+      "likeCount": 129
     },
     {
       "treeType": "🖋",
@@ -880,8 +880,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 434",
-      "likeCount": 434
+      "content": "❤️ 435",
+      "likeCount": 435
     },
     {
       "treeType": "🖋",
@@ -1036,10 +1036,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/02",
-    "contributionCount": 1
-  },
   {
     "date": "2024/07/03",
     "contributionCount": 6
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/02",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/10/03",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1434,7 +1434,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 128",
-    "likeCount": 128
+    "content": "❤️ 129",
+    "likeCount": 129
   }
 ];

@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 145,
+      "zenn": 146,
       "qiita": 0
     },
     {
@@ -194,7 +194,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 77,
+      "zenn": 78,
       "qiita": 0
     },
     {
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1756
+      "favorites": 1758
     }
   ]
 };
@@ -231,8 +231,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 64",
-      "likeCount": 64
+      "content": "❤️ 65",
+      "likeCount": 65
     },
     {
       "treeType": "🖋",
@@ -504,8 +504,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 129",
-      "likeCount": 129
+      "content": "❤️ 130",
+      "likeCount": 130
     },
     {
       "treeType": "🖋",
@@ -1037,10 +1037,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/03",
-    "contributionCount": 6
-  },
-  {
     "date": "2024/07/04",
     "contributionCount": 6
   },
@@ -1402,11 +1398,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/02",
-    "contributionCount": 5
+    "contributionCount": 4
   },
   {
     "date": "2024/10/03",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/10/04",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [
@@ -1434,7 +1434,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 129",
-    "likeCount": 129
+    "content": "❤️ 130",
+    "likeCount": 130
   }
 ];

@@ -109,12 +109,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 345,
+      "zenn": 347,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1188,
+      "zenn": 1189,
       "qiita": 0
     },
     {
@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/10",
-      "zenn": 26,
+      "zenn": 27,
       "qiita": 7
     },
     {
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 306,
+      "zenn": 307,
       "qiita": 19
     },
     {
@@ -206,11 +206,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2335
+      "favorites": 2339
     },
     {
       "year": "2024",
-      "favorites": 1758
+      "favorites": 1759
     }
   ]
 };
@@ -343,8 +343,8 @@ export const TechArticleList = [
       "year": "2024/06/11",
       "title": "GitHubのプルリクコメントにVitestのカバレッジレポートのSummaryを表示する",
       "url": "https://zenn.dev/bs_kansai/articles/e822e7922d4b43",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 12",
+      "likeCount": 12
     },
     {
       "treeType": "🖋",
@@ -598,8 +598,8 @@ export const TechArticleList = [
       "year": "2023/10/24",
       "title": "Vitestで書いたテストに対してStrykerを利用したMutation Testingを試してみる",
       "url": "https://zenn.dev/bs_kansai/articles/8fa18a5a94ec77",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 12",
+      "likeCount": 12
     },
     {
       "treeType": "🖋",
@@ -869,8 +869,8 @@ export const TechArticleList = [
       "year": "2023/05/28",
       "title": "useEffectのコールバック関数とcleanUp関数の実行タイミング、正しく説明できますか？",
       "url": "https://zenn.dev/bs_kansai/articles/8a19f36bbcc914",
-      "content": "❤️ 93",
-      "likeCount": 93
+      "content": "❤️ 94",
+      "likeCount": 94
     }
   ],
   [
@@ -983,8 +983,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/bs_kansai/articles/6bb62cbc02445f",
-      "content": "❤️ 141",
-      "likeCount": 141
+      "content": "❤️ 142",
+      "likeCount": 142
     },
     {
       "treeType": "🖋",
@@ -992,8 +992,8 @@ export const TechArticleList = [
       "year": "2023/04/22",
       "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
       "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
-      "content": "❤️ 30",
-      "likeCount": 30
+      "content": "❤️ 31",
+      "likeCount": 31
     },
     {
       "treeType": "🖋",
@@ -1036,10 +1036,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/04",
-    "contributionCount": 6
-  },
   {
     "date": "2024/07/05",
     "contributionCount": 1
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/04",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/10/05",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

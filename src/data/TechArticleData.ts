@@ -139,7 +139,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/10",
-      "zenn": 27,
+      "zenn": 28,
       "qiita": 7
     },
     {
@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 146,
+      "zenn": 147,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 358
+      "qiita": 359
     },
     {
       "yearMonth": "2024/06",
@@ -194,7 +194,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 78,
+      "zenn": 79,
       "qiita": 0
     },
     {
@@ -206,11 +206,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2339
+      "favorites": 2340
     },
     {
       "year": "2024",
-      "favorites": 1759
+      "favorites": 1762
     }
   ]
 };
@@ -231,8 +231,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 65",
-      "likeCount": 65
+      "content": "❤️ 66",
+      "likeCount": 66
     },
     {
       "treeType": "🖋",
@@ -399,8 +399,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 339",
-      "likeCount": 339
+      "content": "❤️ 340",
+      "likeCount": 340
     }
   ],
   [
@@ -504,8 +504,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 130",
-      "likeCount": 130
+      "content": "❤️ 131",
+      "likeCount": 131
     },
     {
       "treeType": "🖋",
@@ -607,8 +607,8 @@ export const TechArticleList = [
       "year": "2023/10/20",
       "title": "Next.jsにeslint-plugin-securityを導入してみた",
       "url": "https://zenn.dev/bs_kansai/articles/2fcd849c658c8f",
-      "content": "❤️ 8",
-      "likeCount": 8
+      "content": "❤️ 9",
+      "likeCount": 9
     },
     {
       "treeType": "🖋",
@@ -1037,10 +1037,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/05",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/07/06",
     "contributionCount": 3
   },
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/05",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/10/06",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1434,7 +1434,7 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-    "content": "❤️ 130",
-    "likeCount": 130
+    "content": "❤️ 131",
+    "likeCount": 131
   }
 ];

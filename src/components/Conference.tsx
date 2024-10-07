@@ -94,7 +94,7 @@ export const Conference = () => {
             <div className="flex justify-end items-end gap-4 mb-4">
                 <div className="text-sm font-normal flex underline">
                     <a
-                        href="https://connpass.com/user/samurai_se/"
+                        href="https://connpass.com/user/samurai_se/presentation"
                         target="_blank"
                         rel="noopener noreferrer"
                     >

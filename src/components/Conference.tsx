@@ -3,6 +3,15 @@ import { Tree } from "./Tree/Tree";
 const contents = [
     {
         treeType: "🎤",
+        title: "YAPC::Hakodate 2024",
+        year: "2024",
+        img: "wai",
+        url: "https://fortee.jp/yapc-hakodate-2024/proposal/a91375cf-5d1c-4abf-bedf-b291c685e056",
+        content:
+            "『テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜』というテーマで登壇しました",
+    },
+    {
+        treeType: "🎤",
         title: "Developers Summit 2024 Kansai",
         year: "2024",
         img: "kiri",

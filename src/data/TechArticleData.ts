@@ -109,12 +109,12 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 347,
+      "zenn": 348,
       "qiita": 0
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1189,
+      "zenn": 1190,
       "qiita": 0
     },
     {
@@ -206,7 +206,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2340
+      "favorites": 2342
     },
     {
       "year": "2024",
@@ -880,8 +880,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/bs_kansai/articles/415c7e7a81ac6a",
-      "content": "❤️ 435",
-      "likeCount": 435
+      "content": "❤️ 436",
+      "likeCount": 436
     },
     {
       "treeType": "🖋",
@@ -1001,8 +1001,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 52",
-      "likeCount": 52
+      "content": "❤️ 53",
+      "likeCount": 53
     },
     {
       "treeType": "🖋",
@@ -1386,19 +1386,19 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/02",
-    "contributionCount": 4
+    "contributionCount": 3
   },
   {
     "date": "2024/10/03",
-    "contributionCount": 4
+    "contributionCount": 5
   },
   {
     "date": "2024/10/04",
-    "contributionCount": 6
+    "contributionCount": 7
   },
   {
     "date": "2024/10/05",
-    "contributionCount": 3
+    "contributionCount": 5
   },
   {
     "date": "2024/10/06",
@@ -1406,7 +1406,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/07",
-    "contributionCount": 6
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [

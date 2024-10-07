@@ -17,7 +17,7 @@ export const Profile = () => {
                     blessing software
                 </p>
                 <p className="mt-4 text-center text-sm text-gray-600">
-                    人生を全力で楽しんでいます。
+                    Where there is a will, there is a way
                 </p>
             </div>
         </div>

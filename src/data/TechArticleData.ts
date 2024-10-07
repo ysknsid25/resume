@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 147,
+      "zenn": 148,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 359
+      "qiita": 360
     },
     {
       "yearMonth": "2024/06",
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1762
+      "favorites": 1764
     }
   ]
 };
@@ -399,8 +399,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 340",
-      "likeCount": 340
+      "content": "❤️ 341",
+      "likeCount": 341
     }
   ],
   [
@@ -504,8 +504,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
-      "content": "❤️ 131",
-      "likeCount": 131
+      "content": "❤️ 132",
+      "likeCount": 132
     },
     {
       "treeType": "🖋",
@@ -1037,10 +1037,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/06",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/07/07",
     "contributionCount": 2
   },
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/06",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/10/07",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1422,18 +1422,18 @@ export const PopularArticles = [
   {
     "treeType": "🥈",
     "img": "zenn",
-    "year": "2024/07/15",
-    "title": "[K, U] extends [U, K] ← ナニコレ",
-    "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
-    "content": "❤️ 131",
-    "likeCount": 131
+    "year": "2024/02/24",
+    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
+    "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
+    "content": "❤️ 132",
+    "likeCount": 132
   },
   {
     "treeType": "🥉",
     "img": "zenn",
-    "year": "2024/02/24",
-    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
-    "url": "https://zenn.dev/bs_kansai/articles/3706c12408160c",
+    "year": "2024/07/15",
+    "title": "[K, U] extends [U, K] ← ナニコレ",
+    "url": "https://zenn.dev/bs_kansai/articles/87c5cde1be86b6",
     "content": "❤️ 131",
     "likeCount": 131
   }

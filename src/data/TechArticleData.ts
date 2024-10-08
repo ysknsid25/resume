@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1190,
+      "zenn": 1191,
       "qiita": 0
     },
     {
@@ -206,7 +206,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2342
+      "favorites": 2343
     },
     {
       "year": "2024",
@@ -954,8 +954,8 @@ export const TechArticleList = [
       "year": "2023/05/01",
       "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
-      "content": "❤️ 43",
-      "likeCount": 43
+      "content": "❤️ 44",
+      "likeCount": 44
     },
     {
       "treeType": "🖋",
@@ -1036,10 +1036,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/07",
-    "contributionCount": 2
-  },
   {
     "date": "2024/07/08",
     "contributionCount": 12
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/07",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/10/08",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

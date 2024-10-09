@@ -129,7 +129,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 165,
+      "zenn": 166,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 33,
-      "qiita": 360
+      "qiita": 362
     },
     {
       "yearMonth": "2024/06",
@@ -206,11 +206,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2343
+      "favorites": 2344
     },
     {
       "year": "2024",
-      "favorites": 1764
+      "favorites": 1766
     }
   ]
 };
@@ -399,8 +399,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 341",
-      "likeCount": 341
+      "content": "❤️ 343",
+      "likeCount": 343
     }
   ],
   [
@@ -766,8 +766,8 @@ export const TechArticleList = [
       "year": "2023/08/10",
       "title": "VitestでMock, Testing Typesを使ってみよう！",
       "url": "https://zenn.dev/bs_kansai/articles/21962b63727f27",
-      "content": "❤️ 14",
-      "likeCount": 14
+      "content": "❤️ 15",
+      "likeCount": 15
     },
     {
       "treeType": "🖋",
@@ -1036,10 +1036,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/08",
-    "contributionCount": 12
-  },
   {
     "date": "2024/07/09",
     "contributionCount": 1
@@ -1407,6 +1403,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/08",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/10/09",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [

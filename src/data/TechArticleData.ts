@@ -174,12 +174,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 33,
+      "zenn": 34,
       "qiita": 362
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 307,
+      "zenn": 308,
       "qiita": 19
     },
     {
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1766
+      "favorites": 1768
     }
   ]
 };
@@ -363,8 +363,8 @@ export const TechArticleList = [
       "year": "2024/06/04",
       "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
       "url": "https://zenn.dev/bs_kansai/articles/4ea9bc0ad94c93",
-      "content": "❤️ 5",
-      "likeCount": 5
+      "content": "❤️ 6",
+      "likeCount": 6
     },
     {
       "treeType": "🖋",
@@ -381,8 +381,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/bs_kansai/articles/8fa323ea4ad2ad",
-      "content": "❤️ 33",
-      "likeCount": 33
+      "content": "❤️ 34",
+      "likeCount": 34
     },
     {
       "treeType": "🖋",
@@ -1037,10 +1037,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/09",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/07/10",
     "contributionCount": 7
   },
@@ -1406,6 +1402,10 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/09",
+    "contributionCount": 6
+  },
+  {
+    "date": "2024/10/10",
     "contributionCount": 6
   }
 ];

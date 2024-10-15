@@ -17,17 +17,29 @@ export const SideJob = () => {
         return isReceiving ? (
             <div className="px-8 mt-4">
                 <ul className="list-disc text-sm font-normal text-gray-400">
-                    <li>月24時間程度</li>
+                    <li>月25時間程度。±5h程度の範囲の差は許容可能。</li>
                     <li>
-                        Kotlin(ServerSide Kotlin) or TypeScript (フロントバック)
-                        or GCP案件
+                        Kotlin(ServerSide Kotlin) or TypeScript (React, Next.js,
+                        NestJS) or PHP(Laravel) or Google
+                        Cloudへのサーバーレスアプリケーション構築
                     </li>
                     <li>
                         本業の業務領域に関連しない事業内容であること(アニメ・漫画などに関する商業商品販売・同人誌販売に関係しない事業内容)
                     </li>
-                    <li>単金 ¥7500~</li>
+                    <li>単金 ¥7500~ (応相談)</li>
                     <li>フルリモート勤務</li>
                     <li>基本的に平日8:00~17:00にMTGが発生しないこと</li>
+                    <li>
+                        職務経歴書は
+                        <a
+                            href="https://docs.google.com/document/d/1QB2hDo2Dbj3Hgrd5Nrd_dCilTDsuIdKnCgDEizwzMWo/edit?usp=sharing"
+                            target="_blank"
+                            className="text-sm font-normal underline"
+                        >
+                            こちら
+                        </a>
+                        から
+                    </li>
                 </ul>
             </div>
         ) : (
@@ -46,7 +58,7 @@ export const SideJob = () => {
             <div className="mb-4 text-center">
                 <p className="text-sm font-normal text-gray-400">
                     <b>blessing software</b>
-                    (ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanon(@samurai_se)の個人事業主としての屋号です。
+                    (ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanonの個人事業主としての屋号です。
                     <br />
                 </p>
             </div>
@@ -73,7 +85,6 @@ export const SideJob = () => {
                                 Webシステム開発。特にPHP(Laravel) or
                                 Kotlin(Ktor) or TypeScript(Next.js, Nest.js)案件
                             </li>
-                            <li>テストコードの導入支援</li>
                             <li>
                                 ソフトウェアエンジニア同士の交流のためのコミュニティ運営
                             </li>

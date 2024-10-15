@@ -109,7 +109,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 349,
+      "zenn": 350,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 34,
-      "qiita": 363
+      "qiita": 366
     },
     {
       "yearMonth": "2024/06",
@@ -199,18 +199,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 13,
+      "zenn": 31,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2345
+      "favorites": 2346
     },
     {
       "year": "2024",
-      "favorites": 1782
+      "favorites": 1803
     }
   ]
 };
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/14",
       "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
       "url": "https://zenn.dev/yskn_sid25/articles/e5a727248849d1",
-      "content": "❤️ 13",
-      "likeCount": 13
+      "content": "❤️ 31",
+      "likeCount": 31
     },
     {
       "treeType": "🖋",
@@ -410,8 +410,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 344",
-      "likeCount": 344
+      "content": "❤️ 347",
+      "likeCount": 347
     },
     {
       "treeType": "🖋",
@@ -1010,8 +1010,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/bs_kansai/articles/5ac107b0f1cd7d",
-      "content": "❤️ 53",
-      "likeCount": 53
+      "content": "❤️ 54",
+      "likeCount": 54
     }
   ],
   [
@@ -1045,10 +1045,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/14",
-    "contributionCount": 3
-  },
   {
     "date": "2024/07/15",
     "contributionCount": 4
@@ -1416,6 +1412,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/14",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/10/15",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

@@ -194,12 +194,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 79,
+      "zenn": 78,
       "qiita": 0
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 31,
+      "zenn": 32,
       "qiita": 0
     }
   ],
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/14",
       "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
       "url": "https://zenn.dev/yskn_sid25/articles/e5a727248849d1",
-      "content": "❤️ 31",
-      "likeCount": 31
+      "content": "❤️ 32",
+      "likeCount": 32
     },
     {
       "treeType": "🖋",
@@ -231,8 +231,8 @@ export const TechArticleList = [
       "year": "2024/09/18",
       "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
       "url": "https://zenn.dev/bs_kansai/articles/c309f804fde5a5",
-      "content": "❤️ 13",
-      "likeCount": 13
+      "content": "❤️ 12",
+      "likeCount": 12
     },
     {
       "treeType": "🖋",
@@ -1415,7 +1415,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/15",
-    "contributionCount": 2
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [

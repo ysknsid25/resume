@@ -20,15 +20,19 @@ export const SideJob = () => {
                     <li>月25時間程度。±5h程度の範囲の差は許容可能。</li>
                     <li>
                         Kotlin(ServerSide Kotlin) or TypeScript (React, Next.js,
-                        NestJS) or PHP(Laravel) or Google
-                        Cloudへのサーバーレスアプリケーション構築
+                        NestJS) or Google
+                        Cloudへのサーバーレスアプリケーション構築に関われること
                     </li>
                     <li>
                         本業の業務領域に関連しない事業内容であること(アニメ・漫画などに関する商業商品販売・同人誌販売に関係しない事業内容)
                     </li>
-                    <li>単金 ¥7500~ (応相談)</li>
+                    <li>単金 ¥6,000~7,500 (応相談)</li>
                     <li>フルリモート勤務</li>
                     <li>基本的に平日8:00~17:00にMTGが発生しないこと</li>
+                    <li>
+                        勤務時間が平日 17:00~19:00, 20:30~22:00, 土日祝。
+                        1日1.5~2hの稼働を週4日ほど
+                    </li>
                     <li>
                         職務経歴書は
                         <a

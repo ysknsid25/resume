@@ -170,7 +170,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 196,
-      "qiita": 303
+      "qiita": 304
     },
     {
       "yearMonth": "2024/05",
@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 308,
+      "zenn": 309,
       "qiita": 19
     },
     {
@@ -199,7 +199,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 32,
+      "zenn": 40,
       "qiita": 0
     }
   ],
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1803
+      "favorites": 1813
     }
   ]
 };
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/14",
       "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
       "url": "https://zenn.dev/yskn_sid25/articles/e5a727248849d1",
-      "content": "❤️ 32",
-      "likeCount": 32
+      "content": "❤️ 40",
+      "likeCount": 40
     },
     {
       "treeType": "🖋",
@@ -287,8 +287,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 30",
-      "likeCount": 30
+      "content": "❤️ 31",
+      "likeCount": 31
     },
     {
       "treeType": "🖋",
@@ -446,8 +446,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 223",
-      "likeCount": 223
+      "content": "❤️ 224",
+      "likeCount": 224
     }
   ],
   [
@@ -1046,10 +1046,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/15",
-    "contributionCount": 4
-  },
-  {
     "date": "2024/07/16",
     "contributionCount": 1
   },
@@ -1259,7 +1255,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/06",
-    "contributionCount": 8
+    "contributionCount": 7
   },
   {
     "date": "2024/09/07",
@@ -1339,7 +1335,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/26",
-    "contributionCount": 6
+    "contributionCount": 5
   },
   {
     "date": "2024/09/27",
@@ -1416,6 +1412,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/15",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/10/16",
+    "contributionCount": 13
   }
 ];
 export const PopularArticles = [

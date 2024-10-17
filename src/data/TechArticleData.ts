@@ -179,7 +179,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 309,
+      "zenn": 310,
       "qiita": 19
     },
     {
@@ -199,7 +199,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 40,
+      "zenn": 41,
       "qiita": 0
     }
   ],
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1813
+      "favorites": 1815
     }
   ]
 };
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/14",
       "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
       "url": "https://zenn.dev/yskn_sid25/articles/e5a727248849d1",
-      "content": "❤️ 40",
-      "likeCount": 40
+      "content": "❤️ 41",
+      "likeCount": 41
     },
     {
       "treeType": "🖋",
@@ -287,8 +287,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/bs_kansai/articles/edc3543ba727db",
-      "content": "❤️ 31",
-      "likeCount": 31
+      "content": "❤️ 32",
+      "likeCount": 32
     },
     {
       "treeType": "🖋",
@@ -1046,10 +1046,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/16",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/07/17",
     "contributionCount": 1
   },
@@ -1243,7 +1239,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/03",
-    "contributionCount": 3
+    "contributionCount": 1
   },
   {
     "date": "2024/09/04",
@@ -1391,11 +1387,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/10",
-    "contributionCount": 6
+    "contributionCount": 8
   },
   {
     "date": "2024/10/11",
-    "contributionCount": 8
+    "contributionCount": 10
   },
   {
     "date": "2024/10/12",
@@ -1415,7 +1411,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/16",
-    "contributionCount": 15
+    "contributionCount": 17
+  },
+  {
+    "date": "2024/10/17",
+    "contributionCount": 11
   }
 ];
 export const PopularArticles = [

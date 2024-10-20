@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 34,
-      "qiita": 368
+      "qiita": 369
     },
     {
       "yearMonth": "2024/06",
@@ -199,7 +199,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 57,
+      "zenn": 75,
       "qiita": 0
     }
   ],
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1665
+      "favorites": 1684
     }
   ]
 };
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/19",
       "title": "LaravelはどのようにCSRF対策をしているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-      "content": "❤️ 16",
-      "likeCount": 16
+      "content": "❤️ 34",
+      "likeCount": 34
     },
     {
       "treeType": "🖋",
@@ -410,8 +410,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 349",
-      "likeCount": 349
+      "content": "❤️ 350",
+      "likeCount": 350
     },
     {
       "treeType": "🖋",
@@ -1017,10 +1017,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/19",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/07/20",
     "contributionCount": 1
   },
@@ -1387,6 +1383,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/19",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/10/20",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [

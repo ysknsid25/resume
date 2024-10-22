@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 147,
+      "zenn": 148,
       "qiita": 0
     },
     {
@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 34,
+      "zenn": 35,
       "qiita": 369
     },
     {
@@ -199,7 +199,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 92,
+      "zenn": 94,
       "qiita": 0
     }
   ],
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1701
+      "favorites": 1705
     }
   ]
 };
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/19",
       "title": "LaravelはどのようにCSRF対策をしているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-      "content": "❤️ 50",
-      "likeCount": 50
+      "content": "❤️ 52",
+      "likeCount": 52
     },
     {
       "treeType": "🖋",
@@ -390,8 +390,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
-      "content": "❤️ 34",
-      "likeCount": 34
+      "content": "❤️ 35",
+      "likeCount": 35
     },
     {
       "treeType": "🖋",
@@ -484,8 +484,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 131",
-      "likeCount": 131
+      "content": "❤️ 132",
+      "likeCount": 132
     },
     {
       "treeType": "🖋",
@@ -1017,10 +1017,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/21",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/07/22",
     "contributionCount": 3
   },
@@ -1386,7 +1382,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/21",
-    "contributionCount": 5
+    "contributionCount": 6
+  },
+  {
+    "date": "2024/10/22",
+    "contributionCount": 42
   }
 ];
 export const PopularArticles = [
@@ -1402,18 +1402,18 @@ export const PopularArticles = [
   {
     "treeType": "🥈",
     "img": "zenn",
-    "year": "2024/07/15",
-    "title": "[K, U] extends [U, K] ← ナニコレ",
-    "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
-    "content": "❤️ 131",
-    "likeCount": 131
+    "year": "2024/02/24",
+    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
+    "content": "❤️ 132",
+    "likeCount": 132
   },
   {
     "treeType": "🥉",
     "img": "zenn",
-    "year": "2024/02/24",
-    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
+    "year": "2024/07/15",
+    "title": "[K, U] extends [U, K] ← ナニコレ",
+    "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
     "content": "❤️ 131",
     "likeCount": 131
   }

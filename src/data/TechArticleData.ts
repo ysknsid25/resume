@@ -175,16 +175,16 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 372
+      "qiita": 373
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 250,
+      "zenn": 251,
       "qiita": 19
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 142,
+      "zenn": 143,
       "qiita": 0
     },
     {
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1708
+      "favorites": 1711
     }
   ]
 };
@@ -287,8 +287,8 @@ export const TechArticleList = [
       "year": "2024/07/12",
       "title": "Kotlin DataFrameを使えばCSVやJSONをいい感じに扱えそう",
       "url": "https://zenn.dev/yskn_sid25/articles/5f690bf86cad25",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 12",
+      "likeCount": 12
     },
     {
       "treeType": "🖋",
@@ -296,8 +296,8 @@ export const TechArticleList = [
       "year": "2024/06/29",
       "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
       "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
-      "content": "❤️ 32",
-      "likeCount": 32
+      "content": "❤️ 33",
+      "likeCount": 33
     },
     {
       "treeType": "🖋",
@@ -410,8 +410,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 353",
-      "likeCount": 353
+      "content": "❤️ 354",
+      "likeCount": 354
     },
     {
       "treeType": "🖋",
@@ -1017,10 +1017,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/23",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/07/24",
     "contributionCount": 4
   },
@@ -1387,6 +1383,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/23",
     "contributionCount": 21
+  },
+  {
+    "date": "2024/10/24",
+    "contributionCount": 12
   }
 ];
 export const PopularArticles = [

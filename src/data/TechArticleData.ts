@@ -109,7 +109,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 350,
+      "zenn": 351,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 373
+      "qiita": 374
     },
     {
       "yearMonth": "2024/06",
@@ -206,11 +206,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2347
+      "favorites": 2348
     },
     {
       "year": "2024",
-      "favorites": 1711
+      "favorites": 1712
     }
   ]
 };
@@ -410,8 +410,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 354",
-      "likeCount": 354
+      "content": "❤️ 355",
+      "likeCount": 355
     },
     {
       "treeType": "🖋",
@@ -963,8 +963,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-      "content": "❤️ 143",
-      "likeCount": 143
+      "content": "❤️ 144",
+      "likeCount": 144
     }
   ],
   [
@@ -1016,10 +1016,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/24",
-    "contributionCount": 4
-  },
   {
     "date": "2024/07/25",
     "contributionCount": 1
@@ -1194,7 +1190,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/09/06",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/09/07",
@@ -1386,7 +1382,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/24",
-    "contributionCount": 12
+    "contributionCount": 9
+  },
+  {
+    "date": "2024/10/25",
+    "contributionCount": 29
   }
 ];
 export const PopularArticles = [

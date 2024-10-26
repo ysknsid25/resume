@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1192,
+      "zenn": 1193,
       "qiita": 0
     },
     {
@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 374
+      "qiita": 375
     },
     {
       "yearMonth": "2024/06",
@@ -199,18 +199,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 94,
+      "zenn": 95,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2348
+      "favorites": 2349
     },
     {
       "year": "2024",
-      "favorites": 1712
+      "favorites": 1714
     }
   ]
 };
@@ -222,8 +222,8 @@ export const TechArticleList = [
       "year": "2024/10/19",
       "title": "LaravelはどのようにCSRF対策をしているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-      "content": "❤️ 52",
-      "likeCount": 52
+      "content": "❤️ 53",
+      "likeCount": 53
     },
     {
       "treeType": "🖋",
@@ -410,8 +410,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 355",
-      "likeCount": 355
+      "content": "❤️ 356",
+      "likeCount": 356
     },
     {
       "treeType": "🖋",
@@ -860,8 +860,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
-      "content": "❤️ 437",
-      "likeCount": 437
+      "content": "❤️ 438",
+      "likeCount": 438
     },
     {
       "treeType": "🖋",
@@ -1016,10 +1016,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/25",
-    "contributionCount": 1
-  },
   {
     "date": "2024/07/26",
     "contributionCount": 14
@@ -1387,6 +1383,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/25",
     "contributionCount": 29
+  },
+  {
+    "date": "2024/10/26",
+    "contributionCount": 8
   }
 ];
 export const PopularArticles = [

@@ -114,7 +114,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1193,
+      "zenn": 1194,
       "qiita": 0
     },
     {
@@ -199,18 +199,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 95,
+      "zenn": 96,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2349
+      "favorites": 2350
     },
     {
       "year": "2024",
-      "favorites": 1714
+      "favorites": 1715
     }
   ]
 };
@@ -231,8 +231,8 @@ export const TechArticleList = [
       "year": "2024/10/14",
       "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
       "url": "https://zenn.dev/yskn_sid25/articles/e5a727248849d1",
-      "content": "❤️ 42",
-      "likeCount": 42
+      "content": "❤️ 43",
+      "likeCount": 43
     },
     {
       "treeType": "🖋",
@@ -860,8 +860,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
-      "content": "❤️ 438",
-      "likeCount": 438
+      "content": "❤️ 439",
+      "likeCount": 439
     },
     {
       "treeType": "🖋",
@@ -1016,10 +1016,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/26",
-    "contributionCount": 14
-  },
   {
     "date": "2024/07/27",
     "contributionCount": 1
@@ -1382,11 +1378,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/25",
-    "contributionCount": 29
+    "contributionCount": 28
   },
   {
     "date": "2024/10/26",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/10/27",
+    "contributionCount": 14
   }
 ];
 export const PopularArticles = [

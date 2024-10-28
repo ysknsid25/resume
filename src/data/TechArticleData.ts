@@ -154,7 +154,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 67,
+      "zenn": 68,
       "qiita": 0
     },
     {
@@ -170,12 +170,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 120,
-      "qiita": 272
+      "qiita": 273
     },
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 375
+      "qiita": 376
     },
     {
       "yearMonth": "2024/06",
@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1715
+      "favorites": 1718
     }
   ]
 };
@@ -410,8 +410,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 356",
-      "likeCount": 356
+      "content": "❤️ 357",
+      "likeCount": 357
     },
     {
       "treeType": "🖋",
@@ -437,8 +437,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 224",
-      "likeCount": 224
+      "content": "❤️ 225",
+      "likeCount": 225
     },
     {
       "treeType": "🖋",
@@ -522,8 +522,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/yskn_sid25/articles/59df844b29096d",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -1017,10 +1017,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/07/27",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/07/28",
     "contributionCount": 3
   },
@@ -1354,7 +1350,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/19",
-    "contributionCount": 5
+    "contributionCount": 4
   },
   {
     "date": "2024/10/20",
@@ -1374,19 +1370,23 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/24",
-    "contributionCount": 9
+    "contributionCount": 8
   },
   {
     "date": "2024/10/25",
-    "contributionCount": 28
+    "contributionCount": 22
   },
   {
     "date": "2024/10/26",
-    "contributionCount": 8
+    "contributionCount": 9
   },
   {
     "date": "2024/10/27",
     "contributionCount": 14
+  },
+  {
+    "date": "2024/10/28",
+    "contributionCount": 48
   }
 ];
 export const PopularArticles = [

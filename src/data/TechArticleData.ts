@@ -109,7 +109,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 351,
+      "zenn": 352,
       "qiita": 0
     },
     {
@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 148,
+      "zenn": 149,
       "qiita": 0
     },
     {
@@ -170,7 +170,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 120,
-      "qiita": 273
+      "qiita": 274
     },
     {
       "yearMonth": "2024/05",
@@ -199,18 +199,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 102,
+      "zenn": 121,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2349
+      "favorites": 2350
     },
     {
       "year": "2024",
-      "favorites": 1724
+      "favorites": 1745
     }
   ]
 };
@@ -220,10 +220,10 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "zenn",
       "year": "2024/10/29",
-      "title": "『Osyaburi』というchrome拡張機能をリリースした",
+      "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
       "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
-      "content": "❤️ 6",
-      "likeCount": 6
+      "content": "❤️ 25",
+      "likeCount": 25
     },
     {
       "treeType": "🖋",
@@ -446,8 +446,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 225",
-      "likeCount": 225
+      "content": "❤️ 226",
+      "likeCount": 226
     }
   ],
   [
@@ -493,8 +493,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 132",
-      "likeCount": 132
+      "content": "❤️ 133",
+      "likeCount": 133
     }
   ],
   [
@@ -1021,16 +1021,12 @@ export const TechArticleList = [
       "year": "2023/04/07",
       "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
       "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 11",
+      "likeCount": 11
     }
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/29",
-    "contributionCount": 4
-  },
   {
     "date": "2024/07/30",
     "contributionCount": 8
@@ -1398,6 +1394,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/29",
     "contributionCount": 10
+  },
+  {
+    "date": "2024/10/30",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1416,8 +1416,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 132",
-    "likeCount": 132
+    "content": "❤️ 133",
+    "likeCount": 133
   },
   {
     "treeType": "🥉",

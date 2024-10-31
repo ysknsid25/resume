@@ -94,6 +94,11 @@ export const TechArticleData = {
       "yearMonth": "2024/10",
       "zenn": 3,
       "qiita": 0
+    },
+    {
+      "yearMonth": "2024/11",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearArticleCounts": [
@@ -124,7 +129,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 245,
+      "zenn": 246,
       "qiita": 0
     },
     {
@@ -159,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 149,
+      "zenn": 150,
       "qiita": 0
     },
     {
@@ -199,18 +204,23 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 121,
+      "zenn": 123,
+      "qiita": 0
+    },
+    {
+      "yearMonth": "2024/11",
+      "zenn": 0,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2350
+      "favorites": 2351
     },
     {
       "year": "2024",
-      "favorites": 1745
+      "favorites": 1748
     }
   ]
 };
@@ -222,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/10/29",
       "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
       "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 27",
+      "likeCount": 27
     },
     {
       "treeType": "🖋",
@@ -493,8 +503,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 133",
-      "likeCount": 133
+      "content": "❤️ 134",
+      "likeCount": 134
     }
   ],
   [
@@ -804,8 +814,8 @@ export const TechArticleList = [
       "year": "2023/07/21",
       "title": "Next.js×TypeScript環境でJest→Vitestに移行してみた",
       "url": "https://zenn.dev/yskn_sid25/articles/f45da65cb0a931",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -1027,10 +1037,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/30",
-    "contributionCount": 8
-  },
   {
     "date": "2024/07/31",
     "contributionCount": 4
@@ -1369,7 +1375,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/23",
-    "contributionCount": 21
+    "contributionCount": 20
   },
   {
     "date": "2024/10/24",
@@ -1385,7 +1391,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/27",
-    "contributionCount": 14
+    "contributionCount": 13
   },
   {
     "date": "2024/10/28",
@@ -1398,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/30",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/10/31",
+    "contributionCount": 9
   }
 ];
 export const PopularArticles = [
@@ -1416,8 +1426,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 133",
-    "likeCount": 133
+    "content": "❤️ 134",
+    "likeCount": 134
   },
   {
     "treeType": "🥉",

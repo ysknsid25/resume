@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1194,
+      "zenn": 1195,
       "qiita": 0
     },
     {
@@ -204,7 +204,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 123,
+      "zenn": 124,
       "qiita": 0
     },
     {
@@ -216,11 +216,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2351
+      "favorites": 2352
     },
     {
       "year": "2024",
-      "favorites": 1748
+      "favorites": 1749
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/10/29",
       "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
       "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
-      "content": "❤️ 27",
-      "likeCount": 27
+      "content": "❤️ 28",
+      "likeCount": 28
     },
     {
       "treeType": "🖋",
@@ -879,8 +879,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
-      "content": "❤️ 439",
-      "likeCount": 439
+      "content": "❤️ 440",
+      "likeCount": 440
     }
   ],
   [
@@ -1037,10 +1037,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/07/31",
-    "contributionCount": 4
-  },
   {
     "date": "2024/08/01",
     "contributionCount": 1
@@ -1408,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/10/31",
     "contributionCount": 9
+  },
+  {
+    "date": "2024/11/01",
+    "contributionCount": 26
   }
 ];
 export const PopularArticles = [

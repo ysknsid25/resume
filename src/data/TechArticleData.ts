@@ -184,7 +184,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 251,
+      "zenn": 252,
       "qiita": 19
     },
     {
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1749
+      "favorites": 1750
     }
   ]
 };
@@ -382,8 +382,8 @@ export const TechArticleList = [
       "year": "2024/06/06",
       "title": "VitestでMockを使うための逆引きレシピ集",
       "url": "https://zenn.dev/yskn_sid25/articles/a5a22aa43aa46b",
-      "content": "❤️ 22",
-      "likeCount": 22
+      "content": "❤️ 23",
+      "likeCount": 23
     },
     {
       "treeType": "🖋",
@@ -1038,10 +1038,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/01",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/08/02",
     "contributionCount": 1
   },
@@ -1408,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/01",
     "contributionCount": 26
+  },
+  {
+    "date": "2024/11/02",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [

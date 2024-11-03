@@ -1,6 +1,7 @@
 import fetch from "node-fetch";
 import dotenv from "dotenv";
 import fs from "fs";
+import xml2js from "xml2js";
 
 const BEGIN_YEAR = 2023;
 const END_YEAR = 2024;
@@ -28,6 +29,14 @@ const main = async () => {
         const qiitaData = getQiitaData(originalQiitaData);
         const qiitaArticleList = getQiitaArticleList(originalQiitaData);
         console.log(qiitaArticleList.length);
+
+        console.log("#### Fetch note Info####");
+        const noteData = await getNoteArticles();
+        console.log(noteData.length);
+
+        console.log("#### Fetch SpeakerDeck Info####");
+        const decks = await getSpeakerDecks();
+        console.log(decks.length);
 
         console.log("#### Fetch GitHub Info####");
         const gitHubData = await getGitHubControbutions();
@@ -135,7 +144,9 @@ const main = async () => {
             null,
             2
         );
-        const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};\nexport const GitHubContributions = ${githubContributionsJson};\nexport const PopularArticles = ${popularArticlesWithRankJson};`;
+        const noteArticlesJson = JSON.stringify(noteData, null, 2);
+        const speakerDecksJson = JSON.stringify(decks, null, 2);
+        const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};\nexport const GitHubContributions = ${githubContributionsJson};\nexport const PopularArticles = ${popularArticlesWithRankJson};\nexport const noteArticles = ${noteArticlesJson};\nexport const speakerDecks = ${speakerDecksJson};`;
         fs.writeFile(FILE_PATH, jsonContent, "utf8", (err) => {
             if (err) {
                 throw err;
@@ -189,6 +200,64 @@ const getQiitaArticles = async (env) => {
             console.error("Qiita Request failed", error);
             throw error;
         });
+};
+
+const getNoteArticles = async () => {
+    let page = 1;
+    let articles = [];
+    while (true) {
+        console.log(`fetch note page:${page}`);
+        const url = `https://note.com/api/v2/creators/samurai_se/contents?kind=note&page=${page}`;
+        const response = await fetch(url);
+        const json = await response.json();
+        const filteredData = json.data.contents.filter((content) => {
+            const { year } = getDate(content.publishAt);
+            const newDate = new Date();
+            return !content.isPinned && year === newDate.getFullYear();
+        });
+        if (filteredData.length === 0) {
+            break;
+        }
+        articles = articles.concat(filteredData);
+        page++;
+    }
+    return articles.map((article) => {
+        return {
+            title: article.name,
+            url: article.noteUrl,
+        };
+    });
+};
+
+const getSpeakerDecks = async () => {
+    const url = "https://speakerdeck.com/ysknsid25.rss";
+    // HTTPリクエストでRSSデータを取得
+    const response = await fetch(url);
+    const xmlData = await response.text();
+    const parser = new xml2js.Parser();
+    let returnData = [];
+    parser.parseString(xmlData, (err, result) => {
+        if (err) {
+            console.error("XMLの解析に失敗しました:", err);
+            return;
+        }
+        const filteredData = result.rss.channel[0].item
+            .filter((data) => {
+                const { year } = getDate(data.pubDate[0]);
+                console.log(year);
+                const today = new Date();
+                return year === today.getFullYear();
+            })
+            .map((data) => {
+                return {
+                    title: data.title,
+                    url: data.link[0],
+                };
+            });
+        console.log(filteredData);
+        returnData = filteredData;
+    });
+    return returnData;
 };
 
 const getGitHubControbutions = async () => {

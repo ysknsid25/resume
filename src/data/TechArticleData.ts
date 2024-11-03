@@ -1038,10 +1038,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/02",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/08/03",
     "contributionCount": 11
   },
@@ -1408,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/02",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/11/03",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [
@@ -1437,5 +1437,243 @@ export const PopularArticles = [
     "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
     "content": "❤️ 131",
     "likeCount": 131
+  }
+];
+export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.10.5)",
+    "url": "https://note.com/samurai_se/n/ncd30cfe1cadb"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.11.0-rc)",
+    "url": "https://note.com/samurai_se/n/n16c8106c0048"
+  },
+  {
+    "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
+    "url": "https://note.com/samurai_se/n/n4c80894a6278"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.10.4)",
+    "url": "https://note.com/samurai_se/n/n1fc56190c658"
+  },
+  {
+    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
+    "url": "https://note.com/samurai_se/n/n389f89ad58a3"
+  },
+  {
+    "title": "じぶんRelease Noteの運用を見直した",
+    "url": "https://note.com/samurai_se/n/n210ae877fc96"
+  },
+  {
+    "title": "PHP勉強会in広島へ行ってきた",
+    "url": "https://note.com/samurai_se/n/n8e68ac6140e9"
+  },
+  {
+    "title": "俺は友達じゃなくて技術力が欲しい",
+    "url": "https://note.com/samurai_se/n/n3eb5596fb42d"
+  },
+  {
+    "title": "Modern Infra & Apps Summit ’24 に参加してきた",
+    "url": "https://note.com/samurai_se/n/n7c3e5720a19f"
+  },
+  {
+    "title": "はーーーるばるきたぜぇ",
+    "url": "https://note.com/samurai_se/n/n56baece0d1a0"
+  },
+  {
+    "title": "自分を計る基準がやっと他人じゃなく自分になってきた",
+    "url": "https://note.com/samurai_se/n/n9d2dafa248f5"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.9.0)",
+    "url": "https://note.com/samurai_se/n/nbe865a2ce775"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.8.0)",
+    "url": "https://note.com/samurai_se/n/nc5679222ac7e"
+  },
+  {
+    "title": "TypeScript Meet Up Kobeを楽しむためのモデルコース(土曜日の昼下がり編)",
+    "url": "https://note.com/samurai_se/n/n69151cc92959"
+  },
+  {
+    "title": "『地面師たち』を見た",
+    "url": "https://note.com/samurai_se/n/n80edb31131bc"
+  },
+  {
+    "title": "Google Cloud Next Tokyo '24 に参加レポート (2日目)",
+    "url": "https://note.com/samurai_se/n/n46dd0f025a55"
+  },
+  {
+    "title": "Google Cloud Next Tokyo '24 に参加レポート (1日目)",
+    "url": "https://note.com/samurai_se/n/n14850ca3a06a"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.7.0)",
+    "url": "https://note.com/samurai_se/n/n7cb5312bd137"
+  },
+  {
+    "title": "PHP\"オレ\"カンファレンス神戸なるものを開催した",
+    "url": "https://note.com/samurai_se/n/n3ad4fd22a003"
+  },
+  {
+    "title": "2024年春アニメ総括",
+    "url": "https://note.com/samurai_se/n/nc050b8c5dfd5"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.6.0)",
+    "url": "https://note.com/samurai_se/n/nf34d8eb482b8"
+  },
+  {
+    "title": "PHPカンファレンス福岡に参加(登壇)レポ",
+    "url": "https://note.com/samurai_se/n/n552850164cdd"
+  },
+  {
+    "title": "技術書典16にオフライン出展してきました！",
+    "url": "https://note.com/samurai_se/n/na78a3adaa810"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.5.0)",
+    "url": "https://note.com/samurai_se/n/na51e8a20c40b"
+  },
+  {
+    "title": "テックカンファレンスで交流を捗らせるためのアイテム",
+    "url": "https://note.com/samurai_se/n/n427d9f4f4506"
+  },
+  {
+    "title": "PHPカンファレンス香川に参加(登壇)レポ",
+    "url": "https://note.com/samurai_se/n/na79aeed59f84"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.4.0)",
+    "url": "https://note.com/samurai_se/n/n0c41bf14fc38"
+  },
+  {
+    "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
+    "url": "https://note.com/samurai_se/n/nc0b406a83363"
+  },
+  {
+    "title": "広島にマツダスタジアムでのカープ観戦とぽんのみち聖地巡礼してきました",
+    "url": "https://note.com/samurai_se/n/n0586c5c66ea5"
+  },
+  {
+    "title": "カンファレンス遠征の持ち物2024年4月版",
+    "url": "https://note.com/samurai_se/n/n1cf59a966894"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.3.0)",
+    "url": "https://note.com/samurai_se/n/nc0b16862dd3a"
+  },
+  {
+    "title": "PHPerKaigi 2024にオンライン参加しました",
+    "url": "https://note.com/samurai_se/n/nba69a3b84b99"
+  },
+  {
+    "title": "30代をどう生きるか",
+    "url": "https://note.com/samurai_se/n/n0ef5388d2589"
+  },
+  {
+    "title": "2024年春アニメが神クールになりそうな予感",
+    "url": "https://note.com/samurai_se/n/n3fb452f11c3d"
+  },
+  {
+    "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
+    "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.2.0)",
+    "url": "https://note.com/samurai_se/n/n812d4394ad54"
+  },
+  {
+    "title": "成長投資枠で国内株式をいくつか購入",
+    "url": "https://note.com/samurai_se/n/n4e1f3717e4f3"
+  },
+  {
+    "title": "とある秋葉原IT企業社員の福利厚生(ワークライフバランス)",
+    "url": "https://note.com/samurai_se/n/nb807bfaffc1b"
+  },
+  {
+    "title": "インベスターZに学ぶ 出口戦略を考えておくことの意義",
+    "url": "https://note.com/samurai_se/n/n6e7ddb042c87"
+  },
+  {
+    "title": "PHPカンファレンス関西2024に(登壇)参加レポ",
+    "url": "https://note.com/samurai_se/n/ndef88b9f8aa7"
+  },
+  {
+    "title": "晴れて個人事業主になりました",
+    "url": "https://note.com/samurai_se/n/n37e4d4a322e4"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.1.0)",
+    "url": "https://note.com/samurai_se/n/n448d8781439e"
+  },
+  {
+    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
+    "url": "https://note.com/samurai_se/n/n242cd810459c"
+  },
+  {
+    "title": "神戸に住めば最高のロケーションでプチキャンプができるよ",
+    "url": "https://note.com/samurai_se/n/n71ad454355c3"
+  },
+  {
+    "title": "Hello 2024",
+    "url": "https://note.com/samurai_se/n/n48e7eab89d27"
+  }
+];
+export const speakerDecks = [
+  {
+    "title": [
+      "そうだ、神戸へ行こう"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou"
+  },
+  {
+    "title": [
+      "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume"
+  },
+  {
+    "title": [
+      "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto"
+  },
+  {
+    "title": [
+      "2024年に発表されたFirebase(Web)の新機能を使ってみよう"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/2024nian-nifa-biao-saretafirebase-web-noxin-ji-neng-woshi-tutemiyou-3f80826d-115d-4072-85ef-8c981766d10a"
+  },
+  {
+    "title": [
+      "AI時代のソフトウェア エンジニアリングに備える"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/aishi-dai-nosohutouea-enziniaringunibei-eru"
+  },
+  {
+    "title": [
+      "変な先入観を捨てて、 明日から勉強会・カンファレンス登壇 してみない？"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/bian-naxian-ru-guan-woshe-tete-ming-ri-karamian-qiang-hui-kanhuarensudeng-tan-siteminai"
+  },
+  {
+    "title": [
+      "Google I/O 2024で発表されたFirebase Data Connectを試してみた"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/o-2024defa-biao-saretafirebase-data-connectwoshi-sitemita"
+  },
+  {
+    "title": [
+      "useSWRをuseContextの代わりに使ってみる試み"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/useswrwousecontextnodai-warinishi-tutemirushi-mi"
+  },
+  {
+    "title": [
+      "東遊園地近辺のおすすめランチ・カフェ"
+    ],
+    "url": "https://speakerdeck.com/ysknsid25/dong-you-yuan-di-jin-bian-noosusumerantikahue"
   }
 ];

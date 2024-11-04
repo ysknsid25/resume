@@ -83,6 +83,12 @@ try {
             }
             return data;
         });
+    } else {
+        hatenaBookmarkData.push({
+            year: year,
+            sum: sum,
+            bookmarkRanking: top10,
+        });
     }
 
     const hatenaBookmarkJson = JSON.stringify(hatenaBookmarkData, null, 2);

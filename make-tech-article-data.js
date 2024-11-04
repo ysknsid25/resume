@@ -250,7 +250,7 @@ const getSpeakerDecks = async () => {
             })
             .map((data) => {
                 return {
-                    title: data.title,
+                    title: data.title[0],
                     url: data.link[0],
                 };
             });

@@ -180,7 +180,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 379
+      "qiita": 381
     },
     {
       "yearMonth": "2024/06",
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1753
+      "favorites": 1755
     }
   ]
 };
@@ -429,8 +429,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 360",
-      "likeCount": 360
+      "content": "❤️ 362",
+      "likeCount": 362
     },
     {
       "treeType": "🖋",
@@ -1038,10 +1038,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/03",
-    "contributionCount": 11
-  },
-  {
     "date": "2024/08/04",
     "contributionCount": 6
   },
@@ -1408,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/03",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/11/04",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [
@@ -1623,57 +1623,39 @@ export const noteArticles = [
 ];
 export const speakerDecks = [
   {
-    "title": [
-      "そうだ、神戸へ行こう"
-    ],
+    "title": "そうだ、神戸へ行こう",
     "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou"
   },
   {
-    "title": [
-      "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜"
-    ],
+    "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume"
   },
   {
-    "title": [
-      "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと"
-    ],
+    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
     "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto"
   },
   {
-    "title": [
-      "2024年に発表されたFirebase(Web)の新機能を使ってみよう"
-    ],
+    "title": "2024年に発表されたFirebase(Web)の新機能を使ってみよう",
     "url": "https://speakerdeck.com/ysknsid25/2024nian-nifa-biao-saretafirebase-web-noxin-ji-neng-woshi-tutemiyou-3f80826d-115d-4072-85ef-8c981766d10a"
   },
   {
-    "title": [
-      "AI時代のソフトウェア エンジニアリングに備える"
-    ],
+    "title": "AI時代のソフトウェア エンジニアリングに備える",
     "url": "https://speakerdeck.com/ysknsid25/aishi-dai-nosohutouea-enziniaringunibei-eru"
   },
   {
-    "title": [
-      "変な先入観を捨てて、 明日から勉強会・カンファレンス登壇 してみない？"
-    ],
+    "title": "変な先入観を捨てて、 明日から勉強会・カンファレンス登壇 してみない？",
     "url": "https://speakerdeck.com/ysknsid25/bian-naxian-ru-guan-woshe-tete-ming-ri-karamian-qiang-hui-kanhuarensudeng-tan-siteminai"
   },
   {
-    "title": [
-      "Google I/O 2024で発表されたFirebase Data Connectを試してみた"
-    ],
+    "title": "Google I/O 2024で発表されたFirebase Data Connectを試してみた",
     "url": "https://speakerdeck.com/ysknsid25/o-2024defa-biao-saretafirebase-data-connectwoshi-sitemita"
   },
   {
-    "title": [
-      "useSWRをuseContextの代わりに使ってみる試み"
-    ],
+    "title": "useSWRをuseContextの代わりに使ってみる試み",
     "url": "https://speakerdeck.com/ysknsid25/useswrwousecontextnodai-warinishi-tutemirushi-mi"
   },
   {
-    "title": [
-      "東遊園地近辺のおすすめランチ・カフェ"
-    ],
+    "title": "東遊園地近辺のおすすめランチ・カフェ",
     "url": "https://speakerdeck.com/ysknsid25/dong-you-yuan-di-jin-bian-noosusumerantikahue"
   }
 ];

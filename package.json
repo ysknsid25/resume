@@ -11,9 +11,11 @@
         "preview": "vite preview",
         "storybook": "storybook dev -p 6006",
         "build-storybook": "storybook build",
-        "make:data": "node make-tech-article-data.js"
+        "make:data": "node make-tech-article-data.js",
+        "make:bookmark:data": "npx tsx make-hatena-bookmark.ts"
     },
     "dependencies": {
+        "@types/node": "^22.8.7",
         "clsx": "^2.0.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",

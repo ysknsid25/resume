@@ -3,7 +3,13 @@ import { HatenaBookmarkData } from "../data/HatenaBookmarkData";
 const rankEmoji = ["🥇", "🥈", "🥉", "🏅", "🏅"];
 
 export const PopularAllArticle = () => {
-    const nowYear = new Date().getFullYear();
+    const nowYear = new Date().getFullYear().toString();
+    const hatenaBookmarkData = HatenaBookmarkData.find(
+        (data) => data.year === nowYear.toString()
+    );
+    if (!hatenaBookmarkData) {
+        return <div></div>;
+    }
     return (
         <div className="grid grid-cols-1 items-center justify-center gap-4">
             <div className="flex justify-center items-center gap-4 mb-4">
@@ -14,13 +20,13 @@ export const PopularAllArticle = () => {
             <div className="flex justify-center items-center gap-4 mb-4">
                 <p className="text-gray-600">
                     {nowYear} total bookmark count is 🔖
-                    <b>{HatenaBookmarkData.sum}</b>
+                    <b>{hatenaBookmarkData.sum}</b>
                 </p>
             </div>
-            {HatenaBookmarkData.bookmarkRanking.length > 0 ? (
+            {hatenaBookmarkData.bookmarkRanking.length > 0 ? (
                 <div>
                     <ol className="relative border-l border-gray-200 ml-4">
-                        {HatenaBookmarkData.bookmarkRanking.map(
+                        {hatenaBookmarkData.bookmarkRanking.map(
                             (item, index) => (
                                 <li key={index} className="mb-10 ml-6 relative">
                                     <span className="flex absolute -left-11 justify-center items-center w-10 h-10 rounded-full bg-gray-100 text-lg border-gray-200 border-2">

@@ -5,11 +5,13 @@ import {
     noteArticles,
     speakerDecks,
 } from "./src/data/TechArticleData";
+import { HatenaBookmarkData } from "./src/data/HatenaBookmarkData";
 
 const FILE_PATH = "./src/data/HatenaBookmarkData.ts";
 
 console.log("#### Start make article data ####");
 try {
+    const year = new Date().getFullYear().toString();
     const filteredTechArticles = TechArticleList.flat()
         .filter((article) => {
             const date = new Date(article.year);
@@ -63,19 +65,27 @@ try {
         )
         .map((entry) => {
             return {
-                title: articlesMap.get(entry[0]),
+                title: articlesMap.get(entry[0]) || "",
                 url: entry[0],
-                count: entry[1],
+                count: entry[1] as number,
             };
         });
-    const hatenaBookmarkJson = JSON.stringify(
-        {
-            sum,
-            bookmarkRanking: top10,
-        },
-        null,
-        2
-    );
+    // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+    let hatenaBookmarkData = HatenaBookmarkData;
+    if (hatenaBookmarkData.find((data) => data.year === year)) {
+        hatenaBookmarkData = HatenaBookmarkData.map((data) => {
+            if (data.year === year) {
+                return {
+                    year: year,
+                    sum: sum,
+                    bookmarkRanking: top10,
+                };
+            }
+            return data;
+        });
+    }
+
+    const hatenaBookmarkJson = JSON.stringify(hatenaBookmarkData, null, 2);
     const jsonContent = `export const HatenaBookmarkData = ${hatenaBookmarkJson};`;
     fs.writeFile(FILE_PATH, jsonContent, "utf8", (err) => {
         if (err) {

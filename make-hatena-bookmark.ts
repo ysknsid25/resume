@@ -24,10 +24,21 @@ try {
                 url: article.url,
             };
         });
+    const publicationTechArticles = TechArticleList.flat()
+        .filter((article) => {
+            return article.img === "zenn";
+        })
+        .map((article) => {
+            return {
+                title: article.title,
+                url: article.url.replace("ysknsid_25", "bs_kansai"),
+            };
+        });
     const articles = [
         ...filteredTechArticles,
         ...noteArticles,
         ...speakerDecks,
+        ...publicationTechArticles,
     ];
     const articlesMap = new Map<string, string>();
     articles.forEach((article) => {
@@ -57,6 +68,7 @@ try {
     const okResponses = results.flat().sort((a, b) => {
         return b[1] - a[1];
     });
+    console.log(okResponses);
     const sum = okResponses.reduce((acc, cur) => acc + cur[1], 0) || 0;
     const top10 = okResponses
         .slice(

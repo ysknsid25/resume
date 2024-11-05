@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1195,
+      "zenn": 1196,
       "qiita": 0
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 381
+      "qiita": 382
     },
     {
       "yearMonth": "2024/06",
@@ -216,11 +216,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2352
+      "favorites": 2353
     },
     {
       "year": "2024",
-      "favorites": 1755
+      "favorites": 1756
     }
   ]
 };
@@ -429,8 +429,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 362",
-      "likeCount": 362
+      "content": "❤️ 363",
+      "likeCount": 363
     },
     {
       "treeType": "🖋",
@@ -899,8 +899,8 @@ export const TechArticleList = [
       "year": "2023/05/14",
       "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
       "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
-      "content": "❤️ 81",
-      "likeCount": 81
+      "content": "❤️ 82",
+      "likeCount": 82
     },
     {
       "treeType": "🖋",
@@ -1037,10 +1037,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/04",
-    "contributionCount": 6
-  },
   {
     "date": "2024/08/05",
     "contributionCount": 1
@@ -1408,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/04",
     "contributionCount": 7
+  },
+  {
+    "date": "2024/11/05",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [

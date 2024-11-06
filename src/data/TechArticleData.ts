@@ -114,7 +114,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 352,
+      "zenn": 353,
       "qiita": 0
     },
     {
@@ -216,7 +216,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2353
+      "favorites": 2354
     },
     {
       "year": "2024",
@@ -1031,16 +1031,12 @@ export const TechArticleList = [
       "year": "2023/04/07",
       "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
       "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 12",
+      "likeCount": 12
     }
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/05",
-    "contributionCount": 1
-  },
   {
     "date": "2024/08/06",
     "contributionCount": 8
@@ -1408,6 +1404,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/05",
     "contributionCount": 10
+  },
+  {
+    "date": "2024/11/06",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [

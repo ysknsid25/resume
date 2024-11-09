@@ -184,7 +184,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 252,
+      "zenn": 253,
       "qiita": 19
     },
     {
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1759
+      "favorites": 1760
     }
   ]
 };
@@ -335,8 +335,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-      "content": "❤️ 148",
-      "likeCount": 148
+      "content": "❤️ 149",
+      "likeCount": 149
     },
     {
       "treeType": "🖋",
@@ -1038,10 +1038,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/08",
-    "contributionCount": 8
-  },
-  {
     "date": "2024/08/09",
     "contributionCount": 1
   },
@@ -1379,7 +1375,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/01",
-    "contributionCount": 26
+    "contributionCount": 20
   },
   {
     "date": "2024/11/02",
@@ -1399,15 +1395,19 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/06",
-    "contributionCount": 6
+    "contributionCount": 5
   },
   {
     "date": "2024/11/07",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/11/08",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/11/09",
+    "contributionCount": 11
   }
 ];
 export const PopularArticles = [
@@ -1417,8 +1417,8 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-    "content": "❤️ 148",
-    "likeCount": 148
+    "content": "❤️ 149",
+    "likeCount": 149
   },
   {
     "treeType": "🥈",
@@ -1440,6 +1440,10 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.11.1)",
+    "url": "https://note.com/samurai_se/n/n056ee12fd1f3"
+  },
   {
     "title": "じぶん Release Note (ver 2.10.5)",
     "url": "https://note.com/samurai_se/n/ncd30cfe1cadb"

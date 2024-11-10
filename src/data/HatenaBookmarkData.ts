@@ -6,7 +6,7 @@ export const HatenaBookmarkData = [
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
         "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-        "count": 378
+        "count": 379
       },
       {
         "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",

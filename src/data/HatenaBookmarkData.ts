@@ -1,7 +1,7 @@
 export const HatenaBookmarkData = [
   {
     "year": "2024",
-    "sum": 2323,
+    "sum": 2361,
     "bookmarkRanking": [
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",

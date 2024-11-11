@@ -134,7 +134,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 166,
+      "zenn": 167,
       "qiita": 0
     },
     {
@@ -180,11 +180,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 383
+      "qiita": 384
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 253,
+      "zenn": 254,
       "qiita": 19
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 5,
+      "zenn": 26,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2356
+      "favorites": 2357
     },
     {
       "year": "2024",
-      "favorites": 1765
+      "favorites": 1788
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/10",
       "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
       "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
-      "content": "❤️ 5",
-      "likeCount": 5
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -344,8 +344,8 @@ export const TechArticleList = [
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-      "content": "❤️ 149",
-      "likeCount": 149
+      "content": "❤️ 150",
+      "likeCount": 150
     },
     {
       "treeType": "🖋",
@@ -438,8 +438,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 364",
-      "likeCount": 364
+      "content": "❤️ 365",
+      "likeCount": 365
     },
     {
       "treeType": "🖋",
@@ -758,8 +758,8 @@ export const TechArticleList = [
       "year": "2023/08/18",
       "title": "Koinで始めるKtor DI",
       "url": "https://zenn.dev/yskn_sid25/articles/27497d0acdd172",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 5",
+      "likeCount": 5
     },
     {
       "treeType": "🖋",
@@ -1046,10 +1046,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/10",
-    "contributionCount": 2
-  },
   {
     "date": "2024/08/11",
     "contributionCount": 1
@@ -1417,6 +1413,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/10",
     "contributionCount": 18
+  },
+  {
+    "date": "2024/11/11",
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [
@@ -1426,8 +1426,8 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-    "content": "❤️ 149",
-    "likeCount": 149
+    "content": "❤️ 150",
+    "likeCount": 150
   },
   {
     "treeType": "🥈",

@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1197,
+      "zenn": 1198,
       "qiita": 0
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 26,
+      "zenn": 39,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2357
+      "favorites": 2358
     },
     {
       "year": "2024",
-      "favorites": 1788
+      "favorites": 1801
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/10",
       "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
       "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
-      "content": "❤️ 26",
-      "likeCount": 26
+      "content": "❤️ 39",
+      "likeCount": 39
     },
     {
       "treeType": "🖋",
@@ -926,8 +926,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-      "content": "❤️ 356",
-      "likeCount": 356
+      "content": "❤️ 357",
+      "likeCount": 357
     }
   ],
   [
@@ -1046,10 +1046,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/11",
-    "contributionCount": 1
-  },
   {
     "date": "2024/08/12",
     "contributionCount": 2
@@ -1417,6 +1413,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/11",
     "contributionCount": 7
+  },
+  {
+    "date": "2024/11/12",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [

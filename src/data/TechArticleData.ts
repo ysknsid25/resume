@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 150,
+      "zenn": 151,
       "qiita": 0
     },
     {
@@ -174,13 +174,13 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 120,
-      "qiita": 274
+      "zenn": 121,
+      "qiita": 273
     },
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 384
+      "qiita": 386
     },
     {
       "yearMonth": "2024/06",
@@ -189,7 +189,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/07",
-      "zenn": 143,
+      "zenn": 144,
       "qiita": 0
     },
     {
@@ -209,7 +209,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 39,
+      "zenn": 43,
       "qiita": 0
     }
   ],
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1801
+      "favorites": 1809
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/10",
       "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
       "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
-      "content": "❤️ 39",
-      "likeCount": 39
+      "content": "❤️ 43",
+      "likeCount": 43
     },
     {
       "treeType": "🖋",
@@ -306,8 +306,8 @@ export const TechArticleList = [
       "year": "2024/07/15",
       "title": "[K, U] extends [U, K] ← ナニコレ",
       "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
-      "content": "❤️ 131",
-      "likeCount": 131
+      "content": "❤️ 132",
+      "likeCount": 132
     },
     {
       "treeType": "🖋",
@@ -438,8 +438,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 365",
-      "likeCount": 365
+      "content": "❤️ 367",
+      "likeCount": 367
     },
     {
       "treeType": "🖋",
@@ -467,8 +467,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 226",
-      "likeCount": 226
+      "content": "❤️ 225",
+      "likeCount": 225
     },
     {
       "treeType": "🖋",
@@ -494,8 +494,8 @@ export const TechArticleList = [
       "year": "2024/04/03",
       "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-      "content": "❤️ 28",
-      "likeCount": 28
+      "content": "❤️ 29",
+      "likeCount": 29
     },
     {
       "treeType": "🖋",
@@ -514,8 +514,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 134",
-      "likeCount": 134
+      "content": "❤️ 135",
+      "likeCount": 135
     },
     {
       "treeType": "🖋",
@@ -1047,10 +1047,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/12",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/08/13",
     "contributionCount": 1
   },
@@ -1417,6 +1413,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/12",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/11/13",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1435,8 +1435,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 134",
-    "likeCount": 134
+    "content": "❤️ 135",
+    "likeCount": 135
   },
   {
     "treeType": "🥉",
@@ -1444,8 +1444,8 @@ export const PopularArticles = [
     "year": "2024/07/15",
     "title": "[K, U] extends [U, K] ← ナニコレ",
     "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
-    "content": "❤️ 131",
-    "likeCount": 131
+    "content": "❤️ 132",
+    "likeCount": 132
   }
 ];
 export const noteArticles = [

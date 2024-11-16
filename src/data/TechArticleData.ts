@@ -114,7 +114,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 353,
+      "zenn": 354,
       "qiita": 0
     },
     {
@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/10",
-      "zenn": 28,
+      "zenn": 30,
       "qiita": 7
     },
     {
@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 121,
+      "zenn": 124,
       "qiita": 273
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 55,
+      "zenn": 65,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2362
+      "favorites": 2365
     },
     {
       "year": "2024",
-      "favorites": 1823
+      "favorites": 1836
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 21",
+      "likeCount": 21
     },
     {
       "treeType": "🖋",
@@ -494,8 +494,8 @@ export const TechArticleList = [
       "year": "2024/04/10",
       "title": "PHPのMutation Testingライブラリ・Infectionを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/6772d749f7d70c",
-      "content": "❤️ 6",
-      "likeCount": 6
+      "content": "❤️ 7",
+      "likeCount": 7
     },
     {
       "treeType": "🖋",
@@ -503,8 +503,8 @@ export const TechArticleList = [
       "year": "2024/04/03",
       "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-      "content": "❤️ 29",
-      "likeCount": 29
+      "content": "❤️ 31",
+      "likeCount": 31
     }
   ],
   [
@@ -617,8 +617,8 @@ export const TechArticleList = [
       "year": "2023/10/24",
       "title": "Vitestで書いたテストに対してStrykerを利用したMutation Testingを試してみる",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa18a5a94ec77",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 14",
+      "likeCount": 14
     },
     {
       "treeType": "🖋",
@@ -1002,8 +1002,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-      "content": "❤️ 144",
-      "likeCount": 144
+      "content": "❤️ 145",
+      "likeCount": 145
     },
     {
       "treeType": "🖋",
@@ -1055,10 +1055,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/15",
-    "contributionCount": 9
-  },
   {
     "date": "2024/08/16",
     "contributionCount": 1
@@ -1426,6 +1422,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/15",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/11/16",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -1644,6 +1644,10 @@ export const noteArticles = [
   }
 ];
 export const speakerDecks = [
+  {
+    "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
+    "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita"
+  },
   {
     "title": "そうだ、神戸へ行こう",
     "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou"

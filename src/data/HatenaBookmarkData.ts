@@ -1,7 +1,7 @@
 export const HatenaBookmarkData = [
   {
     "year": "2024",
-    "sum": 2398,
+    "sum": 2486,
     "bookmarkRanking": [
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
@@ -21,7 +21,7 @@ export const HatenaBookmarkData = [
       {
         "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
         "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
-        "count": 196
+        "count": 197
       },
       {
         "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",

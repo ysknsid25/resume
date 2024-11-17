@@ -3,6 +3,15 @@ import { Tree } from "./Tree/Tree";
 const contents = [
     {
         treeType: "🎤",
+        title: "TSKaigi Kansai 2024",
+        year: "2024",
+        img: "wai",
+        url: "https://kansai.tskaigi.org/talks/ysknsid25",
+        content:
+            "『テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた』というテーマで登壇しました",
+    },
+    {
+        treeType: "🎤",
         title: "YAPC::Hakodate 2024",
         year: "2024",
         img: "wai",

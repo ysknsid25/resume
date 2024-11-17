@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/10",
-      "zenn": 30,
+      "zenn": 31,
       "qiita": 7
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 388
+      "qiita": 389
     },
     {
       "yearMonth": "2024/06",
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 65,
+      "zenn": 75,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2365
+      "favorites": 2366
     },
     {
       "year": "2024",
-      "favorites": 1836
+      "favorites": 1847
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 21",
-      "likeCount": 21
+      "content": "❤️ 30",
+      "likeCount": 30
     },
     {
       "treeType": "🖋",
@@ -241,8 +241,8 @@ export const TechArticleList = [
       "year": "2024/11/10",
       "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
       "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
-      "content": "❤️ 44",
-      "likeCount": 44
+      "content": "❤️ 45",
+      "likeCount": 45
     },
     {
       "treeType": "🖋",
@@ -447,8 +447,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 369",
-      "likeCount": 369
+      "content": "❤️ 370",
+      "likeCount": 370
     },
     {
       "treeType": "🖋",
@@ -617,8 +617,8 @@ export const TechArticleList = [
       "year": "2023/10/24",
       "title": "Vitestで書いたテストに対してStrykerを利用したMutation Testingを試してみる",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa18a5a94ec77",
-      "content": "❤️ 14",
-      "likeCount": 14
+      "content": "❤️ 15",
+      "likeCount": 15
     },
     {
       "treeType": "🖋",
@@ -1056,10 +1056,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/16",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/08/17",
     "contributionCount": 2
   },
@@ -1426,6 +1422,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/16",
     "contributionCount": 3
+  },
+  {
+    "date": "2024/11/17",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1458,6 +1458,14 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.11.2)",
+    "url": "https://note.com/samurai_se/n/ne241556c4c9b"
+  },
+  {
+    "title": "TSKaigi Kansai 2024の参加(登壇)体験がとってもとっても良かった件",
+    "url": "https://note.com/samurai_se/n/n69c4994fb41a"
+  },
   {
     "title": "じぶん Release Note (ver 2.11.1)",
     "url": "https://note.com/samurai_se/n/n056ee12fd1f3"

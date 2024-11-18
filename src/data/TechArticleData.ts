@@ -209,7 +209,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 75,
+      "zenn": 82,
       "qiita": 0
     }
   ],
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1847
+      "favorites": 1854
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 30",
-      "likeCount": 30
+      "content": "❤️ 37",
+      "likeCount": 37
     },
     {
       "treeType": "🖋",
@@ -1056,10 +1056,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/17",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/08/18",
     "contributionCount": 1
   },
@@ -1349,7 +1345,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/29",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/10/30",
@@ -1425,7 +1421,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/17",
-    "contributionCount": 4
+    "contributionCount": 3
+  },
+  {
+    "date": "2024/11/18",
+    "contributionCount": 11
   }
 ];
 export const PopularArticles = [

@@ -6,6 +6,7 @@ import {
     speakerDecks,
 } from "./src/data/TechArticleData";
 import { HatenaBookmarkData } from "./src/data/HatenaBookmarkData";
+import { HatenaBlogs } from "./src/data/HatenaBlogs";
 
 const FILE_PATH = "./src/data/HatenaBookmarkData.ts";
 
@@ -26,12 +27,17 @@ try {
         });
     const publicationTechArticles = TechArticleList.flat()
         .filter((article) => {
-            return article.img === "zenn";
+            const date = new Date(article.year);
+            const today = new Date();
+            return (
+                date.getFullYear() === today.getFullYear() &&
+                article.img === "zenn"
+            );
         })
         .map((article) => {
             return {
                 title: article.title,
-                url: article.url.replace("ysknsid_25", "bs_kansai"),
+                url: article.url.replace("yskn_sid25", "bs_kansai"),
             };
         });
     const articles = [
@@ -39,6 +45,12 @@ try {
         ...noteArticles,
         ...speakerDecks,
         ...publicationTechArticles,
+        ...HatenaBlogs.filter((blog) => blog.year === year).map((blog) => {
+            return {
+                title: blog.title,
+                url: blog.url,
+            };
+        }),
     ];
     const articlesMap = new Map<string, string>();
     articles.forEach((article) => {
@@ -48,7 +60,7 @@ try {
     for (let i = 0; i < articles.length; i += 50) {
         chankArticleUrls.push(
             articles
-                .slice(i, i + 49)
+                .slice(i, i + 50)
                 .map((article) => article.url)
                 .join("&url=")
         );

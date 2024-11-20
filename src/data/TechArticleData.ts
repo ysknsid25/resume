@@ -175,7 +175,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 125,
-      "qiita": 273
+      "qiita": 274
     },
     {
       "yearMonth": "2024/05",
@@ -209,7 +209,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 84,
+      "zenn": 90,
       "qiita": 0
     }
   ],
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 1858
+      "favorites": 1865
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 39",
-      "likeCount": 39
+      "content": "❤️ 45",
+      "likeCount": 45
     },
     {
       "treeType": "🖋",
@@ -476,8 +476,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 225",
-      "likeCount": 225
+      "content": "❤️ 226",
+      "likeCount": 226
     },
     {
       "treeType": "🖋",
@@ -1056,10 +1056,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/19",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/08/20",
     "contributionCount": 3
   },
@@ -1426,6 +1422,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/19",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/11/20",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

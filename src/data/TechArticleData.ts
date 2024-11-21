@@ -62,7 +62,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 3,
+      "zenn": 5,
       "qiita": 3
     },
     {
@@ -72,7 +72,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 8,
+      "zenn": 9,
       "qiita": 1
     },
     {
@@ -108,7 +108,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "articles": 36
+      "articles": 39
     }
   ],
   "favoritesCounts": [
@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1200,
+      "zenn": 1201,
       "qiita": 0
     },
     {
@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 151,
+      "zenn": 152,
       "qiita": 0
     },
     {
@@ -174,17 +174,17 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 125,
+      "zenn": 201,
       "qiita": 274
     },
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 390
+      "qiita": 391
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 254,
+      "zenn": 315,
       "qiita": 19
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 90,
+      "zenn": 91,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2366
+      "favorites": 2367
     },
     {
       "year": "2024",
-      "favorites": 1865
+      "favorites": 2005
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 45",
-      "likeCount": 45
+      "content": "❤️ 46",
+      "likeCount": 46
     },
     {
       "treeType": "🖋",
@@ -350,12 +350,23 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "zenn",
+      "year": "2024/06/24",
+      "title": "神戸でKobe.tsというTypeScriptコミュニティを立ち上げた話",
+      "url": "https://zenn.dev/yskn_sid25/articles/98cd4a69c34db6",
+      "content": "❤️ 60",
+      "likeCount": 60
+    },
+    {
+      "treeType": "🖋",
+      "img": "zenn",
       "year": "2024/06/20",
       "title": "<T, K extends keyof T> をちゃんと理解する",
       "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-      "content": "❤️ 150",
-      "likeCount": 150
-    },
+      "content": "❤️ 151",
+      "likeCount": 151
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -364,9 +375,7 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/da8226d1484307b1b8ea",
       "content": "❤️ 19",
       "likeCount": 19
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -402,7 +411,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a5a22aa43aa46b",
       "content": "❤️ 23",
       "likeCount": 23
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -411,9 +422,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -447,9 +456,11 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 371",
-      "likeCount": 371
-    },
+      "content": "❤️ 372",
+      "likeCount": 372
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -458,9 +469,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/40fef14a1ea98e",
       "content": "❤️ 86",
       "likeCount": 86
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -491,6 +500,26 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "zenn",
+      "year": "2024/04/17",
+      "title": "テックカンファレンスに「なんとなく」や「ただ楽しいから」で参加してない？",
+      "url": "https://zenn.dev/yskn_sid25/articles/4a8d9afc534d18",
+      "content": "❤️ 55",
+      "likeCount": 55
+    }
+  ],
+  [
+    {
+      "treeType": "🖋",
+      "img": "zenn",
+      "year": "2024/04/15",
+      "title": "ここ1年間のはてなブックマーク数の多かった記事から、Zennでウケそうな記事の傾向を考える",
+      "url": "https://zenn.dev/yskn_sid25/articles/fe27a912e923ce",
+      "content": "❤️ 21",
+      "likeCount": 21
+    },
+    {
+      "treeType": "🖋",
+      "img": "zenn",
       "year": "2024/04/10",
       "title": "PHPのMutation Testingライブラリ・Infectionを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/6772d749f7d70c",
@@ -505,9 +534,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
       "content": "❤️ 32",
       "likeCount": 32
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -523,9 +550,11 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 135",
-      "likeCount": 135
-    },
+      "content": "❤️ 136",
+      "likeCount": 136
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -552,9 +581,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
       "content": "❤️ 42",
       "likeCount": 42
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -572,7 +599,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
       "content": "❤️ 205",
       "likeCount": 205
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -599,9 +628,7 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/79f86b1f3547fc1cabf8",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -619,7 +646,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/8fa18a5a94ec77",
       "content": "❤️ 15",
       "likeCount": 15
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -646,9 +675,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/92015d6ce05bf6",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -666,7 +693,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/bab7a9e3014ae2",
       "content": "❤️ 38",
       "likeCount": 38
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -693,9 +722,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/63bd7de0f35bf0",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -713,7 +740,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/0121b32ba317ef",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -740,9 +769,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/cbf1fa3c0ed3bf",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -760,7 +787,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/6508e7b37e137f",
       "content": "❤️ 14",
       "likeCount": 14
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -787,9 +816,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
       "content": "❤️ 15",
       "likeCount": 15
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -807,7 +834,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/fcb6681b91a290",
       "content": "❤️ 10",
       "likeCount": 10
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -834,9 +863,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/f45da65cb0a931",
       "content": "❤️ 26",
       "likeCount": 26
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -854,7 +881,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
       "content": "❤️ 49",
       "likeCount": 49
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -881,17 +910,15 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
       "content": "❤️ 49",
       "likeCount": 49
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
       "year": "2023/05/28",
       "title": "useEffectのコールバック関数とcleanUp関数の実行タイミング、正しく説明できますか？",
       "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc914",
-      "content": "❤️ 94",
-      "likeCount": 94
+      "content": "❤️ 95",
+      "likeCount": 95
     },
     {
       "treeType": "🖋",
@@ -901,7 +928,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
       "content": "❤️ 440",
       "likeCount": 440
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -928,9 +957,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a41961614c4b25",
       "content": "❤️ 23",
       "likeCount": 23
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -948,7 +975,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/90c3238f61f273",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -975,9 +1004,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
       "content": "❤️ 44",
       "likeCount": 44
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -995,7 +1022,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/03fb71dfcf82d6",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1022,9 +1051,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
       "content": "❤️ 54",
       "likeCount": 54
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1042,7 +1069,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/b2ecc4b220d54a",
       "content": "❤️ 18",
       "likeCount": 18
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1055,10 +1084,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/20",
-    "contributionCount": 3
-  },
   {
     "date": "2024/08/21",
     "contributionCount": 3
@@ -1305,7 +1330,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/21",
-    "contributionCount": 6
+    "contributionCount": 4
   },
   {
     "date": "2024/10/22",
@@ -1321,7 +1346,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/25",
-    "contributionCount": 22
+    "contributionCount": 21
   },
   {
     "date": "2024/10/26",
@@ -1345,7 +1370,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/31",
-    "contributionCount": 9
+    "contributionCount": 8
   },
   {
     "date": "2024/11/01",
@@ -1365,7 +1390,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/05",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/11/06",
@@ -1377,7 +1402,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/08",
-    "contributionCount": 8
+    "contributionCount": 7
   },
   {
     "date": "2024/11/09",
@@ -1385,7 +1410,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/10",
-    "contributionCount": 18
+    "contributionCount": 17
   },
   {
     "date": "2024/11/11",
@@ -1417,7 +1442,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/18",
-    "contributionCount": 13
+    "contributionCount": 12
   },
   {
     "date": "2024/11/19",
@@ -1426,6 +1451,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/20",
     "contributionCount": 2
+  },
+  {
+    "date": "2024/11/21",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [
@@ -1435,8 +1464,8 @@ export const PopularArticles = [
     "year": "2024/06/20",
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-    "content": "❤️ 150",
-    "likeCount": 150
+    "content": "❤️ 151",
+    "likeCount": 151
   },
   {
     "treeType": "🥈",
@@ -1444,8 +1473,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 135",
-    "likeCount": 135
+    "content": "❤️ 136",
+    "likeCount": 136
   },
   {
     "treeType": "🥉",

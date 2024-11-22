@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/10",
-      "zenn": 31,
+      "zenn": 32,
       "qiita": 7
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 91,
+      "zenn": 92,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2367
+      "favorites": 2368
     },
     {
       "year": "2024",
-      "favorites": 2005
+      "favorites": 2006
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 46",
-      "likeCount": 46
+      "content": "❤️ 47",
+      "likeCount": 47
     },
     {
       "treeType": "🖋",
@@ -644,8 +644,8 @@ export const TechArticleList = [
       "year": "2023/10/24",
       "title": "Vitestで書いたテストに対してStrykerを利用したMutation Testingを試してみる",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa18a5a94ec77",
-      "content": "❤️ 15",
-      "likeCount": 15
+      "content": "❤️ 16",
+      "likeCount": 16
     }
   ],
   [
@@ -1085,10 +1085,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/21",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/08/22",
     "contributionCount": 10
   },
@@ -1455,6 +1451,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/21",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/11/22",
+    "contributionCount": 2
   }
 ];
 export const PopularArticles = [

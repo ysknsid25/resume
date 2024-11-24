@@ -209,7 +209,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 127,
+      "zenn": 174,
       "qiita": 0
     }
   ],
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2042
+      "favorites": 2089
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 35",
-      "likeCount": 35
+      "content": "❤️ 81",
+      "likeCount": 81
     },
     {
       "treeType": "🖋",
@@ -241,8 +241,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 47",
-      "likeCount": 47
+      "content": "❤️ 48",
+      "likeCount": 48
     },
     {
       "treeType": "🖋",
@@ -1094,10 +1094,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/23",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/08/24",
     "contributionCount": 13
   },
@@ -1464,6 +1460,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/23",
     "contributionCount": 9
+  },
+  {
+    "date": "2024/11/24",
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [
@@ -1496,6 +1496,10 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.11.3)",
+    "url": "https://note.com/samurai_se/n/n2d7021ee7c95"
+  },
   {
     "title": "じぶん Release Note (ver 2.11.2)",
     "url": "https://note.com/samurai_se/n/ne241556c4c9b"

@@ -1,17 +1,17 @@
 export const HatenaBookmarkData = [
   {
     "year": "2024",
-    "sum": 2774,
+    "sum": 2915,
     "bookmarkRanking": [
+      {
+        "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
+        "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
+        "count": 440
+      },
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
         "url": "https://note.com/samurai_se/n/n389f89ad58a3",
         "count": 379
-      },
-      {
-        "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
-        "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-        "count": 299
       },
       {
         "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",

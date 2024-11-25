@@ -209,7 +209,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 174,
+      "zenn": 244,
       "qiita": 0
     }
   ],
@@ -220,7 +220,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2089
+      "favorites": 2159
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 81",
-      "likeCount": 81
+      "content": "❤️ 150",
+      "likeCount": 150
     },
     {
       "treeType": "🖋",
@@ -250,8 +250,8 @@ export const TechArticleList = [
       "year": "2024/11/10",
       "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
       "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
-      "content": "❤️ 45",
-      "likeCount": 45
+      "content": "❤️ 46",
+      "likeCount": 46
     },
     {
       "treeType": "🖋",
@@ -1094,10 +1094,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/08/24",
-    "contributionCount": 13
-  },
-  {
     "date": "2024/08/25",
     "contributionCount": 3
   },
@@ -1464,6 +1460,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/24",
     "contributionCount": 7
+  },
+  {
+    "date": "2024/11/25",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1479,20 +1479,20 @@ export const PopularArticles = [
   {
     "treeType": "🥈",
     "img": "zenn",
+    "year": "2024/11/23",
+    "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
+    "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
+    "content": "❤️ 150",
+    "likeCount": 150
+  },
+  {
+    "treeType": "🥉",
+    "img": "zenn",
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
     "content": "❤️ 136",
     "likeCount": 136
-  },
-  {
-    "treeType": "🥉",
-    "img": "zenn",
-    "year": "2024/07/15",
-    "title": "[K, U] extends [U, K] ← ナニコレ",
-    "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
-    "content": "❤️ 132",
-    "likeCount": 132
   }
 ];
 export const noteArticles = [

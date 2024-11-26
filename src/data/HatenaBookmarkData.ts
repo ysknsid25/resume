@@ -1,12 +1,12 @@
 export const HatenaBookmarkData = [
   {
     "year": "2024",
-    "sum": 2931,
+    "sum": 2941,
     "bookmarkRanking": [
       {
         "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
         "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-        "count": 456
+        "count": 463
       },
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
@@ -21,7 +21,7 @@ export const HatenaBookmarkData = [
       {
         "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
         "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-        "count": 226
+        "count": 225
       },
       {
         "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",

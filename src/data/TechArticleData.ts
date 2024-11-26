@@ -114,7 +114,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 354,
+      "zenn": 355,
       "qiita": 0
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 266,
+      "zenn": 320,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2371
+      "favorites": 2372
     },
     {
       "year": "2024",
-      "favorites": 2181
+      "favorites": 2235
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 172",
-      "likeCount": 172
+      "content": "❤️ 226",
+      "likeCount": 226
     },
     {
       "treeType": "🖋",
@@ -1040,8 +1040,8 @@ export const TechArticleList = [
       "year": "2023/04/26",
       "title": "LaravelのMiddlewareはどのように動いているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-      "content": "❤️ 145",
-      "likeCount": 145
+      "content": "❤️ 146",
+      "likeCount": 146
     },
     {
       "treeType": "🖋",
@@ -1093,10 +1093,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/25",
-    "contributionCount": 3
-  },
   {
     "date": "2024/08/26",
     "contributionCount": 11
@@ -1464,6 +1460,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/25",
     "contributionCount": 10
+  },
+  {
+    "date": "2024/11/26",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [
@@ -1473,8 +1473,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 172",
-    "likeCount": 172
+    "content": "❤️ 226",
+    "likeCount": 226
   },
   {
     "treeType": "🥈",

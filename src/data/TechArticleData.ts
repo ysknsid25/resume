@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1202,
+      "zenn": 1203,
       "qiita": 0
     },
     {
@@ -180,7 +180,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 35,
-      "qiita": 391
+      "qiita": 392
     },
     {
       "yearMonth": "2024/06",
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 320,
+      "zenn": 333,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2372
+      "favorites": 2373
     },
     {
       "year": "2024",
-      "favorites": 2235
+      "favorites": 2249
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 226",
-      "likeCount": 226
+      "content": "❤️ 239",
+      "likeCount": 239
     },
     {
       "treeType": "🖋",
@@ -467,8 +467,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 372",
-      "likeCount": 372
+      "content": "❤️ 373",
+      "likeCount": 373
     },
     {
       "treeType": "🖋",
@@ -937,8 +937,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
-      "content": "❤️ 440",
-      "likeCount": 440
+      "content": "❤️ 441",
+      "likeCount": 441
     },
     {
       "treeType": "🖋",
@@ -1093,10 +1093,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/26",
-    "contributionCount": 11
-  },
   {
     "date": "2024/08/27",
     "contributionCount": 4
@@ -1347,7 +1343,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/28",
-    "contributionCount": 48
+    "contributionCount": 47
   },
   {
     "date": "2024/10/29",
@@ -1464,6 +1460,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/26",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/11/27",
+    "contributionCount": 10
   }
 ];
 export const PopularArticles = [
@@ -1473,8 +1473,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 226",
-    "likeCount": 226
+    "content": "❤️ 239",
+    "likeCount": 239
   },
   {
     "treeType": "🥈",

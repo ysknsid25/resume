@@ -119,7 +119,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1204,
+      "zenn": 1205,
       "qiita": 0
     },
     {
@@ -209,18 +209,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 344,
+      "zenn": 346,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2374
+      "favorites": 2375
     },
     {
       "year": "2024",
-      "favorites": 2261
+      "favorites": 2263
     }
   ]
 };
@@ -232,8 +232,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 250",
-      "likeCount": 250
+      "content": "❤️ 252",
+      "likeCount": 252
     },
     {
       "treeType": "🖋",
@@ -973,8 +973,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-      "content": "❤️ 358",
-      "likeCount": 358
+      "content": "❤️ 359",
+      "likeCount": 359
     }
   ],
   [
@@ -1093,10 +1093,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/28",
-    "contributionCount": 5
-  },
   {
     "date": "2024/08/29",
     "contributionCount": 2
@@ -1464,6 +1460,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/28",
     "contributionCount": 4
+  },
+  {
+    "date": "2024/11/29",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1473,8 +1473,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 250",
-    "likeCount": 250
+    "content": "❤️ 252",
+    "likeCount": 252
   },
   {
     "treeType": "🥈",

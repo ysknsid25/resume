@@ -6,12 +6,12 @@ export const HatenaBookmarkData = [
       {
         "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
         "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-        "count": 467
+        "count": 469
       },
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
         "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-        "count": 379
+        "count": 377
       },
       {
         "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",

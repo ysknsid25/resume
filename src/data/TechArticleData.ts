@@ -99,6 +99,11 @@ export const TechArticleData = {
       "yearMonth": "2024/11",
       "zenn": 3,
       "qiita": 0
+    },
+    {
+      "yearMonth": "2024/12",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearArticleCounts": [
@@ -129,7 +134,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/07",
-      "zenn": 248,
+      "zenn": 249,
       "qiita": 0
     },
     {
@@ -209,18 +214,23 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 346,
+      "zenn": 349,
+      "qiita": 0
+    },
+    {
+      "yearMonth": "2024/12",
+      "zenn": 0,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2375
+      "favorites": 2376
     },
     {
       "year": "2024",
-      "favorites": 2263
+      "favorites": 2266
     }
   ]
 };
@@ -232,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 252",
-      "likeCount": 252
+      "content": "❤️ 255",
+      "likeCount": 255
     },
     {
       "treeType": "🖋",
@@ -870,8 +880,8 @@ export const TechArticleList = [
       "year": "2023/07/21",
       "title": "Next.js×TypeScript環境でJest→Vitestに移行してみた",
       "url": "https://zenn.dev/yskn_sid25/articles/f45da65cb0a931",
-      "content": "❤️ 26",
-      "likeCount": 26
+      "content": "❤️ 27",
+      "likeCount": 27
     },
     {
       "treeType": "🖋",
@@ -1093,14 +1103,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/08/29",
-    "contributionCount": 2
-  },
-  {
-    "date": "2024/08/30",
-    "contributionCount": 1
-  },
   {
     "date": "2024/08/31",
     "contributionCount": 3
@@ -1464,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/11/29",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/11/30",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -1473,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 252",
-    "likeCount": 252
+    "content": "❤️ 255",
+    "likeCount": 255
   },
   {
     "treeType": "🥈",
@@ -1694,6 +1700,10 @@ export const noteArticles = [
   }
 ];
 export const speakerDecks = [
+  {
+    "title": "GAS × Discord bot × Gemini で作ったさいきょーの情報収集ツール",
+    "url": "https://speakerdeck.com/ysknsid25/gas-x-discord-bot-x-gemini-dezuo-tutasaikiyonoqing-bao-shou-ji-turu"
+  },
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita"

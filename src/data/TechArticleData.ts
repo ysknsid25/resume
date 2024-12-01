@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 353,
+      "zenn": 362,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2270
+      "favorites": 2279
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 258",
-      "likeCount": 258
+      "content": "❤️ 266",
+      "likeCount": 266
     },
     {
       "treeType": "🖋",
@@ -251,8 +251,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 48",
-      "likeCount": 48
+      "content": "❤️ 49",
+      "likeCount": 49
     },
     {
       "treeType": "🖋",
@@ -1469,7 +1469,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/01",
-    "contributionCount": 3
+    "contributionCount": 10
   }
 ];
 export const PopularArticles = [
@@ -1479,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 258",
-    "likeCount": 258
+    "content": "❤️ 266",
+    "likeCount": 266
   },
   {
     "treeType": "🥈",
@@ -1502,6 +1502,10 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.11.4)",
+    "url": "https://note.com/samurai_se/n/n50d09824f88f"
+  },
   {
     "title": "じぶん Release Note (ver 2.11.3)",
     "url": "https://note.com/samurai_se/n/n2d7021ee7c95"
@@ -1719,22 +1723,6 @@ export const speakerDecks = [
   {
     "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
     "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto"
-  },
-  {
-    "title": "2024年に発表されたFirebase(Web)の新機能を使ってみよう",
-    "url": "https://speakerdeck.com/ysknsid25/2024nian-nifa-biao-saretafirebase-web-noxin-ji-neng-woshi-tutemiyou-3f80826d-115d-4072-85ef-8c981766d10a"
-  },
-  {
-    "title": "AI時代のソフトウェア エンジニアリングに備える",
-    "url": "https://speakerdeck.com/ysknsid25/aishi-dai-nosohutouea-enziniaringunibei-eru"
-  },
-  {
-    "title": "変な先入観を捨てて、 明日から勉強会・カンファレンス登壇 してみない？",
-    "url": "https://speakerdeck.com/ysknsid25/bian-naxian-ru-guan-woshe-tete-ming-ri-karamian-qiang-hui-kanhuarensudeng-tan-siteminai"
-  },
-  {
-    "title": "Google I/O 2024で発表されたFirebase Data Connectを試してみた",
-    "url": "https://speakerdeck.com/ysknsid25/o-2024defa-biao-saretafirebase-data-connectwoshi-sitemita"
   },
   {
     "title": "useSWRをuseContextの代わりに使ってみる試み",

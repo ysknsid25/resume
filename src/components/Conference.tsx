@@ -3,6 +3,15 @@ import { Tree } from "./Tree/Tree";
 const contents = [
     {
         treeType: "🎤",
+        title: "DevFest Tokyo 2024",
+        year: "2024",
+        img: "work",
+        url: "https://gdg-tokyo.connpass.com/event/335192/",
+        content:
+            "『GAS × Discord bot × Gemini で作ったさいきょーの情報収集ツール』というテーマで登壇しました",
+    },
+    {
+        treeType: "🎤",
         title: "TSKaigi Kansai 2024",
         year: "2024",
         img: "wai",

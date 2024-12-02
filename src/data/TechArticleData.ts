@@ -184,7 +184,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 35,
+      "zenn": 36,
       "qiita": 392
     },
     {
@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 362,
+      "zenn": 381,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2279
+      "favorites": 2299
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 266",
-      "likeCount": 266
+      "content": "❤️ 285",
+      "likeCount": 285
     },
     {
       "treeType": "🖋",
@@ -457,8 +457,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
-      "content": "❤️ 35",
-      "likeCount": 35
+      "content": "❤️ 36",
+      "likeCount": 36
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/01",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/09/02",
     "contributionCount": 13
   },
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/01",
     "contributionCount": 10
+  },
+  {
+    "date": "2024/12/02",
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [
@@ -1479,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 266",
-    "likeCount": 266
+    "content": "❤️ 285",
+    "likeCount": 285
   },
   {
     "treeType": "🥈",

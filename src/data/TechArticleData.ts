@@ -185,7 +185,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 36,
-      "qiita": 392
+      "qiita": 393
     },
     {
       "yearMonth": "2024/06",
@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 381,
+      "zenn": 382,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2299
+      "favorites": 2301
     }
   ]
 };
@@ -251,8 +251,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 49",
-      "likeCount": 49
+      "content": "❤️ 50",
+      "likeCount": 50
     },
     {
       "treeType": "🖋",
@@ -477,8 +477,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 373",
-      "likeCount": 373
+      "content": "❤️ 374",
+      "likeCount": 374
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/02",
-    "contributionCount": 13
-  },
-  {
     "date": "2024/09/03",
     "contributionCount": 1
   },
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/02",
     "contributionCount": 6
+  },
+  {
+    "date": "2024/12/03",
+    "contributionCount": 10
   }
 ];
 export const PopularArticles = [

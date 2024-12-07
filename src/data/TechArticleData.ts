@@ -164,7 +164,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 68,
+      "zenn": 67,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2327
+      "favorites": 2326
     }
   ]
 };
@@ -607,8 +607,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/yskn_sid25/articles/59df844b29096d",
-      "content": "❤️ 26",
-      "likeCount": 26
+      "content": "❤️ 25",
+      "likeCount": 25
     }
   ],
   [
@@ -1105,7 +1105,7 @@ export const TechArticleList = [
 export const GitHubContributions = [
   {
     "date": "2024/09/07",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/09/08",
@@ -1233,7 +1233,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/09",
-    "contributionCount": 6
+    "contributionCount": 5
   },
   {
     "date": "2024/10/10",
@@ -1261,7 +1261,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/16",
-    "contributionCount": 17
+    "contributionCount": 15
   },
   {
     "date": "2024/10/17",
@@ -1309,7 +1309,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/28",
-    "contributionCount": 47
+    "contributionCount": 46
   },
   {
     "date": "2024/10/29",
@@ -1337,7 +1337,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/04",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/11/05",
@@ -1349,7 +1349,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/07",
-    "contributionCount": 6
+    "contributionCount": 5
   },
   {
     "date": "2024/11/08",
@@ -1469,7 +1469,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/07",
-    "contributionCount": 5
+    "contributionCount": 15
   }
 ];
 export const PopularArticles = [

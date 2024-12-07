@@ -1,12 +1,12 @@
 export const HatenaBookmarkData = [
   {
     "year": "2024",
-    "sum": 3016,
+    "sum": 3084,
     "bookmarkRanking": [
       {
         "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
         "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-        "count": 482
+        "count": 483
       },
       {
         "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",

@@ -2,6 +2,11 @@
 export const HatenaBlogs = [
     {
         year: "2024",
+        title: "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
+        url: "https://zenn.dev/yskn_sid25/books/type-challenges",
+    },
+    {
+        year: "2024",
         title: "Google Cloud様主催のハンズオンセミナーに参加してPlatform Engineeringの解像度が128倍上がった話",
         url: "https://toranoana-lab.hatenablog.com/entry/2024/11/19/120000",
     },

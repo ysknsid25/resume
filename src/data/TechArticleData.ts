@@ -180,7 +180,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 201,
-      "qiita": 276
+      "qiita": 275
     },
     {
       "yearMonth": "2024/05",
@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 404,
+      "zenn": 407,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2326
+      "favorites": 2328
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 307",
-      "likeCount": 307
+      "content": "❤️ 310",
+      "likeCount": 310
     },
     {
       "treeType": "🖋",
@@ -504,8 +504,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 228",
-      "likeCount": 228
+      "content": "❤️ 227",
+      "likeCount": 227
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/07",
-    "contributionCount": 9
-  },
-  {
     "date": "2024/09/08",
     "contributionCount": 3
   },
@@ -1417,7 +1413,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/24",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/11/25",
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/07",
     "contributionCount": 15
+  },
+  {
+    "date": "2024/12/08",
+    "contributionCount": 8
   }
 ];
 export const PopularArticles = [
@@ -1479,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 307",
-    "likeCount": 307
+    "content": "❤️ 310",
+    "likeCount": 310
   },
   {
     "treeType": "🥈",
@@ -1502,6 +1502,10 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.12.1)",
+    "url": "https://note.com/samurai_se/n/nffcbd16fe493"
+  },
   {
     "title": "じぶん Release Note (ver 2.11.4)",
     "url": "https://note.com/samurai_se/n/n50d09824f88f"

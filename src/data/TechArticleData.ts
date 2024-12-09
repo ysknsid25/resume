@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 407,
+      "zenn": 411,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2328
+      "favorites": 2332
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 310",
-      "likeCount": 310
+      "content": "❤️ 314",
+      "likeCount": 314
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/08",
-    "contributionCount": 3
-  },
-  {
     "date": "2024/09/09",
     "contributionCount": 7
   },
@@ -1425,7 +1421,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/27",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/11/28",
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/08",
     "contributionCount": 8
+  },
+  {
+    "date": "2024/12/09",
+    "contributionCount": 15
   }
 ];
 export const PopularArticles = [
@@ -1479,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 310",
-    "likeCount": 310
+    "content": "❤️ 314",
+    "likeCount": 314
   },
   {
     "treeType": "🥈",

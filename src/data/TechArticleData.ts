@@ -124,7 +124,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1205,
+      "zenn": 1207,
       "qiita": 0
     },
     {
@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 152,
+      "zenn": 153,
       "qiita": 0
     },
     {
@@ -184,7 +184,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 36,
+      "zenn": 37,
       "qiita": 397
     },
     {
@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 411,
+      "zenn": 412,
       "qiita": 0
     },
     {
@@ -226,11 +226,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2377
+      "favorites": 2379
     },
     {
       "year": "2024",
-      "favorites": 2332
+      "favorites": 2335
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 314",
-      "likeCount": 314
+      "content": "❤️ 315",
+      "likeCount": 315
     },
     {
       "treeType": "🖋",
@@ -457,8 +457,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
-      "content": "❤️ 36",
-      "likeCount": 36
+      "content": "❤️ 37",
+      "likeCount": 37
     },
     {
       "treeType": "🖋",
@@ -571,8 +571,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 136",
-      "likeCount": 136
+      "content": "❤️ 137",
+      "likeCount": 137
     },
     {
       "treeType": "🖋",
@@ -936,8 +936,8 @@ export const TechArticleList = [
       "year": "2023/05/28",
       "title": "useEffectのコールバック関数とcleanUp関数の実行タイミング、正しく説明できますか？",
       "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc914",
-      "content": "❤️ 95",
-      "likeCount": 95
+      "content": "❤️ 96",
+      "likeCount": 96
     }
   ],
   [
@@ -983,8 +983,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-      "content": "❤️ 359",
-      "likeCount": 359
+      "content": "❤️ 360",
+      "likeCount": 360
     }
   ],
   [
@@ -1103,10 +1103,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/09/09",
-    "contributionCount": 7
-  },
   {
     "date": "2024/09/10",
     "contributionCount": 2
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/09",
     "contributionCount": 15
+  },
+  {
+    "date": "2024/12/10",
+    "contributionCount": 17
   }
 ];
 export const PopularArticles = [
@@ -1479,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 314",
-    "likeCount": 314
+    "content": "❤️ 315",
+    "likeCount": 315
   },
   {
     "treeType": "🥈",
@@ -1497,11 +1497,15 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 136",
-    "likeCount": 136
+    "content": "❤️ 137",
+    "likeCount": 137
   }
 ];
 export const noteArticles = [
+  {
+    "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
+    "url": "https://note.com/samurai_se/n/n257df7024437"
+  },
   {
     "title": "じぶん Release Note (ver 2.12.1)",
     "url": "https://note.com/samurai_se/n/nffcbd16fe493"

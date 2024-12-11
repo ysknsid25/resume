@@ -204,7 +204,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 79,
+      "zenn": 80,
       "qiita": 0
     },
     {
@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 412,
+      "zenn": 414,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2335
+      "favorites": 2338
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 315",
-      "likeCount": 315
+      "content": "❤️ 317",
+      "likeCount": 317
     },
     {
       "treeType": "🖋",
@@ -307,8 +307,8 @@ export const TechArticleList = [
       "year": "2024/09/14",
       "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-      "content": "❤️ 67",
-      "likeCount": 67
+      "content": "❤️ 68",
+      "likeCount": 68
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/10",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/09/11",
     "contributionCount": 11
   },
@@ -1381,7 +1377,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/18",
-    "contributionCount": 11
+    "contributionCount": 10
   },
   {
     "date": "2024/11/19",
@@ -1433,11 +1429,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/01",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/12/02",
-    "contributionCount": 6
+    "contributionCount": 5
   },
   {
     "date": "2024/12/03",
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/10",
     "contributionCount": 17
+  },
+  {
+    "date": "2024/12/11",
+    "contributionCount": 26
   }
 ];
 export const PopularArticles = [
@@ -1479,8 +1479,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 315",
-    "likeCount": 315
+    "content": "❤️ 317",
+    "likeCount": 317
   },
   {
     "treeType": "🥈",

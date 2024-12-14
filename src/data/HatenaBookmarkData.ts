@@ -1,7 +1,7 @@
 export const HatenaBookmarkData = [
   {
     "year": "2024",
-    "sum": 3092,
+    "sum": 3115,
     "bookmarkRanking": [
       {
         "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",

@@ -149,7 +149,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/10",
-      "zenn": 33,
+      "zenn": 34,
       "qiita": 7
     },
     {
@@ -226,7 +226,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2379
+      "favorites": 2380
     },
     {
       "year": "2024",
@@ -674,8 +674,8 @@ export const TechArticleList = [
       "year": "2023/10/20",
       "title": "Next.jsにeslint-plugin-securityを導入してみた",
       "url": "https://zenn.dev/yskn_sid25/articles/2fcd849c658c8f",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/13",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/09/14",
     "contributionCount": 10
   },
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/13",
     "contributionCount": 12
+  },
+  {
+    "date": "2024/12/14",
+    "contributionCount": 9
   }
 ];
 export const PopularArticles = [
@@ -1712,6 +1712,10 @@ export const noteArticles = [
   }
 ];
 export const speakerDecks = [
+  {
+    "title": "統計データで2024年の クラウド・インフラ動向を眺める",
+    "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru"
+  },
   {
     "title": "GAS × Discord bot × Gemini で作ったさいきょーの情報収集ツール",
     "url": "https://speakerdeck.com/ysknsid25/gas-x-discord-bot-x-gemini-dezuo-tutasaikiyonoqing-bao-shou-ji-turu"

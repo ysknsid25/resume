@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/14",
-    "contributionCount": 10
-  },
-  {
     "date": "2024/09/15",
     "contributionCount": 23
   },
@@ -1257,11 +1253,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/22",
-    "contributionCount": 42
+    "contributionCount": 41
   },
   {
     "date": "2024/10/23",
-    "contributionCount": 20
+    "contributionCount": 19
   },
   {
     "date": "2024/10/24",
@@ -1281,7 +1277,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/28",
-    "contributionCount": 46
+    "contributionCount": 45
   },
   {
     "date": "2024/10/29",
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/14",
     "contributionCount": 9
+  },
+  {
+    "date": "2024/12/15",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1502,6 +1502,14 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "合同勉強会 / 忘年会議2024 に参加した",
+    "url": "https://note.com/samurai_se/n/nfba3d63842ac"
+  },
+  {
+    "title": "じぶん Release Note (ver 2.12.2)",
+    "url": "https://note.com/samurai_se/n/nefb01e98fb43"
+  },
   {
     "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
     "url": "https://note.com/samurai_se/n/n257df7024437"

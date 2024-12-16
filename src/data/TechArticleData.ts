@@ -164,12 +164,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/01",
-      "zenn": 67,
+      "zenn": 68,
       "qiita": 0
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 153,
+      "zenn": 154,
       "qiita": 0
     },
     {
@@ -180,12 +180,12 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/04",
       "zenn": 201,
-      "qiita": 275
+      "qiita": 276
     },
     {
       "yearMonth": "2024/05",
       "zenn": 37,
-      "qiita": 397
+      "qiita": 400
     },
     {
       "yearMonth": "2024/06",
@@ -199,7 +199,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 104,
+      "zenn": 105,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2340
+      "favorites": 2347
     }
   ]
 };
@@ -316,8 +316,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
-      "content": "❤️ 97",
-      "likeCount": 97
+      "content": "❤️ 98",
+      "likeCount": 98
     },
     {
       "treeType": "🖋",
@@ -466,8 +466,8 @@ export const TechArticleList = [
       "year": "2024/05/11",
       "title": "情報収集に活用させていただいているTechブログ・コミュニティ",
       "url": "https://qiita.com/ysknsid25/items/12ead219d2fb6476d4d7",
-      "content": "❤️ 14",
-      "likeCount": 14
+      "content": "❤️ 15",
+      "likeCount": 15
     }
   ],
   [
@@ -477,8 +477,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 378",
-      "likeCount": 378
+      "content": "❤️ 380",
+      "likeCount": 380
     },
     {
       "treeType": "🖋",
@@ -504,8 +504,8 @@ export const TechArticleList = [
       "year": "2024/04/20",
       "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
       "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-      "content": "❤️ 227",
-      "likeCount": 227
+      "content": "❤️ 228",
+      "likeCount": 228
     },
     {
       "treeType": "🖋",
@@ -571,8 +571,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 137",
-      "likeCount": 137
+      "content": "❤️ 138",
+      "likeCount": 138
     },
     {
       "treeType": "🖋",
@@ -607,8 +607,8 @@ export const TechArticleList = [
       "year": "2024/01/04",
       "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
       "url": "https://zenn.dev/yskn_sid25/articles/59df844b29096d",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 26",
+      "likeCount": 26
     }
   ],
   [
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/15",
-    "contributionCount": 23
-  },
-  {
     "date": "2024/09/16",
     "contributionCount": 6
   },
@@ -1361,7 +1357,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/18",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/11/19",
@@ -1389,7 +1385,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/25",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2024/11/26",
@@ -1470,6 +1466,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/15",
     "contributionCount": 5
+  },
+  {
+    "date": "2024/12/16",
+    "contributionCount": 19
   }
 ];
 export const PopularArticles = [
@@ -1497,8 +1497,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 137",
-    "likeCount": 137
+    "content": "❤️ 138",
+    "likeCount": 138
   }
 ];
 export const noteArticles = [

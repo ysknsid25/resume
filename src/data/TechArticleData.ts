@@ -185,11 +185,11 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 37,
-      "qiita": 400
+      "qiita": 401
     },
     {
       "yearMonth": "2024/06",
-      "zenn": 315,
+      "zenn": 316,
       "qiita": 19
     },
     {
@@ -209,12 +209,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 125,
+      "zenn": 126,
       "qiita": 0
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 418,
+      "zenn": 420,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2349
+      "favorites": 2354
     }
   ]
 };
@@ -251,8 +251,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 51",
-      "likeCount": 51
+      "content": "❤️ 53",
+      "likeCount": 53
     },
     {
       "treeType": "🖋",
@@ -278,8 +278,8 @@ export const TechArticleList = [
       "year": "2024/10/19",
       "title": "LaravelはどのようにCSRF対策をしているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-      "content": "❤️ 54",
-      "likeCount": 54
+      "content": "❤️ 55",
+      "likeCount": 55
     }
   ],
   [
@@ -419,8 +419,8 @@ export const TechArticleList = [
       "year": "2024/06/11",
       "title": "GitHubのプルリクコメントにVitestのカバレッジレポートのSummaryを表示する",
       "url": "https://zenn.dev/yskn_sid25/articles/e822e7922d4b43",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     }
   ],
   [
@@ -477,8 +477,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 380",
-      "likeCount": 380
+      "content": "❤️ 381",
+      "likeCount": 381
     },
     {
       "treeType": "🖋",
@@ -1104,10 +1104,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/17",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/09/18",
     "contributionCount": 6
   },
@@ -1465,10 +1461,14 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/16",
-    "contributionCount": 19
+    "contributionCount": 17
   },
   {
     "date": "2024/12/17",
+    "contributionCount": 5
+  },
+  {
+    "date": "2024/12/18",
     "contributionCount": 6
   }
 ];

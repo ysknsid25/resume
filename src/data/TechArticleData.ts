@@ -214,7 +214,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 423,
+      "zenn": 425,
       "qiita": 0
     },
     {
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2221
+      "favorites": 2223
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 322",
-      "likeCount": 322
+      "content": "❤️ 324",
+      "likeCount": 324
     },
     {
       "treeType": "🖋",
@@ -1048,10 +1048,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/20",
-    "contributionCount": 4
-  },
-  {
     "date": "2024/09/21",
     "contributionCount": 6
   },
@@ -1181,7 +1177,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/23",
-    "contributionCount": 19
+    "contributionCount": 18
   },
   {
     "date": "2024/10/24",
@@ -1201,7 +1197,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/28",
-    "contributionCount": 45
+    "contributionCount": 43
   },
   {
     "date": "2024/10/29",
@@ -1241,7 +1237,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/07",
-    "contributionCount": 5
+    "contributionCount": 4
   },
   {
     "date": "2024/11/08",
@@ -1349,7 +1345,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/04",
-    "contributionCount": 12
+    "contributionCount": 11
   },
   {
     "date": "2024/12/05",
@@ -1414,6 +1410,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/20",
     "contributionCount": 13
+  },
+  {
+    "date": "2024/12/21",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1423,8 +1423,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 322",
-    "likeCount": 322
+    "content": "❤️ 324",
+    "likeCount": 324
   },
   {
     "treeType": "🥈",
@@ -1446,6 +1446,14 @@ export const PopularArticles = [
   }
 ];
 export const noteArticles = [
+  {
+    "title": "じぶん Release Note (ver 2.12.3)",
+    "url": "https://note.com/samurai_se/n/n0c9111cd06e4"
+  },
+  {
+    "title": "買ってよかったもの(2024年版)",
+    "url": "https://note.com/samurai_se/n/n51f84af1d382"
+  },
   {
     "title": "合同勉強会 / 忘年会議2024 に参加した",
     "url": "https://note.com/samurai_se/n/nfba3d63842ac"

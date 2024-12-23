@@ -124,7 +124,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1205,
+      "zenn": 1204,
       "qiita": 0
     },
     {
@@ -159,7 +159,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/12",
-      "zenn": 211,
+      "zenn": 210,
       "qiita": 0
     },
     {
@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 154,
+      "zenn": 155,
       "qiita": 0
     },
     {
@@ -184,8 +184,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/05",
-      "zenn": 37,
-      "qiita": 401
+      "zenn": 38,
+      "qiita": 402
     },
     {
       "yearMonth": "2024/06",
@@ -214,23 +214,23 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 425,
+      "zenn": 429,
       "qiita": 0
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 6,
+      "zenn": 10,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2230
+      "favorites": 2228
     },
     {
       "year": "2024",
-      "favorites": 2229
+      "favorites": 2240
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/12/22",
       "title": "Hono DocsのGetting StartにApp Engineがないの なぁぜなぁぜ？",
       "url": "https://zenn.dev/yskn_sid25/articles/1d6678105fa1ad",
-      "content": "❤️ 6",
-      "likeCount": 6
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -251,8 +251,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 324",
-      "likeCount": 324
+      "content": "❤️ 326",
+      "likeCount": 326
     },
     {
       "treeType": "🖋",
@@ -260,8 +260,8 @@ export const TechArticleList = [
       "year": "2024/11/15",
       "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-      "content": "❤️ 53",
-      "likeCount": 53
+      "content": "❤️ 55",
+      "likeCount": 55
     },
     {
       "treeType": "🖋",
@@ -457,8 +457,8 @@ export const TechArticleList = [
       "year": "2024/05/18",
       "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
       "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
-      "content": "❤️ 37",
-      "likeCount": 37
+      "content": "❤️ 38",
+      "likeCount": 38
     },
     {
       "treeType": "🖋",
@@ -477,8 +477,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 381",
-      "likeCount": 381
+      "content": "❤️ 382",
+      "likeCount": 382
     },
     {
       "treeType": "🖋",
@@ -551,8 +551,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 138",
-      "likeCount": 138
+      "content": "❤️ 139",
+      "likeCount": 139
     },
     {
       "treeType": "🖋",
@@ -598,8 +598,8 @@ export const TechArticleList = [
       "year": "2023/12/20",
       "title": "2023年に読んでよかった技術書",
       "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
-      "content": "❤️ 206",
-      "likeCount": 206
+      "content": "❤️ 205",
+      "likeCount": 205
     },
     {
       "treeType": "🖋",
@@ -947,8 +947,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-      "content": "❤️ 359",
-      "likeCount": 359
+      "content": "❤️ 358",
+      "likeCount": 358
     },
     {
       "treeType": "🖋",
@@ -1065,10 +1065,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/09/22",
-    "contributionCount": 1
-  },
   {
     "date": "2024/09/23",
     "contributionCount": 2
@@ -1432,6 +1428,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/22",
     "contributionCount": 7
+  },
+  {
+    "date": "2024/12/23",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -1441,8 +1441,8 @@ export const PopularArticles = [
     "year": "2024/11/23",
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 324",
-    "likeCount": 324
+    "content": "❤️ 326",
+    "likeCount": 326
   },
   {
     "treeType": "🥈",
@@ -1459,8 +1459,8 @@ export const PopularArticles = [
     "year": "2024/02/24",
     "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 138",
-    "likeCount": 138
+    "content": "❤️ 139",
+    "likeCount": 139
   }
 ];
 export const noteArticles = [

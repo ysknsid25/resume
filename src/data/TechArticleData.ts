@@ -124,7 +124,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1204,
+      "zenn": 1203,
       "qiita": 0
     },
     {
@@ -185,7 +185,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 38,
-      "qiita": 404
+      "qiita": 405
     },
     {
       "yearMonth": "2024/06",
@@ -209,7 +209,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/10",
-      "zenn": 126,
+      "zenn": 127,
       "qiita": 0
     },
     {
@@ -219,18 +219,18 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 20,
+      "zenn": 25,
       "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2228
+      "favorites": 2227
     },
     {
       "year": "2024",
-      "favorites": 2252
+      "favorites": 2259
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/12/25",
       "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
       "url": "https://zenn.dev/yskn_sid25/articles/9bb03341d1ba4f",
-      "content": "❤️ 5",
-      "likeCount": 5
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -307,8 +307,8 @@ export const TechArticleList = [
       "year": "2024/10/19",
       "title": "LaravelはどのようにCSRF対策をしているのか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-      "content": "❤️ 55",
-      "likeCount": 55
+      "content": "❤️ 56",
+      "likeCount": 56
     },
     {
       "treeType": "🖋",
@@ -495,8 +495,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 384",
-      "likeCount": 384
+      "content": "❤️ 385",
+      "likeCount": 385
     },
     {
       "treeType": "🖋",
@@ -994,8 +994,8 @@ export const TechArticleList = [
       "year": "2023/05/03",
       "title": "Laravel considered harmful 〜SOLID原則にそぐわないLaravelのイマイチな習慣〜",
       "url": "https://zenn.dev/yskn_sid25/articles/cc06884a9bce36",
-      "content": "❤️ 27",
-      "likeCount": 27
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -1084,10 +1084,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/25",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/09/26",
     "contributionCount": 5
   },
@@ -1137,7 +1133,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/08",
-    "contributionCount": 2
+    "contributionCount": 1
   },
   {
     "date": "2024/10/09",
@@ -1169,7 +1165,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/16",
-    "contributionCount": 15
+    "contributionCount": 14
   },
   {
     "date": "2024/10/17",
@@ -1217,7 +1213,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/10/28",
-    "contributionCount": 43
+    "contributionCount": 42
   },
   {
     "date": "2024/10/29",
@@ -1261,7 +1257,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/08",
-    "contributionCount": 7
+    "contributionCount": 5
   },
   {
     "date": "2024/11/09",
@@ -1413,7 +1409,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/16",
-    "contributionCount": 15
+    "contributionCount": 14
   },
   {
     "date": "2024/12/17",
@@ -1437,7 +1433,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/22",
-    "contributionCount": 7
+    "contributionCount": 6
   },
   {
     "date": "2024/12/23",
@@ -1450,6 +1446,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/25",
     "contributionCount": 14
+  },
+  {
+    "date": "2024/12/26",
+    "contributionCount": 17
   }
 ];
 export const PopularArticles = [

@@ -169,7 +169,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 155,
+      "zenn": 156,
       "qiita": 0
     },
     {
@@ -214,12 +214,12 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 431,
+      "zenn": 432,
       "qiita": 0
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 44,
+      "zenn": 52,
       "qiita": 11
     }
   ],
@@ -230,7 +230,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2206
+      "favorites": 2216
     }
   ]
 };
@@ -242,8 +242,8 @@ export const TechArticleList = [
       "year": "2024/12/30",
       "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
       "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
-      "content": "❤️ 23",
-      "likeCount": 23
+      "content": "❤️ 31",
+      "likeCount": 31
     },
     {
       "treeType": "🖋",
@@ -289,8 +289,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 328",
-      "likeCount": 328
+      "content": "❤️ 329",
+      "likeCount": 329
     },
     {
       "treeType": "🖋",
@@ -542,8 +542,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 139",
-      "likeCount": 139
+      "content": "❤️ 140",
+      "likeCount": 140
     },
     {
       "treeType": "🖋",
@@ -1194,7 +1194,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/08",
-    "contributionCount": 5
+    "contributionCount": 3
   },
   {
     "date": "2024/11/09",
@@ -1358,7 +1358,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/19",
-    "contributionCount": 15
+    "contributionCount": 14
   },
   {
     "date": "2024/12/20",
@@ -1390,7 +1390,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/12/27",
-    "contributionCount": 16
+    "contributionCount": 15
   },
   {
     "date": "2024/12/28",
@@ -1403,310 +1403,17 @@ export const GitHubContributions = [
   {
     "date": "2024/12/30",
     "contributionCount": 6
-  }
-];
-export const PopularArticles = [
-  {
-    "treeType": "🥇",
-    "img": "zenn",
-    "year": "2024/11/23",
-    "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
-    "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "content": "❤️ 328",
-    "likeCount": 328
   },
   {
-    "treeType": "🥈",
-    "img": "zenn",
-    "year": "2024/06/20",
-    "title": "<T, K extends keyof T> をちゃんと理解する",
-    "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-    "content": "❤️ 151",
-    "likeCount": 151
-  },
-  {
-    "treeType": "🥉",
-    "img": "zenn",
-    "year": "2024/02/24",
-    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "content": "❤️ 139",
-    "likeCount": 139
+    "date": "2024/12/31",
+    "contributionCount": 3
   }
 ];
+export const PopularArticles = [];
 export const noteArticles = [
   {
-    "title": "2024年のふりかえり",
-    "url": "https://note.com/samurai_se/n/na112ce73a383"
-  },
-  {
-    "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
-    "url": "https://note.com/samurai_se/n/n89d8f4ed006f"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.12.4)",
-    "url": "https://note.com/samurai_se/n/n9f789032f1e5"
-  },
-  {
-    "title": "もう少し自分の心に素直になってもいい。中指立ててけ！",
-    "url": "https://note.com/samurai_se/n/nc1fe861092f3"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.12.3)",
-    "url": "https://note.com/samurai_se/n/n0c9111cd06e4"
-  },
-  {
-    "title": "買ってよかったもの(2024年版)",
-    "url": "https://note.com/samurai_se/n/n51f84af1d382"
-  },
-  {
-    "title": "合同勉強会 / 忘年会議2024 に参加した",
-    "url": "https://note.com/samurai_se/n/nfba3d63842ac"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.12.2)",
-    "url": "https://note.com/samurai_se/n/nefb01e98fb43"
-  },
-  {
-    "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
-    "url": "https://note.com/samurai_se/n/n257df7024437"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.12.1)",
-    "url": "https://note.com/samurai_se/n/nffcbd16fe493"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.11.4)",
-    "url": "https://note.com/samurai_se/n/n50d09824f88f"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.11.3)",
-    "url": "https://note.com/samurai_se/n/n2d7021ee7c95"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.11.2)",
-    "url": "https://note.com/samurai_se/n/ne241556c4c9b"
-  },
-  {
-    "title": "TSKaigi Kansai 2024の参加(登壇)体験がとってもとっても良かった件",
-    "url": "https://note.com/samurai_se/n/n69c4994fb41a"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.11.1)",
-    "url": "https://note.com/samurai_se/n/n056ee12fd1f3"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.10.5)",
-    "url": "https://note.com/samurai_se/n/ncd30cfe1cadb"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.11.0-rc)",
-    "url": "https://note.com/samurai_se/n/n16c8106c0048"
-  },
-  {
-    "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
-    "url": "https://note.com/samurai_se/n/n4c80894a6278"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.10.4)",
-    "url": "https://note.com/samurai_se/n/n1fc56190c658"
-  },
-  {
-    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
-    "url": "https://note.com/samurai_se/n/n389f89ad58a3"
-  },
-  {
-    "title": "じぶんRelease Noteの運用を見直した",
-    "url": "https://note.com/samurai_se/n/n210ae877fc96"
-  },
-  {
-    "title": "PHP勉強会in広島へ行ってきた",
-    "url": "https://note.com/samurai_se/n/n8e68ac6140e9"
-  },
-  {
-    "title": "俺は友達じゃなくて技術力が欲しい",
-    "url": "https://note.com/samurai_se/n/n3eb5596fb42d"
-  },
-  {
-    "title": "Modern Infra & Apps Summit ’24 に参加してきた",
-    "url": "https://note.com/samurai_se/n/n7c3e5720a19f"
-  },
-  {
-    "title": "はーーーるばるきたぜぇ",
-    "url": "https://note.com/samurai_se/n/n56baece0d1a0"
-  },
-  {
-    "title": "自分を計る基準がやっと他人じゃなく自分になってきた",
-    "url": "https://note.com/samurai_se/n/n9d2dafa248f5"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.9.0)",
-    "url": "https://note.com/samurai_se/n/nbe865a2ce775"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.8.0)",
-    "url": "https://note.com/samurai_se/n/nc5679222ac7e"
-  },
-  {
-    "title": "TypeScript Meet Up Kobeを楽しむためのモデルコース(土曜日の昼下がり編)",
-    "url": "https://note.com/samurai_se/n/n69151cc92959"
-  },
-  {
-    "title": "『地面師たち』を見た",
-    "url": "https://note.com/samurai_se/n/n80edb31131bc"
-  },
-  {
-    "title": "Google Cloud Next Tokyo '24 に参加レポート (2日目)",
-    "url": "https://note.com/samurai_se/n/n46dd0f025a55"
-  },
-  {
-    "title": "Google Cloud Next Tokyo '24 に参加レポート (1日目)",
-    "url": "https://note.com/samurai_se/n/n14850ca3a06a"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.7.0)",
-    "url": "https://note.com/samurai_se/n/n7cb5312bd137"
-  },
-  {
-    "title": "PHP\"オレ\"カンファレンス神戸なるものを開催した",
-    "url": "https://note.com/samurai_se/n/n3ad4fd22a003"
-  },
-  {
-    "title": "2024年春アニメ総括",
-    "url": "https://note.com/samurai_se/n/nc050b8c5dfd5"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.6.0)",
-    "url": "https://note.com/samurai_se/n/nf34d8eb482b8"
-  },
-  {
-    "title": "PHPカンファレンス福岡に参加(登壇)レポ",
-    "url": "https://note.com/samurai_se/n/n552850164cdd"
-  },
-  {
-    "title": "技術書典16にオフライン出展してきました！",
-    "url": "https://note.com/samurai_se/n/na78a3adaa810"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.5.0)",
-    "url": "https://note.com/samurai_se/n/na51e8a20c40b"
-  },
-  {
-    "title": "テックカンファレンスで交流を捗らせるためのアイテム",
-    "url": "https://note.com/samurai_se/n/n427d9f4f4506"
-  },
-  {
-    "title": "PHPカンファレンス香川に参加(登壇)レポ",
-    "url": "https://note.com/samurai_se/n/na79aeed59f84"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.4.0)",
-    "url": "https://note.com/samurai_se/n/n0c41bf14fc38"
-  },
-  {
-    "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
-    "url": "https://note.com/samurai_se/n/nc0b406a83363"
-  },
-  {
-    "title": "広島にマツダスタジアムでのカープ観戦とぽんのみち聖地巡礼してきました",
-    "url": "https://note.com/samurai_se/n/n0586c5c66ea5"
-  },
-  {
-    "title": "カンファレンス遠征の持ち物2024年4月版",
-    "url": "https://note.com/samurai_se/n/n1cf59a966894"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.3.0)",
-    "url": "https://note.com/samurai_se/n/nc0b16862dd3a"
-  },
-  {
-    "title": "PHPerKaigi 2024にオンライン参加しました",
-    "url": "https://note.com/samurai_se/n/nba69a3b84b99"
-  },
-  {
-    "title": "30代をどう生きるか",
-    "url": "https://note.com/samurai_se/n/n0ef5388d2589"
-  },
-  {
-    "title": "2024年春アニメが神クールになりそうな予感",
-    "url": "https://note.com/samurai_se/n/n3fb452f11c3d"
-  },
-  {
-    "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
-    "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.2.0)",
-    "url": "https://note.com/samurai_se/n/n812d4394ad54"
-  },
-  {
-    "title": "成長投資枠で国内株式をいくつか購入",
-    "url": "https://note.com/samurai_se/n/n4e1f3717e4f3"
-  },
-  {
-    "title": "とある秋葉原IT企業社員の福利厚生(ワークライフバランス)",
-    "url": "https://note.com/samurai_se/n/nb807bfaffc1b"
-  },
-  {
-    "title": "インベスターZに学ぶ 出口戦略を考えておくことの意義",
-    "url": "https://note.com/samurai_se/n/n6e7ddb042c87"
-  },
-  {
-    "title": "PHPカンファレンス関西2024に(登壇)参加レポ",
-    "url": "https://note.com/samurai_se/n/ndef88b9f8aa7"
-  },
-  {
-    "title": "晴れて個人事業主になりました",
-    "url": "https://note.com/samurai_se/n/n37e4d4a322e4"
-  },
-  {
-    "title": "じぶん Release Note (ver 2.1.0)",
-    "url": "https://note.com/samurai_se/n/n448d8781439e"
-  },
-  {
-    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
-    "url": "https://note.com/samurai_se/n/n242cd810459c"
-  },
-  {
-    "title": "神戸に住めば最高のロケーションでプチキャンプができるよ",
-    "url": "https://note.com/samurai_se/n/n71ad454355c3"
-  },
-  {
-    "title": "Hello 2024",
-    "url": "https://note.com/samurai_se/n/n48e7eab89d27"
+    "title": "Hello 2025",
+    "url": "https://note.com/samurai_se/n/n2669629a7a3a"
   }
 ];
-export const speakerDecks = [
-  {
-    "title": "統計データで2024年の クラウド・インフラ動向を眺める",
-    "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru"
-  },
-  {
-    "title": "GAS × Discord bot × Gemini で作ったさいきょーの情報収集ツール",
-    "url": "https://speakerdeck.com/ysknsid25/gas-x-discord-bot-x-gemini-dezuo-tutasaikiyonoqing-bao-shou-ji-turu"
-  },
-  {
-    "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
-    "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita"
-  },
-  {
-    "title": "そうだ、神戸へ行こう",
-    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou"
-  },
-  {
-    "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
-    "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume"
-  },
-  {
-    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
-    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto"
-  },
-  {
-    "title": "useSWRをuseContextの代わりに使ってみる試み",
-    "url": "https://speakerdeck.com/ysknsid25/useswrwousecontextnodai-warinishi-tutemirushi-mi"
-  },
-  {
-    "title": "東遊園地近辺のおすすめランチ・カフェ",
-    "url": "https://speakerdeck.com/ysknsid25/dong-you-yuan-di-jin-bian-noosusumerantikahue"
-  }
-];
+export const speakerDecks = [];

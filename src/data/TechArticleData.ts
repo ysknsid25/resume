@@ -133,7 +133,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1204,
+      "zenn": 1205,
       "qiita": 0
     },
     {
@@ -228,7 +228,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 52,
+      "zenn": 56,
       "qiita": 11
     },
     {
@@ -240,11 +240,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2218
+      "favorites": 2219
     },
     {
       "year": "2024",
-      "favorites": 2216
+      "favorites": 2220
     },
     {
       "year": "2025",
@@ -260,8 +260,8 @@ export const TechArticleList = [
       "year": "2024/12/30",
       "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
       "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
-      "content": "❤️ 31",
-      "likeCount": 31
+      "content": "❤️ 34",
+      "likeCount": 34
     },
     {
       "treeType": "🖋",
@@ -296,8 +296,8 @@ export const TechArticleList = [
       "year": "2024/12/22",
       "title": "Hono DocsのGetting StartにApp Engineがないの なぁぜなぁぜ？",
       "url": "https://zenn.dev/yskn_sid25/articles/1d6678105fa1ad",
-      "content": "❤️ 11",
-      "likeCount": 11
+      "content": "❤️ 12",
+      "likeCount": 12
     }
   ],
   [
@@ -898,8 +898,8 @@ export const TechArticleList = [
       "year": "2023/05/21",
       "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
-      "content": "❤️ 441",
-      "likeCount": 441
+      "content": "❤️ 442",
+      "likeCount": 442
     },
     {
       "treeType": "🖋",
@@ -1424,11 +1424,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/01",
-    "contributionCount": 2
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [];
 export const noteArticles = [
+  {
+    "title": "『Tidy First？』を読んだ",
+    "url": "https://note.com/samurai_se/n/necec6ddf20a3"
+  },
   {
     "title": "Hello 2025",
     "url": "https://note.com/samurai_se/n/n2669629a7a3a"

@@ -4,7 +4,7 @@ import fs from "fs";
 import xml2js from "xml2js";
 
 const BEGIN_YEAR = 2023;
-const END_YEAR = 2024;
+const END_YEAR = new Date().getFullYear();
 const BEGIN_MONTH = 4;
 const FILE_PATH = "./src/data/TechArticleData.ts";
 

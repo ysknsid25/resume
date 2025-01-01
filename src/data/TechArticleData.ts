@@ -104,6 +104,11 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 3,
       "qiita": 2
+    },
+    {
+      "yearMonth": "2025/01",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearArticleCounts": [
@@ -114,6 +119,10 @@ export const TechArticleData = {
     {
       "year": "2024",
       "articles": 37
+    },
+    {
+      "year": "2025",
+      "articles": 0
     }
   ],
   "favoritesCounts": [
@@ -221,6 +230,11 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 52,
       "qiita": 11
+    },
+    {
+      "yearMonth": "2025/01",
+      "zenn": 0,
+      "qiita": 0
     }
   ],
   "yearFavoritesCounts": [
@@ -231,6 +245,10 @@ export const TechArticleData = {
     {
       "year": "2024",
       "favorites": 2216
+    },
+    {
+      "year": "2025",
+      "favorites": 0
     }
   ]
 };
@@ -1037,10 +1055,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/09/30",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/10/01",
     "contributionCount": 1
   },
@@ -1407,6 +1421,10 @@ export const GitHubContributions = [
   {
     "date": "2024/12/31",
     "contributionCount": 3
+  },
+  {
+    "date": "2025/01/01",
+    "contributionCount": 1
   }
 ];
 export const PopularArticles = [];

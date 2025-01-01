@@ -93,7 +93,8 @@ try {
                 url: entry[0],
                 count: entry[1] as number,
             };
-        });
+        })
+        .filter((entry) => entry.count > 0);
     // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     let hatenaBookmarkData = HatenaBookmarkData;
     if (hatenaBookmarkData.find((data) => data.year === year)) {

@@ -33,12 +33,6 @@ export const HatenaBookmarkData = [
   {
     "year": "2025",
     "sum": 0,
-    "bookmarkRanking": [
-      {
-        "title": "Hello 2025",
-        "url": "https://note.com/samurai_se/n/n2669629a7a3a",
-        "count": 0
-      }
-    ]
+    "bookmarkRanking": []
   }
 ];

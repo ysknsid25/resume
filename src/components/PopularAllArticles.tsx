@@ -18,10 +18,12 @@ export const PopularAllArticle = () => {
                 </h1>
             </div>
             <div className="flex justify-center items-center gap-4 mb-4">
-                <p className="text-gray-600">
-                    {nowYear} total bookmark count is 🔖
-                    <b>{hatenaBookmarkData.sum}</b>
-                </p>
+                {hatenaBookmarkData.sum > 0 && (
+                    <p className="text-gray-600">
+                        {nowYear} total bookmark count is 🔖
+                        <b>{hatenaBookmarkData.sum}</b>
+                    </p>
+                )}
             </div>
             {hatenaBookmarkData.bookmarkRanking.length > 0 ? (
                 <div>

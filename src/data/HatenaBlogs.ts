@@ -1,6 +1,11 @@
 // 会社のブログとかはここに追加していく
 export const HatenaBlogs = [
     {
+        year: "2025",
+        title: "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
+        url: "https://note.com/samurai_se/n/n0654862f885b",
+    },
+    {
         year: "2024",
         title: "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
         url: "https://zenn.dev/yskn_sid25/books/type-challenges",

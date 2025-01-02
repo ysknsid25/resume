@@ -31,8 +31,9 @@ const main = async () => {
         console.log(qiitaArticleList.length);
 
         console.log("#### Fetch note Info####");
-        const noteData = await getNoteArticles();
-        console.log(noteData.length);
+        const noteArticleList = await getNoteArticles();
+        const noteData = getNoteData(noteArticleList);
+        console.log(noteArticleList.length);
 
         console.log("#### Fetch SpeakerDeck Info####");
         const decks = await getSpeakerDecks();
@@ -55,6 +56,7 @@ const main = async () => {
         const maegedAndSortedArticleList = [
             ...zennArticleList,
             ...qiitaArticleList,
+            ...noteArticleList,
         ].sort(comparePublishDate);
         console.log(`Length is ${maegedAndSortedArticleList.length}`);
         const pagingArticles = getPagingArticles(maegedAndSortedArticleList);
@@ -112,19 +114,25 @@ const main = async () => {
                     yearMonth: key,
                     zenn: zennData[key] ? zennData[key].articlesCount : 0,
                     qiita: qiitaData[key] ? qiitaData[key].articlesCount : 0,
+                    note: noteData[key] ? noteData[key].articlesCount : 0,
                 };
                 chartData.articlesCounts.push(articlesCount);
                 yearArticleCount.articles +=
-                    articlesCount.zenn + articlesCount.qiita;
+                    articlesCount.zenn +
+                    articlesCount.qiita +
+                    articlesCount.note;
 
                 const favoritesCount = {
                     yearMonth: key,
                     zenn: zennData[key] ? zennData[key].likeCount : 0,
                     qiita: qiitaData[key] ? qiitaData[key].likeCount : 0,
+                    note: noteData[key] ? noteData[key].likeCount : 0,
                 };
                 chartData.favoritesCounts.push(favoritesCount);
                 yearFavoritesCount.favorites +=
-                    favoritesCount.zenn + favoritesCount.qiita;
+                    favoritesCount.zenn +
+                    favoritesCount.qiita +
+                    favoritesCount.note;
             }
             chartData.yearArticleCounts.push(yearArticleCount);
             chartData.yearFavoritesCounts.push(yearFavoritesCount);
@@ -144,7 +152,7 @@ const main = async () => {
             null,
             2
         );
-        const noteArticlesJson = JSON.stringify(noteData, null, 2);
+        const noteArticlesJson = JSON.stringify(noteArticleList, null, 2);
         const speakerDecksJson = JSON.stringify(decks, null, 2);
         const jsonContent = `export const TechArticleData = ${chartDataJson};\nexport const TechArticleList = ${articleListJson};\nexport const GitHubContributions = ${githubContributionsJson};\nexport const PopularArticles = ${popularArticlesWithRankJson};\nexport const noteArticles = ${noteArticlesJson};\nexport const speakerDecks = ${speakerDecksJson};`;
         fs.writeFile(FILE_PATH, jsonContent, "utf8", (err) => {
@@ -210,11 +218,9 @@ const getNoteArticles = async () => {
         const url = `https://note.com/api/v2/creators/samurai_se/contents?kind=note&page=${page}`;
         const response = await fetch(url);
         const json = await response.json();
-        const filteredData = json.data.contents.filter((content) => {
-            const { year } = getDate(content.publishAt);
-            const newDate = new Date();
-            return !content.isPinned && year === newDate.getFullYear();
-        });
+        const filteredData = json.data.contents.filter(
+            (content) => !content.isPinned
+        );
         if (filteredData.length === 0) {
             break;
         }
@@ -222,9 +228,16 @@ const getNoteArticles = async () => {
         page++;
     }
     return articles.map((article) => {
+        const { year, month, day } = getDate(article.publishAt);
+        const formattedFullDate = getFormattedFullDate(year, month, day);
         return {
+            treeType: "🖋",
+            img: "note",
+            year: formattedFullDate,
             title: article.name,
             url: article.noteUrl,
+            content: `❤️ ${article.likeCount}`,
+            likeCount: article.likeCount,
         };
     });
 };
@@ -317,6 +330,23 @@ const getQiitaData = (articles) => {
         }
     });
     return qiitaData;
+};
+
+const getNoteData = (articles) => {
+    const noteData = {};
+    articles.map((article) => {
+        const key = getKey(article.year);
+        if (noteData[key]) {
+            noteData[key].articlesCount += 1;
+            noteData[key].likeCount += article.likeCount;
+        } else {
+            noteData[key] = {
+                articlesCount: 1,
+                likeCount: article.likeCount,
+            };
+        }
+    });
+    return noteData;
 };
 
 const getZennArticleList = (articles) => {

@@ -1,10 +1,6 @@
 import fetch from "node-fetch";
 import fs from "fs";
-import {
-    TechArticleList,
-    noteArticles,
-    speakerDecks,
-} from "./src/data/TechArticleData";
+import { TechArticleList, speakerDecks } from "./src/data/TechArticleData";
 import { HatenaBookmarkData } from "./src/data/HatenaBookmarkData";
 import { HatenaBlogs } from "./src/data/HatenaBlogs";
 
@@ -42,7 +38,6 @@ try {
         });
     const articles = [
         ...filteredTechArticles,
-        ...noteArticles,
         ...speakerDecks,
         ...publicationTechArticles,
         ...HatenaBlogs.filter((blog) => blog.year === year).map((blog) => {

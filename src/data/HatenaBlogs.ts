@@ -6,6 +6,11 @@ export const HatenaBlogs = [
         url: "https://note.com/samurai_se/n/n0654862f885b",
     },
     {
+        year: "2025",
+        title: "シャトルシェフを買ってみたら理想のカレーが出来た",
+        url: "https://note.com/samurai_se/n/n89d8f4ed006f",
+    },
+    {
         year: "2024",
         title: "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
         url: "https://zenn.dev/yskn_sid25/books/type-challenges",

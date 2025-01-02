@@ -32,18 +32,8 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 840,
+    "sum": 287,
     "bookmarkRanking": [
-      {
-        "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
-        "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-        "count": 375
-      },
-      {
-        "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
-        "url": "https://note.com/samurai_se/n/n0654862f885b",
-        "count": 152
-      },
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         "url": "https://note.com/samurai_se/n/n0654862f885b",
@@ -52,12 +42,12 @@ export const HatenaBookmarkData = [
       {
         "title": "『Tidy First？』を読んだ",
         "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-        "count": 95
+        "count": 109
       },
       {
-        "title": "PHP\"オレ\"カンファレンス神戸なるものを開催した",
-        "url": "https://note.com/samurai_se/n/n3ad4fd22a003",
-        "count": 24
+        "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
+        "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
+        "count": 26
       }
     ]
   }

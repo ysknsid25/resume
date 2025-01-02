@@ -272,13 +272,13 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 56,
       "qiita": 11,
-      "note": 61
+      "note": 63
     },
     {
       "yearMonth": "2025/01",
       "zenn": 0,
       "qiita": 0,
-      "note": 14
+      "note": 24
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2663
+      "favorites": 2665
     },
     {
       "year": "2025",
-      "favorites": 14
+      "favorites": 24
     }
   ]
 };
@@ -304,8 +304,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 19",
+      "likeCount": 19
     },
     {
       "treeType": "🖋",
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "Hello 2025",
       "url": "https://note.com/samurai_se/n/n2669629a7a3a",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 5",
+      "likeCount": 5
     },
     {
       "treeType": "🖋",
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2024/12/31",
       "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
       "url": "https://note.com/samurai_se/n/n0654862f885b",
-      "content": "❤️ 14",
-      "likeCount": 14
+      "content": "❤️ 15",
+      "likeCount": 15
     },
     {
       "treeType": "🖋",
@@ -378,8 +378,8 @@ export const TechArticleList = [
       "year": "2024/12/28",
       "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
       "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-      "content": "❤️ 3",
-      "likeCount": 3
+      "content": "❤️ 4",
+      "likeCount": 4
     },
     {
       "treeType": "🖋",
@@ -3086,7 +3086,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/02",
-    "contributionCount": 5
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [];
@@ -3097,8 +3097,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 10",
-    "likeCount": 10
+    "content": "❤️ 19",
+    "likeCount": 19
   },
   {
     "treeType": "🖋",
@@ -3106,8 +3106,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "Hello 2025",
     "url": "https://note.com/samurai_se/n/n2669629a7a3a",
-    "content": "❤️ 4",
-    "likeCount": 4
+    "content": "❤️ 5",
+    "likeCount": 5
   },
   {
     "treeType": "🖋",
@@ -3115,8 +3115,8 @@ export const noteArticles = [
     "year": "2024/12/31",
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "content": "❤️ 14",
-    "likeCount": 14
+    "content": "❤️ 15",
+    "likeCount": 15
   },
   {
     "treeType": "🖋",
@@ -3142,8 +3142,8 @@ export const noteArticles = [
     "year": "2024/12/28",
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "content": "❤️ 3",
-    "likeCount": 3
+    "content": "❤️ 4",
+    "likeCount": 4
   },
   {
     "treeType": "🖋",

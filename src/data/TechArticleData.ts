@@ -272,13 +272,13 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 56,
       "qiita": 11,
-      "note": 63
+      "note": 70
     },
     {
       "yearMonth": "2025/01",
       "zenn": 0,
       "qiita": 0,
-      "note": 24
+      "note": 42
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2665
+      "favorites": 2672
     },
     {
       "year": "2025",
-      "favorites": 24
+      "favorites": 42
     }
   ]
 };
@@ -304,8 +304,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 19",
-      "likeCount": 19
+      "content": "❤️ 37",
+      "likeCount": 37
     },
     {
       "treeType": "🖋",
@@ -378,8 +378,8 @@ export const TechArticleList = [
       "year": "2024/12/28",
       "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
       "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 11",
+      "likeCount": 11
     },
     {
       "treeType": "🖋",
@@ -3086,7 +3086,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/02",
-    "contributionCount": 7
+    "contributionCount": 9
   }
 ];
 export const PopularArticles = [];
@@ -3097,8 +3097,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 19",
-    "likeCount": 19
+    "content": "❤️ 37",
+    "likeCount": 37
   },
   {
     "treeType": "🖋",
@@ -3142,8 +3142,8 @@ export const noteArticles = [
     "year": "2024/12/28",
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "content": "❤️ 4",
-    "likeCount": 4
+    "content": "❤️ 11",
+    "likeCount": 11
   },
   {
     "treeType": "🖋",

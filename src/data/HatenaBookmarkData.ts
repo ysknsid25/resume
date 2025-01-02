@@ -32,8 +32,18 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 237,
+    "sum": 840,
     "bookmarkRanking": [
+      {
+        "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
+        "url": "https://note.com/samurai_se/n/n389f89ad58a3",
+        "count": 375
+      },
+      {
+        "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
+        "url": "https://note.com/samurai_se/n/n0654862f885b",
+        "count": 152
+      },
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         "url": "https://note.com/samurai_se/n/n0654862f885b",
@@ -42,7 +52,12 @@ export const HatenaBookmarkData = [
       {
         "title": "『Tidy First？』を読んだ",
         "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-        "count": 85
+        "count": 95
+      },
+      {
+        "title": "PHP\"オレ\"カンファレンス神戸なるものを開催した",
+        "url": "https://note.com/samurai_se/n/n3ad4fd22a003",
+        "count": 24
       }
     ]
   }

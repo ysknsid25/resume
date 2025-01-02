@@ -32,22 +32,22 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 411,
+    "sum": 440,
     "bookmarkRanking": [
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         "url": "https://note.com/samurai_se/n/n0654862f885b",
-        "count": 152
-      },
-      {
-        "title": "『Tidy First？』を読んだ",
-        "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-        "count": 138
+        "count": 154
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
         "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-        "count": 121
+        "count": 145
+      },
+      {
+        "title": "『Tidy First？』を読んだ",
+        "url": "https://note.com/samurai_se/n/necec6ddf20a3",
+        "count": 141
       }
     ]
   }

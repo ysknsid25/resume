@@ -32,22 +32,32 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 440,
+    "sum": 534,
     "bookmarkRanking": [
+      {
+        "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
+        "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
+        "count": 169
+      },
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         "url": "https://note.com/samurai_se/n/n0654862f885b",
         "count": 154
       },
       {
-        "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
-        "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-        "count": 145
-      },
-      {
         "title": "『Tidy First？』を読んだ",
         "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-        "count": 141
+        "count": 150
+      },
+      {
+        "title": "買ってよかったもの(2024年版)",
+        "url": "https://note.com/samurai_se/n/n51f84af1d382",
+        "count": 60
+      },
+      {
+        "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
+        "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
+        "count": 1
       }
     ]
   }

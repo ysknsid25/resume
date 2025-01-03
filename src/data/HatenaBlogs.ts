@@ -2,6 +2,11 @@
 export const HatenaBlogs = [
     {
         year: "2025",
+        title: "買ってよかったもの(2024年版)",
+        url: "https://note.com/samurai_se/n/n51f84af1d382",
+    },
+    {
+        year: "2025",
         title: "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         url: "https://note.com/samurai_se/n/n0654862f885b",
     },

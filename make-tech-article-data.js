@@ -62,7 +62,7 @@ const main = async () => {
         const pagingArticles = getPagingArticles(maegedAndSortedArticleList);
         console.log(`Page Size is ${pagingArticles.length}`);
         const nowYear = new Date().getFullYear();
-        const popularArticles = zennArticleList
+        const popularArticles = [...zennArticleList, ...qiitaArticleList]
             .filter((article) => article.year.includes(nowYear))
             .sort(function (a, b) {
                 return b.likeCount - a.likeCount;

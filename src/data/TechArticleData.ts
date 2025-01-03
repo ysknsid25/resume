@@ -272,12 +272,12 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 56,
       "qiita": 11,
-      "note": 79
+      "note": 81
     },
     {
       "yearMonth": "2025/01",
       "zenn": 0,
-      "qiita": 4,
+      "qiita": 5,
       "note": 85
     }
   ],
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2683
+      "favorites": 2685
     },
     {
       "year": "2025",
-      "favorites": 89
+      "favorites": 90
     }
   ]
 };
@@ -304,8 +304,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 5",
+      "likeCount": 5
     },
     {
       "treeType": "🖋",
@@ -454,8 +454,8 @@ export const TechArticleList = [
       "year": "2024/12/21",
       "title": "買ってよかったもの(2024年版)",
       "url": "https://note.com/samurai_se/n/n51f84af1d382",
-      "content": "❤️ 8",
-      "likeCount": 8
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -3104,10 +3104,20 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/03",
-    "contributionCount": 3
+    "contributionCount": 4
   }
 ];
-export const PopularArticles = [];
+export const PopularArticles = [
+  {
+    "treeType": "🥇",
+    "img": "qiita",
+    "year": "2025/01/03",
+    "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
+    "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
+    "content": "❤️ 5",
+    "likeCount": 5
+  }
+];
 export const noteArticles = [
   {
     "treeType": "🖋",
@@ -3205,8 +3215,8 @@ export const noteArticles = [
     "year": "2024/12/21",
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "content": "❤️ 8",
-    "likeCount": 8
+    "content": "❤️ 10",
+    "likeCount": 10
   },
   {
     "treeType": "🖋",

@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 534,
+    "sum": 541,
     "bookmarkRanking": [
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -52,12 +52,12 @@ export const HatenaBookmarkData = [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 60
+        "count": 66
       },
       {
         "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
         "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-        "count": 1
+        "count": 2
       }
     ]
   }

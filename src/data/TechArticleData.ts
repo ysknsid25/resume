@@ -272,13 +272,13 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 56,
       "qiita": 11,
-      "note": 81
+      "note": 85
     },
     {
       "yearMonth": "2025/01",
       "zenn": 0,
       "qiita": 5,
-      "note": 85
+      "note": 87
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2685
+      "favorites": 2689
     },
     {
       "year": "2025",
-      "favorites": 90
+      "favorites": 92
     }
   ]
 };
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 78",
-      "likeCount": 78
+      "content": "❤️ 80",
+      "likeCount": 80
     },
     {
       "treeType": "🖋",
@@ -454,8 +454,8 @@ export const TechArticleList = [
       "year": "2024/12/21",
       "title": "買ってよかったもの(2024年版)",
       "url": "https://note.com/samurai_se/n/n51f84af1d382",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 14",
+      "likeCount": 14
     },
     {
       "treeType": "🖋",
@@ -3134,8 +3134,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 78",
-    "likeCount": 78
+    "content": "❤️ 80",
+    "likeCount": 80
   },
   {
     "treeType": "🖋",
@@ -3215,8 +3215,8 @@ export const noteArticles = [
     "year": "2024/12/21",
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "content": "❤️ 10",
-    "likeCount": 10
+    "content": "❤️ 14",
+    "likeCount": 14
   },
   {
     "treeType": "🖋",

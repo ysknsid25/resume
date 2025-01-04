@@ -134,8 +134,7 @@ try {
             notifyTargets.push(entry);
         }
     });
-    //    if (notifyTargets.length > 0) {
-    if (true) {
+    if (notifyTargets.length > 0) {
         console.log("#### has notify target ####");
         const hooksUrl =
             "https://discord.com/api/webhooks/1298580547387260978/2Pcx_M1aJ88qS74E_6lYymLoSdhLMwV6tQpgk8R5sO7bfWXIJbJtQQZFx4oudNTt72jV";

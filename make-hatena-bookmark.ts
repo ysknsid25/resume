@@ -1,8 +1,17 @@
 import fetch from "node-fetch";
 import fs from "fs";
 import { TechArticleList, speakerDecks } from "./src/data/TechArticleData";
-import { HatenaBookmarkData } from "./src/data/HatenaBookmarkData";
+import {
+    HatenaBookmarkData,
+    ZeroBookmarkArticles,
+} from "./src/data/HatenaBookmarkData";
 import { HatenaBlogs } from "./src/data/HatenaBlogs";
+
+type Article = {
+    title: string;
+    url: string;
+    count: number;
+};
 
 const FILE_PATH = "./src/data/HatenaBookmarkData.ts";
 
@@ -77,19 +86,22 @@ try {
     });
     console.log(okResponses);
     const sum = okResponses.reduce((acc, cur) => acc + cur[1], 0) || 0;
-    const top10 = okResponses
+    const formattedResponses = okResponses.map((entry) => {
+        return {
+            title: articlesMap.get(entry[0]) || "",
+            url: entry[0],
+            count: entry[1] as number,
+        };
+    });
+    const top5 = formattedResponses
+        .filter((entry) => entry.count > 0)
         .slice(
             0,
             okResponses && okResponses.length > 5 ? 5 : okResponses.length
-        )
-        .map((entry) => {
-            return {
-                title: articlesMap.get(entry[0]) || "",
-                url: entry[0],
-                count: entry[1] as number,
-            };
-        })
-        .filter((entry) => entry.count > 0);
+        );
+    const zeroBookmarkArticles = formattedResponses.filter(
+        (entry) => entry.count === 0
+    );
     // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
     let hatenaBookmarkData = HatenaBookmarkData;
     if (hatenaBookmarkData.find((data) => data.year === year)) {
@@ -98,7 +110,7 @@ try {
                 return {
                     year: year,
                     sum: sum,
-                    bookmarkRanking: top10,
+                    bookmarkRanking: top5,
                 };
             }
             return data;
@@ -107,12 +119,54 @@ try {
         hatenaBookmarkData.push({
             year: year,
             sum: sum,
-            bookmarkRanking: top10,
+            bookmarkRanking: top5,
         });
     }
+    console.log("#### End make article data ####");
+
+    console.log("#### Check New Added Bookmark ####");
+    const notifyTargets: Article[] = [];
+    formattedResponses.forEach((entry) => {
+        const isTarget = ZeroBookmarkArticles.find(
+            (data) => data.url === entry.url && entry.count > data.count
+        );
+        if (isTarget) {
+            notifyTargets.push(entry);
+        }
+    });
+    //    if (notifyTargets.length > 0) {
+    if (true) {
+        console.log("#### has notify target ####");
+        const hooksUrl =
+            "https://discord.com/api/webhooks/1298580547387260978/2Pcx_M1aJ88qS74E_6lYymLoSdhLMwV6tQpgk8R5sO7bfWXIJbJtQQZFx4oudNTt72jV";
+        let message =
+            "<@745851369206054933>\n もしかするとはてブに入るかもしれないエントリがあるのだ\n";
+        notifyTargets.forEach((target) => {
+            message += `🔖 ${target.count}  [${target.title}](<${target.url}>)\n`;
+        });
+        const param = {
+            method: "POST",
+            headers: { "Content-type": "application/json" },
+            body: JSON.stringify({ content: message }),
+        };
+        fetch(hooksUrl, param)
+            .then((res) => {
+                console.log(`Send to Discord: ${res.ok}`);
+            })
+            .catch((e) => {
+                console.error(`Send to Discord Error: ${e}`);
+                console.error(e);
+            });
+    }
+    console.log("#### Complete!! New Added Bookmark ####");
 
     const hatenaBookmarkJson = JSON.stringify(hatenaBookmarkData, null, 2);
-    const jsonContent = `export const HatenaBookmarkData = ${hatenaBookmarkJson};`;
+    const zeroBookmarkArticlesJson = JSON.stringify(
+        zeroBookmarkArticles,
+        null,
+        2
+    );
+    const jsonContent = `export const HatenaBookmarkData = ${hatenaBookmarkJson};\n\nexport const ZeroBookmarkArticles = ${zeroBookmarkArticlesJson};\n`;
     fs.writeFile(FILE_PATH, jsonContent, "utf8", (err) => {
         if (err) {
             throw err;

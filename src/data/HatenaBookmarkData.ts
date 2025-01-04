@@ -32,12 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 588,
+    "sum": 681,
     "bookmarkRanking": [
+      {
+        "title": "買ってよかったもの(2024年版)",
+        "url": "https://note.com/samurai_se/n/n51f84af1d382",
+        "count": 195
+      },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
         "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-        "count": 170
+        "count": 171
       },
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -50,15 +55,23 @@ export const HatenaBookmarkData = [
         "count": 150
       },
       {
-        "title": "買ってよかったもの(2024年版)",
-        "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 109
-      },
-      {
         "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
         "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-        "count": 5
+        "count": 11
       }
     ]
+  }
+];
+
+export const ZeroBookmarkArticles = [
+  {
+    "title": "Hello 2025",
+    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
+    "count": 0
+  },
+  {
+    "title": "出雲大社へ行ってきた",
+    "url": "https://note.com/samurai_se/n/n85983fcbe12d",
+    "count": 0
   }
 ];

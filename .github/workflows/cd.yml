@@ -4,8 +4,10 @@ on:
     branches:
       - master
   schedule:
-    # GHAはUTC基準なので、JST換算すると毎朝午前4時
-    - cron: '0 19 * * *'
+    - cron: '0 22 * * *' #JST 7:00
+    - cron: '0 3 * * *' #JST 12:00
+    - cron: '0 8 * * *' #JST 17:00
+    - cron: '0 12 * * *' #JST 21:00
 env:
   TZ: Asia/Tokyo
 jobs:

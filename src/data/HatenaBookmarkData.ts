@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 719,
+    "sum": 728,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 229
+        "count": 234
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -57,13 +57,18 @@ export const HatenaBookmarkData = [
       {
         "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
         "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-        "count": 16
+        "count": 20
       }
     ]
   }
 ];
 
 export const ZeroBookmarkArticles = [
+  {
+    "title": "じぶん Release Note (ver 3.1.1)",
+    "url": "https://note.com/samurai_se/n/n16d8aed2e265",
+    "count": 0
+  },
   {
     "title": "Hello 2025",
     "url": "https://note.com/samurai_se/n/n2669629a7a3a",

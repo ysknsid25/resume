@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 681,
+    "sum": 684,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 195
+        "count": 198
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -72,6 +72,16 @@ export const ZeroBookmarkArticles = [
   {
     "title": "出雲大社へ行ってきた",
     "url": "https://note.com/samurai_se/n/n85983fcbe12d",
+    "count": 0
+  },
+  {
+    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
+    "url": "https://zenn.dev/bs_kansai/articles/c10c49c5e3edd3",
+    "count": 0
+  },
+  {
+    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
+    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
     "count": 0
   }
 ];

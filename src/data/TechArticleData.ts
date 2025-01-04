@@ -272,13 +272,13 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 57,
       "qiita": 12,
-      "note": 101
+      "note": 104
     },
     {
       "yearMonth": "2025/01",
-      "zenn": 10,
-      "qiita": 9,
-      "note": 99
+      "zenn": 11,
+      "qiita": 10,
+      "note": 100
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2708
+      "favorites": 2711
     },
     {
       "year": "2025",
-      "favorites": 118
+      "favorites": 121
     }
   ]
 };
@@ -304,8 +304,8 @@ export const TechArticleList = [
       "year": "2025/01/04",
       "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
       "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
-      "content": "❤️ 10",
-      "likeCount": 10
+      "content": "❤️ 11",
+      "likeCount": 11
     },
     {
       "treeType": "🖋",
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 9",
-      "likeCount": 9
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "出雲大社へ行ってきた",
       "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-      "content": "❤️ 4",
-      "likeCount": 4
+      "content": "❤️ 5",
+      "likeCount": 5
     },
     {
       "treeType": "🖋",
@@ -378,8 +378,8 @@ export const TechArticleList = [
       "year": "2024/12/30",
       "title": "2024年のふりかえり",
       "url": "https://note.com/samurai_se/n/na112ce73a383",
-      "content": "❤️ 5",
-      "likeCount": 5
+      "content": "❤️ 6",
+      "likeCount": 6
     },
     {
       "treeType": "🖋",
@@ -463,8 +463,8 @@ export const TechArticleList = [
       "year": "2024/12/21",
       "title": "買ってよかったもの(2024年版)",
       "url": "https://note.com/samurai_se/n/n51f84af1d382",
-      "content": "❤️ 30",
-      "likeCount": 30
+      "content": "❤️ 32",
+      "likeCount": 32
     },
     {
       "treeType": "🖋",
@@ -3113,7 +3113,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/04",
-    "contributionCount": 15
+    "contributionCount": 18
   }
 ];
 export const PopularArticles = [
@@ -3123,8 +3123,8 @@ export const PopularArticles = [
     "year": "2025/01/04",
     "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
     "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
-    "content": "❤️ 10",
-    "likeCount": 10
+    "content": "❤️ 11",
+    "likeCount": 11
   },
   {
     "treeType": "🥈",
@@ -3132,8 +3132,8 @@ export const PopularArticles = [
     "year": "2025/01/03",
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "content": "❤️ 9",
-    "likeCount": 9
+    "content": "❤️ 10",
+    "likeCount": 10
   }
 ];
 export const noteArticles = [
@@ -3143,8 +3143,8 @@ export const noteArticles = [
     "year": "2025/01/03",
     "title": "出雲大社へ行ってきた",
     "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-    "content": "❤️ 4",
-    "likeCount": 4
+    "content": "❤️ 5",
+    "likeCount": 5
   },
   {
     "treeType": "🖋",
@@ -3188,8 +3188,8 @@ export const noteArticles = [
     "year": "2024/12/30",
     "title": "2024年のふりかえり",
     "url": "https://note.com/samurai_se/n/na112ce73a383",
-    "content": "❤️ 5",
-    "likeCount": 5
+    "content": "❤️ 6",
+    "likeCount": 6
   },
   {
     "treeType": "🖋",
@@ -3233,8 +3233,8 @@ export const noteArticles = [
     "year": "2024/12/21",
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "content": "❤️ 30",
-    "likeCount": 30
+    "content": "❤️ 32",
+    "likeCount": 32
   },
   {
     "treeType": "🖋",

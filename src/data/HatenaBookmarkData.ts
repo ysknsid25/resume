@@ -32,17 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 709,
+    "sum": 719,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 220
+        "count": 229
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
         "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-        "count": 171
+        "count": 170
       },
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -57,7 +57,7 @@ export const HatenaBookmarkData = [
       {
         "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
         "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-        "count": 14
+        "count": 16
       }
     ]
   }

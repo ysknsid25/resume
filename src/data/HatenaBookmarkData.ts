@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 730,
+    "sum": 732,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 234
+        "count": 236
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -72,6 +72,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Hello 2025",
     "url": "https://note.com/samurai_se/n/n2669629a7a3a",
+    "count": 0
+  },
+  {
+    "title": "2025年旅行したいところ",
+    "url": "https://note.com/samurai_se/n/n5c63825c4a05",
     "count": 0
   },
   {

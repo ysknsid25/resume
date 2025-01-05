@@ -277,7 +277,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2025/01",
       "zenn": 11,
-      "qiita": 12,
+      "qiita": 13,
       "note": 102
     }
   ],
@@ -292,7 +292,7 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "favorites": 125
+      "favorites": 126
     }
   ]
 };
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     },
     {
       "treeType": "🖋",
@@ -2755,10 +2755,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/10/04",
-    "contributionCount": 6
-  },
-  {
     "date": "2024/10/05",
     "contributionCount": 5
   },
@@ -3125,6 +3121,10 @@ export const GitHubContributions = [
   {
     "date": "2025/01/04",
     "contributionCount": 21
+  },
+  {
+    "date": "2025/01/05",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -3134,8 +3134,8 @@ export const PopularArticles = [
     "year": "2025/01/03",
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "content": "❤️ 12",
-    "likeCount": 12
+    "content": "❤️ 13",
+    "likeCount": 13
   },
   {
     "treeType": "🥈",

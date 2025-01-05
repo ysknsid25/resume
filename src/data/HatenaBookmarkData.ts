@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 728,
+    "sum": 730,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
@@ -52,12 +52,12 @@ export const HatenaBookmarkData = [
       {
         "title": "『Tidy First？』を読んだ",
         "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-        "count": 150
+        "count": 151
       },
       {
         "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
         "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-        "count": 20
+        "count": 21
       }
     ]
   }

@@ -206,7 +206,7 @@ export const TechArticleData = {
       "yearMonth": "2024/01",
       "zenn": 68,
       "qiita": 0,
-      "note": 33
+      "note": 34
     },
     {
       "yearMonth": "2024/02",
@@ -270,15 +270,15 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 57,
+      "zenn": 58,
       "qiita": 12,
       "note": 106
     },
     {
       "yearMonth": "2025/01",
       "zenn": 11,
-      "qiita": 17,
-      "note": 107
+      "qiita": 18,
+      "note": 111
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2714
+      "favorites": 2716
     },
     {
       "year": "2025",
-      "favorites": 135
+      "favorites": 140
     }
   ]
 };
@@ -304,8 +304,8 @@ export const TechArticleList = [
       "year": "2025/01/05",
       "title": "2025年旅行したいところ",
       "url": "https://note.com/samurai_se/n/n5c63825c4a05",
-      "content": "❤️ 1",
-      "likeCount": 1
+      "content": "❤️ 3",
+      "likeCount": 3
     },
     {
       "treeType": "🖋",
@@ -313,8 +313,8 @@ export const TechArticleList = [
       "year": "2025/01/05",
       "title": "じぶん Release Note (ver 3.1.1)",
       "url": "https://note.com/samurai_se/n/n16d8aed2e265",
-      "content": "❤️ 2",
-      "likeCount": 2
+      "content": "❤️ 3",
+      "likeCount": 3
     },
     {
       "treeType": "🖋",
@@ -331,8 +331,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 17",
-      "likeCount": 17
+      "content": "❤️ 18",
+      "likeCount": 18
     },
     {
       "treeType": "🖋",
@@ -351,8 +351,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 93",
-      "likeCount": 93
+      "content": "❤️ 94",
+      "likeCount": 94
     },
     {
       "treeType": "🖋",
@@ -387,8 +387,8 @@ export const TechArticleList = [
       "year": "2024/12/30",
       "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
       "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
-      "content": "❤️ 35",
-      "likeCount": 35
+      "content": "❤️ 36",
+      "likeCount": 36
     }
   ],
   [
@@ -1253,8 +1253,8 @@ export const TechArticleList = [
       "year": "2024/01/17",
       "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
       "url": "https://note.com/samurai_se/n/n242cd810459c",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 8",
+      "likeCount": 8
     },
     {
       "treeType": "🖋",
@@ -3133,7 +3133,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/05",
-    "contributionCount": 5
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [
@@ -3143,8 +3143,8 @@ export const PopularArticles = [
     "year": "2025/01/03",
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "content": "❤️ 17",
-    "likeCount": 17
+    "content": "❤️ 18",
+    "likeCount": 18
   },
   {
     "treeType": "🥈",
@@ -3163,8 +3163,8 @@ export const noteArticles = [
     "year": "2025/01/05",
     "title": "2025年旅行したいところ",
     "url": "https://note.com/samurai_se/n/n5c63825c4a05",
-    "content": "❤️ 1",
-    "likeCount": 1
+    "content": "❤️ 3",
+    "likeCount": 3
   },
   {
     "treeType": "🖋",
@@ -3172,8 +3172,8 @@ export const noteArticles = [
     "year": "2025/01/05",
     "title": "じぶん Release Note (ver 3.1.1)",
     "url": "https://note.com/samurai_se/n/n16d8aed2e265",
-    "content": "❤️ 2",
-    "likeCount": 2
+    "content": "❤️ 3",
+    "likeCount": 3
   },
   {
     "treeType": "🖋",
@@ -3190,8 +3190,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 93",
-    "likeCount": 93
+    "content": "❤️ 94",
+    "likeCount": 94
   },
   {
     "treeType": "🖋",
@@ -3739,8 +3739,8 @@ export const noteArticles = [
     "year": "2024/01/17",
     "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
     "url": "https://note.com/samurai_se/n/n242cd810459c",
-    "content": "❤️ 7",
-    "likeCount": 7
+    "content": "❤️ 8",
+    "likeCount": 8
   },
   {
     "treeType": "🖋",

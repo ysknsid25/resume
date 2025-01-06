@@ -272,7 +272,7 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 59,
       "qiita": 12,
-      "note": 108
+      "note": 109
     },
     {
       "yearMonth": "2025/01",
@@ -288,7 +288,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2719
+      "favorites": 2720
     },
     {
       "year": "2025",
@@ -528,8 +528,8 @@ export const TechArticleList = [
       "year": "2024/12/11",
       "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
       "url": "https://note.com/samurai_se/n/n257df7024437",
-      "content": "❤️ 13",
-      "likeCount": 13
+      "content": "❤️ 14",
+      "likeCount": 14
     }
   ],
   [
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/06",
-    "contributionCount": 4
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -3334,8 +3334,8 @@ export const noteArticles = [
     "year": "2024/12/11",
     "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
     "url": "https://note.com/samurai_se/n/n257df7024437",
-    "content": "❤️ 13",
-    "likeCount": 13
+    "content": "❤️ 14",
+    "likeCount": 14
   },
   {
     "treeType": "🖋",

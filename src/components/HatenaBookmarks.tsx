@@ -3,7 +3,7 @@ import {
     AllHatenaBookmarkData,
 } from "../data/AllHatenaBookmarkData";
 
-const beginYear = "2023/03";
+const beginYear = "2023/04";
 const nowYear =
     new Date().getFullYear().toString() +
     "/" +

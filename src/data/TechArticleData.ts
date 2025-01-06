@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 167,
+      "zenn": 168,
       "qiita": 0,
       "note": 43
     },
@@ -272,27 +272,27 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 59,
       "qiita": 12,
-      "note": 107
+      "note": 108
     },
     {
       "yearMonth": "2025/01",
-      "zenn": 18,
-      "qiita": 20,
+      "zenn": 21,
+      "qiita": 25,
       "note": 111
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2528
+      "favorites": 2529
     },
     {
       "year": "2024",
-      "favorites": 2718
+      "favorites": 2719
     },
     {
       "year": "2025",
-      "favorites": 149
+      "favorites": 157
     }
   ]
 };
@@ -304,8 +304,8 @@ export const TechArticleList = [
       "year": "2025/01/06",
       "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/3cef5013affcf9",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 10",
+      "likeCount": 10
     },
     {
       "treeType": "🖋",
@@ -351,8 +351,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 20",
-      "likeCount": 20
+      "content": "❤️ 25",
+      "likeCount": 25
     },
     {
       "treeType": "🖋",
@@ -501,8 +501,8 @@ export const TechArticleList = [
       "year": "2024/12/21",
       "title": "買ってよかったもの(2024年版)",
       "url": "https://note.com/samurai_se/n/n51f84af1d382",
-      "content": "❤️ 34",
-      "likeCount": 34
+      "content": "❤️ 35",
+      "likeCount": 35
     },
     {
       "treeType": "🖋",
@@ -1750,8 +1750,8 @@ export const TechArticleList = [
       "year": "2023/08/14",
       "title": "Vitest UIを使ってみよう！",
       "url": "https://zenn.dev/yskn_sid25/articles/09d22440c3e3c5",
-      "content": "❤️ 56",
-      "likeCount": 56
+      "content": "❤️ 57",
+      "likeCount": 57
     }
   ],
   [
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/06",
-    "contributionCount": 3
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -3161,8 +3161,8 @@ export const PopularArticles = [
     "year": "2025/01/03",
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "content": "❤️ 20",
-    "likeCount": 20
+    "content": "❤️ 25",
+    "likeCount": 25
   },
   {
     "treeType": "🥈",
@@ -3179,8 +3179,8 @@ export const PopularArticles = [
     "year": "2025/01/06",
     "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/3cef5013affcf9",
-    "content": "❤️ 7",
-    "likeCount": 7
+    "content": "❤️ 10",
+    "likeCount": 10
   }
 ];
 export const noteArticles = [
@@ -3307,8 +3307,8 @@ export const noteArticles = [
     "year": "2024/12/21",
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "content": "❤️ 34",
-    "likeCount": 34
+    "content": "❤️ 35",
+    "likeCount": 35
   },
   {
     "treeType": "🖋",

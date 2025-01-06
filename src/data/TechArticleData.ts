@@ -128,7 +128,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2025/01",
-      "zenn": 1,
+      "zenn": 2,
       "qiita": 1,
       "note": 6
     }
@@ -144,7 +144,7 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "articles": 8
+      "articles": 9
     }
   ],
   "favoritesCounts": [
@@ -276,8 +276,8 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2025/01",
-      "zenn": 11,
-      "qiita": 19,
+      "zenn": 18,
+      "qiita": 20,
       "note": 111
     }
   ],
@@ -292,12 +292,21 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "favorites": 141
+      "favorites": 149
     }
   ]
 };
 export const TechArticleList = [
   [
+    {
+      "treeType": "🖋",
+      "img": "zenn",
+      "year": "2025/01/06",
+      "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
+      "url": "https://zenn.dev/yskn_sid25/articles/3cef5013affcf9",
+      "content": "❤️ 7",
+      "likeCount": 7
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -333,18 +342,18 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
       "content": "❤️ 11",
       "likeCount": 11
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "qiita",
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 19",
-      "likeCount": 19
-    }
-  ],
-  [
+      "content": "❤️ 20",
+      "likeCount": 20
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -380,7 +389,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n0654862f885b",
       "content": "❤️ 17",
       "likeCount": 17
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -389,9 +400,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n01e47b6d50db",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -427,7 +436,9 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/856f852731ce93029d9f",
       "content": "❤️ 5",
       "likeCount": 5
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -436,9 +447,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
       "content": "❤️ 14",
       "likeCount": 14
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -474,7 +483,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc1fe861092f3",
       "content": "❤️ 2",
       "likeCount": 2
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -483,9 +494,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n0c9111cd06e4",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -521,7 +530,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n257df7024437",
       "content": "❤️ 13",
       "likeCount": 13
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -530,9 +541,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nffcbd16fe493",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -568,7 +577,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ne241556c4c9b",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -577,9 +588,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n69c4994fb41a",
       "content": "❤️ 40",
       "likeCount": 40
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -615,7 +624,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ncd30cfe1cadb",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -624,9 +635,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n16c8106c0048",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -662,7 +671,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n389f89ad58a3",
       "content": "❤️ 52",
       "likeCount": 52
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -671,9 +682,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n210ae877fc96",
       "content": "❤️ 7",
       "likeCount": 7
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -709,7 +718,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n3eb5596fb42d",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -718,9 +729,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n7c3e5720a19f",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -756,7 +765,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
       "content": "❤️ 12",
       "likeCount": 12
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -765,9 +776,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
       "content": "❤️ 68",
       "likeCount": 68
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -803,7 +812,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n80edb31131bc",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -812,9 +823,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/26f86403dba278",
       "content": "❤️ 7",
       "likeCount": 7
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -850,7 +859,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n3ad4fd22a003",
       "content": "❤️ 13",
       "likeCount": 13
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -859,9 +870,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
       "content": "❤️ 132",
       "likeCount": 132
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -897,7 +906,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/2baab3d1b53495",
       "content": "❤️ 8",
       "likeCount": 8
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -906,9 +917,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nf34d8eb482b8",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -944,7 +953,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a015ffbadb0793",
       "content": "❤️ 15",
       "likeCount": 15
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -953,9 +964,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/e822e7922d4b43",
       "content": "❤️ 13",
       "likeCount": 13
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -991,7 +1000,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na51e8a20c40b",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1000,9 +1011,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
       "content": "❤️ 38",
       "likeCount": 38
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1038,7 +1047,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/40fef14a1ea98e",
       "content": "❤️ 86",
       "likeCount": 86
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1047,9 +1058,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n0c41bf14fc38",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -1085,7 +1094,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n0586c5c66ea5",
       "content": "❤️ 2",
       "likeCount": 2
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1094,9 +1105,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n1cf59a966894",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1132,7 +1141,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n0ef5388d2589",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1141,9 +1152,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n3fb452f11c3d",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1179,7 +1188,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
       "content": "❤️ 140",
       "likeCount": 140
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1188,9 +1199,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n4e1f3717e4f3",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1226,7 +1235,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ndef88b9f8aa7",
       "content": "❤️ 14",
       "likeCount": 14
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1235,9 +1246,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a3b7ca31d94953",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1273,7 +1282,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
       "content": "❤️ 42",
       "likeCount": 42
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1282,9 +1293,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n71ad454355c3",
       "content": "❤️ 7",
       "likeCount": 7
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1320,7 +1329,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nd00b138bd03a",
       "content": "❤️ 5",
       "likeCount": 5
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1329,9 +1340,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n4fae9497ad44",
       "content": "❤️ 14",
       "likeCount": 14
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1367,7 +1376,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/448e3ce99eecb6",
       "content": "❤️ 5",
       "likeCount": 5
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1376,9 +1387,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1414,7 +1423,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n4adf72a81eee",
       "content": "❤️ 2",
       "likeCount": 2
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1423,9 +1434,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n772e2257b245",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1461,7 +1470,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1470,9 +1481,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ncf8699f9d288",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1508,7 +1517,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/2fcd849c658c8f",
       "content": "❤️ 10",
       "likeCount": 10
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1517,9 +1528,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/63bd7de0f35bf1",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1555,7 +1564,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc263ca2a50f1",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1564,9 +1575,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na65b3a8f2d3e",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1602,7 +1611,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/23d54ca7521b1c",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1611,9 +1622,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n5e60bd81025c",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1649,7 +1658,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/0121b32ba317ef",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1658,9 +1669,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/48da45d52db79e",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1696,7 +1705,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/6508e7b37e137f",
       "content": "❤️ 14",
       "likeCount": 14
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1705,9 +1716,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n79f073fe5677",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1743,7 +1752,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/09d22440c3e3c5",
       "content": "❤️ 56",
       "likeCount": 56
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1752,9 +1763,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n1477a6994438",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1790,7 +1799,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n46882641ae76",
       "content": "❤️ 8",
       "likeCount": 8
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1799,9 +1810,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/d37043246e246e",
       "content": "❤️ 19",
       "likeCount": 19
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1837,7 +1846,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ndf35512fa431",
       "content": "❤️ 8",
       "likeCount": 8
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1846,9 +1857,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/fcb6681b91a290",
       "content": "❤️ 10",
       "likeCount": 10
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1884,7 +1893,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/2e57805dab6745",
       "content": "❤️ 35",
       "likeCount": 35
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1893,9 +1904,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfad7c9d53039",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1931,7 +1940,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfbe6bc95b428",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -1940,9 +1951,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/943c0c015ed41b",
       "content": "❤️ 10",
       "likeCount": 10
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1978,7 +1987,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/f4c4fc8d6b14da",
       "content": "❤️ 15",
       "likeCount": 15
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -1987,9 +1998,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n8baa5ec8cedb",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2025,7 +2034,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/neb875f1aef90",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2034,9 +2045,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
       "content": "❤️ 49",
       "likeCount": 49
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2072,7 +2081,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
       "content": "❤️ 442",
       "likeCount": 442
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2081,9 +2092,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
       "content": "❤️ 58",
       "likeCount": 58
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2119,7 +2128,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n414d339ce2ac",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2128,9 +2139,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/90c3238f61f273",
       "content": "❤️ 9",
       "likeCount": 9
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2166,7 +2175,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2175,9 +2186,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na31c1bfbc818",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2213,7 +2222,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
       "content": "❤️ 31",
       "likeCount": 31
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -2222,9 +2233,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
       "content": "❤️ 55",
       "likeCount": 55
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2260,7 +2269,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
       "content": "❤️ 12",
       "likeCount": 12
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2269,9 +2280,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nd41c79a837d2",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2307,7 +2316,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n62a9fe00aaf1",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2316,9 +2327,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nbefc46092a8f",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2354,7 +2363,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc8eb76b00d3f",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2363,9 +2374,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na40233bd3329",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2401,7 +2410,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nd3dae09ab2a4",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2410,9 +2421,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nd15d63f39b5f",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2448,7 +2457,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfe33e0c7f2b2",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2457,9 +2468,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nf75697c463ca",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2495,7 +2504,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfa74ad68ec08",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2504,9 +2515,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n7874d866ea1a",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2542,7 +2551,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n35a419fb0d50",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2551,9 +2562,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n5794df33933b",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2589,7 +2598,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nec35dd4915f7",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2598,9 +2609,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nd07caff521c6",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2636,7 +2645,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ncb456c93216a",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2645,9 +2656,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n42951c98606a",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2683,7 +2692,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc6e93b522d2d",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2692,9 +2703,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n95f6f84022c3",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2730,7 +2739,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ne7e383ef1cba",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -2739,9 +2750,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n44606e555c51",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -2772,10 +2781,6 @@ export const TechArticleList = [
   ]
 ];
 export const GitHubContributions = [
-  {
-    "date": "2024/10/05",
-    "contributionCount": 5
-  },
   {
     "date": "2024/10/06",
     "contributionCount": 2
@@ -3143,6 +3148,10 @@ export const GitHubContributions = [
   {
     "date": "2025/01/05",
     "contributionCount": 8
+  },
+  {
+    "date": "2025/01/06",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -3152,8 +3161,8 @@ export const PopularArticles = [
     "year": "2025/01/03",
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "content": "❤️ 19",
-    "likeCount": 19
+    "content": "❤️ 20",
+    "likeCount": 20
   },
   {
     "treeType": "🥈",
@@ -3163,6 +3172,15 @@ export const PopularArticles = [
     "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
     "content": "❤️ 11",
     "likeCount": 11
+  },
+  {
+    "treeType": "🥉",
+    "img": "zenn",
+    "year": "2025/01/06",
+    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
+    "url": "https://zenn.dev/yskn_sid25/articles/3cef5013affcf9",
+    "content": "❤️ 7",
+    "likeCount": 7
   }
 ];
 export const noteArticles = [

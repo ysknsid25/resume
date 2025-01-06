@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 736,
+    "sum": 740,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 240
+        "count": 241
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -87,6 +87,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "出雲大社へ行ってきた",
     "url": "https://note.com/samurai_se/n/n85983fcbe12d",
+    "count": 0
+  },
+  {
+    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
+    "url": "https://zenn.dev/bs_kansai/articles/3cef5013affcf9",
     "count": 0
   },
   {

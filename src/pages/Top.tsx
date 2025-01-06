@@ -18,6 +18,7 @@ import { GitHubContributionsGraph } from "../components/GitHubContributionsGraph
 import { PopularArticle } from "../components/PopularArticles";
 import { LikeAndDislike } from "../components/LikeAndDislike";
 import { PopularAllArticle } from "../components/PopularAllArticles";
+import { HatenaBookmarks } from "../components/HatenaBookmarks";
 
 const top = "Top";
 const skills = "Skills";
@@ -29,10 +30,12 @@ const books = "Books";
 const events = "Events";
 const works = "Works";
 const sideJob = "Side Job";
+const hatenaBookmark = "Hatena Bookmarks";
 
 const menuList = [
     top,
     articles,
+    hatenaBookmark,
     conference,
     career,
     skills,
@@ -119,6 +122,11 @@ const DynamicContents = ({
             {selectedFrame === events && (
                 <Frame>
                     <Events></Events>
+                </Frame>
+            )}
+            {selectedFrame === hatenaBookmark && (
+                <Frame>
+                    <HatenaBookmarks></HatenaBookmarks>
                 </Frame>
             )}
         </>

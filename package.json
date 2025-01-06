@@ -12,7 +12,8 @@
         "storybook": "storybook dev -p 6006",
         "build-storybook": "storybook build",
         "make:data": "node make-tech-article-data.js",
-        "make:bookmark:data": "npx tsx make-hatena-bookmark.ts"
+        "make:bookmark:data": "npx tsx make-hatena-bookmark.ts",
+        "make:all:bookmark:data": "npx tsx make-all-hatena-bookmark.ts"
     },
     "dependencies": {
         "@types/node": "^22.8.7",

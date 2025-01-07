@@ -2,6 +2,7 @@ import fetch from "node-fetch";
 import fs from "fs";
 import dotenv from "dotenv";
 import { TechArticleList, speakerDecks } from "./src/data/TechArticleData";
+import { AllSpeakerDecks } from "./src/data/AllSpeakerDecks";
 import {
     HatenaBookmarkData,
     ZeroBookmarkArticles,
@@ -15,6 +16,7 @@ type Article = {
 };
 
 const FILE_PATH = "./src/data/HatenaBookmarkData.ts";
+const SPEAKER_DECKS_FILE_PATH = "./src/data/AllSpeakerDecks.ts";
 
 console.log("#### Start make article data ####");
 try {
@@ -180,6 +182,24 @@ try {
         }
         console.log("#### Print Succeeded!! ####");
     });
+
+    console.log("#### Start make speaker deck data ####");
+    const speakerDeckJson = JSON.stringify(
+        [...speakerDecks, ...AllSpeakerDecks],
+        null,
+        2
+    );
+    fs.writeFile(
+        SPEAKER_DECKS_FILE_PATH,
+        `export const AllSpeakerDecks = ${speakerDeckJson}\n`,
+        "utf8",
+        (err) => {
+            if (err) {
+                throw err;
+            }
+            console.log("#### Print Succeeded!! ####");
+        }
+    );
 
     console.log("#### End make article data ####");
 } catch (e) {

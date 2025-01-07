@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 4653;
+export const TotalHatenaBookmarkCount = 5093;
 
 export const AllHatenaBookmarkData = [
   {
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 240
+    "count": 242
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
@@ -42,14 +42,19 @@ export const AllHatenaBookmarkData = [
     "count": 225
   },
   {
+    "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
+    "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
+    "count": 198
+  },
+  {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "count": 170
+    "count": 169
   },
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "count": 154
+    "count": 155
   },
   {
     "title": "『Tidy First？』を読んだ",
@@ -70,6 +75,11 @@ export const AllHatenaBookmarkData = [
     "title": "LaravelはどのようにCSRF対策をしているのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
     "count": 129
+  },
+  {
+    "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
+    "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita",
+    "count": 115
   },
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
@@ -102,6 +112,11 @@ export const AllHatenaBookmarkData = [
     "count": 52
   },
   {
+    "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
+    "url": "https://logmi.jp/main/technology/330790",
+    "count": 50
+  },
+  {
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
     "url": "https://toranoana-lab.hatenablog.com/entry/2024/07/17/120000",
     "count": 45
@@ -125,6 +140,11 @@ export const AllHatenaBookmarkData = [
     "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
     "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
     "count": 29
+  },
+  {
+    "title": "統計データで2024年の クラウド・インフラ動向を眺める",
+    "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru",
+    "count": 26
   },
   {
     "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
@@ -167,6 +187,11 @@ export const AllHatenaBookmarkData = [
     "count": 20
   },
   {
+    "title": "PHPカンファレンス小田原2024",
+    "url": "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiao-tian-yuan-2024",
+    "count": 19
+  },
+  {
     "title": "TSKaigi Kansai 2024の参加(登壇)体験がとってもとっても良かった件",
     "url": "https://note.com/samurai_se/n/n69c4994fb41a",
     "count": 17
@@ -182,9 +207,19 @@ export const AllHatenaBookmarkData = [
     "count": 16
   },
   {
+    "title": "テストカバレッジが100％でもそれが意味のあるテストかは断言できない　Mutation Testでテストコード自体の検証をしよう",
+    "url": "https://logmi.jp/main/technology/330791",
+    "count": 15
+  },
+  {
     "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
     "url": "https://note.com/samurai_se/n/nc0b406a83363",
     "count": 14
+  },
+  {
+    "title": "令和版ソフトウェアエンジニアの情報収集術 PHPカンファレンス香川2024",
+    "url": "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiang-chuan",
+    "count": 12
   },
   {
     "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
@@ -232,6 +267,11 @@ export const AllHatenaBookmarkData = [
     "count": 4
   },
   {
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "count": 4
+  },
+  {
     "title": "Vitest UIを使ってみよう！",
     "url": "https://zenn.dev/yskn_sid25/articles/09d22440c3e3c5",
     "count": 3
@@ -244,11 +284,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
     "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
-    "count": 3
-  },
-  {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 3
   },
   {
@@ -374,6 +409,16 @@ export const AllHatenaBookmarkData = [
   {
     "title": "エンジニア5周年記念にオープンソースプロジェクトを自分で立ち上げた話",
     "url": "https://zenn.dev/yskn_sid25/articles/b2ecc4b220d54a",
+    "count": 1
+  },
+  {
+    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
+    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
+    "count": 1
+  },
+  {
+    "title": "そうだ、神戸へ行こう",
+    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
     "count": 1
   }
 ];

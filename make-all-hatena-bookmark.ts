@@ -1,6 +1,7 @@
 import fetch from "node-fetch";
 import fs from "fs";
-import { TechArticleList, speakerDecks } from "./src/data/TechArticleData";
+import { TechArticleList } from "./src/data/TechArticleData";
+import { AllSpeakerDecks } from "./src/data/AllSpeakerDecks";
 import { HatenaBlogs } from "./src/data/HatenaBlogs";
 
 const FILE_PATH = "./src/data/AllHatenaBookmarkData.ts";
@@ -23,7 +24,7 @@ try {
         });
     const articles = [
         ...filteredTechArticles,
-        ...speakerDecks,
+        ...AllSpeakerDecks,
         ...publicationTechArticles,
         ...HatenaBlogs.map((blog) => {
             return {

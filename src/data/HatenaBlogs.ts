@@ -2,6 +2,16 @@
 export const HatenaBlogs = [
     {
         year: "2025",
+        title: "テストカバレッジが100％でもそれが意味のあるテストかは断言できない　Mutation Testでテストコード自体の検証をしよう",
+        url: "https://logmi.jp/main/technology/330791",
+    },
+    {
+        year: "2025",
+        title: "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
+        url: "https://logmi.jp/main/technology/330790",
+    },
+    {
+        year: "2025",
         title: "買ってよかったもの(2024年版)",
         url: "https://note.com/samurai_se/n/n51f84af1d382",
     },

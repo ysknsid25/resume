@@ -2899,7 +2899,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2024/11/05",
-    "contributionCount": 9
+    "contributionCount": 8
   },
   {
     "date": "2024/11/06",
@@ -3135,15 +3135,15 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/03",
-    "contributionCount": 4
+    "contributionCount": 3
   },
   {
     "date": "2025/01/04",
-    "contributionCount": 21
+    "contributionCount": 20
   },
   {
     "date": "2025/01/05",
-    "contributionCount": 8
+    "contributionCount": 7
   },
   {
     "date": "2025/01/06",
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/07",
-    "contributionCount": 8
+    "contributionCount": 9
   }
 ];
 export const PopularArticles = [

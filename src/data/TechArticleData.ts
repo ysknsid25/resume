@@ -229,7 +229,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 38,
-      "qiita": 389,
+      "qiita": 390,
       "note": 21
     },
     {
@@ -272,7 +272,7 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 59,
       "qiita": 12,
-      "note": 110
+      "note": 111
     },
     {
       "yearMonth": "2025/01",
@@ -288,7 +288,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2721
+      "favorites": 2723
     },
     {
       "year": "2025",
@@ -387,8 +387,8 @@ export const TechArticleList = [
       "year": "2024/12/31",
       "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
       "url": "https://note.com/samurai_se/n/n0654862f885b",
-      "content": "❤️ 17",
-      "likeCount": 17
+      "content": "❤️ 18",
+      "likeCount": 18
     }
   ],
   [
@@ -1036,8 +1036,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 389",
-      "likeCount": 389
+      "content": "❤️ 390",
+      "likeCount": 390
     },
     {
       "treeType": "🖋",
@@ -2782,10 +2782,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/10/06",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/10/07",
     "contributionCount": 8
   },
@@ -3151,7 +3147,11 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/06",
-    "contributionCount": 9
+    "contributionCount": 10
+  },
+  {
+    "date": "2025/01/07",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -3244,8 +3244,8 @@ export const noteArticles = [
     "year": "2024/12/31",
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "content": "❤️ 17",
-    "likeCount": 17
+    "content": "❤️ 18",
+    "likeCount": 18
   },
   {
     "treeType": "🖋",

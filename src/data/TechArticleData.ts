@@ -150,7 +150,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 357,
+      "zenn": 358,
       "qiita": 0,
       "note": 30
     },
@@ -278,13 +278,13 @@ export const TechArticleData = {
       "yearMonth": "2025/01",
       "zenn": 21,
       "qiita": 26,
-      "note": 114
+      "note": 116
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2531
+      "favorites": 2532
     },
     {
       "year": "2024",
@@ -292,7 +292,7 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "favorites": 161
+      "favorites": 163
     }
   ]
 };
@@ -322,8 +322,8 @@ export const TechArticleList = [
       "year": "2025/01/05",
       "title": "2025年旅行したいところ",
       "url": "https://note.com/samurai_se/n/n5c63825c4a05",
-      "content": "❤️ 3",
-      "likeCount": 3
+      "content": "❤️ 4",
+      "likeCount": 4
     },
     {
       "treeType": "🖋",
@@ -360,8 +360,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "出雲大社へ行ってきた",
       "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-      "content": "❤️ 6",
-      "likeCount": 6
+      "content": "❤️ 7",
+      "likeCount": 7
     },
     {
       "treeType": "🖋",
@@ -2267,8 +2267,8 @@ export const TechArticleList = [
       "year": "2023/04/07",
       "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
       "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     }
   ],
   [
@@ -3199,8 +3199,8 @@ export const noteArticles = [
     "year": "2025/01/05",
     "title": "2025年旅行したいところ",
     "url": "https://note.com/samurai_se/n/n5c63825c4a05",
-    "content": "❤️ 3",
-    "likeCount": 3
+    "content": "❤️ 4",
+    "likeCount": 4
   },
   {
     "treeType": "🖋",
@@ -3217,8 +3217,8 @@ export const noteArticles = [
     "year": "2025/01/03",
     "title": "出雲大社へ行ってきた",
     "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-    "content": "❤️ 6",
-    "likeCount": 6
+    "content": "❤️ 7",
+    "likeCount": 7
   },
   {
     "treeType": "🖋",

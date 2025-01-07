@@ -174,7 +174,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/08",
-      "zenn": 168,
+      "zenn": 169,
       "qiita": 0,
       "note": 43
     },
@@ -264,7 +264,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/11",
-      "zenn": 432,
+      "zenn": 433,
       "qiita": 0,
       "note": 60
     },
@@ -277,22 +277,22 @@ export const TechArticleData = {
     {
       "yearMonth": "2025/01",
       "zenn": 21,
-      "qiita": 25,
-      "note": 112
+      "qiita": 26,
+      "note": 114
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2530
+      "favorites": 2531
     },
     {
       "year": "2024",
-      "favorites": 2724
+      "favorites": 2725
     },
     {
       "year": "2025",
-      "favorites": 158
+      "favorites": 161
     }
   ]
 };
@@ -351,8 +351,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
       "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-      "content": "❤️ 25",
-      "likeCount": 25
+      "content": "❤️ 26",
+      "likeCount": 26
     },
     {
       "treeType": "🖋",
@@ -369,8 +369,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 95",
-      "likeCount": 95
+      "content": "❤️ 97",
+      "likeCount": 97
     },
     {
       "treeType": "🖋",
@@ -566,8 +566,8 @@ export const TechArticleList = [
       "year": "2024/11/23",
       "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
       "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-      "content": "❤️ 329",
-      "likeCount": 329
+      "content": "❤️ 330",
+      "likeCount": 330
     },
     {
       "treeType": "🖋",
@@ -1732,8 +1732,8 @@ export const TechArticleList = [
       "year": "2023/08/18",
       "title": "Koinで始めるKtor DI",
       "url": "https://zenn.dev/yskn_sid25/articles/27497d0acdd172",
-      "content": "❤️ 5",
-      "likeCount": 5
+      "content": "❤️ 6",
+      "likeCount": 6
     },
     {
       "treeType": "🖋",
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/07",
-    "contributionCount": 5
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [
@@ -3161,8 +3161,8 @@ export const PopularArticles = [
     "year": "2025/01/03",
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "content": "❤️ 25",
-    "likeCount": 25
+    "content": "❤️ 26",
+    "likeCount": 26
   },
   {
     "treeType": "🥈",
@@ -3226,8 +3226,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 95",
-    "likeCount": 95
+    "content": "❤️ 97",
+    "likeCount": 97
   },
   {
     "treeType": "🖋",

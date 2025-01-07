@@ -1,5 +1,6 @@
 import fetch from "node-fetch";
 import fs from "fs";
+import dotenv from "dotenv";
 import { TechArticleList, speakerDecks } from "./src/data/TechArticleData";
 import {
     HatenaBookmarkData,
@@ -17,6 +18,11 @@ const FILE_PATH = "./src/data/HatenaBookmarkData.ts";
 
 console.log("#### Start make article data ####");
 try {
+    console.log("#### Lading Config... ####");
+    const env = dotenv.config();
+    console.log(env);
+    console.log(env.parsed?.DISCORD_WEBHOOK_URL);
+
     const year = new Date().getFullYear().toString();
     const filteredTechArticles = TechArticleList.flat()
         .filter((article) => {
@@ -136,26 +142,28 @@ try {
     });
     if (notifyTargets.length > 0) {
         console.log("#### has notify target ####");
-        const hooksUrl =
-            "https://discord.com/api/webhooks/1298580547387260978/2Pcx_M1aJ88qS74E_6lYymLoSdhLMwV6tQpgk8R5sO7bfWXIJbJtQQZFx4oudNTt72jV";
-        let message =
-            "<@745851369206054933>\n もしかするとはてブに入るかもしれないエントリがあるのだ\n";
-        notifyTargets.forEach((target) => {
-            message += `🔖 ${target.count}  [${target.title}](<${target.url}>)\n`;
-        });
-        const param = {
-            method: "POST",
-            headers: { "Content-type": "application/json" },
-            body: JSON.stringify({ content: message }),
-        };
-        fetch(hooksUrl, param)
-            .then((res) => {
-                console.log(`Send to Discord: ${res.ok}`);
-            })
-            .catch((e) => {
-                console.error(`Send to Discord Error: ${e}`);
-                console.error(e);
+        if (env.parsed?.DISCORD_WEBHOOK_URL) {
+            let message =
+                "<@745851369206054933>\n もしかするとはてブに入るかもしれないエントリがあるのだ\n";
+            notifyTargets.forEach((target) => {
+                message += `🔖 ${target.count}  [${target.title}](<${target.url}>)\n`;
             });
+            const param = {
+                method: "POST",
+                headers: { "Content-type": "application/json" },
+                body: JSON.stringify({ content: message }),
+            };
+            fetch(env.parsed?.DISCORD_WEBHOOK_URL, param)
+                .then((res) => {
+                    console.log(`Send to Discord: ${res.ok}`);
+                })
+                .catch((e) => {
+                    console.error(`Send to Discord Error: ${e}`);
+                    console.error(e);
+                });
+        } else {
+            console.error("DISCORD_WEBHOOK_URL is not set");
+        }
     }
     console.log("#### Complete!! New Added Bookmark ####");
 

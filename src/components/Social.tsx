@@ -21,7 +21,7 @@ const snsList: SNS[] = [
     { url: "https://github.com/ysknsid25", icon: github },
     { url: "https://zenn.dev/yskn_sid25", icon: zenn },
     { url: "https://qiita.com/ysknsid25", icon: qiita },
-    { url: "https://karanohako.hatenablog.jp/", icon: hatena },
+    { url: "https://blog.inorinrinrin.com/", icon: hatena },
     { url: "https://note.com/samurai_se/", icon: note },
     { url: "https://www.instagram.com/ysknsid25/", icon: insta },
     {

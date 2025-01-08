@@ -150,7 +150,7 @@ export const TechArticleData = {
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 358,
+      "zenn": 359,
       "qiita": 0,
       "note": 30
     },
@@ -284,7 +284,7 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2532
+      "favorites": 2533
     },
     {
       "year": "2024",
@@ -2231,8 +2231,8 @@ export const TechArticleList = [
       "year": "2023/04/17",
       "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
       "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
-      "content": "❤️ 55",
-      "likeCount": 55
+      "content": "❤️ 56",
+      "likeCount": 56
     },
     {
       "treeType": "🖋",
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/08",
-    "contributionCount": 3
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [

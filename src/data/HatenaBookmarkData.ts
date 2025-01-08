@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 813,
+    "sum": 815,
     "bookmarkRanking": [
       {
         "title": "買ってよかったもの(2024年版)",
@@ -47,7 +47,7 @@ export const HatenaBookmarkData = [
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         "url": "https://note.com/samurai_se/n/n0654862f885b",
-        "count": 155
+        "count": 156
       },
       {
         "title": "『Tidy First？』を読んだ",

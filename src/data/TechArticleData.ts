@@ -176,7 +176,7 @@ export const TechArticleData = {
       "yearMonth": "2023/08",
       "zenn": 169,
       "qiita": 0,
-      "note": 43
+      "note": 44
     },
     {
       "yearMonth": "2023/09",
@@ -272,27 +272,27 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 61,
       "qiita": 12,
-      "note": 112
+      "note": 113
     },
     {
       "yearMonth": "2025/01",
       "zenn": 21,
       "qiita": 26,
-      "note": 116
+      "note": 117
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2533
+      "favorites": 2534
     },
     {
       "year": "2024",
-      "favorites": 2728
+      "favorites": 2729
     },
     {
       "year": "2025",
-      "favorites": 163
+      "favorites": 164
     }
   ]
 };
@@ -369,8 +369,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 97",
-      "likeCount": 97
+      "content": "❤️ 98",
+      "likeCount": 98
     },
     {
       "treeType": "🖋",
@@ -510,8 +510,8 @@ export const TechArticleList = [
       "year": "2024/12/15",
       "title": "合同勉強会 / 忘年会議2024 に参加した",
       "url": "https://note.com/samurai_se/n/nfba3d63842ac",
-      "content": "❤️ 6",
-      "likeCount": 6
+      "content": "❤️ 7",
+      "likeCount": 7
     },
     {
       "treeType": "🖋",
@@ -1779,8 +1779,8 @@ export const TechArticleList = [
       "year": "2023/08/11",
       "title": "何度でも飲みたい神戸のクラフトビール4選+α",
       "url": "https://note.com/samurai_se/n/n8581ab5f72b2",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 8",
+      "likeCount": 8
     },
     {
       "treeType": "🖋",
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/08",
-    "contributionCount": 7
+    "contributionCount": 9
   }
 ];
 export const PopularArticles = [
@@ -3226,8 +3226,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 97",
-    "likeCount": 97
+    "content": "❤️ 98",
+    "likeCount": 98
   },
   {
     "treeType": "🖋",
@@ -3316,8 +3316,8 @@ export const noteArticles = [
     "year": "2024/12/15",
     "title": "合同勉強会 / 忘年会議2024 に参加した",
     "url": "https://note.com/samurai_se/n/nfba3d63842ac",
-    "content": "❤️ 6",
-    "likeCount": 6
+    "content": "❤️ 7",
+    "likeCount": 7
   },
   {
     "treeType": "🖋",
@@ -4054,8 +4054,8 @@ export const noteArticles = [
     "year": "2023/08/11",
     "title": "何度でも飲みたい神戸のクラフトビール4選+α",
     "url": "https://note.com/samurai_se/n/n8581ab5f72b2",
-    "content": "❤️ 7",
-    "likeCount": 7
+    "content": "❤️ 8",
+    "likeCount": 8
   },
   {
     "treeType": "🖋",

@@ -7,6 +7,7 @@ import zenn from "../assets/sns/zenn.png";
 import qiita from "../assets/sns/qiita.png";
 import bluesky from "../assets/sns/bluesky.png";
 import speakerdeck from "../assets/sns/speakerdeck.png";
+import hatena from "../assets/sns/hatena.png";
 
 type SNS = {
     url: string;
@@ -20,6 +21,7 @@ const snsList: SNS[] = [
     { url: "https://github.com/ysknsid25", icon: github },
     { url: "https://zenn.dev/yskn_sid25", icon: zenn },
     { url: "https://qiita.com/ysknsid25", icon: qiita },
+    { url: "https://karanohako.hatenablog.jp/", icon: hatena },
     { url: "https://note.com/samurai_se/", icon: note },
     { url: "https://www.instagram.com/ysknsid25/", icon: insta },
     {

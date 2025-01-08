@@ -270,7 +270,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 59,
+      "zenn": 61,
       "qiita": 12,
       "note": 112
     },
@@ -288,7 +288,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2726
+      "favorites": 2728
     },
     {
       "year": "2025",
@@ -407,8 +407,8 @@ export const TechArticleList = [
       "year": "2024/12/30",
       "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
       "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
-      "content": "❤️ 37",
-      "likeCount": 37
+      "content": "❤️ 39",
+      "likeCount": 39
     },
     {
       "treeType": "🖋",
@@ -2782,10 +2782,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/10/07",
-    "contributionCount": 8
-  },
-  {
     "date": "2024/10/08",
     "contributionCount": 1
   },
@@ -3152,6 +3148,10 @@ export const GitHubContributions = [
   {
     "date": "2025/01/07",
     "contributionCount": 9
+  },
+  {
+    "date": "2025/01/08",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [

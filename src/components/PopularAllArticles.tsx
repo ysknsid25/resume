@@ -14,7 +14,7 @@ export const PopularAllArticle = () => {
         <div className="grid grid-cols-1 items-center justify-center gap-4">
             <div className="flex justify-center items-center gap-4 mb-4">
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">
-                    Popular Articles in {nowYear} by bookmark count
+                    Hatena Bookmark Ranking in {nowYear}
                 </h1>
             </div>
             <div className="flex justify-center items-center gap-4 mb-4">

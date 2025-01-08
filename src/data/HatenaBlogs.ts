@@ -2,6 +2,11 @@
 export const HatenaBlogs = [
     {
         year: "2025",
+        title: "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
+        url: "https://note.com/samurai_se/n/ncf83a3c6dc5a",
+    },
+    {
+        year: "2025",
         title: "テストカバレッジが100％でもそれが意味のあるテストかは断言できない　Mutation Testでテストコード自体の検証をしよう",
         url: "https://logmi.jp/main/technology/330791",
     },

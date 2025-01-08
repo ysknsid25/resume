@@ -1,6 +1,11 @@
-export const TotalHatenaBookmarkCount = 5093;
+export const TotalHatenaBookmarkCount = 5653;
 
 export const AllHatenaBookmarkData = [
+  {
+    "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
+    "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
+    "count": 557
+  },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
     "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
@@ -54,7 +59,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "count": 155
+    "count": 156
   },
   {
     "title": "『Tidy First？』を読んだ",
@@ -169,7 +174,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "JavaScript/TypeScript Tech Feed (2025/1/3号)",
     "url": "https://qiita.com/ysknsid25/items/2a75b08cedc83be929a6",
-    "count": 21
+    "count": 22
   },
   {
     "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
@@ -257,6 +262,11 @@ export const AllHatenaBookmarkData = [
     "count": 5
   },
   {
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "count": 5
+  },
+  {
     "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
     "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
     "count": 4
@@ -264,11 +274,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
     "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
-    "count": 4
-  },
-  {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 4
   },
   {

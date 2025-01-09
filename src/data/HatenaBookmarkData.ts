@@ -32,17 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 2226,
+    "sum": 2234,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1412
+        "count": 1419
       },
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 241
+        "count": 242
       },
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -64,6 +64,11 @@ export const HatenaBookmarkData = [
 ];
 
 export const ZeroBookmarkArticles = [
+  {
+    "title": "独自ドメインではてなブログを開設することにした",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
   {
     "title": "じぶん Release Note (ver 3.1.1)",
     "url": "https://note.com/samurai_se/n/n16d8aed2e265",

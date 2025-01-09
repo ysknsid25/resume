@@ -229,7 +229,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 38,
-      "qiita": 392,
+      "qiita": 393,
       "note": 21
     },
     {
@@ -278,7 +278,7 @@ export const TechArticleData = {
       "yearMonth": "2025/01",
       "zenn": 21,
       "qiita": 26,
-      "note": 118
+      "note": 119
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2733
+      "favorites": 2734
     },
     {
       "year": "2025",
-      "favorites": 165
+      "favorites": 166
     }
   ]
 };
@@ -369,8 +369,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 99",
-      "likeCount": 99
+      "content": "❤️ 100",
+      "likeCount": 100
     },
     {
       "treeType": "🖋",
@@ -1036,8 +1036,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 392",
-      "likeCount": 392
+      "content": "❤️ 393",
+      "likeCount": 393
     },
     {
       "treeType": "🖋",
@@ -3151,7 +3151,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/09",
-    "contributionCount": 5
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [
@@ -3226,8 +3226,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 99",
-    "likeCount": 99
+    "content": "❤️ 100",
+    "likeCount": 100
   },
   {
     "treeType": "🖋",

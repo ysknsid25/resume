@@ -210,7 +210,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/02",
-      "zenn": 156,
+      "zenn": 157,
       "qiita": 0,
       "note": 89
     },
@@ -229,7 +229,7 @@ export const TechArticleData = {
     {
       "yearMonth": "2024/05",
       "zenn": 38,
-      "qiita": 391,
+      "qiita": 392,
       "note": 21
     },
     {
@@ -272,13 +272,13 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 61,
       "qiita": 12,
-      "note": 113
+      "note": 115
     },
     {
       "yearMonth": "2025/01",
       "zenn": 21,
       "qiita": 26,
-      "note": 117
+      "note": 118
     }
   ],
   "yearFavoritesCounts": [
@@ -288,11 +288,11 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2729
+      "favorites": 2733
     },
     {
       "year": "2025",
-      "favorites": 164
+      "favorites": 165
     }
   ]
 };
@@ -369,8 +369,8 @@ export const TechArticleList = [
       "year": "2025/01/01",
       "title": "『Tidy First？』を読んだ",
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-      "content": "❤️ 98",
-      "likeCount": 98
+      "content": "❤️ 99",
+      "likeCount": 99
     },
     {
       "treeType": "🖋",
@@ -445,8 +445,8 @@ export const TechArticleList = [
       "year": "2024/12/28",
       "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
       "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-      "content": "❤️ 14",
-      "likeCount": 14
+      "content": "❤️ 15",
+      "likeCount": 15
     },
     {
       "treeType": "🖋",
@@ -501,8 +501,8 @@ export const TechArticleList = [
       "year": "2024/12/21",
       "title": "買ってよかったもの(2024年版)",
       "url": "https://note.com/samurai_se/n/n51f84af1d382",
-      "content": "❤️ 36",
-      "likeCount": 36
+      "content": "❤️ 37",
+      "likeCount": 37
     },
     {
       "treeType": "🖋",
@@ -1036,8 +1036,8 @@ export const TechArticleList = [
       "year": "2024/05/01",
       "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-      "content": "❤️ 391",
-      "likeCount": 391
+      "content": "❤️ 392",
+      "likeCount": 392
     },
     {
       "treeType": "🖋",
@@ -1186,8 +1186,8 @@ export const TechArticleList = [
       "year": "2024/02/24",
       "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
       "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-      "content": "❤️ 140",
-      "likeCount": 140
+      "content": "❤️ 141",
+      "likeCount": 141
     }
   ],
   [
@@ -2782,10 +2782,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/10/08",
-    "contributionCount": 1
-  },
-  {
     "date": "2024/10/09",
     "contributionCount": 5
   },
@@ -3152,6 +3148,10 @@ export const GitHubContributions = [
   {
     "date": "2025/01/08",
     "contributionCount": 9
+  },
+  {
+    "date": "2025/01/09",
+    "contributionCount": 5
   }
 ];
 export const PopularArticles = [
@@ -3226,8 +3226,8 @@ export const noteArticles = [
     "year": "2025/01/01",
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "content": "❤️ 98",
-    "likeCount": 98
+    "content": "❤️ 99",
+    "likeCount": 99
   },
   {
     "treeType": "🖋",
@@ -3271,8 +3271,8 @@ export const noteArticles = [
     "year": "2024/12/28",
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "content": "❤️ 14",
-    "likeCount": 14
+    "content": "❤️ 15",
+    "likeCount": 15
   },
   {
     "treeType": "🖋",
@@ -3307,8 +3307,8 @@ export const noteArticles = [
     "year": "2024/12/21",
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "content": "❤️ 36",
-    "likeCount": 36
+    "content": "❤️ 37",
+    "likeCount": 37
   },
   {
     "treeType": "🖋",

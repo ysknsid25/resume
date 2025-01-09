@@ -2,11 +2,13 @@ import fetch from "node-fetch";
 import dotenv from "dotenv";
 import fs from "fs";
 import xml2js from "xml2js";
+import { Inorinrinrin } from "./src/data/Inorinrinrin.js";
 
 const BEGIN_YEAR = 2023;
 const END_YEAR = new Date().getFullYear();
 const BEGIN_MONTH = 4;
 const FILE_PATH = "./src/data/TechArticleData.ts";
+const FILE_PATH_INORINRIN = "./src/data/Inorinrinrin.js";
 
 //TODO: 取得するのは2年分
 const main = async () => {
@@ -35,6 +37,10 @@ const main = async () => {
         const noteData = getNoteData(noteArticleList);
         console.log(noteArticleList.length);
 
+        console.log("#### Fetch Hatena Blog Info####");
+        const hatenaBlogs = await getHatenaBlog(Inorinrinrin);
+        const hatenaData = getHatenaData(hatenaBlogs);
+
         console.log("#### Fetch SpeakerDeck Info####");
         const decks = await getSpeakerDecks();
         console.log(decks.length);
@@ -57,6 +63,7 @@ const main = async () => {
             ...zennArticleList,
             ...qiitaArticleList,
             ...noteArticleList,
+            ...hatenaBlogs,
         ].sort(comparePublishDate);
         console.log(`Length is ${maegedAndSortedArticleList.length}`);
         const pagingArticles = getPagingArticles(maegedAndSortedArticleList);
@@ -115,12 +122,14 @@ const main = async () => {
                     zenn: zennData[key] ? zennData[key].articlesCount : 0,
                     qiita: qiitaData[key] ? qiitaData[key].articlesCount : 0,
                     note: noteData[key] ? noteData[key].articlesCount : 0,
+                    hatena: hatenaData[key] ? hatenaData[key].articlesCount : 0,
                 };
                 chartData.articlesCounts.push(articlesCount);
                 yearArticleCount.articles +=
                     articlesCount.zenn +
                     articlesCount.qiita +
-                    articlesCount.note;
+                    articlesCount.note +
+                    articlesCount.hatena;
 
                 const favoritesCount = {
                     yearMonth: key,
@@ -163,6 +172,21 @@ const main = async () => {
         });
 
         console.log("#### End make article data ####");
+
+        console.log("#### Print Inorinrinrin Data JS file ####");
+        const inorinrinrinJson = JSON.stringify(hatenaBlogs, null, 2);
+        const inorinrinrinContent = `export const Inorinrinrin = ${inorinrinrinJson};`;
+        fs.writeFile(
+            FILE_PATH_INORINRIN,
+            inorinrinrinContent,
+            "utf8",
+            (err) => {
+                if (err) {
+                    throw err;
+                }
+                console.log("#### Print Succeeded!! ####");
+            }
+        );
     } catch (e) {
         console.error("#### Error occured!!! ####");
         console.error("Error", e);
@@ -273,6 +297,47 @@ const getSpeakerDecks = async () => {
     return returnData;
 };
 
+const getHatenaBlog = async (hatenaBlogs) => {
+    const url = "https://blog.inorinrinrin.com/rss";
+    // HTTPリクエストでRSSデータを取得
+    const response = await fetch(url);
+    const xmlData = await response.text();
+    const parser = new xml2js.Parser();
+    let returnData = [];
+    parser.parseString(xmlData, (err, result) => {
+        if (err) {
+            console.error("XMLの解析に失敗しました:", err);
+            return;
+        }
+        // console.log(result.rss.channel[0].item);
+        const filteredData = result.rss.channel[0].item
+            .filter(
+                (data) =>
+                    !hatenaBlogs.includes((blog) => blog.url === data.link[0])
+            )
+            .map((data) => {
+                const { year, month, day } = getDate(data.pubDate);
+                const formattedFullDate = getFormattedFullDate(
+                    year,
+                    month,
+                    day
+                );
+                return {
+                    treeType: "🖋",
+                    img: "hatena",
+                    year: formattedFullDate,
+                    title: data.title[0],
+                    url: data.link[0],
+                    content: "",
+                    likeCount: 0,
+                };
+            });
+        // console.log(filteredData);
+        returnData = filteredData;
+    });
+    return [...returnData, ...hatenaBlogs];
+};
+
 const getGitHubControbutions = async () => {
     // 現在の日付を取得
     const currentDate = new Date();
@@ -347,6 +412,23 @@ const getNoteData = (articles) => {
         }
     });
     return noteData;
+};
+
+const getHatenaData = (articles) => {
+    const hatenaData = {};
+    articles.map((article) => {
+        const key = getKey(article.year);
+        if (hatenaData[key]) {
+            hatenaData[key].articlesCount += 1;
+            hatenaData[key].likeCount = 0;
+        } else {
+            hatenaData[key] = {
+                articlesCount: 1,
+                likeCount: 0,
+            };
+        }
+    });
+    return hatenaData;
 };
 
 const getZennArticleList = (articles) => {

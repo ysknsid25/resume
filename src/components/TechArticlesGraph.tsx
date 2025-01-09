@@ -58,6 +58,7 @@ export const TechArticlesGraph = () => {
                         <YAxis />
                         <Tooltip />
                         <Legend />
+                        <Bar dataKey="hatena" stackId="a" fill="#01A5DF" />
                         <Bar dataKey="note" stackId="a" fill="#228D74" />
                         <Bar dataKey="zenn" stackId="a" fill="#3EA8FF" />
                         <Bar dataKey="qiita" stackId="a" fill="#55C500" />

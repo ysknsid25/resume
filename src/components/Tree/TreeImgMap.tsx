@@ -29,6 +29,7 @@ import techbookfest from "../../assets/sns/techbookfest.webp";
 import hitocolor from "../../assets/community/hitocolor.png";
 import qiita from "../../assets/sns/qiita.png";
 import note from "../../assets/sns/note.png";
+import hatena from "../../assets/sns/hatena.png";
 
 const treeImgMap = new Map<string, string>();
 treeImgMap.set("atu", atu);
@@ -62,5 +63,6 @@ treeImgMap.set("fm", fm);
 treeImgMap.set("techbookfest", techbookfest);
 treeImgMap.set("hitocolor", hitocolor);
 treeImgMap.set("note", note);
+treeImgMap.set("hatena", hatena);
 
 export default treeImgMap;

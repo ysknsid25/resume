@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 2294,
+    "sum": 2318,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1438
+        "count": 1439
       },
       {
         "title": "買ってよかったもの(2024年版)",
@@ -47,7 +47,7 @@ export const HatenaBookmarkData = [
       {
         "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
         "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-        "count": 169
+        "count": 170
       },
       {
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",

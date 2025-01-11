@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 5653;
+export const TotalHatenaBookmarkCount = 6575;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 557
+    "count": 1438
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -132,6 +132,11 @@ export const AllHatenaBookmarkData = [
     "count": 40
   },
   {
+    "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+    "count": 38
+  },
+  {
     "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
     "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
     "count": 38
@@ -257,13 +262,13 @@ export const AllHatenaBookmarkData = [
     "count": 6
   },
   {
-    "title": "Google Bard で試してみたこと 8 選",
-    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 5
   },
   {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "title": "Google Bard で試してみたこと 8 選",
+    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
     "count": 5
   },
   {
@@ -282,14 +287,19 @@ export const AllHatenaBookmarkData = [
     "count": 3
   },
   {
+    "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
+    "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
+    "count": 3
+  },
+  {
     "title": "Laravel considered harmful 〜SOLID原則にそぐわないLaravelのイマイチな習慣〜",
     "url": "https://zenn.dev/yskn_sid25/articles/cc06884a9bce36",
     "count": 3
   },
   {
-    "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
-    "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
-    "count": 3
+    "title": "JavaScript/TypeScript Tech Feed (2025/1/10号)",
+    "url": "https://qiita.com/ysknsid25/items/b0a42e1408a7a411ca60",
+    "count": 2
   },
   {
     "title": "Hono DocsのGetting StartにApp Engineがないの なぁぜなぁぜ？",
@@ -307,11 +317,6 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
-    "count": 2
-  },
-  {
     "title": "React×TypeScriptではじめるVitest",
     "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
@@ -322,18 +327,23 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
+    "count": 2
+  },
+  {
     "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
     "url": "https://note.com/samurai_se/n/n4c80894a6278",
     "count": 1
   },
   {
-    "title": "PHP勉強会in広島へ行ってきた",
-    "url": "https://note.com/samurai_se/n/n8e68ac6140e9",
+    "title": "JavaScript/TypeScript Tech Feed (2024/12/27号)",
+    "url": "https://qiita.com/ysknsid25/items/ae27ed6109f3f731e8fd",
     "count": 1
   },
   {
-    "title": "JavaScript/TypeScript Tech Feed (2024/12/27号)",
-    "url": "https://qiita.com/ysknsid25/items/ae27ed6109f3f731e8fd",
+    "title": "PHP勉強会in広島へ行ってきた",
+    "url": "https://note.com/samurai_se/n/n8e68ac6140e9",
     "count": 1
   },
   {
@@ -367,8 +377,8 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Kotlin製ORマッパーexposedはどのように動いているのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/5386f097cc4b43",
+    "title": "酒が好きなら神戸に住め",
+    "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
   },
   {
@@ -382,13 +392,23 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "title": "VitestでMock, Testing Typesを使ってみよう！",
+    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
     "count": 1
   },
   {
-    "title": "VitestでMock, Testing Typesを使ってみよう！",
-    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "title": "Kotlin製ORマッパーexposedはどのように動いているのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/5386f097cc4b43",
+    "count": 1
+  },
+  {
+    "title": "『SOFT SKILLS』から得た学び",
+    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
+    "count": 1
+  },
+  {
+    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
     "count": 1
   },
   {
@@ -404,11 +424,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "goofiで見る👀色んな言語の知っておきたいOSSプロジェクト",
     "url": "https://zenn.dev/yskn_sid25/articles/a41961614c4b25",
-    "count": 1
-  },
-  {
-    "title": "『SOFT SKILLS』から得た学び",
-    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {

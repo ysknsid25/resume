@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 2257,
+    "sum": 2294,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1436
+        "count": 1438
       },
       {
         "title": "買ってよかったもの(2024年版)",
@@ -67,6 +67,16 @@ export const ZeroBookmarkArticles = [
   {
     "title": "独自ドメインではてなブログを開設することにした",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+    "count": 0
+  },
+  {
+    "title": "じぶん Release Note (ver 3.1.2)",
+    "url": "https://note.com/samurai_se/n/n0002c5828b09",
     "count": 0
   },
   {

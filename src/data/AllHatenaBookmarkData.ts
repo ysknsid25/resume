@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 6575;
+export const TotalHatenaBookmarkCount = 6663;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1438
+    "count": 1445
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -54,7 +54,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "count": 169
+    "count": 170
   },
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -80,6 +80,11 @@ export const AllHatenaBookmarkData = [
     "title": "LaravelはどのようにCSRF対策をしているのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
     "count": 129
+  },
+  {
+    "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+    "count": 118
   },
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
@@ -132,11 +137,6 @@ export const AllHatenaBookmarkData = [
     "count": 40
   },
   {
-    "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-    "count": 38
-  },
-  {
     "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
     "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
     "count": 38
@@ -187,13 +187,13 @@ export const AllHatenaBookmarkData = [
     "count": 21
   },
   {
-    "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
-    "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
+    "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
+    "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
     "count": 20
   },
   {
-    "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
-    "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
+    "title": "T extends (...args: infer R) => unknown ? R : never ← ナニコレ",
+    "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
     "count": 20
   },
   {
@@ -272,13 +272,13 @@ export const AllHatenaBookmarkData = [
     "count": 5
   },
   {
-    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
-    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
+    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
+    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
     "count": 4
   },
   {
-    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
-    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
+    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
+    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
     "count": 4
   },
   {
@@ -332,13 +332,13 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
-    "url": "https://note.com/samurai_se/n/n4c80894a6278",
+    "title": "JavaScript/TypeScript Tech Feed (2024/12/27号)",
+    "url": "https://qiita.com/ysknsid25/items/ae27ed6109f3f731e8fd",
     "count": 1
   },
   {
-    "title": "JavaScript/TypeScript Tech Feed (2024/12/27号)",
-    "url": "https://qiita.com/ysknsid25/items/ae27ed6109f3f731e8fd",
+    "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
+    "url": "https://note.com/samurai_se/n/n4c80894a6278",
     "count": 1
   },
   {

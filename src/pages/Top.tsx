@@ -15,8 +15,6 @@ import { Events } from "../components/Events";
 import { Frame } from "../components/Frame";
 import { TechArticlesGraph } from "../components/TechArticlesGraph";
 import { GitHubContributionsGraph } from "../components/GitHubContributionsGraph";
-import { PopularArticle } from "../components/PopularArticles";
-import { LikeAndDislike } from "../components/LikeAndDislike";
 import { PopularAllArticle } from "../components/PopularAllArticles";
 import { HatenaBookmarks } from "../components/HatenaBookmarks";
 

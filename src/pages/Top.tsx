@@ -60,13 +60,7 @@ const DynamicContents = ({
                         <Social></Social>
                     </Frame>
                     <Frame>
-                        <Communities></Communities>
-                    </Frame>
-                    <Frame>
                         <GitHubContributionsGraph></GitHubContributionsGraph>
-                    </Frame>
-                    <Frame>
-                        <PopularArticle></PopularArticle>
                     </Frame>
                     <Frame>
                         <PopularAllArticle></PopularAllArticle>
@@ -75,7 +69,7 @@ const DynamicContents = ({
                         <TechArticlesGraph></TechArticlesGraph>
                     </Frame>
                     <Frame>
-                        <LikeAndDislike></LikeAndDislike>
+                        <Communities></Communities>
                     </Frame>
                 </>
             )}

@@ -35,7 +35,7 @@ export const Social = () => {
         <div className="grid grid-cols-1 items-center justify-center gap-4">
             <div className="flex justify-center items-center gap-4 mb-4">
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">
-                    SNS
+                    Socials
                 </h1>
             </div>
             <div className="grid grid-cols-4 md:grid-cols-6 gap-4 items-center justify-center mb-8">

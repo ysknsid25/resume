@@ -152,7 +152,7 @@ export const TechArticleData = {
       "zenn": 2,
       "qiita": 2,
       "note": 7,
-      "hatena": 26
+      "hatena": 31
     }
   ],
   "yearArticleCounts": [
@@ -166,7 +166,7 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "articles": 37
+      "articles": 42
     }
   ],
   "favoritesCounts": [
@@ -178,7 +178,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1210,
+      "zenn": 1211,
       "qiita": 0,
       "note": 16
     },
@@ -292,7 +292,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 61,
+      "zenn": 62,
       "qiita": 12,
       "note": 116
     },
@@ -306,11 +306,11 @@ export const TechArticleData = {
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2542
+      "favorites": 2543
     },
     {
       "year": "2024",
-      "favorites": 2738
+      "favorites": 2739
     },
     {
       "year": "2025",
@@ -320,6 +320,15 @@ export const TechArticleData = {
 };
 export const TechArticleList = [
   [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/13",
+      "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
+      "content": "",
+      "likeCount": 0
+    },
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -355,24 +364,15 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "2025年の冬アニメ、何見てる？",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
-      "content": "",
-      "likeCount": 0
     }
   ],
   [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/11",
-      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "year": "2025/01/12",
+      "title": "『世界で一番やさしい考え方の教科書』を読んだ",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
     },
@@ -423,6 +423,44 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -449,6 +487,15 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/b0a42e1408a7a411ca60",
       "content": "❤️ 6",
       "likeCount": 6
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
     },
     {
       "treeType": "🖋",
@@ -758,8 +805,8 @@ export const TechArticleList = [
       "year": "2024/12/22",
       "title": "Hono DocsのGetting StartにApp Engineがないの なぁぜなぁぜ？",
       "url": "https://zenn.dev/yskn_sid25/articles/1d6678105fa1ad",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     },
     {
       "treeType": "🖋",
@@ -2403,8 +2450,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-      "content": "❤️ 362",
-      "likeCount": 362
+      "content": "❤️ 363",
+      "likeCount": 363
     },
     {
       "treeType": "🖋",
@@ -3425,7 +3472,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/10",
-    "contributionCount": 10
+    "contributionCount": 9
   },
   {
     "date": "2025/01/11",
@@ -3437,7 +3484,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/01/13",
-    "contributionCount": 4
+    "contributionCount": 7
   }
 ];
 export const PopularArticles = [

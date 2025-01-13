@@ -32,12 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 2511,
+    "sum": 2726,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1449
+        "count": 1455
+      },
+      {
+        "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
+        "count": 292
       },
       {
         "title": "買ってよかったもの(2024年版)",
@@ -53,11 +58,6 @@ export const HatenaBookmarkData = [
         "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
         "url": "https://note.com/samurai_se/n/n0654862f885b",
         "count": 156
-      },
-      {
-        "title": "『Tidy First？』を読んだ",
-        "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-        "count": 151
       }
     ]
   }

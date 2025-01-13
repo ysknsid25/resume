@@ -152,7 +152,7 @@ export const TechArticleData = {
       "zenn": 2,
       "qiita": 2,
       "note": 7,
-      "hatena": 21
+      "hatena": 26
     }
   ],
   "yearArticleCounts": [
@@ -166,19 +166,19 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "articles": 32
+      "articles": 37
     }
   ],
   "favoritesCounts": [
     {
       "yearMonth": "2023/04",
-      "zenn": 360,
+      "zenn": 361,
       "qiita": 0,
       "note": 30
     },
     {
       "yearMonth": "2023/05",
-      "zenn": 1209,
+      "zenn": 1210,
       "qiita": 0,
       "note": 16
     },
@@ -274,7 +274,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/09",
-      "zenn": 80,
+      "zenn": 81,
       "qiita": 0,
       "note": 6
     },
@@ -294,32 +294,41 @@ export const TechArticleData = {
       "yearMonth": "2024/12",
       "zenn": 61,
       "qiita": 12,
-      "note": 115
+      "note": 116
     },
     {
       "yearMonth": "2025/01",
       "zenn": 21,
       "qiita": 32,
-      "note": 122
+      "note": 123
     }
   ],
   "yearFavoritesCounts": [
     {
       "year": "2023",
-      "favorites": 2540
+      "favorites": 2542
     },
     {
       "year": "2024",
-      "favorites": 2736
+      "favorites": 2738
     },
     {
       "year": "2025",
-      "favorites": 175
+      "favorites": 176
     }
   ]
 };
 export const TechArticleList = [
   [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/13",
+      "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
+      "content": "",
+      "likeCount": 0
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -341,18 +350,9 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/11",
-      "title": "2025年の冬アニメ、何見てる？",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "year": "2025/01/12",
+      "title": "『世界で一番やさしい考え方の教科書』を読んだ",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
     },
@@ -376,6 +376,44 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -411,6 +449,15 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/b0a42e1408a7a411ca60",
       "content": "❤️ 6",
       "likeCount": 6
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
     }
   ],
   [
@@ -597,8 +644,8 @@ export const TechArticleList = [
       "year": "2025/01/03",
       "title": "出雲大社へ行ってきた",
       "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-      "content": "❤️ 7",
-      "likeCount": 7
+      "content": "❤️ 8",
+      "likeCount": 8
     }
   ],
   [
@@ -720,8 +767,8 @@ export const TechArticleList = [
       "year": "2024/12/22",
       "title": "もう少し自分の心に素直になってもいい。中指立ててけ！",
       "url": "https://note.com/samurai_se/n/nc1fe861092f3",
-      "content": "❤️ 2",
-      "likeCount": 2
+      "content": "❤️ 3",
+      "likeCount": 3
     },
     {
       "treeType": "🖋",
@@ -1002,8 +1049,8 @@ export const TechArticleList = [
       "year": "2024/09/18",
       "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
       "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
-      "content": "❤️ 12",
-      "likeCount": 12
+      "content": "❤️ 13",
+      "likeCount": 13
     },
     {
       "treeType": "🖋",
@@ -2356,8 +2403,8 @@ export const TechArticleList = [
       "year": "2023/05/07",
       "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-      "content": "❤️ 361",
-      "likeCount": 361
+      "content": "❤️ 362",
+      "likeCount": 362
     },
     {
       "treeType": "🖋",
@@ -2488,8 +2535,8 @@ export const TechArticleList = [
       "year": "2023/04/10",
       "title": "ソフトウェア開発者としての寿命を延ばすためのバイブル(20代時点版)",
       "url": "https://zenn.dev/yskn_sid25/articles/c8b1fe6657d9b9",
-      "content": "❤️ 76",
-      "likeCount": 76
+      "content": "❤️ 77",
+      "likeCount": 77
     },
     {
       "treeType": "🖋",
@@ -3021,10 +3068,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/10/12",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/10/13",
     "contributionCount": 2
   },
@@ -3391,6 +3434,10 @@ export const GitHubContributions = [
   {
     "date": "2025/01/12",
     "contributionCount": 7
+  },
+  {
+    "date": "2025/01/13",
+    "contributionCount": 4
   }
 ];
 export const PopularArticles = [
@@ -3465,8 +3512,8 @@ export const noteArticles = [
     "year": "2025/01/03",
     "title": "出雲大社へ行ってきた",
     "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-    "content": "❤️ 7",
-    "likeCount": 7
+    "content": "❤️ 8",
+    "likeCount": 8
   },
   {
     "treeType": "🖋",
@@ -3537,8 +3584,8 @@ export const noteArticles = [
     "year": "2024/12/22",
     "title": "もう少し自分の心に素直になってもいい。中指立ててけ！",
     "url": "https://note.com/samurai_se/n/nc1fe861092f3",
-    "content": "❤️ 2",
-    "likeCount": 2
+    "content": "❤️ 3",
+    "likeCount": 3
   },
   {
     "treeType": "🖋",

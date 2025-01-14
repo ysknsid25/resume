@@ -152,7 +152,7 @@ export const TechArticleData = {
       "zenn": 2,
       "qiita": 2,
       "note": 7,
-      "hatena": 31
+      "hatena": 36
     }
   ],
   "yearArticleCounts": [
@@ -166,7 +166,7 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "articles": 42
+      "articles": 47
     }
   ],
   "favoritesCounts": [
@@ -244,7 +244,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/04",
-      "zenn": 125,
+      "zenn": 126,
       "qiita": 229,
       "note": 20
     },
@@ -268,7 +268,7 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/08",
-      "zenn": 105,
+      "zenn": 106,
       "qiita": 0,
       "note": 22
     },
@@ -292,9 +292,9 @@ export const TechArticleData = {
     },
     {
       "yearMonth": "2024/12",
-      "zenn": 62,
+      "zenn": 63,
       "qiita": 12,
-      "note": 116
+      "note": 117
     },
     {
       "yearMonth": "2025/01",
@@ -310,7 +310,7 @@ export const TechArticleData = {
     },
     {
       "year": "2024",
-      "favorites": 2739
+      "favorites": 2743
     },
     {
       "year": "2025",
@@ -320,6 +320,15 @@ export const TechArticleData = {
 };
 export const TechArticleList = [
   [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/13",
+      "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
+      "content": "",
+      "likeCount": 0
+    },
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -355,15 +364,6 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/12",
-      "title": "『世界で一番やさしい考え方の教科書』を読んだ",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
-      "content": "",
-      "likeCount": 0
     }
   ],
   [
@@ -379,18 +379,18 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/11",
-      "title": "2025年の冬アニメ、何見てる？",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "year": "2025/01/12",
+      "title": "『世界で一番やさしい考え方の教科書』を読んだ",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
     },
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/11",
-      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "year": "2025/01/12",
+      "title": "『世界で一番やさしい考え方の教科書』を読んだ",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
     },
@@ -470,6 +470,44 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -487,6 +525,15 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/b0a42e1408a7a411ca60",
       "content": "❤️ 6",
       "likeCount": 6
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
     },
     {
       "treeType": "🖋",
@@ -738,8 +785,8 @@ export const TechArticleList = [
       "year": "2024/12/30",
       "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
       "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
-      "content": "❤️ 39",
-      "likeCount": 39
+      "content": "❤️ 40",
+      "likeCount": 40
     }
   ],
   [
@@ -861,8 +908,8 @@ export const TechArticleList = [
       "year": "2024/12/11",
       "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
       "url": "https://note.com/samurai_se/n/n257df7024437",
-      "content": "❤️ 15",
-      "likeCount": 15
+      "content": "❤️ 16",
+      "likeCount": 16
     },
     {
       "treeType": "🖋",
@@ -1125,8 +1172,8 @@ export const TechArticleList = [
       "year": "2024/08/24",
       "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
       "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
-      "content": "❤️ 98",
-      "likeCount": 98
+      "content": "❤️ 99",
+      "likeCount": 99
     },
     {
       "treeType": "🖋",
@@ -1443,8 +1490,8 @@ export const TechArticleList = [
       "year": "2024/04/03",
       "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
       "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-      "content": "❤️ 32",
-      "likeCount": 32
+      "content": "❤️ 33",
+      "likeCount": 33
     }
   ],
   [
@@ -3115,10 +3162,6 @@ export const TechArticleList = [
 ];
 export const GitHubContributions = [
   {
-    "date": "2024/10/13",
-    "contributionCount": 2
-  },
-  {
     "date": "2024/10/14",
     "contributionCount": 8
   },
@@ -3485,6 +3528,10 @@ export const GitHubContributions = [
   {
     "date": "2025/01/13",
     "contributionCount": 7
+  },
+  {
+    "date": "2025/01/14",
+    "contributionCount": 3
   }
 ];
 export const PopularArticles = [
@@ -3676,8 +3723,8 @@ export const noteArticles = [
     "year": "2024/12/11",
     "title": "なぜ僕たちは葬送のフリーレンに惹かれるのか？",
     "url": "https://note.com/samurai_se/n/n257df7024437",
-    "content": "❤️ 15",
-    "likeCount": 15
+    "content": "❤️ 16",
+    "likeCount": 16
   },
   {
     "treeType": "🖋",

@@ -32,17 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 2883,
+    "sum": 2946,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1474
+        "count": 1480
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-        "count": 319
+        "count": 322
       },
       {
         "title": "買ってよかったもの(2024年版)",
@@ -55,8 +55,8 @@ export const HatenaBookmarkData = [
         "count": 170
       },
       {
-        "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
-        "url": "https://note.com/samurai_se/n/n0654862f885b",
+        "title": "『世界で一番やさしい考え方の教科書』を読んだ",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
         "count": 156
       }
     ]
@@ -85,11 +85,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Hello 2025",
-    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
-    "count": 0
-  },
-  {
     "title": "2025年旅行したいところ",
     "url": "https://note.com/samurai_se/n/n5c63825c4a05",
     "count": 0
@@ -105,6 +100,16 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
+    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
+    "count": 0
+  },
+  {
+    "title": "Hello 2025",
+    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
+    "count": 0
+  },
+  {
     "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
     "url": "https://zenn.dev/bs_kansai/articles/3cef5013affcf9",
     "count": 0
@@ -112,11 +117,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
     "url": "https://zenn.dev/bs_kansai/articles/c10c49c5e3edd3",
-    "count": 0
-  },
-  {
-    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
-    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
     "count": 0
   }
 ];

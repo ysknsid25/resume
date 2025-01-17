@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 3041,
+    "sum": 3045,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1479
+        "count": 1481
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -57,7 +57,7 @@ export const HatenaBookmarkData = [
       {
         "title": "自分が会議を主催するときに守ってる4つのPについて書く",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-        "count": 164
+        "count": 166
       }
     ]
   }
@@ -77,6 +77,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.1.2)",
     "url": "https://note.com/samurai_se/n/n0002c5828b09",
+    "count": 0
+  },
+  {
+    "title": "独自ドメインではてなブログを開設することにした",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
     "count": 0
   },
   {

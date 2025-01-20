@@ -2,6 +2,11 @@
 export const HatenaBlogs = [
     {
         year: "2025",
+        title: "ちいさくはじめるADR",
+        url: "https://toranoana-lab.hatenablog.com/entry/2025/01/20/120000",
+    },
+    {
+        year: "2025",
         title: "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         url: "https://note.com/samurai_se/n/ncf83a3c6dc5a",
     },

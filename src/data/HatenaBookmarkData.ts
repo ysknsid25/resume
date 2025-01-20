@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 3051,
+    "sum": 3181,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -65,11 +65,6 @@ export const HatenaBookmarkData = [
 
 export const ZeroBookmarkArticles = [
   {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-    "count": 0
-  },
-  {
     "title": "2025年の冬アニメ、何見てる？",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
@@ -92,6 +87,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "独自ドメインではてなブログを開設することにした",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {

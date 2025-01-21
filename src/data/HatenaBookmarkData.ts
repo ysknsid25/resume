@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 3229,
+    "sum": 3238,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -50,14 +50,14 @@ export const HatenaBookmarkData = [
         "count": 242
       },
       {
-        "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
-        "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-        "count": 170
-      },
-      {
         "title": "自分が会議を主催するときに守ってる4つのPについて書く",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-        "count": 168
+        "count": 169
+      },
+      {
+        "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
+        "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
+        "count": 169
       }
     ]
   }
@@ -105,11 +105,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Hello 2025",
-    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
-    "count": 0
-  },
-  {
     "title": "2025年旅行したいところ",
     "url": "https://note.com/samurai_se/n/n5c63825c4a05",
     "count": 0
@@ -125,6 +120,16 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
+    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
+    "count": 0
+  },
+  {
+    "title": "Hello 2025",
+    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
+    "count": 0
+  },
+  {
     "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
     "url": "https://zenn.dev/bs_kansai/articles/3cef5013affcf9",
     "count": 0
@@ -132,11 +137,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
     "url": "https://zenn.dev/bs_kansai/articles/c10c49c5e3edd3",
-    "count": 0
-  },
-  {
-    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
-    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
     "count": 0
   }
 ];

@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 3238,
+    "sum": 3278,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1489
+        "count": 1490
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -80,6 +80,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "KtorをCloudRunで動かしてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.2)",
     "url": "https://note.com/samurai_se/n/n0002c5828b09",
     "count": 0
@@ -100,8 +105,18 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "独自ドメインではてなブログを開設することにした",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.1)",
     "url": "https://note.com/samurai_se/n/n16d8aed2e265",
+    "count": 0
+  },
+  {
+    "title": "Hello 2025",
+    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
     "count": 0
   },
   {
@@ -120,16 +135,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
-    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
-    "count": 0
-  },
-  {
-    "title": "Hello 2025",
-    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
-    "count": 0
-  },
-  {
     "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
     "url": "https://zenn.dev/bs_kansai/articles/3cef5013affcf9",
     "count": 0
@@ -137,6 +142,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
     "url": "https://zenn.dev/bs_kansai/articles/c10c49c5e3edd3",
+    "count": 0
+  },
+  {
+    "title": "Kotlinでenumの序数を定義するとき、脳死でordinalを使うのは危険",
+    "url": "https://zenn.dev/yskn_sid25/articles/c10c49c5e3edd3",
     "count": 0
   }
 ];

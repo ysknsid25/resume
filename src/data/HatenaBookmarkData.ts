@@ -32,12 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 3405,
+    "sum": 3711,
     "bookmarkRanking": [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1491
+        "count": 1490
+      },
+      {
+        "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
+        "count": 325
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -52,11 +57,6 @@ export const HatenaBookmarkData = [
       {
         "title": "自分が会議を主催するときに守ってる4つのPについて書く",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-        "count": 169
-      },
-      {
-        "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
-        "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
         "count": 169
       }
     ]
@@ -85,23 +85,18 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.2)",
-    "url": "https://note.com/samurai_se/n/n0002c5828b09",
-    "count": 0
-  },
-  {
     "title": "じぶん Release Note (ver 3.1.3)",
     "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
     "count": 0
   },
   {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {
-    "title": "2025年の冬アニメ、何見てる？",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+    "title": "じぶん Release Note (ver 3.1.2)",
+    "url": "https://note.com/samurai_se/n/n0002c5828b09",
     "count": 0
   },
   {

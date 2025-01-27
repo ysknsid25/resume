@@ -32,17 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 5103,
+    "sum": 5000,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1541
+        "count": 1574
       },
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1491
+        "count": 1490
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -90,6 +90,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "KotlinでBranded Typesを実装する方法を考える",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.4)",
     "url": "https://note.com/samurai_se/n/n065b0c92a77c",
     "count": 0
@@ -100,8 +105,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "2025年の冬アニメ、何見てる？",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
   },
   {

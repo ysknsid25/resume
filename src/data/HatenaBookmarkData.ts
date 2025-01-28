@@ -32,12 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 5000,
+    "sum": 5156,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1574
+        "count": 1604
       },
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -52,7 +52,7 @@ export const HatenaBookmarkData = [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 241
+        "count": 243
       },
       {
         "title": "自分が会議を主催するときに守ってる4つのPについて書く",
@@ -64,11 +64,6 @@ export const HatenaBookmarkData = [
 ];
 
 export const ZeroBookmarkArticles = [
-  {
-    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
-    "count": 0
-  },
   {
     "title": "OSSコントリビュート活動を再開して実感してること",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
@@ -95,13 +90,13 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.4)",
-    "url": "https://note.com/samurai_se/n/n065b0c92a77c",
+    "title": "Kotlinのプロパティ初期化処理を使い分ける",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.3)",
-    "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
+    "title": "じぶん Release Note (ver 3.1.4)",
+    "url": "https://note.com/samurai_se/n/n065b0c92a77c",
     "count": 0
   },
   {
@@ -110,13 +105,18 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "OSSコントリビュート活動を再開して実感してること",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.2)",
     "url": "https://note.com/samurai_se/n/n0002c5828b09",
     "count": 0
   },
   {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "title": "じぶん Release Note (ver 3.1.3)",
+    "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
     "count": 0
   },
   {
@@ -127,6 +127,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "独自ドメインではてなブログを開設することにした",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {

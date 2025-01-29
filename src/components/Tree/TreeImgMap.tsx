@@ -27,6 +27,7 @@ import nomos from "../../assets/community/nomos.png";
 import fm from "../../assets/community/fm.png";
 import techbookfest from "../../assets/sns/techbookfest.webp";
 import hitocolor from "../../assets/community/hitocolor.png";
+import yourmister from "../../assets/community/yourmister.png";
 import qiita from "../../assets/sns/qiita.png";
 import note from "../../assets/sns/note.png";
 import hatena from "../../assets/sns/hatena.png";
@@ -64,5 +65,6 @@ treeImgMap.set("techbookfest", techbookfest);
 treeImgMap.set("hitocolor", hitocolor);
 treeImgMap.set("note", note);
 treeImgMap.set("hatena", hatena);
+treeImgMap.set("yourmister", yourmister);
 
 export default treeImgMap;

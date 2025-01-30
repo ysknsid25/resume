@@ -32,17 +32,17 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 5178,
+    "sum": 5397,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1623
+        "count": 1647
       },
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1490
+        "count": 1488
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -52,7 +52,7 @@ export const HatenaBookmarkData = [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 243
+        "count": 245
       },
       {
         "title": "自分が会議を主催するときに守ってる4つのPについて書く",
@@ -100,6 +100,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Koinで始めるKtor DI",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.4)",
     "url": "https://note.com/samurai_se/n/n065b0c92a77c",
     "count": 0
@@ -125,8 +130,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "2025年の冬アニメ、何見てる？",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
   },
   {
@@ -135,11 +140,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-    "count": 0
-  },
-  {
     "title": "2025年の冬アニメ、何見てる？",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
@@ -147,6 +147,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "独自ドメインではてなブログを開設することにした",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {

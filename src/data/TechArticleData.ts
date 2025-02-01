@@ -152,14 +152,14 @@ export const TechArticleData = {
       "zenn": 0,
       "qiita": 0,
       "note": 9,
-      "hatena": 289
+      "hatena": 310
     },
     {
       "yearMonth": "2025/02",
       "zenn": 0,
       "qiita": 0,
       "note": 0,
-      "hatena": 3
+      "hatena": 6
     }
   ],
   "yearArticleCounts": [
@@ -173,7 +173,7 @@ export const TechArticleData = {
     },
     {
       "year": "2025",
-      "articles": 301
+      "articles": 325
     }
   ],
   "favoritesCounts": [
@@ -337,6 +337,15 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/02/01",
+      "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
+      "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/02/01",
       "title": "じぶん Release Note (ver 3.1.5)",
       "url": "https://blog.inorinrinrin.com/entry/2025/02/01/162906",
       "content": "",
@@ -355,6 +364,26 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/02/01",
+      "title": "じぶん Release Note (ver 3.1.5)",
+      "url": "https://blog.inorinrinrin.com/entry/2025/02/01/162906",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/02/01",
+      "title": ".lesshst とかいう普段意識しないファイルについて",
+      "url": "https://blog.inorinrinrin.com/entry/2025/02/01/000652",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/02/01",
       "title": ".lesshst とかいう普段意識しないファイルについて",
       "url": "https://blog.inorinrinrin.com/entry/2025/02/01/000652",
       "content": "",
@@ -377,9 +406,7 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
       "content": "",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -392,36 +419,9 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/30",
-      "title": "タスクを素早く片付けるための技術",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/30",
-      "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/30",
-      "title": "タスクを素早く片付けるための技術",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/30",
-      "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
+      "year": "2025/01/31",
+      "title": "Koinで始めるKtor DI",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
       "content": "",
       "likeCount": 0
     }
@@ -449,6 +449,62 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/01/30",
+      "title": "タスクを素早く片付けるための技術",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/30",
+      "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/30",
+      "title": "タスクを素早く片付けるための技術",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/30",
+      "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/30",
+      "title": "タスクを素早く片付けるための技術",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/30",
+      "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/30",
       "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
       "content": "",
@@ -462,15 +518,6 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
       "content": "",
       "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/29",
-      "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
-      "content": "",
-      "likeCount": 0
     }
   ],
   [
@@ -504,18 +551,18 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/28",
-      "title": "Kotlinのプロパティ初期化処理を使い分ける",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
+      "year": "2025/01/29",
+      "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
       "content": "",
       "likeCount": 0
     },
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/28",
-      "title": "Kotlinのプロパティ初期化処理を使い分ける",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
+      "year": "2025/01/29",
+      "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
       "content": "",
       "likeCount": 0
     }
@@ -560,9 +607,9 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/27",
-      "title": "KotlinでBranded Typesを実装する方法を考える",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "year": "2025/01/28",
+      "title": "Kotlinのプロパティ初期化処理を使い分ける",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
       "content": "",
       "likeCount": 0
     }
@@ -571,18 +618,18 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/27",
-      "title": "KotlinでBranded Typesを実装する方法を考える",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "year": "2025/01/28",
+      "title": "Kotlinのプロパティ初期化処理を使い分ける",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
       "content": "",
       "likeCount": 0
     },
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/27",
-      "title": "KotlinでBranded Typesを実装する方法を考える",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "year": "2025/01/28",
+      "title": "Kotlinのプロパティ初期化処理を使い分ける",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
       "content": "",
       "likeCount": 0
     },
@@ -624,6 +671,44 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/27",
+      "title": "KotlinでBranded Typesを実装する方法を考える",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/27",
+      "title": "KotlinでBranded Typesを実装する方法を考える",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/27",
+      "title": "KotlinでBranded Typesを実装する方法を考える",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/27",
+      "title": "KotlinでBranded Typesを実装する方法を考える",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -659,6 +744,15 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
       "content": "",
       "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/26",
+      "title": "Kotlin DataFrameを使ってCSVやJSONをいい感じに扱う",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
+      "content": "",
+      "likeCount": 0
     }
   ],
   [
@@ -795,56 +889,9 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/24",
-      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
-      "content": "",
-      "likeCount": 0
-    }
-  ],
-  [
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/24",
-      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/24",
-      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/24",
-      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/24",
-      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/24",
-      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+      "year": "2025/01/25",
+      "title": "定期的に何度も読み返している個人的名エントリを置いておく",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
       "content": "",
       "likeCount": 0
     }
@@ -962,6 +1009,82 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/24",
+      "title": "KtorをApp Engineで動かしてCloud Runと比べてみる",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -986,6 +1109,24 @@ export const TechArticleList = [
       "year": "2025/01/24",
       "title": "KtorをApp Engineで動かしてみる",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/23",
+      "title": "KtorをCloud Runで動かしてみる",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/23",
+      "title": "『ヘルシープログラマ』になるための作業環境",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
       "content": "",
       "likeCount": 0
     }
@@ -1332,9 +1473,9 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/20",
-      "title": "OSSコントリビュート活動を再開して実感してること",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+      "year": "2025/01/22",
+      "title": "ロジックの三角形と鳥瞰力を駆使して企画書を書く",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/22/082355",
       "content": "",
       "likeCount": 0
     },
@@ -1461,6 +1602,24 @@ export const TechArticleList = [
     }
   ],
   [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/20",
+      "title": "OSSコントリビュート活動を再開して実感してること",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/20",
+      "title": "OSSコントリビュート活動を再開して実感してること",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+      "content": "",
+      "likeCount": 0
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -1487,24 +1646,6 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
       "content": "",
       "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/18",
-      "title": "Kotlinで三項演算子とif・whenをどう使い分けるか",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/18",
-      "title": "Kotlinで三項演算子とif・whenをどう使い分けるか",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
-      "content": "",
-      "likeCount": 0
     }
   ],
   [
@@ -1620,6 +1761,35 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/18",
+      "title": "Kotlinで三項演算子とif・whenをどう使い分けるか",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/18",
+      "title": "Kotlinで三項演算子とif・whenをどう使い分けるか",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/18",
+      "title": "Kotlinで三項演算子とif・whenをどう使い分けるか",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -1646,35 +1816,6 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
       "content": "",
       "likeCount": 0
-    }
-  ],
-  [
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/15",
-      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/15",
-      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/15",
-      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-      "content": "",
-      "likeCount": 0
     },
     {
       "treeType": "🖋",
@@ -1700,7 +1841,7 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/01/15",
-      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
       "content": "",
       "likeCount": 0
@@ -1709,7 +1850,7 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/01/15",
-      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
       "content": "",
       "likeCount": 0
@@ -1718,7 +1859,7 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/01/15",
-      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
       "content": "",
       "likeCount": 0
@@ -1727,7 +1868,7 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/01/15",
-      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "title": "「終わってみたらなんにも決まってなかった」という会議を無くすための4つのP",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
       "content": "",
       "likeCount": 0
@@ -1799,6 +1940,44 @@ export const TechArticleList = [
       "content": "",
       "likeCount": 0
     },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/15",
+      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/15",
+      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/15",
+      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/15",
+      "title": "「終わってみたら何にも決まってなかった」という会議を無くすための4つのP",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "hatena",
@@ -1814,6 +1993,15 @@ export const TechArticleList = [
       "year": "2025/01/15",
       "title": "自分が会議を主催するときに守ってる4つのPについて書く",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/13",
+      "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
       "content": "",
       "likeCount": 0
     },
@@ -2272,56 +2460,9 @@ export const TechArticleList = [
     {
       "treeType": "🖋",
       "img": "hatena",
-      "year": "2025/01/11",
-      "title": "2025年の冬アニメ、何見てる？",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "2025年の冬アニメ、何見てる？",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-      "content": "",
-      "likeCount": 0
-    }
-  ],
-  [
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "2025年の冬アニメ、何見てる？",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/11",
-      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "year": "2025/01/12",
+      "title": "『世界で一番やさしい考え方の教科書』を読んだ",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
       "content": "",
       "likeCount": 0
     },
@@ -2761,6 +2902,82 @@ export const TechArticleList = [
       "treeType": "🖋",
       "img": "hatena",
       "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "2025年の冬アニメ、何見てる？",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
+      "content": "",
+      "likeCount": 0
+    }
+  ],
+  [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
+      "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/11",
       "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
       "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
       "content": "",
@@ -2774,35 +2991,6 @@ export const TechArticleList = [
       "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
       "content": "",
       "likeCount": 0
-    }
-  ],
-  [
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/09",
-      "title": "独自ドメインではてなブログを開設することにした",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/09",
-      "title": "独自ドメインではてなブログを開設することにした",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-      "content": "",
-      "likeCount": 0
-    },
-    {
-      "treeType": "🖋",
-      "img": "hatena",
-      "year": "2025/01/09",
-      "title": "独自ドメインではてなブログを開設することにした",
-      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-      "content": "",
-      "likeCount": 0
     },
     {
       "treeType": "🖋",
@@ -3106,6 +3294,42 @@ export const TechArticleList = [
     }
   ],
   [
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
+    },
+    {
+      "treeType": "🖋",
+      "img": "hatena",
+      "year": "2025/01/09",
+      "title": "独自ドメインではてなブログを開設することにした",
+      "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+      "content": "",
+      "likeCount": 0
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3114,7 +3338,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n6f350c4a7891",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3150,9 +3376,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/necec6ddf20a3",
       "content": "❤️ 108",
       "likeCount": 108
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3161,7 +3385,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n2669629a7a3a",
       "content": "❤️ 5",
       "likeCount": 5
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3197,9 +3423,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
       "content": "❤️ 15",
       "likeCount": 15
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3208,7 +3432,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n9f789032f1e5",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3244,9 +3470,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n51f84af1d382",
       "content": "❤️ 38",
       "likeCount": 38
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3255,7 +3479,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfba3d63842ac",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3291,9 +3517,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n50d09824f88f",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3302,7 +3526,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n2d7021ee7c95",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3338,9 +3564,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
       "content": "❤️ 55",
       "likeCount": 55
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3349,7 +3573,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/bf993f9350cd57",
       "content": "❤️ 48",
       "likeCount": 48
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3385,9 +3611,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n4c80894a6278",
       "content": "❤️ 8",
       "likeCount": 8
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3396,7 +3620,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
       "content": "❤️ 28",
       "likeCount": 28
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3432,9 +3658,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n8e68ac6140e9",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3443,7 +3667,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
       "content": "❤️ 56",
       "likeCount": 56
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3479,9 +3705,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n56baece0d1a0",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3490,7 +3714,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n9d2dafa248f5",
       "content": "❤️ 5",
       "likeCount": 5
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3526,9 +3752,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc5679222ac7e",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3537,7 +3761,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
       "content": "❤️ 99",
       "likeCount": 99
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3573,9 +3799,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n46dd0f025a55",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3584,7 +3808,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n14850ca3a06a",
       "content": "❤️ 10",
       "likeCount": 10
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3620,9 +3846,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc050b8c5dfd5",
       "content": "❤️ 12",
       "likeCount": 12
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3631,7 +3855,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
       "content": "❤️ 34",
       "likeCount": 34
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3667,9 +3893,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
       "content": "❤️ 152",
       "likeCount": 152
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3678,7 +3902,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/24949538d493e3",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3714,9 +3940,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3725,7 +3949,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na78a3adaa810",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3761,9 +3987,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na79aeed59f84",
       "content": "❤️ 11",
       "likeCount": 11
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "qiita",
@@ -3772,7 +3996,9 @@ export const TechArticleList = [
       "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
       "content": "❤️ 397",
       "likeCount": 397
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3808,9 +4034,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc0b406a83363",
       "content": "❤️ 12",
       "likeCount": 12
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3819,7 +4043,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/hitocolor/articles/6772d749f7d70c",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3855,9 +4081,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc0b16862dd3a",
       "content": "❤️ 6",
       "likeCount": 6
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3866,7 +4090,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nba69a3b84b99",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3902,9 +4128,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3913,7 +4137,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n812d4394ad54",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -3949,9 +4175,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/b1dc1c602b87c3",
       "content": "❤️ 11",
       "likeCount": 11
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -3960,7 +4184,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n6e7ddb042c87",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -3996,9 +4222,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n448d8781439e",
       "content": "❤️ 9",
       "likeCount": 9
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4007,7 +4231,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n242cd810459c",
       "content": "❤️ 10",
       "likeCount": 10
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4043,9 +4269,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n48e7eab89d27",
       "content": "❤️ 10",
       "likeCount": 10
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4054,7 +4278,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ne708a6baafd2",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4090,9 +4316,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
       "content": "❤️ 207",
       "likeCount": 207
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4101,7 +4325,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n10b63eaa6fba",
       "content": "❤️ 5",
       "likeCount": 5
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4137,9 +4363,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nb52c94be2ee2",
       "content": "❤️ 11",
       "likeCount": 11
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4148,7 +4372,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n92bdd4e9d16f",
       "content": "❤️ 2",
       "likeCount": 2
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4184,9 +4410,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc7e1f4aea7f6",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4195,7 +4419,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ncc3c927b8479",
       "content": "❤️ 7",
       "likeCount": 7
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4231,9 +4457,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ncfd512ad62c4",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4242,7 +4466,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/8fa18a5a94ec77",
       "content": "❤️ 17",
       "likeCount": 17
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4278,9 +4504,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na65b3a8f2d3e",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4289,7 +4513,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/bab7a9e3014ae2",
       "content": "❤️ 39",
       "likeCount": 39
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4325,9 +4551,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/92015d6ce05bf5",
       "content": "❤️ 10",
       "likeCount": 10
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4336,7 +4560,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/cbf1fa3c0ed3bf",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4372,9 +4598,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n1c4c60dd6da1",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4383,7 +4607,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n1d62ecddcce5",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4419,9 +4645,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n8581ab5f72b2",
       "content": "❤️ 8",
       "likeCount": 8
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4430,7 +4654,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
       "content": "❤️ 16",
       "likeCount": 16
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4466,9 +4692,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nda75d49a5515",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4477,7 +4701,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n7992a68e0ec8",
       "content": "❤️ 6",
       "likeCount": 6
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4513,9 +4739,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc25ead818745",
       "content": "❤️ 14",
       "likeCount": 14
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4524,7 +4748,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/2e57805dab6745",
       "content": "❤️ 35",
       "likeCount": 35
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4560,9 +4786,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n33e08a4e2c25",
       "content": "❤️ 3",
       "likeCount": 3
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4571,7 +4795,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfbe6bc95b428",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4607,9 +4833,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n794307b4cec8",
       "content": "❤️ 8",
       "likeCount": 8
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4618,7 +4842,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/f4c4fc8d6b14da",
       "content": "❤️ 15",
       "likeCount": 15
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4654,9 +4880,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n3443896b3364",
       "content": "❤️ 5",
       "likeCount": 5
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4665,7 +4889,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/neb875f1aef90",
       "content": "❤️ 4",
       "likeCount": 4
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4701,9 +4927,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n6c4c6340d4a1",
       "content": "❤️ 2",
       "likeCount": 2
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4712,7 +4936,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/415c7e7a81ac6a",
       "content": "❤️ 442",
       "likeCount": 442
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4748,9 +4974,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
       "content": "❤️ 365",
       "likeCount": 365
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4759,7 +4983,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n414d339ce2ac",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4795,9 +5021,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
       "content": "❤️ 44",
       "likeCount": 44
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4806,7 +5030,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
       "content": "❤️ 9",
       "likeCount": 9
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4842,9 +5068,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
       "content": "❤️ 148",
       "likeCount": 148
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4853,7 +5077,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
       "content": "❤️ 30",
       "likeCount": 30
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4889,9 +5115,7 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/b2ecc4b220d54a",
       "content": "❤️ 18",
       "likeCount": 18
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "zenn",
@@ -4900,7 +5124,9 @@ export const TechArticleList = [
       "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
       "content": "❤️ 13",
       "likeCount": 13
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4936,9 +5162,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n5b203d6aa419",
       "content": "❤️ 13",
       "likeCount": 13
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4947,7 +5171,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n62a9fe00aaf1",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -4983,9 +5209,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n446263e7e5e9",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -4994,7 +5218,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc8eb76b00d3f",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5030,9 +5256,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n450b1a19554a",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5041,7 +5265,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nd3dae09ab2a4",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5077,9 +5303,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nbf430bb5a658",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5088,7 +5312,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfe33e0c7f2b2",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5124,9 +5350,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n44822b103ed9",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5135,7 +5359,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nfa74ad68ec08",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5171,9 +5397,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n858f00330e9d",
       "content": "❤️ 4",
       "likeCount": 4
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5182,7 +5406,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n35a419fb0d50",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5218,9 +5444,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/na3e34c2f3d57",
       "content": "❤️ 0",
       "likeCount": 0
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5229,7 +5453,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nec35dd4915f7",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5265,9 +5491,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n6e9b06970a61",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5276,7 +5500,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ncb456c93216a",
       "content": "❤️ 1",
       "likeCount": 1
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5312,9 +5538,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/n88d28b202837",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5323,7 +5547,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nc6e93b522d2d",
       "content": "❤️ 0",
       "likeCount": 0
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5359,9 +5585,7 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/nbf7d1946b577",
       "content": "❤️ 1",
       "likeCount": 1
-    }
-  ],
-  [
+    },
     {
       "treeType": "🖋",
       "img": "note",
@@ -5370,7 +5594,9 @@ export const TechArticleList = [
       "url": "https://note.com/samurai_se/n/ne7e383ef1cba",
       "content": "❤️ 3",
       "likeCount": 3
-    },
+    }
+  ],
+  [
     {
       "treeType": "🖋",
       "img": "note",
@@ -5780,7 +6006,7 @@ export const GitHubContributions = [
   },
   {
     "date": "2025/02/01",
-    "contributionCount": 4
+    "contributionCount": 6
   }
 ];
 export const PopularArticles = [];

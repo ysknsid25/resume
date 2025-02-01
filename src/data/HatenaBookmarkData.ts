@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 5738,
+    "sum": 5880,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
@@ -57,18 +57,13 @@ export const HatenaBookmarkData = [
       {
         "title": "買ってよかったもの(2024年版)",
         "url": "https://note.com/samurai_se/n/n51f84af1d382",
-        "count": 246
+        "count": 248
       }
     ]
   }
 ];
 
 export const ZeroBookmarkArticles = [
-  {
-    "title": "Kotlin DataFrameを使ってCSVやJSONをいい感じに扱う",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
-    "count": 0
-  },
   {
     "title": "KotlinでBranded Typesを実装する方法を考える",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
@@ -115,8 +110,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
+    "title": "Kotlin DataFrameを使ってCSVやJSONをいい感じに扱う",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
     "count": 0
   },
   {
@@ -130,13 +125,18 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.3)",
-    "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
+    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
   },
   {
-    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
+    "title": "OSSコントリビュート活動を再開して実感してること",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+    "count": 0
+  },
+  {
+    "title": "じぶん Release Note (ver 3.1.3)",
+    "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
     "count": 0
   },
   {
@@ -150,11 +150,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-    "count": 0
-  },
-  {
     "title": "2025年の冬アニメ、何見てる？",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
@@ -162,6 +157,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "独自ドメインではてなブログを開設することにした",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {

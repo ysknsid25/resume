@@ -1,15 +1,15 @@
-export const TotalHatenaBookmarkCount = 9089;
+export const TotalHatenaBookmarkCount = 9465;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1528
+    "count": 1657
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1491
+    "count": 1488
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -49,7 +49,12 @@ export const AllHatenaBookmarkData = [
   {
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 241
+    "count": 248
+  },
+  {
+    "title": "タスクを素早く片付けるための技術",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
+    "count": 245
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
@@ -74,7 +79,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
-    "count": 160
+    "count": 161
   },
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -119,7 +124,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
     "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-    "count": 113
+    "count": 114
   },
   {
     "title": "[K, U] extends [U, K] ← ナニコレ",
@@ -139,7 +144,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ちいさくはじめるADR",
     "url": "https://toranoana-lab.hatenablog.com/entry/2025/01/20/120000",
-    "count": 59
+    "count": 58
   },
   {
     "title": "<T, K extends keyof T> をちゃんと理解する",
@@ -157,6 +162,11 @@ export const AllHatenaBookmarkData = [
     "count": 50
   },
   {
+    "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
+    "count": 45
+  },
+  {
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
     "url": "https://toranoana-lab.hatenablog.com/entry/2024/07/17/120000",
     "count": 45
@@ -165,11 +175,6 @@ export const AllHatenaBookmarkData = [
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
     "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
     "count": 40
-  },
-  {
-    "title": "文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜",
-    "url": "https://zenn.dev/yskn_sid25/articles/ff9514a99ea811",
-    "count": 39
   },
   {
     "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
@@ -184,7 +189,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
-    "count": 26
+    "count": 28
   },
   {
     "title": "統計データで2024年の クラウド・インフラ動向を眺める",
@@ -272,11 +277,6 @@ export const AllHatenaBookmarkData = [
     "count": 11
   },
   {
-    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書けるよ",
-    "url": "https://zenn.dev/yskn_sid25/articles/3cef5013affcf9",
-    "count": 10
-  },
-  {
     "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
     "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
     "count": 10
@@ -362,6 +362,11 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
+    "title": ".lesshst とかいう普段意識しないファイルについて",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/000652",
+    "count": 1
+  },
+  {
     "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
     "url": "https://note.com/samurai_se/n/n4c80894a6278",
     "count": 1
@@ -379,11 +384,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
     "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
-    "count": 1
-  },
-  {
-    "title": "Kotlin DataFrameを使えばCSVやJSONをいい感じに扱えそう",
-    "url": "https://zenn.dev/yskn_sid25/articles/5f690bf86cad25",
     "count": 1
   },
   {
@@ -417,13 +417,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Kotlin製ORマッパーExposedはどのように動いているのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/5386f097cc4b43",
+    "title": "なぜPHP標準関数のdateではなくCarbonを使うのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
     "count": 1
   },
   {
-    "title": "なぜPHP標準関数のdateではなくCarbonを使うのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
+    "title": "『SOFT SKILLS』から得た学び",
+    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {
@@ -449,11 +449,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "エンジニア5周年記念にオープンソースプロジェクトを自分で立ち上げた話",
     "url": "https://zenn.dev/yskn_sid25/articles/b2ecc4b220d54a",
-    "count": 1
-  },
-  {
-    "title": "『SOFT SKILLS』から得た学び",
-    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {

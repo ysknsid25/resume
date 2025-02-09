@@ -1,15 +1,15 @@
-export const TotalHatenaBookmarkCount = 9465;
+export const TotalHatenaBookmarkCount = 9990;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1657
+    "count": 1674
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1488
+    "count": 1484
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -47,14 +47,24 @@ export const AllHatenaBookmarkData = [
     "count": 263
   },
   {
-    "title": "買ってよかったもの(2024年版)",
-    "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 248
-  },
-  {
     "title": "タスクを素早く片付けるための技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
+    "count": 253
+  },
+  {
+    "title": "買ってよかったもの(2024年版)",
+    "url": "https://note.com/samurai_se/n/n51f84af1d382",
+    "count": 246
+  },
+  {
+    "title": "落ちてるボールを拾う技術",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/04/175502",
     "count": 245
+  },
+  {
+    "title": "落ちてるボールを拾わせる技術",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/080000",
+    "count": 226
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
@@ -74,7 +84,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "count": 169
+    "count": 170
   },
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",
@@ -99,7 +109,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
     "url": "https://zenn.dev/yskn_sid25/books/type-challenges",
-    "count": 142
+    "count": 141
   },
   {
     "title": "LaravelはどのようにCSRF対策をしているのか？",
@@ -114,7 +124,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ヘルシープログラマ』になるための作業環境",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
-    "count": 116
+    "count": 115
   },
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
@@ -144,7 +154,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ちいさくはじめるADR",
     "url": "https://toranoana-lab.hatenablog.com/entry/2025/01/20/120000",
-    "count": 58
+    "count": 59
   },
   {
     "title": "<T, K extends keyof T> をちゃんと理解する",
@@ -157,14 +167,14 @@ export const AllHatenaBookmarkData = [
     "count": 52
   },
   {
-    "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
-    "url": "https://logmi.jp/main/technology/330790",
+    "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
     "count": 50
   },
   {
-    "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
-    "count": 45
+    "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
+    "url": "https://logmi.jp/main/technology/330790",
+    "count": 50
   },
   {
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
@@ -180,6 +190,11 @@ export const AllHatenaBookmarkData = [
     "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
     "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
     "count": 31
+  },
+  {
+    "title": "「二分探索の計算量も分からんヤツw」とマウントを取られた時に見るメモ",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/223813",
+    "count": 29
   },
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
@@ -257,14 +272,14 @@ export const AllHatenaBookmarkData = [
     "count": 15
   },
   {
-    "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
-    "url": "https://note.com/samurai_se/n/nc0b406a83363",
+    "title": "ロジックの三角形と鳥瞰力を駆使して企画書を書く",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/22/082355",
     "count": 14
   },
   {
-    "title": "ロジックの三角形と鳥瞰力を駆使して企画書を書く",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/22/082355",
-    "count": 13
+    "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
+    "url": "https://note.com/samurai_se/n/nc0b406a83363",
+    "count": 14
   },
   {
     "title": "令和版ソフトウェアエンジニアの情報収集術 PHPカンファレンス香川2024",

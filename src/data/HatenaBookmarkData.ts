@@ -32,17 +32,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 8567,
+    "sum": 6643,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1671
-      },
-      {
-        "title": "定期的に何度も読み返している個人的名エントリを置いておく",
-        "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1671
+        "count": 1675
       },
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -55,20 +50,20 @@ export const HatenaBookmarkData = [
         "count": 325
       },
       {
-        "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
-        "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-        "count": 325
+        "title": "タスクを素早く片付けるための技術",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
+        "count": 253
+      },
+      {
+        "title": "買ってよかったもの(2024年版)",
+        "url": "https://note.com/samurai_se/n/n51f84af1d382",
+        "count": 247
       }
     ]
   }
 ];
 
 export const ZeroBookmarkArticles = [
-  {
-    "title": "ExposedでDBの独自関数を呼び出す",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/000000",
-    "count": 0
-  },
   {
     "title": "Kotlinで学ぶ純粋関数とカリー化",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/04/231352",
@@ -135,13 +130,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
-    "count": 0
-  },
-  {
-    "title": "Koinで始めるKtor DI",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
+    "title": "ExposedでCASE WHENを利用する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/10/000000",
     "count": 0
   },
   {
@@ -155,8 +145,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinのプロパティ初期化処理を使い分ける",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
+    "title": "Kotlinで学ぶ純粋関数とカリー化",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/04/231352",
     "count": 0
   },
   {
@@ -167,6 +157,16 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
+    "count": 0
+  },
+  {
+    "title": "Koinで始めるKtor DI",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
+    "count": 0
+  },
+  {
+    "title": "じぶん Release Note (ver 3.1.5)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/162906",
     "count": 0
   },
   {
@@ -185,8 +185,23 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.4)",
     "url": "https://note.com/samurai_se/n/n065b0c92a77c",
+    "count": 0
+  },
+  {
+    "title": "KtorをApp Engineで動かしてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+    "count": 0
+  },
+  {
+    "title": "Kotlin DataFrameを使ってCSVやJSONをいい感じに扱う",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
     "count": 0
   },
   {
@@ -197,6 +212,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "KtorをApp Engineで動かしてみる",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+    "count": 0
+  },
+  {
+    "title": "OSSコントリビュート活動を再開して実感してること",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
     "count": 0
   },
   {
@@ -220,13 +240,18 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "じぶん Release Note (ver 3.1.2)",
+    "url": "https://note.com/samurai_se/n/n0002c5828b09",
+    "count": 0
+  },
+  {
     "title": "2025年の冬アニメ、何見てる？",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.2)",
-    "url": "https://note.com/samurai_se/n/n0002c5828b09",
+    "title": "独自ドメインではてなブログを開設することにした",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
     "count": 0
   },
   {

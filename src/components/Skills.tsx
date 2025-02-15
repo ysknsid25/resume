@@ -20,13 +20,13 @@ type Skill = {
 
 const skills: Skill[] = [
     { name: "GCP", level: 3, icon: gcp },
-    { name: "Python", level: 2, icon: python },
+    { name: "Kotlin", level: 3, icon: kotlin },
+    { name: "Ktor", level: 3, icon: ktor },
     { name: "ts", level: 3, icon: ts },
     { name: "React", level: 2, icon: react },
     { name: "Next.js", level: 2, icon: nextjs },
     { name: "Nest.js", level: 2, icon: nest },
-    { name: "Kotlin", level: 2, icon: kotlin },
-    { name: "Ktor", level: 2, icon: ktor },
+    { name: "Python", level: 2, icon: python },
     { name: "PHP", level: 3, icon: php },
     { name: "Laravel", level: 3, icon: laravel },
     { name: "Nginx", level: 2, icon: nginx },

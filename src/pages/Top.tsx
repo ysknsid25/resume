@@ -7,13 +7,11 @@ import { Menu } from "../components/Menu";
 import { Certifications } from "../components/Certifications";
 import { Career } from "../components/Career";
 import { Books } from "../components/Books";
-import { Articles } from "../components/Articles";
 import { Conference } from "../components/Conference";
 import { Works } from "../components/Works";
 import { SideJob } from "../components/SideJob";
 import { Events } from "../components/Events";
 import { Frame } from "../components/Frame";
-import { TechArticlesGraph } from "../components/TechArticlesGraph";
 import { GitHubContributionsGraph } from "../components/GitHubContributionsGraph";
 import { PopularAllArticle } from "../components/PopularAllArticles";
 import { HatenaBookmarks } from "../components/HatenaBookmarks";
@@ -22,7 +20,6 @@ const top = "Top";
 const skills = "Skills";
 const certifications = "Certifications";
 const career = "Career";
-const articles = "Articles";
 const conference = "Conference";
 const books = "Books";
 const events = "Events";
@@ -32,7 +29,6 @@ const hatenaBookmark = "Hatena Bookmarks";
 
 const menuList = [
     top,
-    articles,
     hatenaBookmark,
     conference,
     career,
@@ -64,9 +60,6 @@ const DynamicContents = ({
                         <PopularAllArticle></PopularAllArticle>
                     </Frame>
                     <Frame>
-                        <TechArticlesGraph></TechArticlesGraph>
-                    </Frame>
-                    <Frame>
                         <Communities></Communities>
                     </Frame>
                 </>
@@ -84,11 +77,6 @@ const DynamicContents = ({
             {selectedFrame === career && (
                 <Frame>
                     <Career></Career>
-                </Frame>
-            )}
-            {selectedFrame === articles && (
-                <Frame>
-                    <Articles></Articles>
                 </Frame>
             )}
             {selectedFrame === conference && (

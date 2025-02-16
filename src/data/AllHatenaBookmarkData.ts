@@ -1,15 +1,15 @@
-export const TotalHatenaBookmarkCount = 9990;
+export const TotalHatenaBookmarkCount = 10045;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1674
+    "count": 1682
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1484
+    "count": 1486
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -24,7 +24,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
     "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-    "count": 375
+    "count": 376
   },
   {
     "title": "2023年に読んでよかった技術書",
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 325
+    "count": 326
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -52,19 +52,19 @@ export const AllHatenaBookmarkData = [
     "count": 253
   },
   {
-    "title": "買ってよかったもの(2024年版)",
-    "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 246
-  },
-  {
     "title": "落ちてるボールを拾う技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/04/175502",
-    "count": 245
+    "count": 248
+  },
+  {
+    "title": "買ってよかったもの(2024年版)",
+    "url": "https://note.com/samurai_se/n/n51f84af1d382",
+    "count": 248
   },
   {
     "title": "落ちてるボールを拾わせる技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/06/080000",
-    "count": 226
+    "count": 231
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
@@ -79,7 +79,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-    "count": 171
+    "count": 173
   },
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -185,6 +185,11 @@ export const AllHatenaBookmarkData = [
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
     "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
     "count": 40
+  },
+  {
+    "title": "セルフプロデュースというワードをポジティブに捉える",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/13/081200",
+    "count": 31
   },
   {
     "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
@@ -322,13 +327,13 @@ export const AllHatenaBookmarkData = [
     "count": 5
   },
   {
-    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
-    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
+    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
+    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
     "count": 4
   },
   {
-    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
-    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
+    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
+    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
     "count": 4
   },
   {
@@ -362,11 +367,6 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
-    "count": 2
-  },
-  {
     "title": "React×TypeScriptではじめるVitest",
     "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
@@ -374,6 +374,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Laravel公式が利用している継続的コードフォーマッター・StyleCIを試してみた",
     "url": "https://zenn.dev/yskn_sid25/articles/f4c4fc8d6b14da",
+    "count": 2
+  },
+  {
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
   },
   {
@@ -392,18 +397,8 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
-    "url": "https://note.com/samurai_se/n/n242cd810459c",
-    "count": 1
-  },
-  {
     "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
     "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
-    "count": 1
-  },
-  {
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {
@@ -422,18 +417,28 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
+    "url": "https://note.com/samurai_se/n/n242cd810459c",
+    "count": 1
+  },
+  {
     "title": "酒が好きなら神戸に住め",
     "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
   },
   {
-    "title": "VitestでMock, Testing Typesを使ってみよう！",
-    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
+    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {
     "title": "なぜPHP標準関数のdateではなくCarbonを使うのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
+    "count": 1
+  },
+  {
+    "title": "VitestでMock, Testing Typesを使ってみよう！",
+    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
     "count": 1
   },
   {

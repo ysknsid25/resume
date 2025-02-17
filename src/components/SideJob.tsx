@@ -64,7 +64,7 @@ export const SideJob = () => {
         <div className="grid grid-cols-1 items-center justify-center gap-4">
             <div className="flex justify-center items-center gap-4 mb-2">
                 <h1 className="text-center text-3xl font-extrabold text-gray-600 underline">
-                    blessing software
+                    Side Jobs
                 </h1>
             </div>
             <div className="mb-4 text-center">

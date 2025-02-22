@@ -24,7 +24,7 @@ export const SideJob = () => {
     const conditions = (isReceiving: boolean) => {
         return isReceiving ? (
             <div className="px-8 mt-4">
-                <ul className="list-disc text-sm font-normal text-gray-400">
+                <ul className="list-disc text-sm font-normal text-gray-600">
                     <li>月25時間程度。±5h程度の範囲の差は許容可能。</li>
                     <li>
                         Kotlin(ServerSide Kotlin) or TypeScript (React, Next.js,
@@ -55,7 +55,7 @@ export const SideJob = () => {
                 </ul>
             </div>
         ) : (
-            <p className="text-sm font-normal text-gray-400">
+            <p className="text-sm font-normal text-gray-600">
                 現在、新規の案件は募集しておりません。
             </p>
         );
@@ -68,7 +68,7 @@ export const SideJob = () => {
                 </h1>
             </div>
             <div className="mb-4 text-center">
-                <p className="text-sm font-normal text-gray-400">
+                <p className="text-sm font-normal text-gray-600">
                     <b>blessing software</b>
                     (ブレッシングソフトウェア)は兵庫県神戸市在住のソフトウェアエンジニアであるKanonの個人事業主としての屋号です。
                     <br />
@@ -92,7 +92,7 @@ export const SideJob = () => {
                         </h2>
                     </div>
                     <div className="px-8 mt-4">
-                        <ul className="list-disc text-sm font-normal text-gray-400">
+                        <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>
                                 Webシステム開発。特にPHP(Laravel) or
                                 Kotlin(Ktor) or TypeScript(Next.js, Nest.js)案件
@@ -113,7 +113,7 @@ export const SideJob = () => {
                         </h2>
                     </div>
                     <div className="px-8 mt-4">
-                        <ul className="list-disc text-sm font-normal text-gray-400">
+                        <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>マルチタスク</li>
                             <li>人にお願いすること、命令すること</li>
                             <li>ネットワーク関係の構築、チューニング</li>

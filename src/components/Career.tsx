@@ -73,7 +73,7 @@ export const Career = () => {
                         </h2>
                     </div>
                     <div className="px-8 mt-4">
-                        <ul className="list-disc text-sm font-normal text-gray-400">
+                        <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>
                                 アニメ、マンガ、ラノベといったオタク文化の発展に少しでも貢献する
                             </li>
@@ -94,7 +94,7 @@ export const Career = () => {
                         </h2>
                     </div>
                     <div className="px-8 mt-4">
-                        <ul className="list-disc text-sm font-normal text-gray-400">
+                        <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>Reactを使ったアプリケーション開発</li>
                             <li>Ktorを使ったアプリケーション開発</li>
                             <li>Nest.jsを使ったアプリケーション開発</li>
@@ -111,7 +111,7 @@ export const Career = () => {
                         </h2>
                     </div>
                     <div className="px-8 mt-4">
-                        <p className="text-sm font-normal text-gray-400">
+                        <p className="text-sm font-normal text-gray-600">
                             現在転職意思はありませんが、テックリードやマネージャーといった役割ありきでのお誘いもしくは週休日数を調整できる環境であれば、お話しだけでもさせていただけますと嬉しいです。
                         </p>
                     </div>

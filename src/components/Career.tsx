@@ -4,7 +4,7 @@ const contents = [
     {
         treeType: "🏢",
         title: "虎の穴ラボ",
-        year: "",
+        year: "2023",
         img: "tora",
         url: "https://yumenosora.co.jp/tora-lab",
         content:

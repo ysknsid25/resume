@@ -1,15 +1,15 @@
-export const TotalHatenaBookmarkCount = 10131;
+export const TotalHatenaBookmarkCount = 10128;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1685
+    "count": 1684
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1488
+    "count": 1487
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -164,7 +164,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter botを作った",
     "url": "https://zenn.dev/yskn_sid25/articles/c79c6b84c536d1",
-    "count": 52
+    "count": 51
   },
   {
     "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
@@ -342,13 +342,13 @@ export const AllHatenaBookmarkData = [
     "count": 5
   },
   {
-    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
-    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
+    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
+    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
     "count": 4
   },
   {
-    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
-    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
+    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
+    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
     "count": 4
   },
   {
@@ -377,13 +377,13 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
+    "title": "G.I.Gに参加してProfessional Cloud Developerを取得した話",
+    "url": "https://zenn.dev/yskn_sid25/articles/6508e7b37e137f",
     "count": 2
   },
   {
-    "title": "G.I.Gに参加してProfessional Cloud Developerを取得した話",
-    "url": "https://zenn.dev/yskn_sid25/articles/6508e7b37e137f",
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
   },
   {
@@ -452,8 +452,18 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "count": 1
+  },
+  {
     "title": "VitestでMock, Testing Typesを使ってみよう！",
     "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "count": 1
+  },
+  {
+    "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
     "count": 1
   },
   {
@@ -469,16 +479,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『SOFT SKILLS』から得た学び",
     "url": "https://note.com/samurai_se/n/n5b203d6aa419",
-    "count": 1
-  },
-  {
-    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
-    "count": 1
-  },
-  {
-    "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
     "count": 1
   },
   {

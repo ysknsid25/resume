@@ -26,9 +26,6 @@ export const Top = () => {
                 <Skills></Skills>
             </Frame>
             <Frame>
-                <PopularAllArticle></PopularAllArticle>
-            </Frame>
-            <Frame>
                 <Certifications></Certifications>
             </Frame>
             <Frame>

@@ -1,11 +1,6 @@
 import twitter from "../assets/sns/twitter.png";
 import amazon from "../assets/sns/amazon.png";
 import github from "../assets/sns/github.png";
-import insta from "../assets/sns/insta.png";
-import note from "../assets/sns/note.png";
-import zenn from "../assets/sns/zenn.png";
-import qiita from "../assets/sns/qiita.png";
-import bluesky from "../assets/sns/bluesky.png";
 import speakerdeck from "../assets/sns/speakerdeck.png";
 import hatena from "../assets/sns/hatena.png";
 
@@ -16,14 +11,9 @@ type SNS = {
 
 const snsList: SNS[] = [
     { url: "https://x.com/ysknsid25", icon: twitter },
-    { url: "https://bsky.app/profile/ysknsid25.bsky.social", icon: bluesky },
+    { url: "https://blog.inorinrinrin.com/", icon: hatena },
     { url: "https://speakerdeck.com/ysknsid25", icon: speakerdeck },
     { url: "https://github.com/ysknsid25", icon: github },
-    { url: "https://zenn.dev/yskn_sid25", icon: zenn },
-    { url: "https://qiita.com/ysknsid25", icon: qiita },
-    { url: "https://blog.inorinrinrin.com/", icon: hatena },
-    { url: "https://note.com/samurai_se/", icon: note },
-    { url: "https://www.instagram.com/ysknsid25/", icon: insta },
     {
         url: "https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share",
         icon: amazon,

@@ -7,7 +7,7 @@ const contents = [
         year: "2025",
         img: "yourmister",
         url: "https://yourmystar.jp/",
-        content: "Nuxt.js + CakePHP + Google Cloud",
+        content: "Nuxt.js + Google Cloud",
     },
     {
         treeType: "🏗",
@@ -28,7 +28,7 @@ export const SideJob = () => {
                     <li>月25時間程度。±5h程度の範囲の差は許容可能。</li>
                     <li>
                         Kotlin(ServerSide Kotlin) or TypeScript (React, Next.js,
-                        NestJS) or Google
+                        NestJS, Hono) or Google
                         Cloudへのサーバーレスアプリケーション構築に関われること
                     </li>
                     <li>
@@ -94,8 +94,8 @@ export const SideJob = () => {
                     <div className="px-8 mt-4">
                         <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>
-                                Webシステム開発。特にPHP(Laravel) or
-                                Kotlin(Ktor) or TypeScript(Next.js, Nest.js)案件
+                                Webシステム開発。特にKotlin(Ktor) or
+                                TypeScript(Next.js, Nest.js, Hono)案件
                             </li>
                             <li>
                                 ソフトウェアエンジニア同士の交流のためのコミュニティ運営
@@ -116,7 +116,7 @@ export const SideJob = () => {
                         <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>マルチタスク</li>
                             <li>人にお願いすること、命令すること</li>
-                            <li>ネットワーク関係の構築、チューニング</li>
+                            <li>ネットワーク関係の構築・チューニング</li>
                         </ul>
                     </div>
                 </div>

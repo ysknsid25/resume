@@ -17,7 +17,7 @@ const contents = [
         img: "fm",
         url: "https://www.fandmnet.com/",
         content:
-            "M&Aにより前職から移籍。第32期社内MVPを受賞。前職からのサービスに加えて顧客管理システムの新規開発をプロジェクト立ち上げから経験。技術スタックとして、Laravel, AWS Fargate, Nginx,  Dockerを利用。",
+            "M&Aにより前職から移籍。第32期社内MVPを受賞。前職からのサービスに加えて顧客管理システムの新規開発をプロジェクト立ち上げからテックリードとして経験。技術スタックとして、Laravel, AWS Fargate, Nginx,  Dockerを利用。",
     },
     {
         treeType: "🏢",
@@ -97,7 +97,7 @@ export const Career = () => {
                         <ul className="list-disc text-sm font-normal text-gray-600">
                             <li>Reactを使ったアプリケーション開発</li>
                             <li>Ktorを使ったアプリケーション開発</li>
-                            <li>Nest.jsを使ったアプリケーション開発</li>
+                            <li>TypeScriptを使ったアプリケーション開発</li>
                             <li>GCPを使ったアプリケーション構築</li>
                             <li>セキュリティタスクの遂行能力の向上</li>
                             <li>CI/CDパイプラインの作成</li>

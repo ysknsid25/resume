@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10128;
+export const TotalHatenaBookmarkCount = 10127;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1684
+    "count": 1683
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -79,7 +79,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-    "count": 173
+    "count": 171
   },
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -129,7 +129,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita",
-    "count": 115
+    "count": 116
   },
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
@@ -162,14 +162,14 @@ export const AllHatenaBookmarkData = [
     "count": 57
   },
   {
-    "title": "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter botを作った",
-    "url": "https://zenn.dev/yskn_sid25/articles/c79c6b84c536d1",
+    "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
     "count": 51
   },
   {
-    "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
-    "count": 50
+    "title": "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter botを作った",
+    "url": "https://zenn.dev/yskn_sid25/articles/c79c6b84c536d1",
+    "count": 51
   },
   {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
@@ -332,13 +332,13 @@ export const AllHatenaBookmarkData = [
     "count": 6
   },
   {
-    "title": "Google Bard で試してみたこと 8 選",
-    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 5
   },
   {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "title": "Google Bard で試してみたこと 8 選",
+    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
     "count": 5
   },
   {
@@ -412,8 +412,18 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
+    "url": "https://note.com/samurai_se/n/n242cd810459c",
+    "count": 1
+  },
+  {
     "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
     "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
+    "count": 1
+  },
+  {
+    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
+    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {
@@ -432,18 +442,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
-    "url": "https://note.com/samurai_se/n/n242cd810459c",
-    "count": 1
-  },
-  {
     "title": "酒が好きなら神戸に住め",
     "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
   },
   {
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
+    "title": "VitestでMock, Testing Typesを使ってみよう！",
+    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
     "count": 1
   },
   {
@@ -452,13 +457,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "title": "『SOFT SKILLS』から得た学び",
+    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {
-    "title": "VitestでMock, Testing Typesを使ってみよう！",
-    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
     "count": 1
   },
   {
@@ -474,11 +479,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "goofiで見る👀色んな言語の知っておきたいOSSプロジェクト",
     "url": "https://zenn.dev/yskn_sid25/articles/a41961614c4b25",
-    "count": 1
-  },
-  {
-    "title": "『SOFT SKILLS』から得た学び",
-    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {

@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10162;
+export const TotalHatenaBookmarkCount = 10170;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1683
+    "count": 1684
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -172,6 +172,11 @@ export const AllHatenaBookmarkData = [
     "count": 51
   },
   {
+    "title": "5分で再入門する npm dependencies",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
+    "count": 49
+  },
+  {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
     "url": "https://logmi.jp/main/technology/330790",
     "count": 49
@@ -180,11 +185,6 @@ export const AllHatenaBookmarkData = [
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
     "url": "https://toranoana-lab.hatenablog.com/entry/2024/07/17/120000",
     "count": 44
-  },
-  {
-    "title": "5分で再入門する npm dependencies",
-    "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
-    "count": 41
   },
   {
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
@@ -319,7 +319,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
     "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
-    "count": 10
+    "count": 11
   },
   {
     "title": "今更ながらGit rebaseの挙動をちゃんと理解して使えるようになる試み",
@@ -337,13 +337,13 @@ export const AllHatenaBookmarkData = [
     "count": 6
   },
   {
-    "title": "Google Bard で試してみたこと 8 選",
-    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 5
   },
   {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "title": "Google Bard で試してみたこと 8 選",
+    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
     "count": 5
   },
   {
@@ -387,13 +387,13 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
+    "title": "React×TypeScriptではじめるVitest",
+    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
   },
   {
-    "title": "React×TypeScriptではじめるVitest",
-    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
   },
   {
@@ -417,26 +417,6 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
-    "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
-    "count": 1
-  },
-  {
-    "title": "useSWRをuseContextの代わりに使ってみる試み",
-    "url": "https://zenn.dev/yskn_sid25/articles/a015ffbadb0793",
-    "count": 1
-  },
-  {
-    "title": "VitestでMockを使うための逆引きレシピ集",
-    "url": "https://zenn.dev/yskn_sid25/articles/a5a22aa43aa46b",
-    "count": 1
-  },
-  {
-    "title": "GitHubのプルリクコメントにVitestのカバレッジレポートのSummaryを表示する",
-    "url": "https://zenn.dev/yskn_sid25/articles/e822e7922d4b43",
-    "count": 1
-  },
-  {
     "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
     "url": "https://note.com/samurai_se/n/n242cd810459c",
     "count": 1
@@ -452,18 +432,33 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "なぜPHP標準関数のdateではなくCarbonを使うのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
+    "title": "useSWRをuseContextの代わりに使ってみる試み",
+    "url": "https://zenn.dev/yskn_sid25/articles/a015ffbadb0793",
     "count": 1
   },
   {
-    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "title": "VitestでMockを使うための逆引きレシピ集",
+    "url": "https://zenn.dev/yskn_sid25/articles/a5a22aa43aa46b",
     "count": 1
   },
   {
     "title": "VitestでMock, Testing Typesを使ってみよう！",
     "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "count": 1
+  },
+  {
+    "title": "なぜPHP標準関数のdateではなくCarbonを使うのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
+    "count": 1
+  },
+  {
+    "title": "『SOFT SKILLS』から得た学び",
+    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
+    "count": 1
+  },
+  {
+    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
     "count": 1
   },
   {
@@ -479,11 +474,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "goofiで見る👀色んな言語の知っておきたいOSSプロジェクト",
     "url": "https://zenn.dev/yskn_sid25/articles/a41961614c4b25",
-    "count": 1
-  },
-  {
-    "title": "『SOFT SKILLS』から得た学び",
-    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {

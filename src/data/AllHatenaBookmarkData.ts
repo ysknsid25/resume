@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10170;
+export const TotalHatenaBookmarkCount = 10182;
 
 export const AllHatenaBookmarkData = [
   {
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 327
+    "count": 326
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -79,7 +79,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-    "count": 171
+    "count": 170
   },
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -174,7 +174,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "5分で再入門する npm dependencies",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
-    "count": 49
+    "count": 50
   },
   {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
@@ -247,14 +247,14 @@ export const AllHatenaBookmarkData = [
     "count": 23
   },
   {
-    "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
+    "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/26/232548",
     "count": 21
   },
   {
-    "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/26/232548",
-    "count": 20
+    "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
+    "count": 21
   },
   {
     "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
@@ -305,6 +305,11 @@ export const AllHatenaBookmarkData = [
     "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
     "url": "https://note.com/samurai_se/n/nc0b406a83363",
     "count": 14
+  },
+  {
+    "title": "Zod v4 で破壊的変更が入りそうな件",
+    "url": "https://blog.inorinrinrin.com/entry/2025/04/09/103142",
+    "count": 12
   },
   {
     "title": "令和版ソフトウェアエンジニアの情報収集術 PHPカンファレンス香川2024",
@@ -387,13 +392,13 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "React×TypeScriptではじめるVitest",
-    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
+    "title": "React×TypeScriptではじめるVitest",
+    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
   },
   {
@@ -422,11 +427,6 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "酒が好きなら神戸に住め",
-    "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
-    "count": 1
-  },
-  {
     "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
     "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
@@ -439,6 +439,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "VitestでMockを使うための逆引きレシピ集",
     "url": "https://zenn.dev/yskn_sid25/articles/a5a22aa43aa46b",
+    "count": 1
+  },
+  {
+    "title": "酒が好きなら神戸に住め",
+    "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
   },
   {

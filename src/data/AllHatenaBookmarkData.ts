@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10182;
+export const TotalHatenaBookmarkCount = 9763;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1684
+    "count": 1685
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -97,11 +97,6 @@ export const AllHatenaBookmarkData = [
     "count": 157
   },
   {
-    "title": "Re: WebサーバーアーキテクチャとPHP実行方式の理解から始めるphp-fpmとはなにか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/3706c12408160c",
-    "count": 151
-  },
-  {
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
     "count": 150
@@ -110,11 +105,6 @@ export const AllHatenaBookmarkData = [
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
     "url": "https://zenn.dev/yskn_sid25/books/type-challenges",
     "count": 141
-  },
-  {
-    "title": "LaravelはどのようにCSRF対策をしているのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-    "count": 130
   },
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
@@ -147,11 +137,6 @@ export const AllHatenaBookmarkData = [
     "count": 89
   },
   {
-    "title": "ソフトウェア開発者としての寿命を延ばすためのバイブル(20代時点版)",
-    "url": "https://zenn.dev/yskn_sid25/articles/c8b1fe6657d9b9",
-    "count": 77
-  },
-  {
     "title": "ちいさくはじめるADR",
     "url": "https://toranoana-lab.hatenablog.com/entry/2025/01/20/120000",
     "count": 61
@@ -162,6 +147,11 @@ export const AllHatenaBookmarkData = [
     "count": 57
   },
   {
+    "title": "5分で再入門する npm dependencies",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
+    "count": 51
+  },
+  {
     "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
     "count": 51
@@ -170,11 +160,6 @@ export const AllHatenaBookmarkData = [
     "title": "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter botを作った",
     "url": "https://zenn.dev/yskn_sid25/articles/c79c6b84c536d1",
     "count": 51
-  },
-  {
-    "title": "5分で再入門する npm dependencies",
-    "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
-    "count": 50
   },
   {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
@@ -242,11 +227,6 @@ export const AllHatenaBookmarkData = [
     "count": 24
   },
   {
-    "title": "LaravelのMiddlewareはどのように動いているのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-    "count": 23
-  },
-  {
     "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/26/232548",
     "count": 21
@@ -274,11 +254,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "TSKaigi Kansai 2024の参加(登壇)体験がとってもとっても良かった件",
     "url": "https://note.com/samurai_se/n/n69c4994fb41a",
-    "count": 17
-  },
-  {
-    "title": "PHPのMutation Testingライブラリ・Infectionを実戦導入してみた",
-    "url": "https://zenn.dev/hitocolor/articles/6772d749f7d70c",
     "count": 17
   },
   {
@@ -352,28 +327,8 @@ export const AllHatenaBookmarkData = [
     "count": 5
   },
   {
-    "title": "Laravel Breezeのソースを読んだので超絶詳しく解説していく【ログイン処理編】",
-    "url": "https://zenn.dev/yskn_sid25/articles/5ac107b0f1cd7d",
-    "count": 4
-  },
-  {
-    "title": "Laravelを使ったことがある人はdddを試してみてほしい(小ネタ)",
-    "url": "https://zenn.dev/yskn_sid25/articles/94ddaebe84bb71",
-    "count": 4
-  },
-  {
     "title": "Vitest UIを使ってみよう！",
     "url": "https://zenn.dev/yskn_sid25/articles/09d22440c3e3c5",
-    "count": 3
-  },
-  {
-    "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
-    "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
-    "count": 3
-  },
-  {
-    "title": "Laravel considered harmful 〜SOLID原則にそぐわないLaravelのイマイチな習慣〜",
-    "url": "https://zenn.dev/yskn_sid25/articles/cc06884a9bce36",
     "count": 3
   },
   {
@@ -387,11 +342,6 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "G.I.Gに参加してProfessional Cloud Developerを取得した話",
-    "url": "https://zenn.dev/yskn_sid25/articles/6508e7b37e137f",
-    "count": 2
-  },
-  {
     "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
     "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
@@ -399,11 +349,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "React×TypeScriptではじめるVitest",
     "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
-    "count": 2
-  },
-  {
-    "title": "Laravel公式が利用している継続的コードフォーマッター・StyleCIを試してみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/f4c4fc8d6b14da",
     "count": 2
   },
   {
@@ -452,11 +397,6 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "なぜPHP標準関数のdateではなくCarbonを使うのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/ae1830480d4d72",
-    "count": 1
-  },
-  {
     "title": "『SOFT SKILLS』から得た学び",
     "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
@@ -464,26 +404,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
-    "count": 1
-  },
-  {
-    "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
-    "count": 1
-  },
-  {
-    "title": "Laravel 10.9.0がリリースされたので新機能や変更点の紹介",
-    "url": "https://zenn.dev/yskn_sid25/articles/90c3238f61f273",
-    "count": 1
-  },
-  {
-    "title": "goofiで見る👀色んな言語の知っておきたいOSSプロジェクト",
-    "url": "https://zenn.dev/yskn_sid25/articles/a41961614c4b25",
-    "count": 1
-  },
-  {
-    "title": "エンジニア5周年記念にオープンソースプロジェクトを自分で立ち上げた話",
-    "url": "https://zenn.dev/yskn_sid25/articles/b2ecc4b220d54a",
     "count": 1
   },
   {

@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 9763;
+export const TotalHatenaBookmarkCount = 9758;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1685
+    "count": 1682
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -29,7 +29,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "2023年に読んでよかった技術書",
     "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
-    "count": 375
+    "count": 374
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -147,11 +147,6 @@ export const AllHatenaBookmarkData = [
     "count": 57
   },
   {
-    "title": "5分で再入門する npm dependencies",
-    "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
-    "count": 51
-  },
-  {
     "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
     "count": 51
@@ -160,6 +155,11 @@ export const AllHatenaBookmarkData = [
     "title": "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter botを作った",
     "url": "https://zenn.dev/yskn_sid25/articles/c79c6b84c536d1",
     "count": 51
+  },
+  {
+    "title": "5分で再入門する npm dependencies",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
+    "count": 50
   },
   {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
@@ -367,16 +367,6 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
-    "url": "https://note.com/samurai_se/n/n242cd810459c",
-    "count": 1
-  },
-  {
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
-    "count": 1
-  },
-  {
     "title": "useSWRをuseContextの代わりに使ってみる試み",
     "url": "https://zenn.dev/yskn_sid25/articles/a015ffbadb0793",
     "count": 1
@@ -387,6 +377,11 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
+    "url": "https://note.com/samurai_se/n/n242cd810459c",
+    "count": 1
+  },
+  {
     "title": "酒が好きなら神戸に住め",
     "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
@@ -394,6 +389,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "VitestでMock, Testing Typesを使ってみよう！",
     "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "count": 1
+  },
+  {
+    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
+    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {

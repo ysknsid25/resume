@@ -32,8 +32,13 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 7593,
+    "sum": 9579,
     "bookmarkRanking": [
+      {
+        "title": "定期的に何度も読み返している個人的名エントリを置いておく",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
+        "count": 1681
+      },
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
@@ -50,14 +55,9 @@ export const HatenaBookmarkData = [
         "count": 326
       },
       {
-        "title": "タスクを素早く片付けるための技術",
-        "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-        "count": 259
-      },
-      {
-        "title": "タスクを素早く片付けるための技術",
-        "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-        "count": 259
+        "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
+        "count": 326
       }
     ]
   }
@@ -155,6 +155,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "じぶん Release Note (ver 3.2.4)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/02/235820",
+    "count": 0
+  },
+  {
     "title": "CoroutineとChannelの解像度を上げる",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/25/233125",
     "count": 0
@@ -280,11 +285,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "KtorでAuto-reloadを設定し開発効率を上げる",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/19/000000",
-    "count": 0
-  },
-  {
     "title": "5分で理解する深さ優先探索と幅優先探索",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/18/221634",
     "count": 0
@@ -292,16 +292,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "KtorでAuto-reloadを設定し開発効率を上げる",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/19/000000",
-    "count": 0
-  },
-  {
-    "title": "Exposedはどのように動いているのか？",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/17/000000",
-    "count": 0
-  },
-  {
-    "title": "Exposedはどのように動いているのか？",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/17/000000_1",
     "count": 0
   },
   {
@@ -322,6 +312,16 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Exposedはどのように動いているのか？",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/17/000000_1",
+    "count": 0
+  },
+  {
+    "title": "最近まとめ買いした全10巻未満のマンガ (2025年冬)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/17/202950",
+    "count": 0
+  },
+  {
+    "title": "Exposedはどのように動いているのか？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/17/000000",
     "count": 0
   },
   {
@@ -482,11 +482,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "5分で理解するセグメント木 - RMQ(Range Maximum Queries)",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/14/233001",
-    "count": 0
-  },
-  {
-    "title": "5分で理解するダブリング",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/13/231701",
     "count": 0
   },
   {
@@ -535,16 +530,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Diffie-Helman鍵交換はなぜ鍵交換問題の解決手段として有効なのか",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/001144",
-    "count": 0
-  },
-  {
-    "title": "「SSL/TLSの構成要素と仕組みについて説明してください」と言われた時に見るメモ",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/100019",
-    "count": 0
-  },
-  {
     "title": "5分で理解する優先度付きキュー",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/08/142541",
     "count": 0
@@ -577,16 +562,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.2.1)",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/08/150157",
-    "count": 0
-  },
-  {
-    "title": "「一方向ハッシュ関数とメッセージ認証コードとデジタル署名の違いを説明してください」と聞かれた時のためのメモ",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/07/152147",
-    "count": 0
-  },
-  {
-    "title": "5分で理解する貪欲法",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/07/212537",
     "count": 0
   },
   {
@@ -632,6 +607,26 @@ export const ZeroBookmarkArticles = [
   {
     "title": "5分で理解する貪欲法",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/07/212537",
+    "count": 0
+  },
+  {
+    "title": "Diffie-Helman鍵交換はなぜ鍵交換問題の解決手段として有効なのか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/001144",
+    "count": 0
+  },
+  {
+    "title": "「SSL/TLSの構成要素と仕組みについて説明してください」と言われた時に見るメモ",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/100019",
+    "count": 0
+  },
+  {
+    "title": "5分で理解する優先度付きキュー",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/142541",
+    "count": 0
+  },
+  {
+    "title": "じぶん Release Note (ver 3.2.1)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/150157",
     "count": 0
   },
   {
@@ -692,6 +687,16 @@ export const ZeroBookmarkArticles = [
   {
     "title": "5分で理解する貪欲法",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/07/212537",
+    "count": 0
+  },
+  {
+    "title": "RSA暗号はなぜ安全なのか？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/005632",
+    "count": 0
+  },
+  {
+    "title": "MySQL Shell For VSCode を使ってVSCodeからSQLを叩く",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/223124",
     "count": 0
   },
   {
@@ -710,11 +715,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "MySQL Shell For VSCode を使ってVSCodeからSQLを叩く",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/223124",
-    "count": 0
-  },
-  {
     "title": "ExposedでDBの独自関数を呼び出す",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/03/000000",
     "count": 0
@@ -730,11 +730,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "ExposedでDBの独自関数を呼び出す",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/000000",
-    "count": 0
-  },
-  {
     "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
     "count": 0
@@ -747,6 +742,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.1.5)",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/01/162906",
+    "count": 0
+  },
+  {
+    "title": "Kotlinのプロパティ初期化処理を使い分ける",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
     "count": 0
   },
   {
@@ -775,11 +775,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
-    "count": 0
-  },
-  {
     "title": "じぶん Release Note (ver 3.1.4)",
     "url": "https://note.com/samurai_se/n/n065b0c92a77c",
     "count": 0
@@ -790,11 +785,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlin DataFrameを使ってCSVやJSONをいい感じに扱う",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
-    "count": 0
-  },
-  {
     "title": "KtorをCloudRunで動かしてみる",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
     "count": 0
@@ -802,16 +792,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "KtorをApp Engineで動かしてみる",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
-    "count": 0
-  },
-  {
-    "title": "OSSコントリビュート活動を再開して実感してること",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
-    "count": 0
-  },
-  {
-    "title": "KtorをCloudRunで動かしてみる",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
     "count": 0
   },
   {
@@ -825,8 +805,18 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "KtorをCloudRunで動かしてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.3)",
     "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
+    "count": 0
+  },
+  {
+    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
   },
   {

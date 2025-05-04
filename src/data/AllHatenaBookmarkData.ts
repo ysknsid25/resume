@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 9758;
+export const TotalHatenaBookmarkCount = 9756;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1682
+    "count": 1680
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -387,11 +387,6 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "VitestでMock, Testing Typesを使ってみよう！",
-    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
-    "count": 1
-  },
-  {
     "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
     "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
@@ -404,6 +399,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "count": 1
+  },
+  {
+    "title": "VitestでMock, Testing Typesを使ってみよう！",
+    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
     "count": 1
   },
   {

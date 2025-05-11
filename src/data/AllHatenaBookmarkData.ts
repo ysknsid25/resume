@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9756;
+export const TotalHatenaBookmarkCount = 9754;
 
 export const AllHatenaBookmarkData = [
   {
@@ -24,7 +24,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
     "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-    "count": 375
+    "count": 374
   },
   {
     "title": "2023年に読んでよかった技術書",
@@ -109,7 +109,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-    "count": 125
+    "count": 124
   },
   {
     "title": "『ヘルシープログラマ』になるための作業環境",
@@ -317,13 +317,13 @@ export const AllHatenaBookmarkData = [
     "count": 6
   },
   {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "title": "Google Bard で試してみたこと 8 選",
+    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
     "count": 5
   },
   {
-    "title": "Google Bard で試してみたこと 8 選",
-    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 5
   },
   {
@@ -392,6 +392,11 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "VitestでMock, Testing Typesを使ってみよう！",
+    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "count": 1
+  },
+  {
     "title": "『SOFT SKILLS』から得た学び",
     "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
@@ -399,11 +404,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
-    "count": 1
-  },
-  {
-    "title": "VitestでMock, Testing Typesを使ってみよう！",
-    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
     "count": 1
   },
   {

@@ -1,5 +1,9 @@
 export const AllSpeakerDecks = [
   {
+    "title": "Type Challengesに新しい問題を追加して Type Challengesのメンテナーになった話",
+    "url": "https://speakerdeck.com/ysknsid25/typechallengesnixin-siiwen-ti-wozhui-jia-sitahua"
+  },
+  {
     "title": "統計データで2024年の クラウド・インフラ動向を眺める",
     "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru"
   },

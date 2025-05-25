@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9755;
+export const TotalHatenaBookmarkCount = 9772;
 
 export const AllHatenaBookmarkData = [
   {
@@ -19,7 +19,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "count": 487
+    "count": 488
   },
   {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
@@ -267,6 +267,11 @@ export const AllHatenaBookmarkData = [
     "count": 15
   },
   {
+    "title": "Type Challengesに新しい問題を追加して Type ChallengesのMaintainerになった話",
+    "url": "https://speakerdeck.com/ysknsid25/type-challengesnixin-siiwen-ti-wozhui-jia-site-type-challengesnomaintainerninatutahua-0fd730df-ec2b-4445-bdc8-e4febe5127b7",
+    "count": 15
+  },
+  {
     "title": "テストカバレッジが100％でもそれが意味のあるテストかは断言できない　Mutation Testでテストコード自体の検証をしよう",
     "url": "https://logmi.jp/main/technology/330791",
     "count": 15
@@ -342,13 +347,13 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "React×TypeScriptではじめるVitest",
-    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
+    "title": "React×TypeScriptではじめるVitest",
+    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
   },
   {
@@ -372,8 +377,8 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "酒が好きなら神戸に住め",
-    "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
+    "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
+    "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b",
     "count": 1
   },
   {
@@ -389,6 +394,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "VitestでMockを使うための逆引きレシピ集",
     "url": "https://zenn.dev/yskn_sid25/articles/a5a22aa43aa46b",
+    "count": 1
+  },
+  {
+    "title": "酒が好きなら神戸に住め",
+    "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
   },
   {

@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9772;
+export const TotalHatenaBookmarkCount = 9773;
 
 export const AllHatenaBookmarkData = [
   {
@@ -9,7 +9,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1487
+    "count": 1485
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -29,7 +29,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "2023年に読んでよかった技術書",
     "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
-    "count": 374
+    "count": 373
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -49,7 +49,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "タスクを素早く片付けるための技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-    "count": 260
+    "count": 261
   },
   {
     "title": "落ちてるボールを拾う技術",
@@ -74,7 +74,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
-    "count": 198
+    "count": 199
   },
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
@@ -104,7 +104,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
     "url": "https://zenn.dev/yskn_sid25/books/type-challenges",
-    "count": 141
+    "count": 140
   },
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
@@ -257,6 +257,11 @@ export const AllHatenaBookmarkData = [
     "count": 17
   },
   {
+    "title": "Type Challengesに新しい問題を追加して Type ChallengesのMaintainerになった話",
+    "url": "https://speakerdeck.com/ysknsid25/type-challengesnixin-siiwen-ti-wozhui-jia-site-type-challengesnomaintainerninatutahua-0fd730df-ec2b-4445-bdc8-e4febe5127b7",
+    "count": 17
+  },
+  {
     "title": "Google Cloud様主催のハンズオンセミナーに参加してPlatform Engineeringの解像度が128倍上がった話",
     "url": "https://toranoana-lab.hatenablog.com/entry/2024/11/19/120000",
     "count": 16
@@ -264,11 +269,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "5分で理解するダイクストラ法",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/20/234430",
-    "count": 15
-  },
-  {
-    "title": "Type Challengesに新しい問題を追加して Type ChallengesのMaintainerになった話",
-    "url": "https://speakerdeck.com/ysknsid25/type-challengesnixin-siiwen-ti-wozhui-jia-site-type-challengesnomaintainerninatutahua-0fd730df-ec2b-4445-bdc8-e4febe5127b7",
     "count": 15
   },
   {
@@ -355,6 +355,11 @@ export const AllHatenaBookmarkData = [
     "title": "React×TypeScriptではじめるVitest",
     "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
+  },
+  {
+    "title": "35歳までのキャリア戦略",
+    "url": "https://blog.inorinrinrin.com/entry/2025/05/30/210821",
+    "count": 1
   },
   {
     "title": ".lesshst とかいう普段意識しないファイルについて",

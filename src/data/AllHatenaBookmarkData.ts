@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9773;
+export const TotalHatenaBookmarkCount = 9811;
 
 export const AllHatenaBookmarkData = [
   {
@@ -14,7 +14,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
     "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-    "count": 507
+    "count": 509
   },
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
@@ -29,7 +29,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "2023年に読んでよかった技術書",
     "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
-    "count": 373
+    "count": 374
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -94,7 +94,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "count": 157
+    "count": 154
   },
   {
     "title": "『Tidy First？』を読んだ",
@@ -175,6 +175,11 @@ export const AllHatenaBookmarkData = [
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
     "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
     "count": 40
+  },
+  {
+    "title": "Java で学ぶ 代数的データ型",
+    "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
+    "count": 38
   },
   {
     "title": "セルフプロデュースというワードをポジティブに捉える",
@@ -372,23 +377,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "PHP勉強会in広島へ行ってきた",
-    "url": "https://note.com/samurai_se/n/n8e68ac6140e9",
-    "count": 1
-  },
-  {
-    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
-    "url": "https://note.com/samurai_se/n/n242cd810459c",
-    "count": 1
-  },
-  {
     "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
     "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b",
     "count": 1
   },
   {
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
+    "title": "PHP勉強会in広島へ行ってきた",
+    "url": "https://note.com/samurai_se/n/n8e68ac6140e9",
     "count": 1
   },
   {
@@ -402,13 +397,18 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
+    "url": "https://note.com/samurai_se/n/n242cd810459c",
+    "count": 1
+  },
+  {
     "title": "酒が好きなら神戸に住め",
     "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
     "count": 1
   },
   {
-    "title": "VitestでMock, Testing Typesを使ってみよう！",
-    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
+    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
+    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {
@@ -419,6 +419,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "count": 1
+  },
+  {
+    "title": "VitestでMock, Testing Typesを使ってみよう！",
+    "url": "https://zenn.dev/yskn_sid25/articles/21962b63727f27",
     "count": 1
   },
   {

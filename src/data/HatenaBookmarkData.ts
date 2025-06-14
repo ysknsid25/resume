@@ -32,32 +32,32 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 9815,
+    "sum": 10122,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1681
+        "count": 1683
       },
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1681
+        "count": 1683
       },
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1485
+        "count": 1484
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-        "count": 326
+        "count": 325
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-        "count": 326
+        "count": 325
       }
     ]
   }
@@ -120,6 +120,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "じぶん Release Note (ver 3.3.4)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/30/181326",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.3.3)",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/23/091857",
     "count": 0
@@ -135,11 +140,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.3.2)",
-    "url": "https://blog.inorinrinrin.com/entry/2025/03/15/232312",
-    "count": 0
-  },
-  {
     "title": "5分で理解する差分配列法",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/16/114948",
     "count": 0
@@ -147,6 +147,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.3.2)",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/15/232312",
+    "count": 0
+  },
+  {
+    "title": "5分で理解する差分配列法",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/16/114948",
     "count": 0
   },
   {
@@ -465,21 +470,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinで学ぶseald classと代数的データ型",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/15/143827",
-    "count": 0
-  },
-  {
-    "title": "Arrow-ktにおけるEither・Ior・Raise",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/15/224525",
-    "count": 0
-  },
-  {
-    "title": "じぶん Release Note (ver 3.2.2)",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/15/235019",
-    "count": 0
-  },
-  {
     "title": "Exposedはどのように動いているのか？",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/17/000000",
     "count": 0
@@ -505,6 +495,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Exposedはどのように動いているのか？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/17/000000",
+    "count": 0
+  },
+  {
     "title": "Kotlinで学ぶseald classと代数的データ型",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/15/143827",
     "count": 0
@@ -695,11 +690,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Diffie-Helman鍵交換はなぜ鍵交換問題の解決手段として有効なのか",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/001144",
-    "count": 0
-  },
-  {
     "title": "「SSL/TLSの構成要素と仕組みについて説明してください」と言われた時に見るメモ",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/08/100019",
     "count": 0
@@ -827,16 +817,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "5分で理解する貪欲法",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/07/212537",
-    "count": 0
-  },
-  {
-    "title": "RSA暗号はなぜ安全なのか？",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/005632",
-    "count": 0
-  },
-  {
-    "title": "MySQL Shell For VSCode を使ってVSCodeからSQLを叩く",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/223124",
     "count": 0
   },
   {
@@ -885,6 +865,16 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "RSA暗号はなぜ安全なのか？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/005632",
+    "count": 0
+  },
+  {
+    "title": "MySQL Shell For VSCode を使ってVSCodeからSQLを叩く",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/06/223124",
+    "count": 0
+  },
+  {
     "title": "ExposedでDBの独自関数を呼び出す",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/03/000000",
     "count": 0
@@ -905,11 +895,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
-    "count": 0
-  },
-  {
     "title": "Koinで始めるKtor DI",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
     "count": 0
@@ -920,13 +905,13 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
+    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
     "count": 0
   },
   {
-    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
+    "title": "Koinで始めるKtor DI",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
     "count": 0
   },
   {
@@ -942,6 +927,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
+    "count": 0
+  },
+  {
+    "title": "Kotlinの分解宣言を使うとJavaScriptの分割代入っぽく書ける",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/30/003827",
     "count": 0
   },
   {
@@ -980,6 +970,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "OSSコントリビュート活動を再開して実感してること",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+    "count": 0
+  },
+  {
     "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
@@ -995,11 +990,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
-    "count": 0
-  },
-  {
     "title": "じぶん Release Note (ver 3.1.2)",
     "url": "https://note.com/samurai_se/n/n0002c5828b09",
     "count": 0
@@ -1010,11 +1000,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
-    "count": 0
-  },
-  {
     "title": "2025年の冬アニメ、何見てる？",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
@@ -1022,6 +1007,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "独自ドメインではてなブログを開設することにした",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
+    "count": 0
+  },
+  {
+    "title": "2025年の冬アニメ、何見てる？",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
     "count": 0
   },
   {

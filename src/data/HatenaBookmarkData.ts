@@ -32,8 +32,13 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 8260,
+    "sum": 9909,
     "bookmarkRanking": [
+      {
+        "title": "定期的に何度も読み返している個人的名エントリを置いておく",
+        "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
+        "count": 1683
+      },
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
@@ -53,11 +58,6 @@ export const HatenaBookmarkData = [
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
         "count": 325
-      },
-      {
-        "title": "タスクを素早く片付けるための技術",
-        "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-        "count": 261
       }
     ]
   }
@@ -80,6 +80,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Ktorで型安全なRoutingを提供する",
+    "url": "https://qiita.com/ysknsid25/items/780ddc49c65c0d811652",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.4.1)",
     "url": "https://blog.inorinrinrin.com/entry/2025/04/06/221744",
     "count": 0
@@ -110,11 +115,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.3.4)",
-    "url": "https://blog.inorinrinrin.com/entry/2025/03/30/181326",
-    "count": 0
-  },
-  {
     "title": "株式会社はてなに入社しました",
     "url": "https://blog.inorinrinrin.com/entry/2025/04/01/082709",
     "count": 0
@@ -125,6 +125,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "株式会社はてなに入社しました",
+    "url": "https://blog.inorinrinrin.com/entry/2025/04/01/082709",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.3.3)",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/23/091857",
     "count": 0
@@ -180,11 +185,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "ほしいフィギュア 2025年3月",
-    "url": "https://blog.inorinrinrin.com/entry/2025/03/05/001825",
-    "count": 0
-  },
-  {
     "title": "Pythonで二分探索するならbisectを使う",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/06/013008",
     "count": 0
@@ -192,6 +192,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "ほしいフィギュア 2025年3月",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/05/001825",
+    "count": 0
+  },
+  {
+    "title": "Pythonで二分探索するならbisectを使う",
+    "url": "https://blog.inorinrinrin.com/entry/2025/03/06/013008",
     "count": 0
   },
   {
@@ -645,6 +650,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "5分で理解するセグメント木 - RMQ(Range Maximum Queries)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/14/233001",
+    "count": 0
+  },
+  {
     "title": "5分で理解するダブリング",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/13/231701",
     "count": 0
@@ -742,11 +752,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.2.1)",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/08/150157",
-    "count": 0
-  },
-  {
-    "title": "ExposedでWhere句の中でカスタム関数を使う",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/07/000000",
     "count": 0
   },
   {
@@ -850,8 +855,13 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinで学ぶ純粋関数とカリー化",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/04/231352",
+    "title": "ExposedでWhere句の中でカスタム関数を使う",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/07/000000",
+    "count": 0
+  },
+  {
+    "title": "5分で理解する尺取り法",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/07/010601",
     "count": 0
   },
   {
@@ -875,8 +885,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.5)",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/162906",
+    "title": "Exposedでselectの対象としてサブクエリを利用する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/05/000000",
     "count": 0
   },
   {
@@ -885,8 +895,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Koinで始めるKtor DI",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
+    "title": "Kotlinで学ぶ純粋関数とカリー化",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/04/231352",
     "count": 0
   },
   {
@@ -905,8 +915,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinのプロパティ初期化処理を使い分ける",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
+    "title": "じぶん Release Note (ver 3.1.5)",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/01/162906",
     "count": 0
   },
   {
@@ -935,6 +945,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
+    "count": 0
+  },
+  {
     "title": "じぶん Release Note (ver 3.1.4)",
     "url": "https://note.com/samurai_se/n/n065b0c92a77c",
     "count": 0
@@ -955,8 +970,13 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "OSSコントリビュート活動を再開して実感してること",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/20/213026",
+    "title": "KtorをApp Engineで動かしてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+    "count": 0
+  },
+  {
+    "title": "KtorをCloudRunで動かしてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
     "count": 0
   },
   {
@@ -972,6 +992,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.1.3)",
     "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
+    "count": 0
+  },
+  {
+    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
   },
   {
@@ -1010,6 +1035,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "Hello 2025",
+    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
+    "count": 0
+  },
+  {
     "title": "2025年旅行したいところ",
     "url": "https://note.com/samurai_se/n/n5c63825c4a05",
     "count": 0
@@ -1022,11 +1052,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "出雲大社へ行ってきた",
     "url": "https://note.com/samurai_se/n/n85983fcbe12d",
-    "count": 0
-  },
-  {
-    "title": "Hello 2025",
-    "url": "https://note.com/samurai_se/n/n2669629a7a3a",
     "count": 0
   }
 ];

@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9983;
+export const TotalHatenaBookmarkCount = 10014;
 
 export const AllHatenaBookmarkData = [
   {
@@ -177,13 +177,13 @@ export const AllHatenaBookmarkData = [
     "count": 44
   },
   {
-    "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
-    "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
-    "count": 40
-  },
-  {
     "title": "Java で学ぶ 代数的データ型",
     "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
+    "count": 41
+  },
+  {
+    "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
+    "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
     "count": 40
   },
   {
@@ -204,6 +204,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
     "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
+    "count": 29
+  },
+  {
+    "title": "Kotlinで学ぶ 代数的データ型",
+    "url": "https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing",
     "count": 29
   },
   {
@@ -384,6 +389,11 @@ export const AllHatenaBookmarkData = [
   {
     "title": "35歳までのキャリア戦略",
     "url": "https://blog.inorinrinrin.com/entry/2025/05/30/210821",
+    "count": 1
+  },
+  {
+    "title": "Ktorで型安全なRoutingを提供する",
+    "url": "https://qiita.com/ysknsid25/items/780ddc49c65c0d811652",
     "count": 1
   },
   {

@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10014;
+export const TotalHatenaBookmarkCount = 10011;
 
 export const AllHatenaBookmarkData = [
   {
@@ -9,7 +9,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1484
+    "count": 1483
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 325
+    "count": 324
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -177,13 +177,13 @@ export const AllHatenaBookmarkData = [
     "count": 44
   },
   {
-    "title": "Java で学ぶ 代数的データ型",
-    "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
-    "count": 41
-  },
-  {
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
     "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
+    "count": 40
+  },
+  {
+    "title": "Java で学ぶ 代数的データ型",
+    "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
     "count": 40
   },
   {
@@ -392,6 +392,11 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "なぜKotlinにもOption<A>が必要なのか",
+    "url": "https://qiita.com/ysknsid25/items/02961a8ae7c154a063c5",
+    "count": 1
+  },
+  {
     "title": "Ktorで型安全なRoutingを提供する",
     "url": "https://qiita.com/ysknsid25/items/780ddc49c65c0d811652",
     "count": 1
@@ -404,11 +409,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": ".lesshst とかいう普段意識しないファイルについて",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/01/000652",
-    "count": 1
-  },
-  {
-    "title": "副業をはじめてみてどうだったかをふりかえる。そしてのんびりと次の副業先を探しています(た)。",
-    "url": "https://note.com/samurai_se/n/n4c80894a6278",
     "count": 1
   },
   {

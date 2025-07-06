@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10011;
+export const TotalHatenaBookmarkCount = 10012;
 
 export const AllHatenaBookmarkData = [
   {
@@ -217,13 +217,13 @@ export const AllHatenaBookmarkData = [
     "count": 28
   },
   {
-    "title": "HonoでFirebase Remote Configを使ってFeature Flagを切り替えてみる",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/24/111942",
-    "count": 26
-  },
-  {
     "title": "統計データで2024年の クラウド・インフラ動向を眺める",
     "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru",
+    "count": 27
+  },
+  {
+    "title": "HonoでFirebase Remote Configを使ってFeature Flagを切り替えてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/24/111942",
     "count": 26
   },
   {

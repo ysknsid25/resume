@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 10462,
+    "sum": 10553,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
@@ -755,11 +755,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "「SSL/TLSの構成要素と仕組みについて説明してください」と言われた時に見るメモ",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/08/100019",
-    "count": 0
-  },
-  {
     "title": "5分で理解する優先度付きキュー",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/08/142541",
     "count": 0
@@ -980,8 +975,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlinのプロパティ初期化処理を使い分ける",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/28/084024",
+    "title": "Koinで始めるKtor DI",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/31/000000",
     "count": 0
   },
   {
@@ -995,11 +990,6 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "Kotlin DataFrameを使ってCSVやJSONをいい感じに扱う",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/26/233251",
-    "count": 0
-  },
-  {
     "title": "KotlinでBranded Typesを実装する方法を考える",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/27/214237",
     "count": 0
@@ -1010,8 +1000,8 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
-    "title": "じぶん Release Note (ver 3.1.4)",
-    "url": "https://note.com/samurai_se/n/n065b0c92a77c",
+    "title": "Kotlinでrequireを使って引数とかのAssertionをいい感じに表現する",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/29/080900",
     "count": 0
   },
   {
@@ -1020,6 +1010,11 @@ export const ZeroBookmarkArticles = [
     "count": 0
   },
   {
+    "title": "じぶん Release Note (ver 3.1.4)",
+    "url": "https://note.com/samurai_se/n/n065b0c92a77c",
+    "count": 0
+  },
+  {
     "title": "KtorをApp Engineで動かしてみる",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
     "count": 0
@@ -1027,6 +1022,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "KtorをApp Engineで動かしてみる",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/24/002804",
+    "count": 0
+  },
+  {
+    "title": "KtorをCloudRunで動かしてみる",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/003047",
     "count": 0
   },
   {
@@ -1052,6 +1052,11 @@ export const ZeroBookmarkArticles = [
   {
     "title": "じぶん Release Note (ver 3.1.3)",
     "url": "https://note.com/samurai_se/n/n9c128a1df4d6",
+    "count": 0
+  },
+  {
+    "title": "Kotlinで三項演算子・if・whenをどう使い分けるか",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/18/094405",
     "count": 0
   },
   {
@@ -1082,11 +1087,6 @@ export const ZeroBookmarkArticles = [
   {
     "title": "2025年の冬アニメ、何見てる？",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/235728",
-    "count": 0
-  },
-  {
-    "title": "独自ドメインではてなブログを開設することにした",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/09/220553",
     "count": 0
   },
   {

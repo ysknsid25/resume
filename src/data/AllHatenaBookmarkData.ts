@@ -1,15 +1,15 @@
-export const TotalHatenaBookmarkCount = 10012;
+export const TotalHatenaBookmarkCount = 10017;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1683
+    "count": 1685
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1483
+    "count": 1484
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 324
+    "count": 325
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -104,7 +104,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
     "url": "https://zenn.dev/yskn_sid25/books/type-challenges",
-    "count": 140
+    "count": 141
   },
   {
     "title": "LaravelはどのようにCSRF対策をしているのか？",
@@ -342,13 +342,13 @@ export const AllHatenaBookmarkData = [
     "count": 6
   },
   {
-    "title": "Google Bard で試してみたこと 8 選",
-    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
+    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
     "count": 5
   },
   {
-    "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
+    "title": "Google Bard で試してみたこと 8 選",
+    "url": "https://zenn.dev/yskn_sid25/articles/a6cce28a651894",
     "count": 5
   },
   {

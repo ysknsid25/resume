@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10017;
+export const TotalHatenaBookmarkCount = 10021;
 
 export const AllHatenaBookmarkData = [
   {
@@ -9,7 +9,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1484
+    "count": 1485
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -49,7 +49,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "タスクを素早く片付けるための技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-    "count": 261
+    "count": 262
   },
   {
     "title": "落ちてるボールを拾う技術",
@@ -59,7 +59,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 247
+    "count": 248
   },
   {
     "title": "落ちてるボールを拾わせる技術",
@@ -89,7 +89,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
-    "count": 160
+    "count": 161
   },
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -114,17 +114,17 @@ export const AllHatenaBookmarkData = [
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-    "count": 124
-  },
-  {
-    "title": "『ヘルシープログラマ』になるための作業環境",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
-    "count": 116
+    "count": 125
   },
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita",
     "count": 116
+  },
+  {
+    "title": "『ヘルシープログラマ』になるための作業環境",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
+    "count": 115
   },
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
@@ -377,13 +377,13 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
-    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
-    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
+    "title": "React×TypeScriptではじめるVitest",
+    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
   },
   {
-    "title": "React×TypeScriptではじめるVitest",
-    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
+    "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
+    "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
   },
   {
@@ -417,8 +417,23 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
+    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
+    "url": "https://note.com/samurai_se/n/n242cd810459c",
+    "count": 1
+  },
+  {
+    "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
+    "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b",
+    "count": 1
+  },
+  {
     "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
     "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
+    "count": 1
+  },
+  {
+    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
+    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {
@@ -437,28 +452,8 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "Apple Watchを使ってポモドーロテクニックを最大限に活用する",
-    "url": "https://note.com/samurai_se/n/n242cd810459c",
-    "count": 1
-  },
-  {
-    "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
-    "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b",
-    "count": 1
-  },
-  {
     "title": "酒が好きなら神戸に住め",
     "url": "https://note.com/samurai_se/n/nfa432e3fa3a6",
-    "count": 1
-  },
-  {
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
-    "count": 1
-  },
-  {
-    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
     "count": 1
   },
   {
@@ -467,13 +462,18 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
-    "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
+    "title": "『SOFT SKILLS』から得た学び",
+    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
     "count": 1
   },
   {
-    "title": "『SOFT SKILLS』から得た学び",
-    "url": "https://note.com/samurai_se/n/n5b203d6aa419",
+    "title": "GitHub Copilot for Individuals はアンチパターンをどこまでリファクタしてくれるのか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/1632bd54d30524",
+    "count": 1
+  },
+  {
+    "title": "LaravelのFacadeってなんですか？なぜ動くんですか？教えてもらっていいですか？",
+    "url": "https://zenn.dev/yskn_sid25/articles/71a17cf67d6461",
     "count": 1
   },
   {

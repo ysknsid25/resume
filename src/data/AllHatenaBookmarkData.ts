@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10021;
+export const TotalHatenaBookmarkCount = 10020;
 
 export const AllHatenaBookmarkData = [
   {
@@ -54,7 +54,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾う技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/04/175502",
-    "count": 251
+    "count": 250
   },
   {
     "title": "買ってよかったもの(2024年版)",

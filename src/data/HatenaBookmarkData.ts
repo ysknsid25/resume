@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 12729,
+    "sum": 12732,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",

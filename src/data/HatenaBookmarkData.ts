@@ -32,7 +32,7 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 12731,
+    "sum": 12732,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
@@ -52,7 +52,7 @@ export const HatenaBookmarkData = [
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
         "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-        "count": 1484
+        "count": 1485
       },
       {
         "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",

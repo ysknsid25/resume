@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10020;
+export const TotalHatenaBookmarkCount = 10024;
 
 export const AllHatenaBookmarkData = [
   {
@@ -14,7 +14,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
     "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-    "count": 510
+    "count": 512
   },
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
@@ -104,7 +104,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
     "url": "https://zenn.dev/yskn_sid25/books/type-challenges",
-    "count": 141
+    "count": 142
   },
   {
     "title": "LaravelはどのようにCSRF対策をしているのか？",
@@ -154,7 +154,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/01/232748",
-    "count": 51
+    "count": 52
   },
   {
     "title": "GASとChatGPTを組み合わせてZennとQiitaの急上昇記事を紹介するTwitter botを作った",

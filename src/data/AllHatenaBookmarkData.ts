@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10005;
+export const TotalHatenaBookmarkCount = 10003;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1686
+    "count": 1685
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -244,7 +244,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "LaravelのMiddlewareはどのように動いているのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/6bb62cbc02445f",
-    "count": 23
+    "count": 22
   },
   {
     "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",

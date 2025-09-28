@@ -1,15 +1,15 @@
-export const TotalHatenaBookmarkCount = 10016;
+export const TotalHatenaBookmarkCount = 10015;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1692
+    "count": 1693
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1484
+    "count": 1481
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -54,7 +54,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾う技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/04/175502",
-    "count": 253
+    "count": 254
   },
   {
     "title": "買ってよかったもの(2024年版)",

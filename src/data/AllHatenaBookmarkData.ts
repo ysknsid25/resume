@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10015;
+export const TotalHatenaBookmarkCount = 10017;
 
 export const AllHatenaBookmarkData = [
   {
@@ -109,7 +109,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "LaravelはどのようにCSRF対策をしているのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-    "count": 130
+    "count": 131
   },
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
@@ -357,6 +357,11 @@ export const AllHatenaBookmarkData = [
     "count": 3
   },
   {
+    "title": "React×TypeScriptではじめるVitest",
+    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
+    "count": 3
+  },
+  {
     "title": "Laravelを使ったプロジェクトを始めるならLarastanくらいは導入しようよ",
     "url": "https://zenn.dev/yskn_sid25/articles/4a476c4b28f1d6",
     "count": 3
@@ -374,11 +379,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ZodとuseFormStateを使ったNext.js / React Server Actionsにおけるバリデーション",
     "url": "https://zenn.dev/yskn_sid25/articles/59df844b29096d",
-    "count": 2
-  },
-  {
-    "title": "React×TypeScriptではじめるVitest",
-    "url": "https://zenn.dev/yskn_sid25/articles/b79d97a8f921d6",
     "count": 2
   },
   {

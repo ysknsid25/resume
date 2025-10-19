@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10016;
+export const TotalHatenaBookmarkCount = 10014;
 
 export const AllHatenaBookmarkData = [
   {
@@ -19,7 +19,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "count": 488
+    "count": 486
   },
   {
     "title": "2023年に読んでよかった技術書",
@@ -49,7 +49,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "count": 260
+    "count": 261
   },
   {
     "title": "落ちてるボールを拾う技術",
@@ -94,7 +94,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "count": 155
+    "count": 154
   },
   {
     "title": "『Tidy First？』を読んだ",

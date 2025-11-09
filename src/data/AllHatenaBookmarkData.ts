@@ -1,20 +1,20 @@
-export const TotalHatenaBookmarkCount = 10014;
+export const TotalHatenaBookmarkCount = 10013;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1694
+    "count": 1696
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1481
+    "count": 1480
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
     "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-    "count": 513
+    "count": 511
   },
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",

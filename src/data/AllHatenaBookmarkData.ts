@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10011;
+export const TotalHatenaBookmarkCount = 10010;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1696
+    "count": 1695
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -59,7 +59,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 248
+    "count": 247
   },
   {
     "title": "落ちてるボールを拾わせる技術",
@@ -282,13 +282,13 @@ export const AllHatenaBookmarkData = [
     "count": 17
   },
   {
-    "title": "5分で理解するダイクストラ法",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/20/234430",
-    "count": 15
-  },
-  {
     "title": "テストカバレッジが100％でもそれが意味のあるテストかは断言できない　Mutation Testでテストコード自体の検証をしよう",
     "url": "https://logmi.jp/main/technology/330791",
+    "count": 16
+  },
+  {
+    "title": "5分で理解するダイクストラ法",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/20/234430",
     "count": 15
   },
   {

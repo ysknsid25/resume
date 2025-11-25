@@ -32,22 +32,22 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2025",
-    "sum": 12773,
+    "sum": 12770,
     "bookmarkRanking": [
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1695
+        "count": 1694
       },
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1695
+        "count": 1694
       },
       {
         "title": "定期的に何度も読み返している個人的名エントリを置いておく",
         "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-        "count": 1695
+        "count": 1694
       },
       {
         "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",

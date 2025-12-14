@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10007;
+export const TotalHatenaBookmarkCount = 10003;
 
 export const AllHatenaBookmarkData = [
   {
@@ -22,14 +22,14 @@ export const AllHatenaBookmarkData = [
     "count": 485
   },
   {
-    "title": "2023年に読んでよかった技術書",
-    "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
-    "count": 375
-  },
-  {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
     "url": "https://note.com/samurai_se/n/n389f89ad58a3",
     "count": 373
+  },
+  {
+    "title": "2023年に読んでよかった技術書",
+    "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
+    "count": 372
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -59,7 +59,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 247
+    "count": 246
   },
   {
     "title": "落ちてるボールを拾わせる技術",

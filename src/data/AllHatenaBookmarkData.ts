@@ -19,7 +19,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "count": 485
+    "count": 486
   },
   {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
@@ -59,7 +59,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "買ってよかったもの(2024年版)",
     "url": "https://note.com/samurai_se/n/n51f84af1d382",
-    "count": 246
+    "count": 245
   },
   {
     "title": "落ちてるボールを拾わせる技術",
@@ -164,7 +164,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "5分で再入門する npm dependencies",
     "url": "https://blog.inorinrinrin.com/entry/2025/03/29/113355",
-    "count": 50
+    "count": 49
   },
   {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
@@ -382,6 +382,11 @@ export const AllHatenaBookmarkData = [
     "count": 2
   },
   {
+    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
+    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
+    "count": 2
+  },
+  {
     "title": "Next.jsを使ったアプリを作ってOSSリポジトリとして公開したので構成など話す",
     "url": "https://zenn.dev/yskn_sid25/articles/5bfd9987791b0e",
     "count": 2
@@ -429,11 +434,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
     "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
-    "count": 1
-  },
-  {
-    "title": "App Routerにおけるリクエストウォーターフォールとストリーミング",
-    "url": "https://zenn.dev/yskn_sid25/articles/92ed5fd10338ef",
     "count": 1
   },
   {

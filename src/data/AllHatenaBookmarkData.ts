@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10003;
+export const TotalHatenaBookmarkCount = 10017;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1694
+    "count": 1706
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -177,13 +177,13 @@ export const AllHatenaBookmarkData = [
     "count": 44
   },
   {
-    "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
-    "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
-    "count": 40
-  },
-  {
     "title": "Java で学ぶ 代数的データ型",
     "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
+    "count": 41
+  },
+  {
+    "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
+    "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
     "count": 40
   },
   {
@@ -197,13 +197,13 @@ export const AllHatenaBookmarkData = [
     "count": 30
   },
   {
-    "title": "「二分探索の計算量も分からんヤツw」とマウントを取られた時に見るメモ",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/223813",
-    "count": 29
-  },
-  {
     "title": "Kotlinで学ぶ 代数的データ型",
     "url": "https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing",
+    "count": 30
+  },
+  {
+    "title": "「二分探索の計算量も分からんヤツw」とマウントを取られた時に見るメモ",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/223813",
     "count": 29
   },
   {
@@ -477,13 +477,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
-    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
+    "title": "そうだ、神戸へ行こう",
+    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
     "count": 1
   },
   {
-    "title": "そうだ、神戸へ行こう",
-    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
+    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
+    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
     "count": 1
   }
 ];

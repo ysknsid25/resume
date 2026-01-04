@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10017;
+export const TotalHatenaBookmarkCount = 10027;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1706
+    "count": 1717
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -54,7 +54,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾う技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/04/175502",
-    "count": 253
+    "count": 252
   },
   {
     "title": "買ってよかったもの(2024年版)",
@@ -477,13 +477,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "そうだ、神戸へ行こう",
-    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
+    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
+    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
     "count": 1
   },
   {
-    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
-    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
+    "title": "そうだ、神戸へ行こう",
+    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
     "count": 1
   }
 ];

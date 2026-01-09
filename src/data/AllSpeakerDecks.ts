@@ -2496,6 +2496,18 @@ export const AllSpeakerDecks = [
     "url": "https://speakerdeck.com/ysknsid25/type-challengesnixin-siiwen-ti-wozhui-jia-site-type-challengesnomaintainerninatutahua-0fd730df-ec2b-4445-bdc8-e4febe5127b7"
   },
   {
+    "title": "Kotlinで学ぶ 代数的データ型",
+    "url": "https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing"
+  },
+  {
+    "title": "Java で学ぶ 代数的データ型",
+    "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing"
+  },
+  {
+    "title": "Type Challengesに新しい問題を追加して Type ChallengesのMaintainerになった話",
+    "url": "https://speakerdeck.com/ysknsid25/type-challengesnixin-siiwen-ti-wozhui-jia-site-type-challengesnomaintainerninatutahua-0fd730df-ec2b-4445-bdc8-e4febe5127b7"
+  },
+  {
     "title": "Java で学ぶ 代数的データ型",
     "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing"
   },

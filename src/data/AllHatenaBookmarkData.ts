@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10027;
+export const TotalHatenaBookmarkCount = 10020;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1717
+    "count": 1718
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -22,14 +22,14 @@ export const AllHatenaBookmarkData = [
     "count": 486
   },
   {
-    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
-    "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-    "count": 373
-  },
-  {
     "title": "2023年に読んでよかった技術書",
     "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
     "count": 372
+  },
+  {
+    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
+    "url": "https://note.com/samurai_se/n/n389f89ad58a3",
+    "count": 370
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -74,7 +74,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
-    "count": 197
+    "count": 195
   },
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
@@ -99,7 +99,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "count": 152
+    "count": 151
   },
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
@@ -202,11 +202,6 @@ export const AllHatenaBookmarkData = [
     "count": 30
   },
   {
-    "title": "「二分探索の計算量も分からんヤツw」とマウントを取られた時に見るメモ",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/223813",
-    "count": 29
-  },
-  {
     "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
     "count": 28
@@ -215,6 +210,11 @@ export const AllHatenaBookmarkData = [
     "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
     "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
     "count": 28
+  },
+  {
+    "title": "「二分探索の計算量も分からんヤツw」とマウントを取られた時に見るメモ",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/03/223813",
+    "count": 27
   },
   {
     "title": "HonoでFirebase Remote Configを使ってFeature Flagを切り替えてみる",

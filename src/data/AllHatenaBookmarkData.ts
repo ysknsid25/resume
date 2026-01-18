@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10020;
+export const TotalHatenaBookmarkCount = 10019;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1718
+    "count": 1720
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -64,7 +64,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾わせる技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/06/080000",
-    "count": 235
+    "count": 234
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
@@ -74,7 +74,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
-    "count": 195
+    "count": 194
   },
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
@@ -129,7 +129,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita",
-    "count": 114
+    "count": 113
   },
   {
     "title": "[K, U] extends [U, K] ← ナニコレ",

@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10016;
+export const TotalHatenaBookmarkCount = 10015;
 
 export const AllHatenaBookmarkData = [
   {
@@ -99,7 +99,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "count": 151
+    "count": 150
   },
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",

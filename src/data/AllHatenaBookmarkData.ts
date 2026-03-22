@@ -477,13 +477,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
-    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
+    "title": "そうだ、神戸へ行こう",
+    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
     "count": 1
   },
   {
-    "title": "そうだ、神戸へ行こう",
-    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
+    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
+    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
     "count": 1
   }
 ];

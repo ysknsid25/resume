@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10015;
+export const TotalHatenaBookmarkCount = 10014;
 
 export const AllHatenaBookmarkData = [
   {
@@ -9,7 +9,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1473
+    "count": 1472
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -477,13 +477,13 @@ export const AllHatenaBookmarkData = [
     "count": 1
   },
   {
-    "title": "そうだ、神戸へ行こう",
-    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
+    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
+    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
     "count": 1
   },
   {
-    "title": "「ばん・さく・つき・たー！」にならないためにSHIROBAKOから 学んだこと",
-    "url": "https://speakerdeck.com/ysknsid25/bansakutukita-ninaranaitamenishirobakokara-xue-ndakoto",
+    "title": "そうだ、神戸へ行こう",
+    "url": "https://speakerdeck.com/ysknsid25/souda-shen-hu-hexing-kou",
     "count": 1
   }
 ];

@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 10013;
+export const TotalHatenaBookmarkCount = 10000;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1720
+    "count": 1721
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 326
+    "count": 322
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -54,7 +54,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾う技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/04/175502",
-    "count": 252
+    "count": 250
   },
   {
     "title": "買ってよかったもの(2024年版)",
@@ -74,12 +74,12 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
-    "count": 194
+    "count": 195
   },
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-    "count": 171
+    "count": 170
   },
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -89,7 +89,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
-    "count": 159
+    "count": 157
   },
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -114,17 +114,17 @@ export const AllHatenaBookmarkData = [
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-    "count": 125
+    "count": 123
   },
   {
     "title": "『ヘルシープログラマ』になるための作業環境",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
-    "count": 115
+    "count": 114
   },
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
     "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-    "count": 114
+    "count": 113
   },
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
@@ -144,7 +144,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ちいさくはじめるADR",
     "url": "https://toranoana-lab.hatenablog.com/entry/2025/01/20/120000",
-    "count": 61
+    "count": 60
   },
   {
     "title": "<T, K extends keyof T> をちゃんと理解する",
@@ -349,7 +349,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Laravel Sail9から導入されたMailhogの後継Fake SMTP/mailpitを使ってみた",
     "url": "https://zenn.dev/yskn_sid25/articles/6c625c443d33f3",
-    "count": 5
+    "count": 4
   },
   {
     "title": "Vitest UIを使ってみよう！",

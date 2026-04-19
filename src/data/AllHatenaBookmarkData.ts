@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 10000;
+export const TotalHatenaBookmarkCount = 9997;
 
 export const AllHatenaBookmarkData = [
   {
@@ -14,7 +14,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
     "url": "https://zenn.dev/yskn_sid25/articles/ca9658d8642177",
-    "count": 511
+    "count": 510
   },
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
@@ -69,7 +69,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "count": 223
+    "count": 222
   },
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
@@ -239,7 +239,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
     "url": "https://zenn.dev/yskn_sid25/articles/40fef14a1ea98e",
-    "count": 24
+    "count": 23
   },
   {
     "title": "LaravelのMiddlewareはどのように動いているのか？",

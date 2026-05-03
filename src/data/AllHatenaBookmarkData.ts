@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9997;
+export const TotalHatenaBookmarkCount = 9995;
 
 export const AllHatenaBookmarkData = [
   {
@@ -19,7 +19,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Mermaid Graphical Editorを使うとVSCodeでサクサク図が書けるよ",
     "url": "https://zenn.dev/yskn_sid25/articles/67d848f70d7a5b",
-    "count": 487
+    "count": 485
   },
   {
     "title": "2023年に読んでよかった技術書",

@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 9996;
+export const TotalHatenaBookmarkCount = 9997;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1722
+    "count": 1723
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",

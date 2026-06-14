@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9997;
+export const TotalHatenaBookmarkCount = 9991;
 
 export const AllHatenaBookmarkData = [
   {
@@ -22,14 +22,14 @@ export const AllHatenaBookmarkData = [
     "count": 485
   },
   {
-    "title": "2023年に読んでよかった技術書",
-    "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
-    "count": 372
-  },
-  {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
     "url": "https://note.com/samurai_se/n/n389f89ad58a3",
     "count": 370
+  },
+  {
+    "title": "2023年に読んでよかった技術書",
+    "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
+    "count": 369
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -64,12 +64,12 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾わせる技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/06/080000",
-    "count": 234
+    "count": 233
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "count": 222
+    "count": 220
   },
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",

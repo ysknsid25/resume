@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9991;
+export const TotalHatenaBookmarkCount = 9949;
 
 export const AllHatenaBookmarkData = [
   {
@@ -22,14 +22,14 @@ export const AllHatenaBookmarkData = [
     "count": 485
   },
   {
-    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
-    "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-    "count": 370
-  },
-  {
     "title": "2023年に読んでよかった技術書",
     "url": "https://zenn.dev/yskn_sid25/articles/9f24f9c787b257",
     "count": 369
+  },
+  {
+    "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
+    "url": "https://note.com/samurai_se/n/n389f89ad58a3",
+    "count": 368
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -44,7 +44,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "タスクを素早く片付けるための技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-    "count": 262
+    "count": 261
   },
   {
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
@@ -64,7 +64,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "落ちてるボールを拾わせる技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/06/080000",
-    "count": 233
+    "count": 232
   },
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
@@ -84,7 +84,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "count": 170
+    "count": 162
   },
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",
@@ -94,12 +94,12 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
     "url": "https://note.com/samurai_se/n/n0654862f885b",
-    "count": 154
+    "count": 150
   },
   {
     "title": "『Tidy First？』を読んだ",
     "url": "https://note.com/samurai_se/n/necec6ddf20a3",
-    "count": 150
+    "count": 149
   },
   {
     "title": "Re: type-challengesから始めるTypeScript実践演習 初級〜中級編",
@@ -109,7 +109,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "LaravelはどのようにCSRF対策をしているのか？",
     "url": "https://zenn.dev/yskn_sid25/articles/3008cf70c5a560",
-    "count": 131
+    "count": 129
   },
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
@@ -119,7 +119,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ヘルシープログラマ』になるための作業環境",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
-    "count": 114
+    "count": 113
   },
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
@@ -129,12 +129,12 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita",
-    "count": 113
+    "count": 112
   },
   {
     "title": "[K, U] extends [U, K] ← ナニコレ",
     "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
-    "count": 93
+    "count": 92
   },
   {
     "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
@@ -174,7 +174,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
     "url": "https://toranoana-lab.hatenablog.com/entry/2024/07/17/120000",
-    "count": 44
+    "count": 43
   },
   {
     "title": "Java で学ぶ 代数的データ型",
@@ -184,7 +184,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
     "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
-    "count": 40
+    "count": 39
   },
   {
     "title": "セルフプロデュースというワードをポジティブに捉える",
@@ -192,28 +192,28 @@ export const AllHatenaBookmarkData = [
     "count": 33
   },
   {
-    "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
-    "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
-    "count": 30
-  },
-  {
     "title": "Kotlinで学ぶ 代数的データ型",
     "url": "https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing",
     "count": 30
   },
   {
-    "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
-    "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
-    "count": 28
-  },
-  {
-    "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
-    "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
-    "count": 28
+    "title": "テストコード品質を高めるためにJS向けMutation Testingライブラリ・Strykerを実戦導入してみた",
+    "url": "https://zenn.dev/hitocolor/articles/3b6792cc9887df",
+    "count": 29
   },
   {
     "title": "「二分探索の計算量も分からんヤツw」とマウントを取られた時に見るメモ",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/03/223813",
+    "count": 27
+  },
+  {
+    "title": "SQLDelightを使ってKotlinで型安全にSQLを扱う",
+    "url": "https://blog.inorinrinrin.com/entry/2025/01/24/224754",
+    "count": 27
+  },
+  {
+    "title": "Re: type-challengesから始めるTypeScript実践演習 - 初級編",
+    "url": "https://zenn.dev/yskn_sid25/articles/1b0b48d0a15426",
     "count": 27
   },
   {
@@ -222,19 +222,19 @@ export const AllHatenaBookmarkData = [
     "count": 26
   },
   {
-    "title": "統計データで2024年の クラウド・インフラ動向を眺める",
-    "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru",
-    "count": 26
-  },
-  {
     "title": "副業・今日の学びブログ・オフラインLTの3つが合わさって、学習サイクルがぶん回っている",
     "url": "https://kanonon.hatenablog.com/entry/2024/06/15/232851",
     "count": 25
   },
   {
+    "title": "統計データで2024年の クラウド・インフラ動向を眺める",
+    "url": "https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru",
+    "count": 24
+  },
+  {
     "title": "PHP\"オレ\"カンファレンス神戸なるものを開催した",
     "url": "https://note.com/samurai_se/n/n3ad4fd22a003",
-    "count": 24
+    "count": 23
   },
   {
     "title": "TypeScript 5.5からは関数からType predicatesの型推論が有効になるよ！",
@@ -247,23 +247,13 @@ export const AllHatenaBookmarkData = [
     "count": 22
   },
   {
-    "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",
-    "url": "https://blog.inorinrinrin.com/entry/2025/02/26/232548",
-    "count": 21
-  },
-  {
     "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
     "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
     "count": 20
   },
   {
-    "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
-    "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
-    "count": 19
-  },
-  {
-    "title": "PHPカンファレンス小田原2024",
-    "url": "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiao-tian-yuan-2024",
+    "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",
+    "url": "https://blog.inorinrinrin.com/entry/2025/02/26/232548",
     "count": 19
   },
   {
@@ -272,9 +262,14 @@ export const AllHatenaBookmarkData = [
     "count": 18
   },
   {
-    "title": "TSKaigi Kansai 2024の参加(登壇)体験がとってもとっても良かった件",
-    "url": "https://note.com/samurai_se/n/n69c4994fb41a",
-    "count": 17
+    "title": "Google I/O 2024で発表されたFirebase App HostingでNext.jsのSSRを試す",
+    "url": "https://zenn.dev/yskn_sid25/articles/8fa323ea4ad2ad",
+    "count": 18
+  },
+  {
+    "title": "PHPカンファレンス小田原2024",
+    "url": "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiao-tian-yuan-2024",
+    "count": 18
   },
   {
     "title": "Type Challengesに新しい問題を追加して Type ChallengesのMaintainerになった話",
@@ -292,29 +287,34 @@ export const AllHatenaBookmarkData = [
     "count": 15
   },
   {
-    "title": "Google Cloud様主催のハンズオンセミナーに参加してPlatform Engineeringの解像度が128倍上がった話",
-    "url": "https://toranoana-lab.hatenablog.com/entry/2024/11/19/120000",
-    "count": 15
-  },
-  {
     "title": "ロジックの三角形と鳥瞰力を駆使して企画書を書く",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/22/082355",
     "count": 14
   },
   {
-    "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
-    "url": "https://note.com/samurai_se/n/nc0b406a83363",
+    "title": "TSKaigi Kansai 2024の参加(登壇)体験がとってもとっても良かった件",
+    "url": "https://note.com/samurai_se/n/n69c4994fb41a",
     "count": 14
   },
   {
-    "title": "Zod v4 で破壊的変更が入りそうな件",
-    "url": "https://blog.inorinrinrin.com/entry/2025/04/09/103142",
-    "count": 12
+    "title": "PHPカンファレンス小田原2024に(登壇)参加レポ",
+    "url": "https://note.com/samurai_se/n/nc0b406a83363",
+    "count": 13
+  },
+  {
+    "title": "Google Cloud様主催のハンズオンセミナーに参加してPlatform Engineeringの解像度が128倍上がった話",
+    "url": "https://toranoana-lab.hatenablog.com/entry/2024/11/19/120000",
+    "count": 13
   },
   {
     "title": "令和版ソフトウェアエンジニアの情報収集術 PHPカンファレンス香川2024",
     "url": "https://speakerdeck.com/ysknsid25/phpkanhuarensuxiang-chuan",
     "count": 12
+  },
+  {
+    "title": "Zod v4 で破壊的変更が入りそうな件",
+    "url": "https://blog.inorinrinrin.com/entry/2025/04/09/103142",
+    "count": 11
   },
   {
     "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
@@ -429,11 +429,6 @@ export const AllHatenaBookmarkData = [
   {
     "title": "初登壇を目指す人向けに、カンファレンスにプロポーザルを通すためのコツ的なものを",
     "url": "https://note.com/samurai_se/n/n8d5b52f1ee8b",
-    "count": 1
-  },
-  {
-    "title": "Nest.jsにおいて、import順をPrettierで常に同じルールで並ぶようにする",
-    "url": "https://zenn.dev/yskn_sid25/articles/4ea9bc0ad94c93",
     "count": 1
   },
   {

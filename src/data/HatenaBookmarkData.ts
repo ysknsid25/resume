@@ -63,12 +63,12 @@ export const HatenaBookmarkData = [
   },
   {
     "year": "2026",
-    "sum": 88,
+    "sum": 87,
     "bookmarkRanking": [
       {
         "title": "Java で学ぶ 代数的データ型",
         "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
-        "count": 41
+        "count": 40
       },
       {
         "title": "Kotlinで学ぶ 代数的データ型",

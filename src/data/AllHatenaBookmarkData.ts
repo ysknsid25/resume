@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9949;
+export const TotalHatenaBookmarkCount = 9947;
 
 export const AllHatenaBookmarkData = [
   {
@@ -49,7 +49,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "count": 261
+    "count": 260
   },
   {
     "title": "落ちてるボールを拾う技術",
@@ -179,7 +179,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Java で学ぶ 代数的データ型",
     "url": "https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing",
-    "count": 41
+    "count": 40
   },
   {
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",

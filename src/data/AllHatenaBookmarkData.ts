@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 9947;
+export const TotalHatenaBookmarkCount = 9939;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1723
+    "count": 1722
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 322
+    "count": 321
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -79,7 +79,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/15/174155",
-    "count": 170
+    "count": 169
   },
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
@@ -124,7 +124,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",
     "url": "https://zenn.dev/yskn_sid25/articles/caf5d26ae8a743",
-    "count": 113
+    "count": 112
   },
   {
     "title": "テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話",
@@ -134,7 +134,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "[K, U] extends [U, K] ← ナニコレ",
     "url": "https://zenn.dev/yskn_sid25/articles/87c5cde1be86b6",
-    "count": 92
+    "count": 91
   },
   {
     "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
@@ -174,7 +174,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
     "url": "https://toranoana-lab.hatenablog.com/entry/2024/07/17/120000",
-    "count": 43
+    "count": 42
   },
   {
     "title": "Java で学ぶ 代数的データ型",
@@ -184,7 +184,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Vitest公式になったeslint-plugin-vitestを導入して、適切なVitestのお作法を学んでみる",
     "url": "https://zenn.dev/yskn_sid25/articles/8ff70404804f60",
-    "count": 39
+    "count": 38
   },
   {
     "title": "セルフプロデュースというワードをポジティブに捉える",
@@ -317,13 +317,13 @@ export const AllHatenaBookmarkData = [
     "count": 11
   },
   {
-    "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
-    "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
-    "count": 11
-  },
-  {
     "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
     "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
+    "count": 10
+  },
+  {
+    "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
+    "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
     "count": 10
   },
   {

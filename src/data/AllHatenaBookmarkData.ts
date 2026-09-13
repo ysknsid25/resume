@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9938;
+export const TotalHatenaBookmarkCount = 9933;
 
 export const AllHatenaBookmarkData = [
   {
@@ -74,7 +74,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
     "url": "https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume",
-    "count": 195
+    "count": 194
   },
   {
     "title": "自分が会議を主催するときに守ってる4つのPについて書く",
@@ -169,7 +169,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド",
     "url": "https://logmi.jp/main/technology/330790",
-    "count": 49
+    "count": 46
   },
   {
     "title": "日々の進歩をふりかえるために『今日の学びブログ』を続けている話",
@@ -247,13 +247,13 @@ export const AllHatenaBookmarkData = [
     "count": 22
   },
   {
-    "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
-    "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
-    "count": 20
-  },
-  {
     "title": "UnJS製のライブラリ・cittyを使ってNode.jsでさくっとCLIを作る",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/26/232548",
+    "count": 19
+  },
+  {
+    "title": "Google I/O 2024で発表されたFirebase Data ConnectをVSCodeのエミュレーターで試してみた",
+    "url": "https://zenn.dev/yskn_sid25/articles/edc3543ba727db",
     "count": 19
   },
   {

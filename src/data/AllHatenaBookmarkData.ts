@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9933;
+export const TotalHatenaBookmarkCount = 9928;
 
 export const AllHatenaBookmarkData = [
   {
@@ -9,7 +9,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1471
+    "count": 1470
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -34,7 +34,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/13/075841",
-    "count": 321
+    "count": 318
   },
   {
     "title": "Reactを使うならReact Developer Toolsの再レンダリング時ハイライトくらい設定してくれ",
@@ -119,7 +119,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『ヘルシープログラマ』になるための作業環境",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/23/001033",
-    "count": 113
+    "count": 112
   },
   {
     "title": "hadolintを使ってDockerfileをベストプラクティスに沿った状態に保つ",

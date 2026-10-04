@@ -1,10 +1,10 @@
-export const TotalHatenaBookmarkCount = 9928;
+export const TotalHatenaBookmarkCount = 9924;
 
 export const AllHatenaBookmarkData = [
   {
     "title": "定期的に何度も読み返している個人的名エントリを置いておく",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/25/101859",
-    "count": 1722
+    "count": 1721
   },
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
@@ -29,7 +29,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "ソフトウェアエンジニアの自分にとって、メンタル面でのバイブルYoutube動画を紹介してみる",
     "url": "https://note.com/samurai_se/n/n389f89ad58a3",
-    "count": 368
+    "count": 367
   },
   {
     "title": "『現場のPython』を読んでPythonでWeb Appを作るために必要なものが大体わかった気になった",
@@ -139,7 +139,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "Dockerfileを自前で書かずにCloud Runを動かす技術",
     "url": "https://zenn.dev/yskn_sid25/articles/e5a727248849d1",
-    "count": 87
+    "count": 86
   },
   {
     "title": "ちいさくはじめるADR",
@@ -317,14 +317,14 @@ export const AllHatenaBookmarkData = [
     "count": 11
   },
   {
-    "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
-    "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
-    "count": 10
-  },
-  {
     "title": "eslint-plugin-unicornでファイル名のケーススタイルを統一する",
     "url": "https://zenn.dev/yskn_sid25/articles/c309f804fde5a5",
     "count": 10
+  },
+  {
+    "title": "『Osyaburi』というconnpass用のchrome拡張機能をリリースした",
+    "url": "https://zenn.dev/yskn_sid25/articles/8a19f36bbcc9143",
+    "count": 9
   },
   {
     "title": "今更ながらGit rebaseの挙動をちゃんと理解して使えるようになる試み",

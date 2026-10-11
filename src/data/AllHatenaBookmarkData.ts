@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9924;
+export const TotalHatenaBookmarkCount = 9925;
 
 export const AllHatenaBookmarkData = [
   {
@@ -84,7 +84,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "シャトルシェフを買ってみたら理想のカレーが出来た",
     "url": "https://note.com/samurai_se/n/n89d8f4ed006f",
-    "count": 162
+    "count": 163
   },
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",

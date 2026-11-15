@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9924;
+export const TotalHatenaBookmarkCount = 9918;
 
 export const AllHatenaBookmarkData = [
   {
@@ -9,7 +9,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "生まれてこのかた神戸民のワイが教える本当の神戸観光ガイド",
     "url": "https://note.com/samurai_se/n/ncf83a3c6dc5a",
-    "count": 1470
+    "count": 1468
   },
   {
     "title": "勉強法について考え続けた自分が行き着いた『アジャイル勉強法』というひとつの答え",
@@ -44,12 +44,12 @@ export const AllHatenaBookmarkData = [
   {
     "title": "タスクを素早く片付けるための技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-    "count": 261
+    "count": 260
   },
   {
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
     "url": "https://qiita.com/ysknsid25/items/86fa54eca58edefe156d",
-    "count": 260
+    "count": 259
   },
   {
     "title": "落ちてるボールを拾う技術",
@@ -114,7 +114,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "単巻完結するおすすめのラノベ青春小説を紹介する",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/11/171325",
-    "count": 123
+    "count": 121
   },
   {
     "title": "『ヘルシープログラマ』になるための作業環境",

@@ -1,4 +1,4 @@
-export const TotalHatenaBookmarkCount = 9918;
+export const TotalHatenaBookmarkCount = 9912;
 
 export const AllHatenaBookmarkData = [
   {
@@ -44,7 +44,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "タスクを素早く片付けるための技術",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/30/192219",
-    "count": 260
+    "count": 259
   },
   {
     "title": "Postmanを使い始めた時に知っておきたかった地味に便利な機能10選",
@@ -69,7 +69,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "プログラミングの生産性向上のためにお金をかけてよかったもの10選",
     "url": "https://qiita.com/ysknsid25/items/b2584f6f597e21651534",
-    "count": 220
+    "count": 218
   },
   {
     "title": "テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜",
@@ -89,7 +89,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "『世界で一番やさしい考え方の教科書』を読んだ",
     "url": "https://blog.inorinrinrin.com/entry/2025/01/12/183324",
-    "count": 157
+    "count": 156
   },
   {
     "title": "『ダークパターン 人を欺くデザインの手口と対策』を読んだ",
@@ -149,7 +149,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "<T, K extends keyof T> をちゃんと理解する",
     "url": "https://zenn.dev/yskn_sid25/articles/da0547f3128308",
-    "count": 57
+    "count": 56
   },
   {
     "title": "ShellCheckとGitHub Actionsでシェルスクリプトのセキュリティリスクを減らす",
@@ -189,7 +189,7 @@ export const AllHatenaBookmarkData = [
   {
     "title": "セルフプロデュースというワードをポジティブに捉える",
     "url": "https://blog.inorinrinrin.com/entry/2025/02/13/081200",
-    "count": 33
+    "count": 32
   },
   {
     "title": "Kotlinで学ぶ 代数的データ型",
